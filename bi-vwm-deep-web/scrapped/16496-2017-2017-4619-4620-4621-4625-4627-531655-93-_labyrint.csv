@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n580401003,Příběhy věcí - 100 artefaktů za posledních 100 let - Nováková Petra,97,1,2017,256,Labyrint,naučná,české</p>,,"Vizuální encyklopedie, která prostřednictvím 100 artefaktů vypráví konkrétní historii naší země. Svižně psané esejistické texty přinášejí nejen faktografické údaje o dané věci...",390,590,"['Labyrint, naučná', '', 'české']"

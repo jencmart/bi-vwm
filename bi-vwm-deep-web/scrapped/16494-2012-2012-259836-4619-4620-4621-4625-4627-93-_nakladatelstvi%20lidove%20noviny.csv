@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n45833399,Pod cypřišem se sklenkou ouza - Pavla Smetanová,93,10,2012,136,Nakladatelství Lidové noviny,beletrie,české</p>,,"Pod cypřišem se sklenkou ouza je další kniha, kterou napsala Pavla Smetanová.
+
+ Po úspěchu knih Příběhy z olivového ostrova a Korfu bez průvodce nás znovu svým netradičním...",101,159,"['Nakladatelství Lidové noviny, beletrie', '', 'české']"
+n53881812,Ten den. Román jedné noci - Angelika Overath,0,0,2012,112,Nakladatelství Lidové noviny,beletrie,české</p>,,"Ten den kniha od autora Angelika Overath. Kniha líčí hluboce osobní prožitek smrti, kterým prochází hlavní protagonistka, Němka Johanna, jejíž matka pocházela z Československa...",104,149,"['Nakladatelství Lidové noviny, beletrie', '', 'české']"

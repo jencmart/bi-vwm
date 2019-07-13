@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n132963738,Marc Chagall,80,1,2013,96,Slovart,beletrie,české</p>,,"Běloruský malíř Marc Chagall (1887–1985) je všeobecně považován za ztělesnění „malíře coby básníka"". Světová proslulost, kterou si vydobyl, nemá obdoby u žádného jiného malíře...",194,299,"['Slovart, beletrie', '', 'české']"
+n96476681,Happy Hour - Jiří Slíva,0,0,2013,112,Slovart,beletrie,české</p>,,"Nová knížka inteligentního humoru Jiřího Slívy „Šťastná hodinka“ pobaví a naladí k návštěvě kavárny, čajovny, vinárny nebo třeba jen k zamyšlení nad sklenkou lahodného moku....",194,299,"['Slovart, beletrie', '', 'české']"

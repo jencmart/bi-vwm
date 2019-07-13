@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n106932432,Vyhnání z pekla,0,0,2013,408,Academia,beletrie,české</p>,,"Román je postaven na dvou základních nosných příbězích, jednak na osudech portugalského židovského chlapce Maného ze 17. století v době tuhé inkvizice, pozdějšího rabbiho...",225,550,"['Academia, beletrie', '', 'české']"
+n104174047,Nobelovy ceny a biologické vědy,0,0,2013,360,Academia,beletrie,české</p>,,"Nobelovy ceny udělované v oblasti přírodních věd patří k nejvyšším oceněním vědeckých úspěchů. Tato kniha přináší přehled jejich nositelů, zejména z oborů biologických věd, tj....",289,450,"['Academia, beletrie', '', 'české']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n318320315,Nadšení pro lásku - Richard Rohr,95,1,2015,228,Cesta,naučná,české</p>,,"Třetí cesta Františka z Assisi.
+	Všimli jste si, že František z Assisi, na rozdíl od svatých učitelů církve, na obrazech většinou nedrží knihu? Že nedrží kostel ani řeholi jako...",161,235,"['Cesta, naučná', '', 'české']"

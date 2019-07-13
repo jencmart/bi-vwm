@@ -1,0 +1,6 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n657904885,Jane Eyrová - Světová četba pro školáky,0,0,2018,70,,beletrie,,,"Jana Eyrová je sirotek, která pobývá u své tety Reedové. Přijde čas, kdy se musí přesunout do internátní školy.
+
+Tam ji nečeká vlídný přístup, nýbrž velmi přísná pravidla,...",88,139,"['Sun, beletrie', '', 'české, Brontëová, Charlotte']"
+n610837122,Staré pověsti české - neuveden,100,1,2018,109,Sun,beletrie,Alexandra Niklíčková</p>,,"Vydejte se s námi do časů minulých, o nichž vyprávějí následující krásné pověsti. Dozvíte se, o tom, odkud a kam přišli staří Čechové, proč kněžna Libuše musela rozsoudit...",64,99,"['Sun, beletrie', '', 'české, Alexandra Niklíčková']"
+n592098369,Staré pověsti české,0,0,2018,112,Sun,beletrie,Nakladatelství SUN</p>,,"Vydejte se s námi do časů, kdy praotec Čech poprvé stanul na hoře Říp, kdy kněžna Libuše vyřkla svá proroctví a kdy se rodily samotné dějiny. Zažijte dobrodružství spolu s...",70,91,"['Sun, beletrie', '', 'české, Nakladatelství SUN']"

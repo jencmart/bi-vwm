@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n362860184,Vendéeské války - Šťovíček Michal,95,1,2013,440,Akcent,naučná,české</p>,,"Válka ve Vendée v západní Francii je u nás známá z historických románů V. Huga Devadesát tři a H. de Balzaca Šuani. Jednalo se ve skutečnosti o krvavou občanskou válku, kterou...",220,339,"['Akcent, naučná', '', 'české']"
+n86721977,Dějiny české státnosti Jan Drdek,90,1,2013,352,Akcent,naučná,české</p>,,"Dějiny české státnosti pro konzervativce a legitimisty kniha od autora Drnek Jan. Jsou strhujícím, takřka didaktickým příběhem vztahu Čechů k vlastnímu kmenovému a státnímu...",189,299,"['Akcent, naučná', '', 'české']"

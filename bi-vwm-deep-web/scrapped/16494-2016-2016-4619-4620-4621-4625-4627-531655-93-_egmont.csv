@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n465354221,Coder Dojo (nano) - Tvořte kody – Hatter Clyde,0,0,2016,96,Egmont,naučná,české</p>,,"Navrhněte si vlastní webovou stránku. Nápady + kamarádi + programování = Nanodojo.
+Tato kniha je o psaní kódů. Naučíte se postupně, krok za krokem vytvářet svou vlastní webovou...",99,225,"['Egmont, naučná', '', 'české']"

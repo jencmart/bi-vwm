@@ -1,0 +1,409 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n20974665,Já a ty - Martin Buber,96,7,2005,166,Kalich,esoterika,Martin Buber,české,"Po dvou významných knihách (Problém člověka a Chasidská vyprávění) vychází v Kalichu další dílo tohoto vynikajícího židovského myslitele, pro pochopení Buberova myšlení...",59,144,"['esoterika', '', 'Kalich, Martin Buber, české']"
+n455957438,Adventní čas - Dagmar Šottnerová,87,2,2005,120,,dětské,Šottnerová Dagmar,české,"Formát: A4
+Počet stran: 120
+Vazba: brožovaná
+V knize naleznete: Časové zařazení, charakteristiku období, pověry, legendy, pranostiky, lidové zvyky, tradice a jejich původ, a...",98,159,"['dětské', '', 'Šottnerová Dagmar, české']"
+n367915,Udírny a uzení -- maso - masné výrobky - ryby - Binder Egon,92,16,2005,112,Grada,kuchařky,Egon Binder,české,"Uzení je tradiční a oblíbený postup zpracování masa. V naší knize najdete informace nejen o druzích, možnostech a využití domácích udíren, ale i o správných postupech uzení....",110,139,"['kuchařky', '', 'Grada, Egon Binder, české']"
+n402248388,"Josef Lada, Lidová říkadla-leporelo",87,3,2005,12,,dětské,Josef Lada,české,"Známá říkadla nejen pro nejmenší.
+
+Kočka leze dírou, pes oknem...
+Jedna dvě, Honza jde, nese pytel mouky...
+Havel, Havel, do pekla zajel...
+Foukej, foukej, větříčku, shoď mi...",68,119,"['dětské', '', 'Josef Lada, české']"
+n435048,Muklovský Vatikán - Ondok Josef Petr,85,1,2005,136,,esoterika,Josef Petr Ondok,české,"V knize Muklovský Vatikán vzpomíná českobudějovický kněz, filozof a přírodovědec Josef Petr Ondok (1926–2003) na dvanáct let strávených v komunistických vězeních, kam se dostal...",165,198,"['esoterika', '', 'Josef Petr Ondok, české']"
+n627163405,Jordánová Zdeňka - Souvislosti,95,1,2005,94,,esoterika,Jordánová Zdeňka,české,"Popis
+
+Ing. Zdeňka Jordánová miluje příběhy, protože jí pomáhají poznávat souvislosti. Příběhy vyřešené i nevyřešené, neboť vesmírné zákonitosti v nich určují pravidla hry pro...",96,224,"['esoterika', '', 'Jordánová Zdeňka, české']"
+n88745073,Zima,91,5,2005,120,Computer Press,dětské,Dagmar Šottnerová,české,"Materiály v knize jsou systematicky uspořádány tak, aby se s nimi dobře pracovalo. Mimo jiné zde najdete informace o vzniku tradic, pranostiky, hádanky, básničky, pohádky,...",107,159,"['dětské', '', 'Computer Press, Dagmar Šottnerová, české']"
+n459934418,Aztékové - Markéta Křížová,0,0,2005,128,Skřivan Aleš ml.,cestopisy,Markéta Křížová,české,"Aztékové byli poslední z velkých indiánských civilizací Mexika a byli zároveň první z vyspělých indiánských kultur, s nimiž se setkali a kterou si podrobili evropští...",68,99,"['cestopisy', '', 'Skřivan Aleš ml., Markéta Křížová, české']"
+n537566,"Krtek a sněhulák - Zdeněk Miler, Hana Doskočilová",88,7,2005,36,Albatros,dětské,Hana Doskočilová,české,"Vyprávění o tom, jak malý Krtek zachrání na jaře svého kamaráda sněhuláka před rozpuštěním. Sluníčko už si na něj totiž brousí zoubky! Krtek sněhuláka vyveze lanovkou na...",122,179,"['dětské', '', 'Albatros, Hana Doskočilová, české']"
+n228684941,Noha k noze,0,0,2005,128,Labyrint,dětské,Dezider Tóth,české,"Noha k noze - jedna z prvních konceptuálních knih pro děti. Pohádky, akce, fotozáznamy a interaktivní hry pro děti a jejich rodiče. Stopařův průvodce po lidech, zvířatech,...",86,99,"['dětské', '', 'Labyrint, Dezider Tóth, české']"
+n362874414,Jasmuheen: Božská výživa Kniha,60,1,2005,146,Eugenika,esoterika,Jasmuheen,české,"Jasmuheen/ Eugenika, brožovaná, 145 stran.
+Druhá část neuvěřitelné publikace o tom, že lidé nepotřebují k životu jídlo. Zdá se vám to absurdní, směšné nebo šílené? Zkuste se...",122,198,"['esoterika', '', 'Eugenika, Jasmuheen, české']"
+n435395,Tobě -- aneb pomoc stále při ruce - Hrabica Miroslav,100,2,2005,144,Hrabica Miroslav Ing.,esoterika,Hrabica Miroslav,české,"Tobě, neboť opravdu hledáš a k obrození sama sebe se obracíš. Tobě, protože o pomoc vzhůru nejen úpřimně voláš, ale také za ni Bohu děkuješ. Tobě, abys objevil poznání v tiché...",64,99,"['esoterika', '', 'Hrabica Miroslav Ing., Hrabica Miroslav, české']"
+n37086370,Rút,0,0,2005,132,,esoterika,Francine Riversová,slovenské,"V poradí tretia z edície Výnimočné biblické ženy. Ďalšia žena v Ježišovom rodokmeni a jej príbeh. Stačí sa začítať.Príbehy piatich žien, vybraných samotným Bohom, aby hrali...",138,164,"['esoterika', '', 'Francine Riversová, slovenské']"
+n376351,Tibet -- Tajemství červené krabičky - Petr Sís,96,4,2005,60,Labyrint,dětské,Petr Sís,české,"V0092830
+Po otevření červené krabičky najde Petr Sís deník, který si jeho otec psal, když v polovině padesátých let minulého století zůstal ztracen v Tibetu. Obrací křehké...",228,349,"['dětské', '', 'Labyrint, Petr Sís, české']"
+n24370157,Kufřík říkanek,88,5,2005,0,Junior,dětské,Vladimíra Vopičková,české,"Čtyři malá leporela v papírovém kufříku: 
+
+Pec nám spadla
+
+Vařila myšička kašičku
+
+Kolo, kolo mlýnský
+
+Šnečku, šnečku, vystrč růžky
+
+Autor: Vladimíra Vopičková
+Edice: Moje...",92,149,"['dětské', '', 'Junior, Vladimíra Vopičková, české']"
+n468781629,Cínový vojáček,0,0,2005,12,,dětské,Ottovo nakladatelstvo,české,"Klasická pohádka s půvabnými ilustracemi ve formě jednoduchých puzzlí.
+
+Podtitul: Pohádka s puzzle
+Rok vydání­: 2005
+Vazba: Pevná bez přebalu lesklá
+ISBN: 80-7360-200-8
+Počet...",70,179,"['dětské', '', 'Ottovo nakladatelstvo, české']"
+n455316017,"Mami,tati, chci být rybářem - Hoňková Iva",100,1,2005,84,,dětské,Iva Hoňková,české,"Iva Hoňková je autorka krásné dětské knihy pro začínající rybáře s názvem Mami, tati, chci být rybářem.
+ V naší republice má rybářství svou dlouholetou tradici. V poslední době...",108,168,"['dětské', '', 'Iva Hoňková, české']"
+n25647759,Návrat ke Stromu života - Marek Orko Vácha,100,3,2005,168,Cesta,esoterika,Marek Orko Vácha,české,"Evoluce a křesťanství
+Mezi sedmi dny stvoření první kapitoly Geneze a vznikem vesmíru Velkým třeskem se zdá být neřešitelný rozpor. Evoluční myšlenka a nauka bible, příběh...",139,199,"['esoterika', '', 'Cesta, Marek Orko Vácha, české']"
+n367613,"Šumavská kuchařka Rožnovský, František; Doležal, Vladimír; Tripes, Oldřich",90,2,2005,128,,kuchařky,František Rožnovský,české,"Autor dlouhá léta pracoval na Šumavě v oblasti gastronomických služeb. Ve své kuchařce nabízí tradiční i nové recepty, které vznikly v kuchyni jeho i jeho přátel, myslivců,...",84,125,"['kuchařky', '', 'František Rožnovský, české']"
+n156188646,Bára a Flíček mají prázdniny Můj pohádkový slabikář Eva Bešťáková,100,1,2005,80,Junior,dětské,Eva Bešťáková,české,"V0090706
+Ahoj! Jmenuji se Flíček a jsem Bářin kamarád. Ale ty už mě znáš, vid'? Jenže já už nejsem to malinké, nešikovné a hloupoučké štěňátko. Vyrostl jsem a jsem ten...",88,179,"['dětské', '', 'Junior, Eva Bešťáková, české']"
+n372470,Sýry -- Ottova kuchařka,83,4,2005,40,,kuchařky,Ottovo nakladatelstvo,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky. Zásady správného pečení, vaření i přípravy studených pochoutek. Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, české']"
+n20970175,Tarot andělů světla - Karty a kniha - Rebecca Bachstein,0,0,2005,155,Fontána,esoterika,Rebecca Bachstein,české,Tento tarot andělů světla spojuje energie andělů s moudrostí tarotu. Tarot andělů světla spojuje energie andělů a archandělů s moudrostí tarotu. V rámci této hluboké symboliky...,218,328,"['esoterika', '', 'Fontána, Rebecca Bachstein, české']"
+n51153077,Ciao sexu,97,1,2005,128,Eminent,esoterika,Benjamin Kuras,české,"Přestaňte doufat, že ti vaši mužští někdy mentálně a emočně dorostou do takové dospělosti, že jim budete moci svoje potřeby vysvětlit tak, aby jim dávaly smysl. Muži přecházejí...",153,229,"['esoterika', '', 'Eminent, Benjamin Kuras, české']"
+n454360913,Jak to chodí na statku - Dana Winklerová,100,1,2005,10,Junior,dětské,Dana Winklerová,české,Co pěstují babička a děda na poli za statkem? Jaké stroje jim pomáhají? Která zvířata mají ve chlévě? Která z nich nesnášejí vajíčka? Všechno dětem názorně ukáže obrázkové...,80,129,"['dětské', '', 'Junior, Dana Winklerová, české']"
+n459941828,Karmické kódy,0,0,2005,152,Fontána,esoterika,Chumi Kut,české,"V životě každého člověka se objevují situace a události, které nutně vedou k otázce “proč”. Tato kniha nabízí nejen teoretické vysvětlení reinkarnace, karmy a karmických kódů,...",121,188,"['esoterika', '', 'Fontána, Chumi Kut, české']"
+n24806042,Energie míst Helena Rerichová,0,0,2005,152,Eugenika,esoterika,Helena Rerichová,české,"Helena Rerichová/ Eugenika, brožovaná, 151 stran.
+
+Energie lidského mikrokosmu a energie Země jsou propojeny
+Nové věci by měli vždy začínat na novém místě
+Každý dům, byt,...",124,188,"['esoterika', '', 'Eugenika, Helena Rerichová, české']"
+n2008792,Od utrpení k blaženosti -- Jak si ztěžujeme život a jak si ho můžeme usnadnit. O blaženosti procitnutí - Schneider Petra,0,0,2005,164,,esoterika,Petra Schneider,české,"Být permanentně šťastný. Je to možné? Co je utrpení, co je osvícení? Jaké máme k dispozici techniky, cviky a nástroje k dosažení životního štěstí? Tato příručka nabízí výstižné...",133,166,"['esoterika', '', 'Petra Schneider, české']"
+n2161763,"Atlas prezidentských voleb USA 1904-2004 Karas Petr, Kupka Karel",80,0,2005,36,Petr Karas,cestopisy,Karel Kupka,české,"Publikace formou map, grafů, tabulek a textu seznamuje čtenáře s průběhem voleb v USA za posledních 100 let. Ve své úvodní části vysvětluje postavení amerického prezidenta a...",48,56,"['cestopisy', '', 'Petr Karas, Karel Kupka, české']"
+n20970902,Čokoláda,68,2,2005,40,Ottovo nakladatelstvo,kuchařky,Kolektiv autorů,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky
+Zásady správného pečení, vaření i přípravy studených pochoutek
+Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, Kolektiv autorů, české']"
+n51138093,Zvířata v lese Veverka,0,0,2005,6,Sun,dětské,kol,české,"Zvířata v lese - Veverka se samolepkami kniha od autora kolektiv. Věci, které nás obklopují, můžou mít ve fantazii dětí nejroztodivnější tvary. Ve čtyřech knihách této kolekce...",37,37,"['dětské', '', 'Sun, kol, české']"
+n20974665,Já a ty - Martin Buber,96,7,2005,166,Kalich,esoterika,Martin Buber,české,"Po dvou významných knihách (Problém člověka a Chasidská vyprávění) vychází v Kalichu další dílo tohoto vynikajícího židovského myslitele, pro pochopení Buberova myšlení...",59,144,"['esoterika', '', 'Kalich, Martin Buber, české']"
+n455957438,Adventní čas - Dagmar Šottnerová,87,2,2005,120,,dětské,Šottnerová Dagmar,české,"Formát: A4
+Počet stran: 120
+Vazba: brožovaná
+V knize naleznete: Časové zařazení, charakteristiku období, pověry, legendy, pranostiky, lidové zvyky, tradice a jejich původ, a...",98,159,"['dětské', '', 'Šottnerová Dagmar, české']"
+n367915,Udírny a uzení -- maso - masné výrobky - ryby - Binder Egon,92,16,2005,112,Grada,kuchařky,Egon Binder,české,"Uzení je tradiční a oblíbený postup zpracování masa. V naší knize najdete informace nejen o druzích, možnostech a využití domácích udíren, ale i o správných postupech uzení....",110,139,"['kuchařky', '', 'Grada, Egon Binder, české']"
+n402248388,"Josef Lada, Lidová říkadla-leporelo",87,3,2005,12,,dětské,Josef Lada,české,"Známá říkadla nejen pro nejmenší.
+
+Kočka leze dírou, pes oknem...
+Jedna dvě, Honza jde, nese pytel mouky...
+Havel, Havel, do pekla zajel...
+Foukej, foukej, větříčku, shoď mi...",68,119,"['dětské', '', 'Josef Lada, české']"
+n435048,Muklovský Vatikán - Ondok Josef Petr,85,1,2005,136,,esoterika,Josef Petr Ondok,české,"V knize Muklovský Vatikán vzpomíná českobudějovický kněz, filozof a přírodovědec Josef Petr Ondok (1926–2003) na dvanáct let strávených v komunistických vězeních, kam se dostal...",165,198,"['esoterika', '', 'Josef Petr Ondok, české']"
+n627163405,Jordánová Zdeňka - Souvislosti,95,1,2005,94,,esoterika,Jordánová Zdeňka,české,"Popis
+
+Ing. Zdeňka Jordánová miluje příběhy, protože jí pomáhají poznávat souvislosti. Příběhy vyřešené i nevyřešené, neboť vesmírné zákonitosti v nich určují pravidla hry pro...",96,224,"['esoterika', '', 'Jordánová Zdeňka, české']"
+n88745073,Zima,91,5,2005,120,Computer Press,dětské,Dagmar Šottnerová,české,"Materiály v knize jsou systematicky uspořádány tak, aby se s nimi dobře pracovalo. Mimo jiné zde najdete informace o vzniku tradic, pranostiky, hádanky, básničky, pohádky,...",107,159,"['dětské', '', 'Computer Press, Dagmar Šottnerová, české']"
+n459934418,Aztékové - Markéta Křížová,0,0,2005,128,Skřivan Aleš ml.,cestopisy,Markéta Křížová,české,"Aztékové byli poslední z velkých indiánských civilizací Mexika a byli zároveň první z vyspělých indiánských kultur, s nimiž se setkali a kterou si podrobili evropští...",68,99,"['cestopisy', '', 'Skřivan Aleš ml., Markéta Křížová, české']"
+n537566,"Krtek a sněhulák - Zdeněk Miler, Hana Doskočilová",88,7,2005,36,Albatros,dětské,Hana Doskočilová,české,"Vyprávění o tom, jak malý Krtek zachrání na jaře svého kamaráda sněhuláka před rozpuštěním. Sluníčko už si na něj totiž brousí zoubky! Krtek sněhuláka vyveze lanovkou na...",122,179,"['dětské', '', 'Albatros, Hana Doskočilová, české']"
+n228684941,Noha k noze,0,0,2005,128,Labyrint,dětské,Dezider Tóth,české,"Noha k noze - jedna z prvních konceptuálních knih pro děti. Pohádky, akce, fotozáznamy a interaktivní hry pro děti a jejich rodiče. Stopařův průvodce po lidech, zvířatech,...",86,99,"['dětské', '', 'Labyrint, Dezider Tóth, české']"
+n362874414,Jasmuheen: Božská výživa Kniha,60,1,2005,146,Eugenika,esoterika,Jasmuheen,české,"Jasmuheen/ Eugenika, brožovaná, 145 stran.
+Druhá část neuvěřitelné publikace o tom, že lidé nepotřebují k životu jídlo. Zdá se vám to absurdní, směšné nebo šílené? Zkuste se...",122,198,"['esoterika', '', 'Eugenika, Jasmuheen, české']"
+n435395,Tobě -- aneb pomoc stále při ruce - Hrabica Miroslav,100,2,2005,144,Hrabica Miroslav Ing.,esoterika,Hrabica Miroslav,české,"Tobě, neboť opravdu hledáš a k obrození sama sebe se obracíš. Tobě, protože o pomoc vzhůru nejen úpřimně voláš, ale také za ni Bohu děkuješ. Tobě, abys objevil poznání v tiché...",64,99,"['esoterika', '', 'Hrabica Miroslav Ing., Hrabica Miroslav, české']"
+n37086370,Rút,0,0,2005,132,,esoterika,Francine Riversová,slovenské,"V poradí tretia z edície Výnimočné biblické ženy. Ďalšia žena v Ježišovom rodokmeni a jej príbeh. Stačí sa začítať.Príbehy piatich žien, vybraných samotným Bohom, aby hrali...",138,164,"['esoterika', '', 'Francine Riversová, slovenské']"
+n376351,Tibet -- Tajemství červené krabičky - Petr Sís,96,4,2005,60,Labyrint,dětské,Petr Sís,české,"V0092830
+Po otevření červené krabičky najde Petr Sís deník, který si jeho otec psal, když v polovině padesátých let minulého století zůstal ztracen v Tibetu. Obrací křehké...",228,349,"['dětské', '', 'Labyrint, Petr Sís, české']"
+n24370157,Kufřík říkanek,88,5,2005,0,Junior,dětské,Vladimíra Vopičková,české,"Čtyři malá leporela v papírovém kufříku: 
+
+Pec nám spadla
+
+Vařila myšička kašičku
+
+Kolo, kolo mlýnský
+
+Šnečku, šnečku, vystrč růžky
+
+Autor: Vladimíra Vopičková
+Edice: Moje...",92,149,"['dětské', '', 'Junior, Vladimíra Vopičková, české']"
+n468781629,Cínový vojáček,0,0,2005,12,,dětské,Ottovo nakladatelstvo,české,"Klasická pohádka s půvabnými ilustracemi ve formě jednoduchých puzzlí.
+
+Podtitul: Pohádka s puzzle
+Rok vydání­: 2005
+Vazba: Pevná bez přebalu lesklá
+ISBN: 80-7360-200-8
+Počet...",70,179,"['dětské', '', 'Ottovo nakladatelstvo, české']"
+n455316017,"Mami,tati, chci být rybářem - Hoňková Iva",100,1,2005,84,,dětské,Iva Hoňková,české,"Iva Hoňková je autorka krásné dětské knihy pro začínající rybáře s názvem Mami, tati, chci být rybářem.
+ V naší republice má rybářství svou dlouholetou tradici. V poslední době...",108,168,"['dětské', '', 'Iva Hoňková, české']"
+n25647759,Návrat ke Stromu života - Marek Orko Vácha,100,3,2005,168,Cesta,esoterika,Marek Orko Vácha,české,"Evoluce a křesťanství
+Mezi sedmi dny stvoření první kapitoly Geneze a vznikem vesmíru Velkým třeskem se zdá být neřešitelný rozpor. Evoluční myšlenka a nauka bible, příběh...",139,199,"['esoterika', '', 'Cesta, Marek Orko Vácha, české']"
+n367613,"Šumavská kuchařka Rožnovský, František; Doležal, Vladimír; Tripes, Oldřich",90,2,2005,128,,kuchařky,František Rožnovský,české,"Autor dlouhá léta pracoval na Šumavě v oblasti gastronomických služeb. Ve své kuchařce nabízí tradiční i nové recepty, které vznikly v kuchyni jeho i jeho přátel, myslivců,...",84,125,"['kuchařky', '', 'František Rožnovský, české']"
+n156188646,Bára a Flíček mají prázdniny Můj pohádkový slabikář Eva Bešťáková,100,1,2005,80,Junior,dětské,Eva Bešťáková,české,"V0090706
+Ahoj! Jmenuji se Flíček a jsem Bářin kamarád. Ale ty už mě znáš, vid'? Jenže já už nejsem to malinké, nešikovné a hloupoučké štěňátko. Vyrostl jsem a jsem ten...",88,179,"['dětské', '', 'Junior, Eva Bešťáková, české']"
+n372470,Sýry -- Ottova kuchařka,83,4,2005,40,,kuchařky,Ottovo nakladatelstvo,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky. Zásady správného pečení, vaření i přípravy studených pochoutek. Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, české']"
+n20970175,Tarot andělů světla - Karty a kniha - Rebecca Bachstein,0,0,2005,155,Fontána,esoterika,Rebecca Bachstein,české,Tento tarot andělů světla spojuje energie andělů s moudrostí tarotu. Tarot andělů světla spojuje energie andělů a archandělů s moudrostí tarotu. V rámci této hluboké symboliky...,218,328,"['esoterika', '', 'Fontána, Rebecca Bachstein, české']"
+n51153077,Ciao sexu,97,1,2005,128,Eminent,esoterika,Benjamin Kuras,české,"Přestaňte doufat, že ti vaši mužští někdy mentálně a emočně dorostou do takové dospělosti, že jim budete moci svoje potřeby vysvětlit tak, aby jim dávaly smysl. Muži přecházejí...",153,229,"['esoterika', '', 'Eminent, Benjamin Kuras, české']"
+n454360913,Jak to chodí na statku - Dana Winklerová,100,1,2005,10,Junior,dětské,Dana Winklerová,české,Co pěstují babička a děda na poli za statkem? Jaké stroje jim pomáhají? Která zvířata mají ve chlévě? Která z nich nesnášejí vajíčka? Všechno dětem názorně ukáže obrázkové...,80,129,"['dětské', '', 'Junior, Dana Winklerová, české']"
+n459941828,Karmické kódy,0,0,2005,152,Fontána,esoterika,Chumi Kut,české,"V životě každého člověka se objevují situace a události, které nutně vedou k otázce “proč”. Tato kniha nabízí nejen teoretické vysvětlení reinkarnace, karmy a karmických kódů,...",121,188,"['esoterika', '', 'Fontána, Chumi Kut, české']"
+n24806042,Energie míst Helena Rerichová,0,0,2005,152,Eugenika,esoterika,Helena Rerichová,české,"Helena Rerichová/ Eugenika, brožovaná, 151 stran.
+
+Energie lidského mikrokosmu a energie Země jsou propojeny
+Nové věci by měli vždy začínat na novém místě
+Každý dům, byt,...",124,188,"['esoterika', '', 'Eugenika, Helena Rerichová, české']"
+n2008792,Od utrpení k blaženosti -- Jak si ztěžujeme život a jak si ho můžeme usnadnit. O blaženosti procitnutí - Schneider Petra,0,0,2005,164,,esoterika,Petra Schneider,české,"Být permanentně šťastný. Je to možné? Co je utrpení, co je osvícení? Jaké máme k dispozici techniky, cviky a nástroje k dosažení životního štěstí? Tato příručka nabízí výstižné...",133,166,"['esoterika', '', 'Petra Schneider, české']"
+n2161763,"Atlas prezidentských voleb USA 1904-2004 Karas Petr, Kupka Karel",80,0,2005,36,Petr Karas,cestopisy,Karel Kupka,české,"Publikace formou map, grafů, tabulek a textu seznamuje čtenáře s průběhem voleb v USA za posledních 100 let. Ve své úvodní části vysvětluje postavení amerického prezidenta a...",48,56,"['cestopisy', '', 'Petr Karas, Karel Kupka, české']"
+n20970902,Čokoláda,68,2,2005,40,Ottovo nakladatelstvo,kuchařky,Kolektiv autorů,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky
+Zásady správného pečení, vaření i přípravy studených pochoutek
+Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, Kolektiv autorů, české']"
+n51138093,Zvířata v lese Veverka,0,0,2005,6,Sun,dětské,kol,české,"Zvířata v lese - Veverka se samolepkami kniha od autora kolektiv. Věci, které nás obklopují, můžou mít ve fantazii dětí nejroztodivnější tvary. Ve čtyřech knihách této kolekce...",37,37,"['dětské', '', 'Sun, kol, české']"
+n20974665,Já a ty - Martin Buber,96,7,2005,166,Kalich,esoterika,Martin Buber,české,"Po dvou významných knihách (Problém člověka a Chasidská vyprávění) vychází v Kalichu další dílo tohoto vynikajícího židovského myslitele, pro pochopení Buberova myšlení...",59,144,"['esoterika', '', 'Kalich, Martin Buber, české']"
+n455957438,Adventní čas - Dagmar Šottnerová,87,2,2005,120,,dětské,Šottnerová Dagmar,české,"Formát: A4
+Počet stran: 120
+Vazba: brožovaná
+V knize naleznete: Časové zařazení, charakteristiku období, pověry, legendy, pranostiky, lidové zvyky, tradice a jejich původ, a...",98,159,"['dětské', '', 'Šottnerová Dagmar, české']"
+n367915,Udírny a uzení -- maso - masné výrobky - ryby - Binder Egon,92,16,2005,112,Grada,kuchařky,Egon Binder,české,"Uzení je tradiční a oblíbený postup zpracování masa. V naší knize najdete informace nejen o druzích, možnostech a využití domácích udíren, ale i o správných postupech uzení....",110,139,"['kuchařky', '', 'Grada, Egon Binder, české']"
+n402248388,"Josef Lada, Lidová říkadla-leporelo",87,3,2005,12,,dětské,Josef Lada,české,"Známá říkadla nejen pro nejmenší.
+
+Kočka leze dírou, pes oknem...
+Jedna dvě, Honza jde, nese pytel mouky...
+Havel, Havel, do pekla zajel...
+Foukej, foukej, větříčku, shoď mi...",68,119,"['dětské', '', 'Josef Lada, české']"
+n435048,Muklovský Vatikán - Ondok Josef Petr,85,1,2005,136,,esoterika,Josef Petr Ondok,české,"V knize Muklovský Vatikán vzpomíná českobudějovický kněz, filozof a přírodovědec Josef Petr Ondok (1926–2003) na dvanáct let strávených v komunistických vězeních, kam se dostal...",165,198,"['esoterika', '', 'Josef Petr Ondok, české']"
+n627163405,Jordánová Zdeňka - Souvislosti,95,1,2005,94,,esoterika,Jordánová Zdeňka,české,"Popis
+
+Ing. Zdeňka Jordánová miluje příběhy, protože jí pomáhají poznávat souvislosti. Příběhy vyřešené i nevyřešené, neboť vesmírné zákonitosti v nich určují pravidla hry pro...",96,224,"['esoterika', '', 'Jordánová Zdeňka, české']"
+n88745073,Zima,91,5,2005,120,Computer Press,dětské,Dagmar Šottnerová,české,"Materiály v knize jsou systematicky uspořádány tak, aby se s nimi dobře pracovalo. Mimo jiné zde najdete informace o vzniku tradic, pranostiky, hádanky, básničky, pohádky,...",107,159,"['dětské', '', 'Computer Press, Dagmar Šottnerová, české']"
+n459934418,Aztékové - Markéta Křížová,0,0,2005,128,Skřivan Aleš ml.,cestopisy,Markéta Křížová,české,"Aztékové byli poslední z velkých indiánských civilizací Mexika a byli zároveň první z vyspělých indiánských kultur, s nimiž se setkali a kterou si podrobili evropští...",68,99,"['cestopisy', '', 'Skřivan Aleš ml., Markéta Křížová, české']"
+n537566,"Krtek a sněhulák - Zdeněk Miler, Hana Doskočilová",88,7,2005,36,Albatros,dětské,Hana Doskočilová,české,"Vyprávění o tom, jak malý Krtek zachrání na jaře svého kamaráda sněhuláka před rozpuštěním. Sluníčko už si na něj totiž brousí zoubky! Krtek sněhuláka vyveze lanovkou na...",122,179,"['dětské', '', 'Albatros, Hana Doskočilová, české']"
+n228684941,Noha k noze,0,0,2005,128,Labyrint,dětské,Dezider Tóth,české,"Noha k noze - jedna z prvních konceptuálních knih pro děti. Pohádky, akce, fotozáznamy a interaktivní hry pro děti a jejich rodiče. Stopařův průvodce po lidech, zvířatech,...",86,99,"['dětské', '', 'Labyrint, Dezider Tóth, české']"
+n362874414,Jasmuheen: Božská výživa Kniha,60,1,2005,146,Eugenika,esoterika,Jasmuheen,české,"Jasmuheen/ Eugenika, brožovaná, 145 stran.
+Druhá část neuvěřitelné publikace o tom, že lidé nepotřebují k životu jídlo. Zdá se vám to absurdní, směšné nebo šílené? Zkuste se...",122,198,"['esoterika', '', 'Eugenika, Jasmuheen, české']"
+n435395,Tobě -- aneb pomoc stále při ruce - Hrabica Miroslav,100,2,2005,144,Hrabica Miroslav Ing.,esoterika,Hrabica Miroslav,české,"Tobě, neboť opravdu hledáš a k obrození sama sebe se obracíš. Tobě, protože o pomoc vzhůru nejen úpřimně voláš, ale také za ni Bohu děkuješ. Tobě, abys objevil poznání v tiché...",64,99,"['esoterika', '', 'Hrabica Miroslav Ing., Hrabica Miroslav, české']"
+n37086370,Rút,0,0,2005,132,,esoterika,Francine Riversová,slovenské,"V poradí tretia z edície Výnimočné biblické ženy. Ďalšia žena v Ježišovom rodokmeni a jej príbeh. Stačí sa začítať.Príbehy piatich žien, vybraných samotným Bohom, aby hrali...",138,164,"['esoterika', '', 'Francine Riversová, slovenské']"
+n376351,Tibet -- Tajemství červené krabičky - Petr Sís,96,4,2005,60,Labyrint,dětské,Petr Sís,české,"V0092830
+Po otevření červené krabičky najde Petr Sís deník, který si jeho otec psal, když v polovině padesátých let minulého století zůstal ztracen v Tibetu. Obrací křehké...",228,349,"['dětské', '', 'Labyrint, Petr Sís, české']"
+n24370157,Kufřík říkanek,88,5,2005,0,Junior,dětské,Vladimíra Vopičková,české,"Čtyři malá leporela v papírovém kufříku: 
+
+Pec nám spadla
+
+Vařila myšička kašičku
+
+Kolo, kolo mlýnský
+
+Šnečku, šnečku, vystrč růžky
+
+Autor: Vladimíra Vopičková
+Edice: Moje...",92,149,"['dětské', '', 'Junior, Vladimíra Vopičková, české']"
+n468781629,Cínový vojáček,0,0,2005,12,,dětské,Ottovo nakladatelstvo,české,"Klasická pohádka s půvabnými ilustracemi ve formě jednoduchých puzzlí.
+
+Podtitul: Pohádka s puzzle
+Rok vydání­: 2005
+Vazba: Pevná bez přebalu lesklá
+ISBN: 80-7360-200-8
+Počet...",70,179,"['dětské', '', 'Ottovo nakladatelstvo, české']"
+n455316017,"Mami,tati, chci být rybářem - Hoňková Iva",100,1,2005,84,,dětské,Iva Hoňková,české,"Iva Hoňková je autorka krásné dětské knihy pro začínající rybáře s názvem Mami, tati, chci být rybářem.
+ V naší republice má rybářství svou dlouholetou tradici. V poslední době...",108,168,"['dětské', '', 'Iva Hoňková, české']"
+n25647759,Návrat ke Stromu života - Marek Orko Vácha,100,3,2005,168,Cesta,esoterika,Marek Orko Vácha,české,"Evoluce a křesťanství
+Mezi sedmi dny stvoření první kapitoly Geneze a vznikem vesmíru Velkým třeskem se zdá být neřešitelný rozpor. Evoluční myšlenka a nauka bible, příběh...",139,199,"['esoterika', '', 'Cesta, Marek Orko Vácha, české']"
+n367613,"Šumavská kuchařka Rožnovský, František; Doležal, Vladimír; Tripes, Oldřich",90,2,2005,128,,kuchařky,František Rožnovský,české,"Autor dlouhá léta pracoval na Šumavě v oblasti gastronomických služeb. Ve své kuchařce nabízí tradiční i nové recepty, které vznikly v kuchyni jeho i jeho přátel, myslivců,...",84,125,"['kuchařky', '', 'František Rožnovský, české']"
+n156188646,Bára a Flíček mají prázdniny Můj pohádkový slabikář Eva Bešťáková,100,1,2005,80,Junior,dětské,Eva Bešťáková,české,"V0090706
+Ahoj! Jmenuji se Flíček a jsem Bářin kamarád. Ale ty už mě znáš, vid'? Jenže já už nejsem to malinké, nešikovné a hloupoučké štěňátko. Vyrostl jsem a jsem ten...",88,179,"['dětské', '', 'Junior, Eva Bešťáková, české']"
+n372470,Sýry -- Ottova kuchařka,83,4,2005,40,,kuchařky,Ottovo nakladatelstvo,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky. Zásady správného pečení, vaření i přípravy studených pochoutek. Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, české']"
+n20970175,Tarot andělů světla - Karty a kniha - Rebecca Bachstein,0,0,2005,155,Fontána,esoterika,Rebecca Bachstein,české,Tento tarot andělů světla spojuje energie andělů s moudrostí tarotu. Tarot andělů světla spojuje energie andělů a archandělů s moudrostí tarotu. V rámci této hluboké symboliky...,218,328,"['esoterika', '', 'Fontána, Rebecca Bachstein, české']"
+n51153077,Ciao sexu,97,1,2005,128,Eminent,esoterika,Benjamin Kuras,české,"Přestaňte doufat, že ti vaši mužští někdy mentálně a emočně dorostou do takové dospělosti, že jim budete moci svoje potřeby vysvětlit tak, aby jim dávaly smysl. Muži přecházejí...",153,229,"['esoterika', '', 'Eminent, Benjamin Kuras, české']"
+n454360913,Jak to chodí na statku - Dana Winklerová,100,1,2005,10,Junior,dětské,Dana Winklerová,české,Co pěstují babička a děda na poli za statkem? Jaké stroje jim pomáhají? Která zvířata mají ve chlévě? Která z nich nesnášejí vajíčka? Všechno dětem názorně ukáže obrázkové...,80,129,"['dětské', '', 'Junior, Dana Winklerová, české']"
+n459941828,Karmické kódy,0,0,2005,152,Fontána,esoterika,Chumi Kut,české,"V životě každého člověka se objevují situace a události, které nutně vedou k otázce “proč”. Tato kniha nabízí nejen teoretické vysvětlení reinkarnace, karmy a karmických kódů,...",121,188,"['esoterika', '', 'Fontána, Chumi Kut, české']"
+n24806042,Energie míst Helena Rerichová,0,0,2005,152,Eugenika,esoterika,Helena Rerichová,české,"Helena Rerichová/ Eugenika, brožovaná, 151 stran.
+
+Energie lidského mikrokosmu a energie Země jsou propojeny
+Nové věci by měli vždy začínat na novém místě
+Každý dům, byt,...",124,188,"['esoterika', '', 'Eugenika, Helena Rerichová, české']"
+n2008792,Od utrpení k blaženosti -- Jak si ztěžujeme život a jak si ho můžeme usnadnit. O blaženosti procitnutí - Schneider Petra,0,0,2005,164,,esoterika,Petra Schneider,české,"Být permanentně šťastný. Je to možné? Co je utrpení, co je osvícení? Jaké máme k dispozici techniky, cviky a nástroje k dosažení životního štěstí? Tato příručka nabízí výstižné...",133,166,"['esoterika', '', 'Petra Schneider, české']"
+n2161763,"Atlas prezidentských voleb USA 1904-2004 Karas Petr, Kupka Karel",80,0,2005,36,Petr Karas,cestopisy,Karel Kupka,české,"Publikace formou map, grafů, tabulek a textu seznamuje čtenáře s průběhem voleb v USA za posledních 100 let. Ve své úvodní části vysvětluje postavení amerického prezidenta a...",48,56,"['cestopisy', '', 'Petr Karas, Karel Kupka, české']"
+n20970902,Čokoláda,68,2,2005,40,Ottovo nakladatelstvo,kuchařky,Kolektiv autorů,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky
+Zásady správného pečení, vaření i přípravy studených pochoutek
+Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, Kolektiv autorů, české']"
+n51138093,Zvířata v lese Veverka,0,0,2005,6,Sun,dětské,kol,české,"Zvířata v lese - Veverka se samolepkami kniha od autora kolektiv. Věci, které nás obklopují, můžou mít ve fantazii dětí nejroztodivnější tvary. Ve čtyřech knihách této kolekce...",37,37,"['dětské', '', 'Sun, kol, české']"
+n20974665,Já a ty - Martin Buber,96,7,2005,166,Kalich,esoterika,Martin Buber,české,"Po dvou významných knihách (Problém člověka a Chasidská vyprávění) vychází v Kalichu další dílo tohoto vynikajícího židovského myslitele, pro pochopení Buberova myšlení...",59,144,"['esoterika', '', 'Kalich, Martin Buber, české']"
+n455957438,Adventní čas - Dagmar Šottnerová,87,2,2005,120,,dětské,Šottnerová Dagmar,české,"Formát: A4
+Počet stran: 120
+Vazba: brožovaná
+V knize naleznete: Časové zařazení, charakteristiku období, pověry, legendy, pranostiky, lidové zvyky, tradice a jejich původ, a...",98,159,"['dětské', '', 'Šottnerová Dagmar, české']"
+n367915,Udírny a uzení -- maso - masné výrobky - ryby - Binder Egon,92,16,2005,112,Grada,kuchařky,Egon Binder,české,"Uzení je tradiční a oblíbený postup zpracování masa. V naší knize najdete informace nejen o druzích, možnostech a využití domácích udíren, ale i o správných postupech uzení....",110,139,"['kuchařky', '', 'Grada, Egon Binder, české']"
+n402248388,"Josef Lada, Lidová říkadla-leporelo",87,3,2005,12,,dětské,Josef Lada,české,"Známá říkadla nejen pro nejmenší.
+
+Kočka leze dírou, pes oknem...
+Jedna dvě, Honza jde, nese pytel mouky...
+Havel, Havel, do pekla zajel...
+Foukej, foukej, větříčku, shoď mi...",68,119,"['dětské', '', 'Josef Lada, české']"
+n435048,Muklovský Vatikán - Ondok Josef Petr,85,1,2005,136,,esoterika,Josef Petr Ondok,české,"V knize Muklovský Vatikán vzpomíná českobudějovický kněz, filozof a přírodovědec Josef Petr Ondok (1926–2003) na dvanáct let strávených v komunistických vězeních, kam se dostal...",165,198,"['esoterika', '', 'Josef Petr Ondok, české']"
+n627163405,Jordánová Zdeňka - Souvislosti,95,1,2005,94,,esoterika,Jordánová Zdeňka,české,"Popis
+
+Ing. Zdeňka Jordánová miluje příběhy, protože jí pomáhají poznávat souvislosti. Příběhy vyřešené i nevyřešené, neboť vesmírné zákonitosti v nich určují pravidla hry pro...",96,224,"['esoterika', '', 'Jordánová Zdeňka, české']"
+n88745073,Zima,91,5,2005,120,Computer Press,dětské,Dagmar Šottnerová,české,"Materiály v knize jsou systematicky uspořádány tak, aby se s nimi dobře pracovalo. Mimo jiné zde najdete informace o vzniku tradic, pranostiky, hádanky, básničky, pohádky,...",107,159,"['dětské', '', 'Computer Press, Dagmar Šottnerová, české']"
+n459934418,Aztékové - Markéta Křížová,0,0,2005,128,Skřivan Aleš ml.,cestopisy,Markéta Křížová,české,"Aztékové byli poslední z velkých indiánských civilizací Mexika a byli zároveň první z vyspělých indiánských kultur, s nimiž se setkali a kterou si podrobili evropští...",68,99,"['cestopisy', '', 'Skřivan Aleš ml., Markéta Křížová, české']"
+n537566,"Krtek a sněhulák - Zdeněk Miler, Hana Doskočilová",88,7,2005,36,Albatros,dětské,Hana Doskočilová,české,"Vyprávění o tom, jak malý Krtek zachrání na jaře svého kamaráda sněhuláka před rozpuštěním. Sluníčko už si na něj totiž brousí zoubky! Krtek sněhuláka vyveze lanovkou na...",122,179,"['dětské', '', 'Albatros, Hana Doskočilová, české']"
+n228684941,Noha k noze,0,0,2005,128,Labyrint,dětské,Dezider Tóth,české,"Noha k noze - jedna z prvních konceptuálních knih pro děti. Pohádky, akce, fotozáznamy a interaktivní hry pro děti a jejich rodiče. Stopařův průvodce po lidech, zvířatech,...",86,99,"['dětské', '', 'Labyrint, Dezider Tóth, české']"
+n362874414,Jasmuheen: Božská výživa Kniha,60,1,2005,146,Eugenika,esoterika,Jasmuheen,české,"Jasmuheen/ Eugenika, brožovaná, 145 stran.
+Druhá část neuvěřitelné publikace o tom, že lidé nepotřebují k životu jídlo. Zdá se vám to absurdní, směšné nebo šílené? Zkuste se...",122,198,"['esoterika', '', 'Eugenika, Jasmuheen, české']"
+n435395,Tobě -- aneb pomoc stále při ruce - Hrabica Miroslav,100,2,2005,144,Hrabica Miroslav Ing.,esoterika,Hrabica Miroslav,české,"Tobě, neboť opravdu hledáš a k obrození sama sebe se obracíš. Tobě, protože o pomoc vzhůru nejen úpřimně voláš, ale také za ni Bohu děkuješ. Tobě, abys objevil poznání v tiché...",64,99,"['esoterika', '', 'Hrabica Miroslav Ing., Hrabica Miroslav, české']"
+n37086370,Rút,0,0,2005,132,,esoterika,Francine Riversová,slovenské,"V poradí tretia z edície Výnimočné biblické ženy. Ďalšia žena v Ježišovom rodokmeni a jej príbeh. Stačí sa začítať.Príbehy piatich žien, vybraných samotným Bohom, aby hrali...",138,164,"['esoterika', '', 'Francine Riversová, slovenské']"
+n376351,Tibet -- Tajemství červené krabičky - Petr Sís,96,4,2005,60,Labyrint,dětské,Petr Sís,české,"V0092830
+Po otevření červené krabičky najde Petr Sís deník, který si jeho otec psal, když v polovině padesátých let minulého století zůstal ztracen v Tibetu. Obrací křehké...",228,349,"['dětské', '', 'Labyrint, Petr Sís, české']"
+n24370157,Kufřík říkanek,88,5,2005,0,Junior,dětské,Vladimíra Vopičková,české,"Čtyři malá leporela v papírovém kufříku: 
+
+Pec nám spadla
+
+Vařila myšička kašičku
+
+Kolo, kolo mlýnský
+
+Šnečku, šnečku, vystrč růžky
+
+Autor: Vladimíra Vopičková
+Edice: Moje...",92,149,"['dětské', '', 'Junior, Vladimíra Vopičková, české']"
+n468781629,Cínový vojáček,0,0,2005,12,,dětské,Ottovo nakladatelstvo,české,"Klasická pohádka s půvabnými ilustracemi ve formě jednoduchých puzzlí.
+
+Podtitul: Pohádka s puzzle
+Rok vydání­: 2005
+Vazba: Pevná bez přebalu lesklá
+ISBN: 80-7360-200-8
+Počet...",70,179,"['dětské', '', 'Ottovo nakladatelstvo, české']"
+n455316017,"Mami,tati, chci být rybářem - Hoňková Iva",100,1,2005,84,,dětské,Iva Hoňková,české,"Iva Hoňková je autorka krásné dětské knihy pro začínající rybáře s názvem Mami, tati, chci být rybářem.
+ V naší republice má rybářství svou dlouholetou tradici. V poslední době...",108,168,"['dětské', '', 'Iva Hoňková, české']"
+n25647759,Návrat ke Stromu života - Marek Orko Vácha,100,3,2005,168,Cesta,esoterika,Marek Orko Vácha,české,"Evoluce a křesťanství
+Mezi sedmi dny stvoření první kapitoly Geneze a vznikem vesmíru Velkým třeskem se zdá být neřešitelný rozpor. Evoluční myšlenka a nauka bible, příběh...",139,199,"['esoterika', '', 'Cesta, Marek Orko Vácha, české']"
+n367613,"Šumavská kuchařka Rožnovský, František; Doležal, Vladimír; Tripes, Oldřich",90,2,2005,128,,kuchařky,František Rožnovský,české,"Autor dlouhá léta pracoval na Šumavě v oblasti gastronomických služeb. Ve své kuchařce nabízí tradiční i nové recepty, které vznikly v kuchyni jeho i jeho přátel, myslivců,...",84,125,"['kuchařky', '', 'František Rožnovský, české']"
+n156188646,Bára a Flíček mají prázdniny Můj pohádkový slabikář Eva Bešťáková,100,1,2005,80,Junior,dětské,Eva Bešťáková,české,"V0090706
+Ahoj! Jmenuji se Flíček a jsem Bářin kamarád. Ale ty už mě znáš, vid'? Jenže já už nejsem to malinké, nešikovné a hloupoučké štěňátko. Vyrostl jsem a jsem ten...",88,179,"['dětské', '', 'Junior, Eva Bešťáková, české']"
+n372470,Sýry -- Ottova kuchařka,83,4,2005,40,,kuchařky,Ottovo nakladatelstvo,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky. Zásady správného pečení, vaření i přípravy studených pochoutek. Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, české']"
+n20970175,Tarot andělů světla - Karty a kniha - Rebecca Bachstein,0,0,2005,155,Fontána,esoterika,Rebecca Bachstein,české,Tento tarot andělů světla spojuje energie andělů s moudrostí tarotu. Tarot andělů světla spojuje energie andělů a archandělů s moudrostí tarotu. V rámci této hluboké symboliky...,218,328,"['esoterika', '', 'Fontána, Rebecca Bachstein, české']"
+n51153077,Ciao sexu,97,1,2005,128,Eminent,esoterika,Benjamin Kuras,české,"Přestaňte doufat, že ti vaši mužští někdy mentálně a emočně dorostou do takové dospělosti, že jim budete moci svoje potřeby vysvětlit tak, aby jim dávaly smysl. Muži přecházejí...",153,229,"['esoterika', '', 'Eminent, Benjamin Kuras, české']"
+n454360913,Jak to chodí na statku - Dana Winklerová,100,1,2005,10,Junior,dětské,Dana Winklerová,české,Co pěstují babička a děda na poli za statkem? Jaké stroje jim pomáhají? Která zvířata mají ve chlévě? Která z nich nesnášejí vajíčka? Všechno dětem názorně ukáže obrázkové...,80,129,"['dětské', '', 'Junior, Dana Winklerová, české']"
+n459941828,Karmické kódy,0,0,2005,152,Fontána,esoterika,Chumi Kut,české,"V životě každého člověka se objevují situace a události, které nutně vedou k otázce “proč”. Tato kniha nabízí nejen teoretické vysvětlení reinkarnace, karmy a karmických kódů,...",121,188,"['esoterika', '', 'Fontána, Chumi Kut, české']"
+n24806042,Energie míst Helena Rerichová,0,0,2005,152,Eugenika,esoterika,Helena Rerichová,české,"Helena Rerichová/ Eugenika, brožovaná, 151 stran.
+
+Energie lidského mikrokosmu a energie Země jsou propojeny
+Nové věci by měli vždy začínat na novém místě
+Každý dům, byt,...",124,188,"['esoterika', '', 'Eugenika, Helena Rerichová, české']"
+n2008792,Od utrpení k blaženosti -- Jak si ztěžujeme život a jak si ho můžeme usnadnit. O blaženosti procitnutí - Schneider Petra,0,0,2005,164,,esoterika,Petra Schneider,české,"Být permanentně šťastný. Je to možné? Co je utrpení, co je osvícení? Jaké máme k dispozici techniky, cviky a nástroje k dosažení životního štěstí? Tato příručka nabízí výstižné...",133,166,"['esoterika', '', 'Petra Schneider, české']"
+n2161763,"Atlas prezidentských voleb USA 1904-2004 Karas Petr, Kupka Karel",80,0,2005,36,Petr Karas,cestopisy,Karel Kupka,české,"Publikace formou map, grafů, tabulek a textu seznamuje čtenáře s průběhem voleb v USA za posledních 100 let. Ve své úvodní části vysvětluje postavení amerického prezidenta a...",48,56,"['cestopisy', '', 'Petr Karas, Karel Kupka, české']"
+n20970902,Čokoláda,68,2,2005,40,Ottovo nakladatelstvo,kuchařky,Kolektiv autorů,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky
+Zásady správného pečení, vaření i přípravy studených pochoutek
+Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, Kolektiv autorů, české']"
+n51138093,Zvířata v lese Veverka,0,0,2005,6,Sun,dětské,kol,české,"Zvířata v lese - Veverka se samolepkami kniha od autora kolektiv. Věci, které nás obklopují, můžou mít ve fantazii dětí nejroztodivnější tvary. Ve čtyřech knihách této kolekce...",37,37,"['dětské', '', 'Sun, kol, české']"
+n20974665,Já a ty - Martin Buber,96,7,2005,166,Kalich,esoterika,Martin Buber,české,"Po dvou významných knihách (Problém člověka a Chasidská vyprávění) vychází v Kalichu další dílo tohoto vynikajícího židovského myslitele, pro pochopení Buberova myšlení...",59,144,"['esoterika', '', 'Kalich, Martin Buber, české']"
+n455957438,Adventní čas - Dagmar Šottnerová,87,2,2005,120,,dětské,Šottnerová Dagmar,české,"Formát: A4
+Počet stran: 120
+Vazba: brožovaná
+V knize naleznete: Časové zařazení, charakteristiku období, pověry, legendy, pranostiky, lidové zvyky, tradice a jejich původ, a...",98,159,"['dětské', '', 'Šottnerová Dagmar, české']"
+n367915,Udírny a uzení -- maso - masné výrobky - ryby - Binder Egon,92,16,2005,112,Grada,kuchařky,Egon Binder,české,"Uzení je tradiční a oblíbený postup zpracování masa. V naší knize najdete informace nejen o druzích, možnostech a využití domácích udíren, ale i o správných postupech uzení....",110,139,"['kuchařky', '', 'Grada, Egon Binder, české']"
+n402248388,"Josef Lada, Lidová říkadla-leporelo",87,3,2005,12,,dětské,Josef Lada,české,"Známá říkadla nejen pro nejmenší.
+
+Kočka leze dírou, pes oknem...
+Jedna dvě, Honza jde, nese pytel mouky...
+Havel, Havel, do pekla zajel...
+Foukej, foukej, větříčku, shoď mi...",68,119,"['dětské', '', 'Josef Lada, české']"
+n435048,Muklovský Vatikán - Ondok Josef Petr,85,1,2005,136,,esoterika,Josef Petr Ondok,české,"V knize Muklovský Vatikán vzpomíná českobudějovický kněz, filozof a přírodovědec Josef Petr Ondok (1926–2003) na dvanáct let strávených v komunistických vězeních, kam se dostal...",165,198,"['esoterika', '', 'Josef Petr Ondok, české']"
+n627163405,Jordánová Zdeňka - Souvislosti,95,1,2005,94,,esoterika,Jordánová Zdeňka,české,"Popis
+
+Ing. Zdeňka Jordánová miluje příběhy, protože jí pomáhají poznávat souvislosti. Příběhy vyřešené i nevyřešené, neboť vesmírné zákonitosti v nich určují pravidla hry pro...",96,224,"['esoterika', '', 'Jordánová Zdeňka, české']"
+n88745073,Zima,91,5,2005,120,Computer Press,dětské,Dagmar Šottnerová,české,"Materiály v knize jsou systematicky uspořádány tak, aby se s nimi dobře pracovalo. Mimo jiné zde najdete informace o vzniku tradic, pranostiky, hádanky, básničky, pohádky,...",107,159,"['dětské', '', 'Computer Press, Dagmar Šottnerová, české']"
+n459934418,Aztékové - Markéta Křížová,0,0,2005,128,Skřivan Aleš ml.,cestopisy,Markéta Křížová,české,"Aztékové byli poslední z velkých indiánských civilizací Mexika a byli zároveň první z vyspělých indiánských kultur, s nimiž se setkali a kterou si podrobili evropští...",68,99,"['cestopisy', '', 'Skřivan Aleš ml., Markéta Křížová, české']"
+n537566,"Krtek a sněhulák - Zdeněk Miler, Hana Doskočilová",88,7,2005,36,Albatros,dětské,Hana Doskočilová,české,"Vyprávění o tom, jak malý Krtek zachrání na jaře svého kamaráda sněhuláka před rozpuštěním. Sluníčko už si na něj totiž brousí zoubky! Krtek sněhuláka vyveze lanovkou na...",122,179,"['dětské', '', 'Albatros, Hana Doskočilová, české']"
+n228684941,Noha k noze,0,0,2005,128,Labyrint,dětské,Dezider Tóth,české,"Noha k noze - jedna z prvních konceptuálních knih pro děti. Pohádky, akce, fotozáznamy a interaktivní hry pro děti a jejich rodiče. Stopařův průvodce po lidech, zvířatech,...",86,99,"['dětské', '', 'Labyrint, Dezider Tóth, české']"
+n362874414,Jasmuheen: Božská výživa Kniha,60,1,2005,146,Eugenika,esoterika,Jasmuheen,české,"Jasmuheen/ Eugenika, brožovaná, 145 stran.
+Druhá část neuvěřitelné publikace o tom, že lidé nepotřebují k životu jídlo. Zdá se vám to absurdní, směšné nebo šílené? Zkuste se...",122,198,"['esoterika', '', 'Eugenika, Jasmuheen, české']"
+n435395,Tobě -- aneb pomoc stále při ruce - Hrabica Miroslav,100,2,2005,144,Hrabica Miroslav Ing.,esoterika,Hrabica Miroslav,české,"Tobě, neboť opravdu hledáš a k obrození sama sebe se obracíš. Tobě, protože o pomoc vzhůru nejen úpřimně voláš, ale také za ni Bohu děkuješ. Tobě, abys objevil poznání v tiché...",64,99,"['esoterika', '', 'Hrabica Miroslav Ing., Hrabica Miroslav, české']"
+n37086370,Rút,0,0,2005,132,,esoterika,Francine Riversová,slovenské,"V poradí tretia z edície Výnimočné biblické ženy. Ďalšia žena v Ježišovom rodokmeni a jej príbeh. Stačí sa začítať.Príbehy piatich žien, vybraných samotným Bohom, aby hrali...",138,164,"['esoterika', '', 'Francine Riversová, slovenské']"
+n376351,Tibet -- Tajemství červené krabičky - Petr Sís,96,4,2005,60,Labyrint,dětské,Petr Sís,české,"V0092830
+Po otevření červené krabičky najde Petr Sís deník, který si jeho otec psal, když v polovině padesátých let minulého století zůstal ztracen v Tibetu. Obrací křehké...",228,349,"['dětské', '', 'Labyrint, Petr Sís, české']"
+n24370157,Kufřík říkanek,88,5,2005,0,Junior,dětské,Vladimíra Vopičková,české,"Čtyři malá leporela v papírovém kufříku: 
+
+Pec nám spadla
+
+Vařila myšička kašičku
+
+Kolo, kolo mlýnský
+
+Šnečku, šnečku, vystrč růžky
+
+Autor: Vladimíra Vopičková
+Edice: Moje...",92,149,"['dětské', '', 'Junior, Vladimíra Vopičková, české']"
+n468781629,Cínový vojáček,0,0,2005,12,,dětské,Ottovo nakladatelstvo,české,"Klasická pohádka s půvabnými ilustracemi ve formě jednoduchých puzzlí.
+
+Podtitul: Pohádka s puzzle
+Rok vydání­: 2005
+Vazba: Pevná bez přebalu lesklá
+ISBN: 80-7360-200-8
+Počet...",70,179,"['dětské', '', 'Ottovo nakladatelstvo, české']"
+n455316017,"Mami,tati, chci být rybářem - Hoňková Iva",100,1,2005,84,,dětské,Iva Hoňková,české,"Iva Hoňková je autorka krásné dětské knihy pro začínající rybáře s názvem Mami, tati, chci být rybářem.
+ V naší republice má rybářství svou dlouholetou tradici. V poslední době...",108,168,"['dětské', '', 'Iva Hoňková, české']"
+n25647759,Návrat ke Stromu života - Marek Orko Vácha,100,3,2005,168,Cesta,esoterika,Marek Orko Vácha,české,"Evoluce a křesťanství
+Mezi sedmi dny stvoření první kapitoly Geneze a vznikem vesmíru Velkým třeskem se zdá být neřešitelný rozpor. Evoluční myšlenka a nauka bible, příběh...",139,199,"['esoterika', '', 'Cesta, Marek Orko Vácha, české']"
+n367613,"Šumavská kuchařka Rožnovský, František; Doležal, Vladimír; Tripes, Oldřich",90,2,2005,128,,kuchařky,František Rožnovský,české,"Autor dlouhá léta pracoval na Šumavě v oblasti gastronomických služeb. Ve své kuchařce nabízí tradiční i nové recepty, které vznikly v kuchyni jeho i jeho přátel, myslivců,...",84,125,"['kuchařky', '', 'František Rožnovský, české']"
+n156188646,Bára a Flíček mají prázdniny Můj pohádkový slabikář Eva Bešťáková,100,1,2005,80,Junior,dětské,Eva Bešťáková,české,"V0090706
+Ahoj! Jmenuji se Flíček a jsem Bářin kamarád. Ale ty už mě znáš, vid'? Jenže já už nejsem to malinké, nešikovné a hloupoučké štěňátko. Vyrostl jsem a jsem ten...",88,179,"['dětské', '', 'Junior, Eva Bešťáková, české']"
+n372470,Sýry -- Ottova kuchařka,83,4,2005,40,,kuchařky,Ottovo nakladatelstvo,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky. Zásady správného pečení, vaření i přípravy studených pochoutek. Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, české']"
+n20970175,Tarot andělů světla - Karty a kniha - Rebecca Bachstein,0,0,2005,155,Fontána,esoterika,Rebecca Bachstein,české,Tento tarot andělů světla spojuje energie andělů s moudrostí tarotu. Tarot andělů světla spojuje energie andělů a archandělů s moudrostí tarotu. V rámci této hluboké symboliky...,218,328,"['esoterika', '', 'Fontána, Rebecca Bachstein, české']"
+n51153077,Ciao sexu,97,1,2005,128,Eminent,esoterika,Benjamin Kuras,české,"Přestaňte doufat, že ti vaši mužští někdy mentálně a emočně dorostou do takové dospělosti, že jim budete moci svoje potřeby vysvětlit tak, aby jim dávaly smysl. Muži přecházejí...",153,229,"['esoterika', '', 'Eminent, Benjamin Kuras, české']"
+n454360913,Jak to chodí na statku - Dana Winklerová,100,1,2005,10,Junior,dětské,Dana Winklerová,české,Co pěstují babička a děda na poli za statkem? Jaké stroje jim pomáhají? Která zvířata mají ve chlévě? Která z nich nesnášejí vajíčka? Všechno dětem názorně ukáže obrázkové...,80,129,"['dětské', '', 'Junior, Dana Winklerová, české']"
+n459941828,Karmické kódy,0,0,2005,152,Fontána,esoterika,Chumi Kut,české,"V životě každého člověka se objevují situace a události, které nutně vedou k otázce “proč”. Tato kniha nabízí nejen teoretické vysvětlení reinkarnace, karmy a karmických kódů,...",121,188,"['esoterika', '', 'Fontána, Chumi Kut, české']"
+n24806042,Energie míst Helena Rerichová,0,0,2005,152,Eugenika,esoterika,Helena Rerichová,české,"Helena Rerichová/ Eugenika, brožovaná, 151 stran.
+
+Energie lidského mikrokosmu a energie Země jsou propojeny
+Nové věci by měli vždy začínat na novém místě
+Každý dům, byt,...",124,188,"['esoterika', '', 'Eugenika, Helena Rerichová, české']"
+n2008792,Od utrpení k blaženosti -- Jak si ztěžujeme život a jak si ho můžeme usnadnit. O blaženosti procitnutí - Schneider Petra,0,0,2005,164,,esoterika,Petra Schneider,české,"Být permanentně šťastný. Je to možné? Co je utrpení, co je osvícení? Jaké máme k dispozici techniky, cviky a nástroje k dosažení životního štěstí? Tato příručka nabízí výstižné...",133,166,"['esoterika', '', 'Petra Schneider, české']"
+n2161763,"Atlas prezidentských voleb USA 1904-2004 Karas Petr, Kupka Karel",80,0,2005,36,Petr Karas,cestopisy,Karel Kupka,české,"Publikace formou map, grafů, tabulek a textu seznamuje čtenáře s průběhem voleb v USA za posledních 100 let. Ve své úvodní části vysvětluje postavení amerického prezidenta a...",48,56,"['cestopisy', '', 'Petr Karas, Karel Kupka, české']"
+n20970902,Čokoláda,68,2,2005,40,Ottovo nakladatelstvo,kuchařky,Kolektiv autorů,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky
+Zásady správného pečení, vaření i přípravy studených pochoutek
+Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, Kolektiv autorů, české']"
+n51138093,Zvířata v lese Veverka,0,0,2005,6,Sun,dětské,kol,české,"Zvířata v lese - Veverka se samolepkami kniha od autora kolektiv. Věci, které nás obklopují, můžou mít ve fantazii dětí nejroztodivnější tvary. Ve čtyřech knihách této kolekce...",37,37,"['dětské', '', 'Sun, kol, české']"
+n20974665,Já a ty - Martin Buber,96,7,2005,166,Kalich,esoterika,Martin Buber,české,"Po dvou významných knihách (Problém člověka a Chasidská vyprávění) vychází v Kalichu další dílo tohoto vynikajícího židovského myslitele, pro pochopení Buberova myšlení...",59,144,"['esoterika', '', 'Kalich, Martin Buber, české']"
+n455957438,Adventní čas - Dagmar Šottnerová,87,2,2005,120,,dětské,Šottnerová Dagmar,české,"Formát: A4
+Počet stran: 120
+Vazba: brožovaná
+V knize naleznete: Časové zařazení, charakteristiku období, pověry, legendy, pranostiky, lidové zvyky, tradice a jejich původ, a...",98,159,"['dětské', '', 'Šottnerová Dagmar, české']"
+n367915,Udírny a uzení -- maso - masné výrobky - ryby - Binder Egon,92,16,2005,112,Grada,kuchařky,Egon Binder,české,"Uzení je tradiční a oblíbený postup zpracování masa. V naší knize najdete informace nejen o druzích, možnostech a využití domácích udíren, ale i o správných postupech uzení....",110,139,"['kuchařky', '', 'Grada, Egon Binder, české']"
+n402248388,"Josef Lada, Lidová říkadla-leporelo",87,3,2005,12,,dětské,Josef Lada,české,"Známá říkadla nejen pro nejmenší.
+
+Kočka leze dírou, pes oknem...
+Jedna dvě, Honza jde, nese pytel mouky...
+Havel, Havel, do pekla zajel...
+Foukej, foukej, větříčku, shoď mi...",68,119,"['dětské', '', 'Josef Lada, české']"
+n435048,Muklovský Vatikán - Ondok Josef Petr,85,1,2005,136,,esoterika,Josef Petr Ondok,české,"V knize Muklovský Vatikán vzpomíná českobudějovický kněz, filozof a přírodovědec Josef Petr Ondok (1926–2003) na dvanáct let strávených v komunistických vězeních, kam se dostal...",165,198,"['esoterika', '', 'Josef Petr Ondok, české']"
+n627163405,Jordánová Zdeňka - Souvislosti,95,1,2005,94,,esoterika,Jordánová Zdeňka,české,"Popis
+
+Ing. Zdeňka Jordánová miluje příběhy, protože jí pomáhají poznávat souvislosti. Příběhy vyřešené i nevyřešené, neboť vesmírné zákonitosti v nich určují pravidla hry pro...",96,224,"['esoterika', '', 'Jordánová Zdeňka, české']"
+n88745073,Zima,91,5,2005,120,Computer Press,dětské,Dagmar Šottnerová,české,"Materiály v knize jsou systematicky uspořádány tak, aby se s nimi dobře pracovalo. Mimo jiné zde najdete informace o vzniku tradic, pranostiky, hádanky, básničky, pohádky,...",107,159,"['dětské', '', 'Computer Press, Dagmar Šottnerová, české']"
+n459934418,Aztékové - Markéta Křížová,0,0,2005,128,Skřivan Aleš ml.,cestopisy,Markéta Křížová,české,"Aztékové byli poslední z velkých indiánských civilizací Mexika a byli zároveň první z vyspělých indiánských kultur, s nimiž se setkali a kterou si podrobili evropští...",68,99,"['cestopisy', '', 'Skřivan Aleš ml., Markéta Křížová, české']"
+n537566,"Krtek a sněhulák - Zdeněk Miler, Hana Doskočilová",88,7,2005,36,Albatros,dětské,Hana Doskočilová,české,"Vyprávění o tom, jak malý Krtek zachrání na jaře svého kamaráda sněhuláka před rozpuštěním. Sluníčko už si na něj totiž brousí zoubky! Krtek sněhuláka vyveze lanovkou na...",122,179,"['dětské', '', 'Albatros, Hana Doskočilová, české']"
+n228684941,Noha k noze,0,0,2005,128,Labyrint,dětské,Dezider Tóth,české,"Noha k noze - jedna z prvních konceptuálních knih pro děti. Pohádky, akce, fotozáznamy a interaktivní hry pro děti a jejich rodiče. Stopařův průvodce po lidech, zvířatech,...",86,99,"['dětské', '', 'Labyrint, Dezider Tóth, české']"
+n362874414,Jasmuheen: Božská výživa Kniha,60,1,2005,146,Eugenika,esoterika,Jasmuheen,české,"Jasmuheen/ Eugenika, brožovaná, 145 stran.
+Druhá část neuvěřitelné publikace o tom, že lidé nepotřebují k životu jídlo. Zdá se vám to absurdní, směšné nebo šílené? Zkuste se...",122,198,"['esoterika', '', 'Eugenika, Jasmuheen, české']"
+n435395,Tobě -- aneb pomoc stále při ruce - Hrabica Miroslav,100,2,2005,144,Hrabica Miroslav Ing.,esoterika,Hrabica Miroslav,české,"Tobě, neboť opravdu hledáš a k obrození sama sebe se obracíš. Tobě, protože o pomoc vzhůru nejen úpřimně voláš, ale také za ni Bohu děkuješ. Tobě, abys objevil poznání v tiché...",64,99,"['esoterika', '', 'Hrabica Miroslav Ing., Hrabica Miroslav, české']"
+n37086370,Rút,0,0,2005,132,,esoterika,Francine Riversová,slovenské,"V poradí tretia z edície Výnimočné biblické ženy. Ďalšia žena v Ježišovom rodokmeni a jej príbeh. Stačí sa začítať.Príbehy piatich žien, vybraných samotným Bohom, aby hrali...",138,164,"['esoterika', '', 'Francine Riversová, slovenské']"
+n376351,Tibet -- Tajemství červené krabičky - Petr Sís,96,4,2005,60,Labyrint,dětské,Petr Sís,české,"V0092830
+Po otevření červené krabičky najde Petr Sís deník, který si jeho otec psal, když v polovině padesátých let minulého století zůstal ztracen v Tibetu. Obrací křehké...",228,349,"['dětské', '', 'Labyrint, Petr Sís, české']"
+n24370157,Kufřík říkanek,88,5,2005,0,Junior,dětské,Vladimíra Vopičková,české,"Čtyři malá leporela v papírovém kufříku: 
+
+Pec nám spadla
+
+Vařila myšička kašičku
+
+Kolo, kolo mlýnský
+
+Šnečku, šnečku, vystrč růžky
+
+Autor: Vladimíra Vopičková
+Edice: Moje...",92,149,"['dětské', '', 'Junior, Vladimíra Vopičková, české']"
+n468781629,Cínový vojáček,0,0,2005,12,,dětské,Ottovo nakladatelstvo,české,"Klasická pohádka s půvabnými ilustracemi ve formě jednoduchých puzzlí.
+
+Podtitul: Pohádka s puzzle
+Rok vydání­: 2005
+Vazba: Pevná bez přebalu lesklá
+ISBN: 80-7360-200-8
+Počet...",70,179,"['dětské', '', 'Ottovo nakladatelstvo, české']"
+n455316017,"Mami,tati, chci být rybářem - Hoňková Iva",100,1,2005,84,,dětské,Iva Hoňková,české,"Iva Hoňková je autorka krásné dětské knihy pro začínající rybáře s názvem Mami, tati, chci být rybářem.
+ V naší republice má rybářství svou dlouholetou tradici. V poslední době...",108,168,"['dětské', '', 'Iva Hoňková, české']"
+n25647759,Návrat ke Stromu života - Marek Orko Vácha,100,3,2005,168,Cesta,esoterika,Marek Orko Vácha,české,"Evoluce a křesťanství
+Mezi sedmi dny stvoření první kapitoly Geneze a vznikem vesmíru Velkým třeskem se zdá být neřešitelný rozpor. Evoluční myšlenka a nauka bible, příběh...",139,199,"['esoterika', '', 'Cesta, Marek Orko Vácha, české']"
+n367613,"Šumavská kuchařka Rožnovský, František; Doležal, Vladimír; Tripes, Oldřich",90,2,2005,128,,kuchařky,František Rožnovský,české,"Autor dlouhá léta pracoval na Šumavě v oblasti gastronomických služeb. Ve své kuchařce nabízí tradiční i nové recepty, které vznikly v kuchyni jeho i jeho přátel, myslivců,...",84,125,"['kuchařky', '', 'František Rožnovský, české']"
+n156188646,Bára a Flíček mají prázdniny Můj pohádkový slabikář Eva Bešťáková,100,1,2005,80,Junior,dětské,Eva Bešťáková,české,"V0090706
+Ahoj! Jmenuji se Flíček a jsem Bářin kamarád. Ale ty už mě znáš, vid'? Jenže já už nejsem to malinké, nešikovné a hloupoučké štěňátko. Vyrostl jsem a jsem ten...",88,179,"['dětské', '', 'Junior, Eva Bešťáková, české']"
+n372470,Sýry -- Ottova kuchařka,83,4,2005,40,,kuchařky,Ottovo nakladatelstvo,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky. Zásady správného pečení, vaření i přípravy studených pochoutek. Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, české']"
+n20970175,Tarot andělů světla - Karty a kniha - Rebecca Bachstein,0,0,2005,155,Fontána,esoterika,Rebecca Bachstein,české,Tento tarot andělů světla spojuje energie andělů s moudrostí tarotu. Tarot andělů světla spojuje energie andělů a archandělů s moudrostí tarotu. V rámci této hluboké symboliky...,218,328,"['esoterika', '', 'Fontána, Rebecca Bachstein, české']"
+n51153077,Ciao sexu,97,1,2005,128,Eminent,esoterika,Benjamin Kuras,české,"Přestaňte doufat, že ti vaši mužští někdy mentálně a emočně dorostou do takové dospělosti, že jim budete moci svoje potřeby vysvětlit tak, aby jim dávaly smysl. Muži přecházejí...",153,229,"['esoterika', '', 'Eminent, Benjamin Kuras, české']"
+n454360913,Jak to chodí na statku - Dana Winklerová,100,1,2005,10,Junior,dětské,Dana Winklerová,české,Co pěstují babička a děda na poli za statkem? Jaké stroje jim pomáhají? Která zvířata mají ve chlévě? Která z nich nesnášejí vajíčka? Všechno dětem názorně ukáže obrázkové...,80,129,"['dětské', '', 'Junior, Dana Winklerová, české']"
+n459941828,Karmické kódy,0,0,2005,152,Fontána,esoterika,Chumi Kut,české,"V životě každého člověka se objevují situace a události, které nutně vedou k otázce “proč”. Tato kniha nabízí nejen teoretické vysvětlení reinkarnace, karmy a karmických kódů,...",121,188,"['esoterika', '', 'Fontána, Chumi Kut, české']"
+n24806042,Energie míst Helena Rerichová,0,0,2005,152,Eugenika,esoterika,Helena Rerichová,české,"Helena Rerichová/ Eugenika, brožovaná, 151 stran.
+
+Energie lidského mikrokosmu a energie Země jsou propojeny
+Nové věci by měli vždy začínat na novém místě
+Každý dům, byt,...",124,188,"['esoterika', '', 'Eugenika, Helena Rerichová, české']"
+n2008792,Od utrpení k blaženosti -- Jak si ztěžujeme život a jak si ho můžeme usnadnit. O blaženosti procitnutí - Schneider Petra,0,0,2005,164,,esoterika,Petra Schneider,české,"Být permanentně šťastný. Je to možné? Co je utrpení, co je osvícení? Jaké máme k dispozici techniky, cviky a nástroje k dosažení životního štěstí? Tato příručka nabízí výstižné...",133,166,"['esoterika', '', 'Petra Schneider, české']"
+n2161763,"Atlas prezidentských voleb USA 1904-2004 Karas Petr, Kupka Karel",80,0,2005,36,Petr Karas,cestopisy,Karel Kupka,české,"Publikace formou map, grafů, tabulek a textu seznamuje čtenáře s průběhem voleb v USA za posledních 100 let. Ve své úvodní části vysvětluje postavení amerického prezidenta a...",48,56,"['cestopisy', '', 'Petr Karas, Karel Kupka, české']"
+n20970902,Čokoláda,68,2,2005,40,Ottovo nakladatelstvo,kuchařky,Kolektiv autorů,české,"Nejlepší recepty mezinárodní kuchyně pro začínající i zkušené kuchařky
+Zásady správného pečení, vaření i přípravy studených pochoutek
+Postup přípravy tradičních i moderních...",29,29,"['kuchařky', '', 'Ottovo nakladatelstvo, Kolektiv autorů, české']"
+n51138093,Zvířata v lese Veverka,0,0,2005,6,Sun,dětské,kol,české,"Zvířata v lese - Veverka se samolepkami kniha od autora kolektiv. Věci, které nás obklopují, můžou mít ve fantazii dětí nejroztodivnější tvary. Ve čtyřech knihách této kolekce...",37,37,"['dětské', '', 'Sun, kol, české']"

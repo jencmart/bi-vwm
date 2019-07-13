@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n246529562,Horko domácího krbu - Blanka Hošková,100,1,2015,224,Jota,beletrie,české</p>,,"Krásný muž, okouzlující úsměv, velká láska, nový život…
+ Martina prožila dětství v dětském domově, a když se jednoho dne setká se svým budoucím manželem, spálí mosty, opustí...",148,238,"['Jota, beletrie', '', 'české']"
+n402252647,Poslední nosorožec,93,1,2015,238,Jota,beletrie,české</p>,,"Eva přijíždí do Zimbabwe se svým manželem Vladimírem, ošetřovatelem zvířat, který sem převáží poslední zdravý pár vzácných nosorožců bílých, jimž hrozí vyhynutí. Afrika je...",178,278,"['Jota, beletrie', '', 'české']"

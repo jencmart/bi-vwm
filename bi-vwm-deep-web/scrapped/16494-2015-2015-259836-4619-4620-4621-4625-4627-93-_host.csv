@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n256340337,České děti jako čtenáři - Irena Prázová; Kateřina Homolová; Hana Landová,100,1,2015,136,Host,beletrie,české</p>,,"Čtou děti? Co čtou a kolik čtou? Obstojí kniha a čtení vůbec v konkurenci nových médií? Nebo je pravda, že dnešní děti vlastně nečtou? Kniha přináší výsledky prvního...",161,249,"['Host, beletrie', '', 'české']"
+n256935015,Noční služba v kamenolomu - Václav Vomáčka,0,0,2015,80,Host,beletrie,české</p>,,"Jedinou básní Vrchlický v Bystrém se tento „mág slova“, básník rytmu a mimořádné obraznosti (nar. 1983 v Litomyšli, působí jako antikvář) stal ještě před svým debutem tajně...",96,149,"['Host, beletrie', '', 'české']"

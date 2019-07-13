@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n43662089,Lexikon léčivých kamenů,0,0,2012,101,Granit,naučná,české</p>,,"Tato kniha slouží k rychlé orientaci v léčivých kamenech. 328 druhů je seřazeno podle barev a současně čaker, jež barvám odpovídají.
+Tam, kde existuje více barevných odrůd, je...",214,214,"['Granit, naučná', '', 'české']"

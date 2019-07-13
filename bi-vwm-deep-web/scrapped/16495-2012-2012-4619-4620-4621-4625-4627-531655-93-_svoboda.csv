@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n48727263,Zita Kabátová,95,7,2012,220,Svoboda,naučná,české</p>,,"Hvězda prvorepublikového filmu, paní Zita Kabátová, se rozloučila se čtenáři knihou, která shrnuje její bohatý život a ve které prozradila i to, o čem dosud mlčela.
+
+Její...",184,299,"['Svoboda, naučná', '', 'české']"
+n62138605,Tajemný vesmír,100,2,2012,176,Svoboda,naučná,české</p>,,"Co je černá díra? Jak vznikl vesmír a především proč? Z jakého důvodu se vyvinul do formy, kterou vnímáme na nebi i na zemi? Existovalo snad něco před Velkým třeskem? Co je...",197,302,"['Svoboda, naučná', '', 'české']"

@@ -1,0 +1,460 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n30705106,P.S. Psové,0,0,2005,112,české,naučná,Erazim Kohák</p>,,"P.S. Psové kniha od autora Erazim Kohák. Reedice jedné z nejžádanějších a samotným autorem z jeho díla nejvíce ceněných knížek, v níž v krátkých brilantních úvahách staví proti...",101,126,"['naučná', '', 'české, Erazim Kohák']"
+n45152024,Tillandsia 1 - Začínáme s tilandsiemi - Antonín Lukscheiter,100,1,2005,145,české,naučná,Lukscheiter Antonín,,"Kniha je určena všem, kteří pěstují okrasné rostliny pro potěchu i lásku k přírodě. Obdivují její pestrost a zajímají se o méně známé, ale o to podivuhodnější rostliny -...",137,199,"['naučná', '', 'české, Lukscheiter Antonín, Lukscheit']"
+n45332530,"Povoláním filosof - F.-X. Putallaz, Ruedi Imbach",0,0,2005,144,české,naučná,Platón</p>,,Dva prvořadí medievalisté v této krátké knížce z roku 1997 shrnují všechny dostupné poznatky o jedné z nekontroverznějších postav středověkého myšlení a nabízejí zcela novou...,132,178,"['naučná', '', 'české, Platón']"
+n51140325,Samopal vz. 58,92,6,2005,148,české,naučná,Fencl Jiří</p>,,Renomovaný odborný publicista Ing. Jiří Fencl shrnul v této knize všechny v současné době dostupné informace o známém čs. samopalu vz. 58. Kniha začíná stručnou informací o...,174,400,"['naučná', '', 'české, Naše vojsko, Fencl Jiří']"
+n435059,Teorie osobnosti - Dragomirecký Andrej,0,0,2005,142,české,naučná,Andrej Dragomirecký</p>,,Teorie osobnosti popsaná v této knize uvádí v mnoha ohledech zcela nová řešení problematiky psychologie osobnosti a otázek s tím spojených. Kromě dalších věcí je například...,124,124,"['naučná', '', 'české, Andrej Dragomirecký']"
+n554253,Vše o tucích typu omega - 3 -- Odpovědi na základní otázky týkající se mastných kyselin typu omega-3 - Clara Felix,94,3,2005,112,české,naučná,Clara Felix</p>,,"Odpovědi na základní otázky týkající se mastných kyselin typu omega-3, proč je potřebujeme, v jakém množství a mnohem více informací.
+Se vzrůstající popularitou doplňků...",23,79,"['naučná', '', 'české, Pragma, Clara Felix']"
+n450810409,"Písemná a elektronická komunikace 1 - Kroužek, Jiří; Kuldová, Olga",0,0,2005,144,české,naučná,Kuldová Olga</p>,,"Publikace obsahuje nácvik psaní desetiprstovou metodou na klávesnici počítačů. Dále zahrnuje normalizovanou úpravu písemností, úlohy pro přepis textů s korekturními znaménky,...",153,189,"['naučná', '', 'české, Fortuna Print, Kroužek Jiří, Kuldová Olga']"
+n21052030,Savoniův rotor - Návod na stavbu - Schulz Heinz,85,2,2005,78,české,naučná,Heinz Schulz</p>,,"Savoniův rotor využívá energie větru na jiném principu než vrtule. Má jiné charakteristiky, příznivější zejména při slabém větru. V knize je detailně popsána stavba zařízení a...",61,88,"['naučná', '', 'české, Heinz Schulz']"
+n2146541,"Rady bylináře Pavla 2 -- Léčba bylinami a přírodními prostředky - Pavel Váňa, Jiří Kuchař",94,4,2005,134,české,naučná,Pavel Váňa</p>,,"Rady bylináře Pavla patří do zlatého fondu české fytoterapie. Jejich druhé pokračování, které vychází téměř patnáct let po vydání první knihy, obsahuje nejlepší recepty, které...",120,179,"['naučná', '', 'české, Eminent, Pavel Váňa']"
+n407109412,"Řasa Jaroslav, Gabriel V. - Strojírenská technologie 3, 1. díl",0,0,2005,156,české,naučná,Gabriel Vladimí</p>,,"Učebnice seznamuje se zásadami přípravy materiálu (polotovarů), tj. rovnání, orýsování, polohování, ustavování a středění. Uvádí princip metod dělení materiálu, používané...",145,220,"['naučná', '', 'české, Řasa Jaroslav, Gabriel Vladimí']"
+n51151643,Dieta X Hume Tabitha,78,4,2005,164,české,naučná,Hume Tabitha</p>,,"Seriózní doporučení renomované klinické dietetičky jak ""zdravě zhubnout"" a přitom neomezovat své chutě a zálibu v jídle a pestré stravě. Autorka využívá nejnovějších poznatků,...",58,89,"['naučná', '', 'české, Hume Tabitha']"
+n495213234,Falzifikace a falzifikátoři českých dějin - Josef Staněk,100,2,2005,150,české,naučná,Staněk Josef</p>,,"Agape Brno na četné intervence vydalo znovu dotisk knihy Falsifikace a falsifikátoři českých dějin, tj. jiného výkladu některých událostí českých dějin než je běžně uváděn....",105,122,"['naučná', '', 'české, Staněk Josef']"
+n2162032,Příběh tajné lásky -- Eliška Kateřina Smiřická a její sexuální skandál - Francek Jindřich,80,1,2005,168,české,naučná,Jindřich Francek</p>,,"Příběh tajné lásky kniha od autora Jindřich Francek. Příběh tajné lásky Elišky Kateřiny Smiřické, která se beznadějně zamilovala do poddaného, kováře Jiříka Wagnera. Kniha...",135,173,"['naučná', '', 'české, Havran, Jindřich Francek']"
+n23175612,Jak pracuje počítač,0,0,2005,1,české,naučná,Computer Media</p>,,Nejoblíbenější nástěnný obraz z naší nabídky. Zobrazuje rozložené interní komponenty osobního počítače včetně popisu jejich funkce. V samostatných čtvercích jsou připojeny...,331,342,"['naučná', '', 'české, Computer Media']"
+n2162448,"Olomouc rabína Bertholda Oppenheima - kolektiv, Melotík Zdeněk",0,0,2005,128,české,naučná,Zdeněk Melotík</p>,,"Kategorie 
+
+Regionální literatura - Olomoucký kraj 
+
+Filozofie a náboženství - Judaismus 
+
+Historie - Podle období - Moderní dějiny 
+
+Historie - Podle zemí a kontinentů - České...",140,140,"['naučná', '', 'české, Zdeněk Melotík']"
+n51153020,Zen a umění lukostřelby,70,1,2005,94,české,naučná,Eugen Herrigel</p>,,"V lukostřelbě střelec a zásah nejsou dvěma objekty v opozici, ale jsou totožnou realitou. Lukostřelec si přestává být vědom sám sebe jako někoho, jako někoho, kdo je zaměřen na...",95,120,"['naučná', '', 'české, Pragma, Eugen Herrigel']"
+n559680,Malujeme pastel II -- Motivy zvířat - Ute Ludwigsen-Kaiser,80,4,2005,32,české,naučná,Janáčková Zita</p>,,V knížce Malujeme pastel II - Motivy zvířat je popsán a vyobrazen postup při tvorbě pastelem od náčrtu až k hotovému obrázku. Všechny vybrané motivy jsou ukázány krok za krokem...,53,79,"['naučná', '', 'české, ANAGRAM, Janáčková Zita']"
+n455348238,Koření a jeho léčivé účinky - Valíček Pavel,100,2,2005,136,české,naučná,Pavel Valíček</p>,,"Milovníci koření jistě ocení informace z knihy Koření a jeho léčivé účinky nejen o využití jednotlivých druhů v kuchyni, ale i o jejich léčivých účincích.
+
+Popis
+
+Úryvek z...",103,157,"['naučná', '', 'české, EUROMEDIA GROUP a.s., Pavel Valíček']"
+n454360778,Moderní ruční palné zbraně - Ian V. Hogg,0,0,2005,164,české,naučná,Hogg Ian V.</p>,,Kniha Moderní ruční palné zbraně představuje reprezentativní průřez mnohotvárné oblasti více či méně moderních dlouhých a krátkých zbraní a má stručnou a srozumitelnou formou...,193,299,"['naučná', '', 'české, Naše vojsko, Hogg Ian V.']"
+n544892,"Naše první terárium, Plánování a zakládání vybavení. Zařízení a úprava. Nejvhodnější chovanci..",100,1,2005,72,české,naučná,Manfred Rogner</p>,,"Jazyk: český
+Počet stran: 70
+Rok vydání: 2005
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: GRANIT S.R.O. NAKLADATELSVÍ",52,79,"['naučná', '', 'české, Granit, Manfred Rogner']"
+n562997,Jak milovat a udržet si mladšího muže - Richter Ursula,0,0,2005,158,české,naučná,Ursula Richter</p>,,"Láska starší ženy k mladšímu muži je stále ještě považována za neobvyklý, často dokonce nežádoucí jev. Vídeňská socioložka Ursula Richter ukazuje neobvyklé naděje, které mnoho...",79,160,"['naučná', '', 'české, Pragma, Ursula Richter']"
+n45050626,Reiki pro fyzické a psychické zdraví,97,1,2005,158,české,naučná,Jarmila Riegerová</p>,,"Reiki je učení práce s vesmírnou energií, jež ze své vlastní podstaty původu nemůže ublížit nebo být zneužita. Rei v překladu znamená vesmírný, životodárný a Ki znamená...",141,232,"['naučná', '', 'české, Fontána, Jarmila Riegerová']"
+n51133100,Překonávání konfliktů v rodině - Béatrice Trélaün,0,0,2005,136,české,naučná,Béatrice Trélaün</p>,,"V každodenním rodinném životě a během vývoje rodiny dochází občas nebo i často k nedorozuměním, hádkám a střetům. Někdo je tváří v tvář těm druhým odzbrojen, někdo reaguje...",156,200,"['naučná', '', 'české, Portál, Béatrice Trélaün']"
+n51028301,Man-čching Čeng: Tchaj-ťi čchüan,95,2,2005,144,české,naučná,Čeng Man-čching</p>,,"První české vydání knihy, která patří ke klasickým textům zabývajících se touto disciplínou. Profesor Cheng byl přímým žákem slavného Jang Čeng-Fua a díky svému tvůrčímu...",133,170,"['naučná', '', 'české, Argo, Čeng Man-čching']"
+n4421801,"Akné, Přířiny, projevy a terapeutické možnosti",90,1,2005,116,české,naučná,Jarmila Rulcová</p>,,"Rozsah a četnost vědeckých prací na téma akné odpovídá častosti výskytu této choroby. Pro průměrného adolescenta však samotné vědecké údaje mnoho nepomohou, setkáváme se s...",136,219,"['naučná', '', 'české, Triton, Jarmila Rulcová']"
+n21842179,"Srdce, které tančí -- Esence nauky - Púndža H. W. L.",100,1,2005,154,české,naučná,H. W. L. Púndža</p>,,"Nauka známého indického duchovního učitele (osobitého následovníka Šrí Ramany Maharšiho) podaná zhuštěnou literární formou.
+Ukázka z knihy:
+Nic nestojí mimo Prázdnotu, a proto...",288,288,"['naučná', '', 'české, H. W. L. Púndža']"
+n569764,Vředová choroba - MUDr. Pavel Kohout,0,0,2005,76,české,naučná,Pavel Kohout</p>,,"Anotace: V posledních 20 letech došlo k zásadní změně v pochopení etiopatogeneze vředové choroby žaludku a duodena, zejména přiznáním zásadní role H. pylori. Tradiční spektrum...",128,195,"['naučná', '', 'české, Pavel Kohout']"
+n30705068,Z každého z nás postupem let něco zmizí,0,0,2005,56,české,naučná,Kolář Jiří,,Knižně publikovaný rozhovor literárního historika Michala Bauera s básníkem a výtvarníkem po jeho návratu z exilu do Prahy je umělcovým ohlédnutím se za uplynulými léty a...,231,360,"['naučná', '', 'české, Bauer Michal, Kolář Jiří']"
+n23553941,GSM alarm - přenos poplachu na mobilní telefon,0,0,2005,84,české,naučná,Tomáš Flajzar</p>,,"V této knize je popsán postup, jak si v amatérských podmínkách vyrobit vlastní systém zabezpečení právě s využitím moderní signalizace narušení na mobilní telefon majitele,...",474,509,"['naučná', '', 'české, Tomáš Flajzar']"
+n461311755,Oděvní stroje a zařízení I,0,0,2005,112,české,naučná,Haas Václav</p>,,"Pro 1 ročník SOU a SOŠ
+Rozdělení a jednotlivé typy šicích strojů, popis jejich součástí, obsluhy a údržby, bezpečnost a ochrana zdraví při práci.",157,185,"['naučná', '', 'české, Haas Václav']"
+n30705106,P.S. Psové,0,0,2005,112,české,naučná,Erazim Kohák</p>,,"P.S. Psové kniha od autora Erazim Kohák. Reedice jedné z nejžádanějších a samotným autorem z jeho díla nejvíce ceněných knížek, v níž v krátkých brilantních úvahách staví proti...",101,126,"['naučná', '', 'české, Erazim Kohák']"
+n45152024,Tillandsia 1 - Začínáme s tilandsiemi - Antonín Lukscheiter,100,1,2005,145,české,naučná,Lukscheiter Antonín,,"Kniha je určena všem, kteří pěstují okrasné rostliny pro potěchu i lásku k přírodě. Obdivují její pestrost a zajímají se o méně známé, ale o to podivuhodnější rostliny -...",137,199,"['naučná', '', 'české, Lukscheiter Antonín, Lukscheit']"
+n45332530,"Povoláním filosof - F.-X. Putallaz, Ruedi Imbach",0,0,2005,144,české,naučná,Platón</p>,,Dva prvořadí medievalisté v této krátké knížce z roku 1997 shrnují všechny dostupné poznatky o jedné z nekontroverznějších postav středověkého myšlení a nabízejí zcela novou...,132,178,"['naučná', '', 'české, Platón']"
+n51140325,Samopal vz. 58,92,6,2005,148,české,naučná,Fencl Jiří</p>,,Renomovaný odborný publicista Ing. Jiří Fencl shrnul v této knize všechny v současné době dostupné informace o známém čs. samopalu vz. 58. Kniha začíná stručnou informací o...,174,400,"['naučná', '', 'české, Naše vojsko, Fencl Jiří']"
+n435059,Teorie osobnosti - Dragomirecký Andrej,0,0,2005,142,české,naučná,Andrej Dragomirecký</p>,,Teorie osobnosti popsaná v této knize uvádí v mnoha ohledech zcela nová řešení problematiky psychologie osobnosti a otázek s tím spojených. Kromě dalších věcí je například...,124,124,"['naučná', '', 'české, Andrej Dragomirecký']"
+n554253,Vše o tucích typu omega - 3 -- Odpovědi na základní otázky týkající se mastných kyselin typu omega-3 - Clara Felix,94,3,2005,112,české,naučná,Clara Felix</p>,,"Odpovědi na základní otázky týkající se mastných kyselin typu omega-3, proč je potřebujeme, v jakém množství a mnohem více informací.
+Se vzrůstající popularitou doplňků...",23,79,"['naučná', '', 'české, Pragma, Clara Felix']"
+n450810409,"Písemná a elektronická komunikace 1 - Kroužek, Jiří; Kuldová, Olga",0,0,2005,144,české,naučná,Kuldová Olga</p>,,"Publikace obsahuje nácvik psaní desetiprstovou metodou na klávesnici počítačů. Dále zahrnuje normalizovanou úpravu písemností, úlohy pro přepis textů s korekturními znaménky,...",153,189,"['naučná', '', 'české, Fortuna Print, Kroužek Jiří, Kuldová Olga']"
+n21052030,Savoniův rotor - Návod na stavbu - Schulz Heinz,85,2,2005,78,české,naučná,Heinz Schulz</p>,,"Savoniův rotor využívá energie větru na jiném principu než vrtule. Má jiné charakteristiky, příznivější zejména při slabém větru. V knize je detailně popsána stavba zařízení a...",61,88,"['naučná', '', 'české, Heinz Schulz']"
+n2146541,"Rady bylináře Pavla 2 -- Léčba bylinami a přírodními prostředky - Pavel Váňa, Jiří Kuchař",94,4,2005,134,české,naučná,Pavel Váňa</p>,,"Rady bylináře Pavla patří do zlatého fondu české fytoterapie. Jejich druhé pokračování, které vychází téměř patnáct let po vydání první knihy, obsahuje nejlepší recepty, které...",120,179,"['naučná', '', 'české, Eminent, Pavel Váňa']"
+n407109412,"Řasa Jaroslav, Gabriel V. - Strojírenská technologie 3, 1. díl",0,0,2005,156,české,naučná,Gabriel Vladimí</p>,,"Učebnice seznamuje se zásadami přípravy materiálu (polotovarů), tj. rovnání, orýsování, polohování, ustavování a středění. Uvádí princip metod dělení materiálu, používané...",145,220,"['naučná', '', 'české, Řasa Jaroslav, Gabriel Vladimí']"
+n51151643,Dieta X Hume Tabitha,78,4,2005,164,české,naučná,Hume Tabitha</p>,,"Seriózní doporučení renomované klinické dietetičky jak ""zdravě zhubnout"" a přitom neomezovat své chutě a zálibu v jídle a pestré stravě. Autorka využívá nejnovějších poznatků,...",58,89,"['naučná', '', 'české, Hume Tabitha']"
+n495213234,Falzifikace a falzifikátoři českých dějin - Josef Staněk,100,2,2005,150,české,naučná,Staněk Josef</p>,,"Agape Brno na četné intervence vydalo znovu dotisk knihy Falsifikace a falsifikátoři českých dějin, tj. jiného výkladu některých událostí českých dějin než je běžně uváděn....",105,122,"['naučná', '', 'české, Staněk Josef']"
+n2162032,Příběh tajné lásky -- Eliška Kateřina Smiřická a její sexuální skandál - Francek Jindřich,80,1,2005,168,české,naučná,Jindřich Francek</p>,,"Příběh tajné lásky kniha od autora Jindřich Francek. Příběh tajné lásky Elišky Kateřiny Smiřické, která se beznadějně zamilovala do poddaného, kováře Jiříka Wagnera. Kniha...",135,173,"['naučná', '', 'české, Havran, Jindřich Francek']"
+n23175612,Jak pracuje počítač,0,0,2005,1,české,naučná,Computer Media</p>,,Nejoblíbenější nástěnný obraz z naší nabídky. Zobrazuje rozložené interní komponenty osobního počítače včetně popisu jejich funkce. V samostatných čtvercích jsou připojeny...,331,342,"['naučná', '', 'české, Computer Media']"
+n2162448,"Olomouc rabína Bertholda Oppenheima - kolektiv, Melotík Zdeněk",0,0,2005,128,české,naučná,Zdeněk Melotík</p>,,"Kategorie 
+
+Regionální literatura - Olomoucký kraj 
+
+Filozofie a náboženství - Judaismus 
+
+Historie - Podle období - Moderní dějiny 
+
+Historie - Podle zemí a kontinentů - České...",140,140,"['naučná', '', 'české, Zdeněk Melotík']"
+n51153020,Zen a umění lukostřelby,70,1,2005,94,české,naučná,Eugen Herrigel</p>,,"V lukostřelbě střelec a zásah nejsou dvěma objekty v opozici, ale jsou totožnou realitou. Lukostřelec si přestává být vědom sám sebe jako někoho, jako někoho, kdo je zaměřen na...",95,120,"['naučná', '', 'české, Pragma, Eugen Herrigel']"
+n559680,Malujeme pastel II -- Motivy zvířat - Ute Ludwigsen-Kaiser,80,4,2005,32,české,naučná,Janáčková Zita</p>,,V knížce Malujeme pastel II - Motivy zvířat je popsán a vyobrazen postup při tvorbě pastelem od náčrtu až k hotovému obrázku. Všechny vybrané motivy jsou ukázány krok za krokem...,53,79,"['naučná', '', 'české, ANAGRAM, Janáčková Zita']"
+n455348238,Koření a jeho léčivé účinky - Valíček Pavel,100,2,2005,136,české,naučná,Pavel Valíček</p>,,"Milovníci koření jistě ocení informace z knihy Koření a jeho léčivé účinky nejen o využití jednotlivých druhů v kuchyni, ale i o jejich léčivých účincích.
+
+Popis
+
+Úryvek z...",103,157,"['naučná', '', 'české, EUROMEDIA GROUP a.s., Pavel Valíček']"
+n454360778,Moderní ruční palné zbraně - Ian V. Hogg,0,0,2005,164,české,naučná,Hogg Ian V.</p>,,Kniha Moderní ruční palné zbraně představuje reprezentativní průřez mnohotvárné oblasti více či méně moderních dlouhých a krátkých zbraní a má stručnou a srozumitelnou formou...,193,299,"['naučná', '', 'české, Naše vojsko, Hogg Ian V.']"
+n544892,"Naše první terárium, Plánování a zakládání vybavení. Zařízení a úprava. Nejvhodnější chovanci..",100,1,2005,72,české,naučná,Manfred Rogner</p>,,"Jazyk: český
+Počet stran: 70
+Rok vydání: 2005
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: GRANIT S.R.O. NAKLADATELSVÍ",52,79,"['naučná', '', 'české, Granit, Manfred Rogner']"
+n562997,Jak milovat a udržet si mladšího muže - Richter Ursula,0,0,2005,158,české,naučná,Ursula Richter</p>,,"Láska starší ženy k mladšímu muži je stále ještě považována za neobvyklý, často dokonce nežádoucí jev. Vídeňská socioložka Ursula Richter ukazuje neobvyklé naděje, které mnoho...",79,160,"['naučná', '', 'české, Pragma, Ursula Richter']"
+n45050626,Reiki pro fyzické a psychické zdraví,97,1,2005,158,české,naučná,Jarmila Riegerová</p>,,"Reiki je učení práce s vesmírnou energií, jež ze své vlastní podstaty původu nemůže ublížit nebo být zneužita. Rei v překladu znamená vesmírný, životodárný a Ki znamená...",141,232,"['naučná', '', 'české, Fontána, Jarmila Riegerová']"
+n51133100,Překonávání konfliktů v rodině - Béatrice Trélaün,0,0,2005,136,české,naučná,Béatrice Trélaün</p>,,"V každodenním rodinném životě a během vývoje rodiny dochází občas nebo i často k nedorozuměním, hádkám a střetům. Někdo je tváří v tvář těm druhým odzbrojen, někdo reaguje...",156,200,"['naučná', '', 'české, Portál, Béatrice Trélaün']"
+n51028301,Man-čching Čeng: Tchaj-ťi čchüan,95,2,2005,144,české,naučná,Čeng Man-čching</p>,,"První české vydání knihy, která patří ke klasickým textům zabývajících se touto disciplínou. Profesor Cheng byl přímým žákem slavného Jang Čeng-Fua a díky svému tvůrčímu...",133,170,"['naučná', '', 'české, Argo, Čeng Man-čching']"
+n4421801,"Akné, Přířiny, projevy a terapeutické možnosti",90,1,2005,116,české,naučná,Jarmila Rulcová</p>,,"Rozsah a četnost vědeckých prací na téma akné odpovídá častosti výskytu této choroby. Pro průměrného adolescenta však samotné vědecké údaje mnoho nepomohou, setkáváme se s...",136,219,"['naučná', '', 'české, Triton, Jarmila Rulcová']"
+n21842179,"Srdce, které tančí -- Esence nauky - Púndža H. W. L.",100,1,2005,154,české,naučná,H. W. L. Púndža</p>,,"Nauka známého indického duchovního učitele (osobitého následovníka Šrí Ramany Maharšiho) podaná zhuštěnou literární formou.
+Ukázka z knihy:
+Nic nestojí mimo Prázdnotu, a proto...",288,288,"['naučná', '', 'české, H. W. L. Púndža']"
+n569764,Vředová choroba - MUDr. Pavel Kohout,0,0,2005,76,české,naučná,Pavel Kohout</p>,,"Anotace: V posledních 20 letech došlo k zásadní změně v pochopení etiopatogeneze vředové choroby žaludku a duodena, zejména přiznáním zásadní role H. pylori. Tradiční spektrum...",128,195,"['naučná', '', 'české, Pavel Kohout']"
+n30705068,Z každého z nás postupem let něco zmizí,0,0,2005,56,české,naučná,Kolář Jiří,,Knižně publikovaný rozhovor literárního historika Michala Bauera s básníkem a výtvarníkem po jeho návratu z exilu do Prahy je umělcovým ohlédnutím se za uplynulými léty a...,231,360,"['naučná', '', 'české, Bauer Michal, Kolář Jiří']"
+n23553941,GSM alarm - přenos poplachu na mobilní telefon,0,0,2005,84,české,naučná,Tomáš Flajzar</p>,,"V této knize je popsán postup, jak si v amatérských podmínkách vyrobit vlastní systém zabezpečení právě s využitím moderní signalizace narušení na mobilní telefon majitele,...",474,509,"['naučná', '', 'české, Tomáš Flajzar']"
+n461311755,Oděvní stroje a zařízení I,0,0,2005,112,české,naučná,Haas Václav</p>,,"Pro 1 ročník SOU a SOŠ
+Rozdělení a jednotlivé typy šicích strojů, popis jejich součástí, obsluhy a údržby, bezpečnost a ochrana zdraví při práci.",157,185,"['naučná', '', 'české, Haas Václav']"
+n30705106,P.S. Psové,0,0,2005,112,české,naučná,Erazim Kohák</p>,,"P.S. Psové kniha od autora Erazim Kohák. Reedice jedné z nejžádanějších a samotným autorem z jeho díla nejvíce ceněných knížek, v níž v krátkých brilantních úvahách staví proti...",101,126,"['naučná', '', 'české, Erazim Kohák']"
+n45152024,Tillandsia 1 - Začínáme s tilandsiemi - Antonín Lukscheiter,100,1,2005,145,české,naučná,Lukscheiter Antonín,,"Kniha je určena všem, kteří pěstují okrasné rostliny pro potěchu i lásku k přírodě. Obdivují její pestrost a zajímají se o méně známé, ale o to podivuhodnější rostliny -...",137,199,"['naučná', '', 'české, Lukscheiter Antonín, Lukscheit']"
+n45332530,"Povoláním filosof - F.-X. Putallaz, Ruedi Imbach",0,0,2005,144,české,naučná,Platón</p>,,Dva prvořadí medievalisté v této krátké knížce z roku 1997 shrnují všechny dostupné poznatky o jedné z nekontroverznějších postav středověkého myšlení a nabízejí zcela novou...,132,178,"['naučná', '', 'české, Platón']"
+n51140325,Samopal vz. 58,92,6,2005,148,české,naučná,Fencl Jiří</p>,,Renomovaný odborný publicista Ing. Jiří Fencl shrnul v této knize všechny v současné době dostupné informace o známém čs. samopalu vz. 58. Kniha začíná stručnou informací o...,174,400,"['naučná', '', 'české, Naše vojsko, Fencl Jiří']"
+n435059,Teorie osobnosti - Dragomirecký Andrej,0,0,2005,142,české,naučná,Andrej Dragomirecký</p>,,Teorie osobnosti popsaná v této knize uvádí v mnoha ohledech zcela nová řešení problematiky psychologie osobnosti a otázek s tím spojených. Kromě dalších věcí je například...,124,124,"['naučná', '', 'české, Andrej Dragomirecký']"
+n554253,Vše o tucích typu omega - 3 -- Odpovědi na základní otázky týkající se mastných kyselin typu omega-3 - Clara Felix,94,3,2005,112,české,naučná,Clara Felix</p>,,"Odpovědi na základní otázky týkající se mastných kyselin typu omega-3, proč je potřebujeme, v jakém množství a mnohem více informací.
+Se vzrůstající popularitou doplňků...",23,79,"['naučná', '', 'české, Pragma, Clara Felix']"
+n450810409,"Písemná a elektronická komunikace 1 - Kroužek, Jiří; Kuldová, Olga",0,0,2005,144,české,naučná,Kuldová Olga</p>,,"Publikace obsahuje nácvik psaní desetiprstovou metodou na klávesnici počítačů. Dále zahrnuje normalizovanou úpravu písemností, úlohy pro přepis textů s korekturními znaménky,...",153,189,"['naučná', '', 'české, Fortuna Print, Kroužek Jiří, Kuldová Olga']"
+n21052030,Savoniův rotor - Návod na stavbu - Schulz Heinz,85,2,2005,78,české,naučná,Heinz Schulz</p>,,"Savoniův rotor využívá energie větru na jiném principu než vrtule. Má jiné charakteristiky, příznivější zejména při slabém větru. V knize je detailně popsána stavba zařízení a...",61,88,"['naučná', '', 'české, Heinz Schulz']"
+n2146541,"Rady bylináře Pavla 2 -- Léčba bylinami a přírodními prostředky - Pavel Váňa, Jiří Kuchař",94,4,2005,134,české,naučná,Pavel Váňa</p>,,"Rady bylináře Pavla patří do zlatého fondu české fytoterapie. Jejich druhé pokračování, které vychází téměř patnáct let po vydání první knihy, obsahuje nejlepší recepty, které...",120,179,"['naučná', '', 'české, Eminent, Pavel Váňa']"
+n407109412,"Řasa Jaroslav, Gabriel V. - Strojírenská technologie 3, 1. díl",0,0,2005,156,české,naučná,Gabriel Vladimí</p>,,"Učebnice seznamuje se zásadami přípravy materiálu (polotovarů), tj. rovnání, orýsování, polohování, ustavování a středění. Uvádí princip metod dělení materiálu, používané...",145,220,"['naučná', '', 'české, Řasa Jaroslav, Gabriel Vladimí']"
+n51151643,Dieta X Hume Tabitha,78,4,2005,164,české,naučná,Hume Tabitha</p>,,"Seriózní doporučení renomované klinické dietetičky jak ""zdravě zhubnout"" a přitom neomezovat své chutě a zálibu v jídle a pestré stravě. Autorka využívá nejnovějších poznatků,...",58,89,"['naučná', '', 'české, Hume Tabitha']"
+n495213234,Falzifikace a falzifikátoři českých dějin - Josef Staněk,100,2,2005,150,české,naučná,Staněk Josef</p>,,"Agape Brno na četné intervence vydalo znovu dotisk knihy Falsifikace a falsifikátoři českých dějin, tj. jiného výkladu některých událostí českých dějin než je běžně uváděn....",105,122,"['naučná', '', 'české, Staněk Josef']"
+n2162032,Příběh tajné lásky -- Eliška Kateřina Smiřická a její sexuální skandál - Francek Jindřich,80,1,2005,168,české,naučná,Jindřich Francek</p>,,"Příběh tajné lásky kniha od autora Jindřich Francek. Příběh tajné lásky Elišky Kateřiny Smiřické, která se beznadějně zamilovala do poddaného, kováře Jiříka Wagnera. Kniha...",135,173,"['naučná', '', 'české, Havran, Jindřich Francek']"
+n23175612,Jak pracuje počítač,0,0,2005,1,české,naučná,Computer Media</p>,,Nejoblíbenější nástěnný obraz z naší nabídky. Zobrazuje rozložené interní komponenty osobního počítače včetně popisu jejich funkce. V samostatných čtvercích jsou připojeny...,331,342,"['naučná', '', 'české, Computer Media']"
+n2162448,"Olomouc rabína Bertholda Oppenheima - kolektiv, Melotík Zdeněk",0,0,2005,128,české,naučná,Zdeněk Melotík</p>,,"Kategorie 
+
+Regionální literatura - Olomoucký kraj 
+
+Filozofie a náboženství - Judaismus 
+
+Historie - Podle období - Moderní dějiny 
+
+Historie - Podle zemí a kontinentů - České...",140,140,"['naučná', '', 'české, Zdeněk Melotík']"
+n51153020,Zen a umění lukostřelby,70,1,2005,94,české,naučná,Eugen Herrigel</p>,,"V lukostřelbě střelec a zásah nejsou dvěma objekty v opozici, ale jsou totožnou realitou. Lukostřelec si přestává být vědom sám sebe jako někoho, jako někoho, kdo je zaměřen na...",95,120,"['naučná', '', 'české, Pragma, Eugen Herrigel']"
+n559680,Malujeme pastel II -- Motivy zvířat - Ute Ludwigsen-Kaiser,80,4,2005,32,české,naučná,Janáčková Zita</p>,,V knížce Malujeme pastel II - Motivy zvířat je popsán a vyobrazen postup při tvorbě pastelem od náčrtu až k hotovému obrázku. Všechny vybrané motivy jsou ukázány krok za krokem...,53,79,"['naučná', '', 'české, ANAGRAM, Janáčková Zita']"
+n455348238,Koření a jeho léčivé účinky - Valíček Pavel,100,2,2005,136,české,naučná,Pavel Valíček</p>,,"Milovníci koření jistě ocení informace z knihy Koření a jeho léčivé účinky nejen o využití jednotlivých druhů v kuchyni, ale i o jejich léčivých účincích.
+
+Popis
+
+Úryvek z...",103,157,"['naučná', '', 'české, EUROMEDIA GROUP a.s., Pavel Valíček']"
+n454360778,Moderní ruční palné zbraně - Ian V. Hogg,0,0,2005,164,české,naučná,Hogg Ian V.</p>,,Kniha Moderní ruční palné zbraně představuje reprezentativní průřez mnohotvárné oblasti více či méně moderních dlouhých a krátkých zbraní a má stručnou a srozumitelnou formou...,193,299,"['naučná', '', 'české, Naše vojsko, Hogg Ian V.']"
+n544892,"Naše první terárium, Plánování a zakládání vybavení. Zařízení a úprava. Nejvhodnější chovanci..",100,1,2005,72,české,naučná,Manfred Rogner</p>,,"Jazyk: český
+Počet stran: 70
+Rok vydání: 2005
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: GRANIT S.R.O. NAKLADATELSVÍ",52,79,"['naučná', '', 'české, Granit, Manfred Rogner']"
+n562997,Jak milovat a udržet si mladšího muže - Richter Ursula,0,0,2005,158,české,naučná,Ursula Richter</p>,,"Láska starší ženy k mladšímu muži je stále ještě považována za neobvyklý, často dokonce nežádoucí jev. Vídeňská socioložka Ursula Richter ukazuje neobvyklé naděje, které mnoho...",79,160,"['naučná', '', 'české, Pragma, Ursula Richter']"
+n45050626,Reiki pro fyzické a psychické zdraví,97,1,2005,158,české,naučná,Jarmila Riegerová</p>,,"Reiki je učení práce s vesmírnou energií, jež ze své vlastní podstaty původu nemůže ublížit nebo být zneužita. Rei v překladu znamená vesmírný, životodárný a Ki znamená...",141,232,"['naučná', '', 'české, Fontána, Jarmila Riegerová']"
+n51133100,Překonávání konfliktů v rodině - Béatrice Trélaün,0,0,2005,136,české,naučná,Béatrice Trélaün</p>,,"V každodenním rodinném životě a během vývoje rodiny dochází občas nebo i často k nedorozuměním, hádkám a střetům. Někdo je tváří v tvář těm druhým odzbrojen, někdo reaguje...",156,200,"['naučná', '', 'české, Portál, Béatrice Trélaün']"
+n51028301,Man-čching Čeng: Tchaj-ťi čchüan,95,2,2005,144,české,naučná,Čeng Man-čching</p>,,"První české vydání knihy, která patří ke klasickým textům zabývajících se touto disciplínou. Profesor Cheng byl přímým žákem slavného Jang Čeng-Fua a díky svému tvůrčímu...",133,170,"['naučná', '', 'české, Argo, Čeng Man-čching']"
+n4421801,"Akné, Přířiny, projevy a terapeutické možnosti",90,1,2005,116,české,naučná,Jarmila Rulcová</p>,,"Rozsah a četnost vědeckých prací na téma akné odpovídá častosti výskytu této choroby. Pro průměrného adolescenta však samotné vědecké údaje mnoho nepomohou, setkáváme se s...",136,219,"['naučná', '', 'české, Triton, Jarmila Rulcová']"
+n21842179,"Srdce, které tančí -- Esence nauky - Púndža H. W. L.",100,1,2005,154,české,naučná,H. W. L. Púndža</p>,,"Nauka známého indického duchovního učitele (osobitého následovníka Šrí Ramany Maharšiho) podaná zhuštěnou literární formou.
+Ukázka z knihy:
+Nic nestojí mimo Prázdnotu, a proto...",288,288,"['naučná', '', 'české, H. W. L. Púndža']"
+n569764,Vředová choroba - MUDr. Pavel Kohout,0,0,2005,76,české,naučná,Pavel Kohout</p>,,"Anotace: V posledních 20 letech došlo k zásadní změně v pochopení etiopatogeneze vředové choroby žaludku a duodena, zejména přiznáním zásadní role H. pylori. Tradiční spektrum...",128,195,"['naučná', '', 'české, Pavel Kohout']"
+n30705068,Z každého z nás postupem let něco zmizí,0,0,2005,56,české,naučná,Kolář Jiří,,Knižně publikovaný rozhovor literárního historika Michala Bauera s básníkem a výtvarníkem po jeho návratu z exilu do Prahy je umělcovým ohlédnutím se za uplynulými léty a...,231,360,"['naučná', '', 'české, Bauer Michal, Kolář Jiří']"
+n23553941,GSM alarm - přenos poplachu na mobilní telefon,0,0,2005,84,české,naučná,Tomáš Flajzar</p>,,"V této knize je popsán postup, jak si v amatérských podmínkách vyrobit vlastní systém zabezpečení právě s využitím moderní signalizace narušení na mobilní telefon majitele,...",474,509,"['naučná', '', 'české, Tomáš Flajzar']"
+n461311755,Oděvní stroje a zařízení I,0,0,2005,112,české,naučná,Haas Václav</p>,,"Pro 1 ročník SOU a SOŠ
+Rozdělení a jednotlivé typy šicích strojů, popis jejich součástí, obsluhy a údržby, bezpečnost a ochrana zdraví při práci.",157,185,"['naučná', '', 'české, Haas Václav']"
+n30705106,P.S. Psové,0,0,2005,112,české,naučná,Erazim Kohák</p>,,"P.S. Psové kniha od autora Erazim Kohák. Reedice jedné z nejžádanějších a samotným autorem z jeho díla nejvíce ceněných knížek, v níž v krátkých brilantních úvahách staví proti...",101,126,"['naučná', '', 'české, Erazim Kohák']"
+n45152024,Tillandsia 1 - Začínáme s tilandsiemi - Antonín Lukscheiter,100,1,2005,145,české,naučná,Lukscheiter Antonín,,"Kniha je určena všem, kteří pěstují okrasné rostliny pro potěchu i lásku k přírodě. Obdivují její pestrost a zajímají se o méně známé, ale o to podivuhodnější rostliny -...",137,199,"['naučná', '', 'české, Lukscheiter Antonín, Lukscheit']"
+n45332530,"Povoláním filosof - F.-X. Putallaz, Ruedi Imbach",0,0,2005,144,české,naučná,Platón</p>,,Dva prvořadí medievalisté v této krátké knížce z roku 1997 shrnují všechny dostupné poznatky o jedné z nekontroverznějších postav středověkého myšlení a nabízejí zcela novou...,132,178,"['naučná', '', 'české, Platón']"
+n51140325,Samopal vz. 58,92,6,2005,148,české,naučná,Fencl Jiří</p>,,Renomovaný odborný publicista Ing. Jiří Fencl shrnul v této knize všechny v současné době dostupné informace o známém čs. samopalu vz. 58. Kniha začíná stručnou informací o...,174,400,"['naučná', '', 'české, Naše vojsko, Fencl Jiří']"
+n435059,Teorie osobnosti - Dragomirecký Andrej,0,0,2005,142,české,naučná,Andrej Dragomirecký</p>,,Teorie osobnosti popsaná v této knize uvádí v mnoha ohledech zcela nová řešení problematiky psychologie osobnosti a otázek s tím spojených. Kromě dalších věcí je například...,124,124,"['naučná', '', 'české, Andrej Dragomirecký']"
+n554253,Vše o tucích typu omega - 3 -- Odpovědi na základní otázky týkající se mastných kyselin typu omega-3 - Clara Felix,94,3,2005,112,české,naučná,Clara Felix</p>,,"Odpovědi na základní otázky týkající se mastných kyselin typu omega-3, proč je potřebujeme, v jakém množství a mnohem více informací.
+Se vzrůstající popularitou doplňků...",23,79,"['naučná', '', 'české, Pragma, Clara Felix']"
+n450810409,"Písemná a elektronická komunikace 1 - Kroužek, Jiří; Kuldová, Olga",0,0,2005,144,české,naučná,Kuldová Olga</p>,,"Publikace obsahuje nácvik psaní desetiprstovou metodou na klávesnici počítačů. Dále zahrnuje normalizovanou úpravu písemností, úlohy pro přepis textů s korekturními znaménky,...",153,189,"['naučná', '', 'české, Fortuna Print, Kroužek Jiří, Kuldová Olga']"
+n21052030,Savoniův rotor - Návod na stavbu - Schulz Heinz,85,2,2005,78,české,naučná,Heinz Schulz</p>,,"Savoniův rotor využívá energie větru na jiném principu než vrtule. Má jiné charakteristiky, příznivější zejména při slabém větru. V knize je detailně popsána stavba zařízení a...",61,88,"['naučná', '', 'české, Heinz Schulz']"
+n2146541,"Rady bylináře Pavla 2 -- Léčba bylinami a přírodními prostředky - Pavel Váňa, Jiří Kuchař",94,4,2005,134,české,naučná,Pavel Váňa</p>,,"Rady bylináře Pavla patří do zlatého fondu české fytoterapie. Jejich druhé pokračování, které vychází téměř patnáct let po vydání první knihy, obsahuje nejlepší recepty, které...",120,179,"['naučná', '', 'české, Eminent, Pavel Váňa']"
+n407109412,"Řasa Jaroslav, Gabriel V. - Strojírenská technologie 3, 1. díl",0,0,2005,156,české,naučná,Gabriel Vladimí</p>,,"Učebnice seznamuje se zásadami přípravy materiálu (polotovarů), tj. rovnání, orýsování, polohování, ustavování a středění. Uvádí princip metod dělení materiálu, používané...",145,220,"['naučná', '', 'české, Řasa Jaroslav, Gabriel Vladimí']"
+n51151643,Dieta X Hume Tabitha,78,4,2005,164,české,naučná,Hume Tabitha</p>,,"Seriózní doporučení renomované klinické dietetičky jak ""zdravě zhubnout"" a přitom neomezovat své chutě a zálibu v jídle a pestré stravě. Autorka využívá nejnovějších poznatků,...",58,89,"['naučná', '', 'české, Hume Tabitha']"
+n495213234,Falzifikace a falzifikátoři českých dějin - Josef Staněk,100,2,2005,150,české,naučná,Staněk Josef</p>,,"Agape Brno na četné intervence vydalo znovu dotisk knihy Falsifikace a falsifikátoři českých dějin, tj. jiného výkladu některých událostí českých dějin než je běžně uváděn....",105,122,"['naučná', '', 'české, Staněk Josef']"
+n2162032,Příběh tajné lásky -- Eliška Kateřina Smiřická a její sexuální skandál - Francek Jindřich,80,1,2005,168,české,naučná,Jindřich Francek</p>,,"Příběh tajné lásky kniha od autora Jindřich Francek. Příběh tajné lásky Elišky Kateřiny Smiřické, která se beznadějně zamilovala do poddaného, kováře Jiříka Wagnera. Kniha...",135,173,"['naučná', '', 'české, Havran, Jindřich Francek']"
+n23175612,Jak pracuje počítač,0,0,2005,1,české,naučná,Computer Media</p>,,Nejoblíbenější nástěnný obraz z naší nabídky. Zobrazuje rozložené interní komponenty osobního počítače včetně popisu jejich funkce. V samostatných čtvercích jsou připojeny...,331,342,"['naučná', '', 'české, Computer Media']"
+n2162448,"Olomouc rabína Bertholda Oppenheima - kolektiv, Melotík Zdeněk",0,0,2005,128,české,naučná,Zdeněk Melotík</p>,,"Kategorie 
+
+Regionální literatura - Olomoucký kraj 
+
+Filozofie a náboženství - Judaismus 
+
+Historie - Podle období - Moderní dějiny 
+
+Historie - Podle zemí a kontinentů - České...",140,140,"['naučná', '', 'české, Zdeněk Melotík']"
+n51153020,Zen a umění lukostřelby,70,1,2005,94,české,naučná,Eugen Herrigel</p>,,"V lukostřelbě střelec a zásah nejsou dvěma objekty v opozici, ale jsou totožnou realitou. Lukostřelec si přestává být vědom sám sebe jako někoho, jako někoho, kdo je zaměřen na...",95,120,"['naučná', '', 'české, Pragma, Eugen Herrigel']"
+n559680,Malujeme pastel II -- Motivy zvířat - Ute Ludwigsen-Kaiser,80,4,2005,32,české,naučná,Janáčková Zita</p>,,V knížce Malujeme pastel II - Motivy zvířat je popsán a vyobrazen postup při tvorbě pastelem od náčrtu až k hotovému obrázku. Všechny vybrané motivy jsou ukázány krok za krokem...,53,79,"['naučná', '', 'české, ANAGRAM, Janáčková Zita']"
+n455348238,Koření a jeho léčivé účinky - Valíček Pavel,100,2,2005,136,české,naučná,Pavel Valíček</p>,,"Milovníci koření jistě ocení informace z knihy Koření a jeho léčivé účinky nejen o využití jednotlivých druhů v kuchyni, ale i o jejich léčivých účincích.
+
+Popis
+
+Úryvek z...",103,157,"['naučná', '', 'české, EUROMEDIA GROUP a.s., Pavel Valíček']"
+n454360778,Moderní ruční palné zbraně - Ian V. Hogg,0,0,2005,164,české,naučná,Hogg Ian V.</p>,,Kniha Moderní ruční palné zbraně představuje reprezentativní průřez mnohotvárné oblasti více či méně moderních dlouhých a krátkých zbraní a má stručnou a srozumitelnou formou...,193,299,"['naučná', '', 'české, Naše vojsko, Hogg Ian V.']"
+n544892,"Naše první terárium, Plánování a zakládání vybavení. Zařízení a úprava. Nejvhodnější chovanci..",100,1,2005,72,české,naučná,Manfred Rogner</p>,,"Jazyk: český
+Počet stran: 70
+Rok vydání: 2005
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: GRANIT S.R.O. NAKLADATELSVÍ",52,79,"['naučná', '', 'české, Granit, Manfred Rogner']"
+n562997,Jak milovat a udržet si mladšího muže - Richter Ursula,0,0,2005,158,české,naučná,Ursula Richter</p>,,"Láska starší ženy k mladšímu muži je stále ještě považována za neobvyklý, často dokonce nežádoucí jev. Vídeňská socioložka Ursula Richter ukazuje neobvyklé naděje, které mnoho...",79,160,"['naučná', '', 'české, Pragma, Ursula Richter']"
+n45050626,Reiki pro fyzické a psychické zdraví,97,1,2005,158,české,naučná,Jarmila Riegerová</p>,,"Reiki je učení práce s vesmírnou energií, jež ze své vlastní podstaty původu nemůže ublížit nebo být zneužita. Rei v překladu znamená vesmírný, životodárný a Ki znamená...",141,232,"['naučná', '', 'české, Fontána, Jarmila Riegerová']"
+n51133100,Překonávání konfliktů v rodině - Béatrice Trélaün,0,0,2005,136,české,naučná,Béatrice Trélaün</p>,,"V každodenním rodinném životě a během vývoje rodiny dochází občas nebo i často k nedorozuměním, hádkám a střetům. Někdo je tváří v tvář těm druhým odzbrojen, někdo reaguje...",156,200,"['naučná', '', 'české, Portál, Béatrice Trélaün']"
+n51028301,Man-čching Čeng: Tchaj-ťi čchüan,95,2,2005,144,české,naučná,Čeng Man-čching</p>,,"První české vydání knihy, která patří ke klasickým textům zabývajících se touto disciplínou. Profesor Cheng byl přímým žákem slavného Jang Čeng-Fua a díky svému tvůrčímu...",133,170,"['naučná', '', 'české, Argo, Čeng Man-čching']"
+n4421801,"Akné, Přířiny, projevy a terapeutické možnosti",90,1,2005,116,české,naučná,Jarmila Rulcová</p>,,"Rozsah a četnost vědeckých prací na téma akné odpovídá častosti výskytu této choroby. Pro průměrného adolescenta však samotné vědecké údaje mnoho nepomohou, setkáváme se s...",136,219,"['naučná', '', 'české, Triton, Jarmila Rulcová']"
+n21842179,"Srdce, které tančí -- Esence nauky - Púndža H. W. L.",100,1,2005,154,české,naučná,H. W. L. Púndža</p>,,"Nauka známého indického duchovního učitele (osobitého následovníka Šrí Ramany Maharšiho) podaná zhuštěnou literární formou.
+Ukázka z knihy:
+Nic nestojí mimo Prázdnotu, a proto...",288,288,"['naučná', '', 'české, H. W. L. Púndža']"
+n569764,Vředová choroba - MUDr. Pavel Kohout,0,0,2005,76,české,naučná,Pavel Kohout</p>,,"Anotace: V posledních 20 letech došlo k zásadní změně v pochopení etiopatogeneze vředové choroby žaludku a duodena, zejména přiznáním zásadní role H. pylori. Tradiční spektrum...",128,195,"['naučná', '', 'české, Pavel Kohout']"
+n30705068,Z každého z nás postupem let něco zmizí,0,0,2005,56,české,naučná,Kolář Jiří,,Knižně publikovaný rozhovor literárního historika Michala Bauera s básníkem a výtvarníkem po jeho návratu z exilu do Prahy je umělcovým ohlédnutím se za uplynulými léty a...,231,360,"['naučná', '', 'české, Bauer Michal, Kolář Jiří']"
+n23553941,GSM alarm - přenos poplachu na mobilní telefon,0,0,2005,84,české,naučná,Tomáš Flajzar</p>,,"V této knize je popsán postup, jak si v amatérských podmínkách vyrobit vlastní systém zabezpečení právě s využitím moderní signalizace narušení na mobilní telefon majitele,...",474,509,"['naučná', '', 'české, Tomáš Flajzar']"
+n461311755,Oděvní stroje a zařízení I,0,0,2005,112,české,naučná,Haas Václav</p>,,"Pro 1 ročník SOU a SOŠ
+Rozdělení a jednotlivé typy šicích strojů, popis jejich součástí, obsluhy a údržby, bezpečnost a ochrana zdraví při práci.",157,185,"['naučná', '', 'české, Haas Václav']"
+n30705106,P.S. Psové,0,0,2005,112,české,naučná,Erazim Kohák</p>,,"P.S. Psové kniha od autora Erazim Kohák. Reedice jedné z nejžádanějších a samotným autorem z jeho díla nejvíce ceněných knížek, v níž v krátkých brilantních úvahách staví proti...",101,126,"['naučná', '', 'české, Erazim Kohák']"
+n45152024,Tillandsia 1 - Začínáme s tilandsiemi - Antonín Lukscheiter,100,1,2005,145,české,naučná,Lukscheiter Antonín,,"Kniha je určena všem, kteří pěstují okrasné rostliny pro potěchu i lásku k přírodě. Obdivují její pestrost a zajímají se o méně známé, ale o to podivuhodnější rostliny -...",137,199,"['naučná', '', 'české, Lukscheiter Antonín, Lukscheit']"
+n45332530,"Povoláním filosof - F.-X. Putallaz, Ruedi Imbach",0,0,2005,144,české,naučná,Platón</p>,,Dva prvořadí medievalisté v této krátké knížce z roku 1997 shrnují všechny dostupné poznatky o jedné z nekontroverznějších postav středověkého myšlení a nabízejí zcela novou...,132,178,"['naučná', '', 'české, Platón']"
+n51140325,Samopal vz. 58,92,6,2005,148,české,naučná,Fencl Jiří</p>,,Renomovaný odborný publicista Ing. Jiří Fencl shrnul v této knize všechny v současné době dostupné informace o známém čs. samopalu vz. 58. Kniha začíná stručnou informací o...,174,400,"['naučná', '', 'české, Naše vojsko, Fencl Jiří']"
+n435059,Teorie osobnosti - Dragomirecký Andrej,0,0,2005,142,české,naučná,Andrej Dragomirecký</p>,,Teorie osobnosti popsaná v této knize uvádí v mnoha ohledech zcela nová řešení problematiky psychologie osobnosti a otázek s tím spojených. Kromě dalších věcí je například...,124,124,"['naučná', '', 'české, Andrej Dragomirecký']"
+n554253,Vše o tucích typu omega - 3 -- Odpovědi na základní otázky týkající se mastných kyselin typu omega-3 - Clara Felix,94,3,2005,112,české,naučná,Clara Felix</p>,,"Odpovědi na základní otázky týkající se mastných kyselin typu omega-3, proč je potřebujeme, v jakém množství a mnohem více informací.
+Se vzrůstající popularitou doplňků...",23,79,"['naučná', '', 'české, Pragma, Clara Felix']"
+n450810409,"Písemná a elektronická komunikace 1 - Kroužek, Jiří; Kuldová, Olga",0,0,2005,144,české,naučná,Kuldová Olga</p>,,"Publikace obsahuje nácvik psaní desetiprstovou metodou na klávesnici počítačů. Dále zahrnuje normalizovanou úpravu písemností, úlohy pro přepis textů s korekturními znaménky,...",153,189,"['naučná', '', 'české, Fortuna Print, Kroužek Jiří, Kuldová Olga']"
+n21052030,Savoniův rotor - Návod na stavbu - Schulz Heinz,85,2,2005,78,české,naučná,Heinz Schulz</p>,,"Savoniův rotor využívá energie větru na jiném principu než vrtule. Má jiné charakteristiky, příznivější zejména při slabém větru. V knize je detailně popsána stavba zařízení a...",61,88,"['naučná', '', 'české, Heinz Schulz']"
+n2146541,"Rady bylináře Pavla 2 -- Léčba bylinami a přírodními prostředky - Pavel Váňa, Jiří Kuchař",94,4,2005,134,české,naučná,Pavel Váňa</p>,,"Rady bylináře Pavla patří do zlatého fondu české fytoterapie. Jejich druhé pokračování, které vychází téměř patnáct let po vydání první knihy, obsahuje nejlepší recepty, které...",120,179,"['naučná', '', 'české, Eminent, Pavel Váňa']"
+n407109412,"Řasa Jaroslav, Gabriel V. - Strojírenská technologie 3, 1. díl",0,0,2005,156,české,naučná,Gabriel Vladimí</p>,,"Učebnice seznamuje se zásadami přípravy materiálu (polotovarů), tj. rovnání, orýsování, polohování, ustavování a středění. Uvádí princip metod dělení materiálu, používané...",145,220,"['naučná', '', 'české, Řasa Jaroslav, Gabriel Vladimí']"
+n51151643,Dieta X Hume Tabitha,78,4,2005,164,české,naučná,Hume Tabitha</p>,,"Seriózní doporučení renomované klinické dietetičky jak ""zdravě zhubnout"" a přitom neomezovat své chutě a zálibu v jídle a pestré stravě. Autorka využívá nejnovějších poznatků,...",58,89,"['naučná', '', 'české, Hume Tabitha']"
+n495213234,Falzifikace a falzifikátoři českých dějin - Josef Staněk,100,2,2005,150,české,naučná,Staněk Josef</p>,,"Agape Brno na četné intervence vydalo znovu dotisk knihy Falsifikace a falsifikátoři českých dějin, tj. jiného výkladu některých událostí českých dějin než je běžně uváděn....",105,122,"['naučná', '', 'české, Staněk Josef']"
+n2162032,Příběh tajné lásky -- Eliška Kateřina Smiřická a její sexuální skandál - Francek Jindřich,80,1,2005,168,české,naučná,Jindřich Francek</p>,,"Příběh tajné lásky kniha od autora Jindřich Francek. Příběh tajné lásky Elišky Kateřiny Smiřické, která se beznadějně zamilovala do poddaného, kováře Jiříka Wagnera. Kniha...",135,173,"['naučná', '', 'české, Havran, Jindřich Francek']"
+n23175612,Jak pracuje počítač,0,0,2005,1,české,naučná,Computer Media</p>,,Nejoblíbenější nástěnný obraz z naší nabídky. Zobrazuje rozložené interní komponenty osobního počítače včetně popisu jejich funkce. V samostatných čtvercích jsou připojeny...,331,342,"['naučná', '', 'české, Computer Media']"
+n2162448,"Olomouc rabína Bertholda Oppenheima - kolektiv, Melotík Zdeněk",0,0,2005,128,české,naučná,Zdeněk Melotík</p>,,"Kategorie 
+
+Regionální literatura - Olomoucký kraj 
+
+Filozofie a náboženství - Judaismus 
+
+Historie - Podle období - Moderní dějiny 
+
+Historie - Podle zemí a kontinentů - České...",140,140,"['naučná', '', 'české, Zdeněk Melotík']"
+n51153020,Zen a umění lukostřelby,70,1,2005,94,české,naučná,Eugen Herrigel</p>,,"V lukostřelbě střelec a zásah nejsou dvěma objekty v opozici, ale jsou totožnou realitou. Lukostřelec si přestává být vědom sám sebe jako někoho, jako někoho, kdo je zaměřen na...",95,120,"['naučná', '', 'české, Pragma, Eugen Herrigel']"
+n559680,Malujeme pastel II -- Motivy zvířat - Ute Ludwigsen-Kaiser,80,4,2005,32,české,naučná,Janáčková Zita</p>,,V knížce Malujeme pastel II - Motivy zvířat je popsán a vyobrazen postup při tvorbě pastelem od náčrtu až k hotovému obrázku. Všechny vybrané motivy jsou ukázány krok za krokem...,53,79,"['naučná', '', 'české, ANAGRAM, Janáčková Zita']"
+n455348238,Koření a jeho léčivé účinky - Valíček Pavel,100,2,2005,136,české,naučná,Pavel Valíček</p>,,"Milovníci koření jistě ocení informace z knihy Koření a jeho léčivé účinky nejen o využití jednotlivých druhů v kuchyni, ale i o jejich léčivých účincích.
+
+Popis
+
+Úryvek z...",103,157,"['naučná', '', 'české, EUROMEDIA GROUP a.s., Pavel Valíček']"
+n454360778,Moderní ruční palné zbraně - Ian V. Hogg,0,0,2005,164,české,naučná,Hogg Ian V.</p>,,Kniha Moderní ruční palné zbraně představuje reprezentativní průřez mnohotvárné oblasti více či méně moderních dlouhých a krátkých zbraní a má stručnou a srozumitelnou formou...,193,299,"['naučná', '', 'české, Naše vojsko, Hogg Ian V.']"
+n544892,"Naše první terárium, Plánování a zakládání vybavení. Zařízení a úprava. Nejvhodnější chovanci..",100,1,2005,72,české,naučná,Manfred Rogner</p>,,"Jazyk: český
+Počet stran: 70
+Rok vydání: 2005
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: GRANIT S.R.O. NAKLADATELSVÍ",52,79,"['naučná', '', 'české, Granit, Manfred Rogner']"
+n562997,Jak milovat a udržet si mladšího muže - Richter Ursula,0,0,2005,158,české,naučná,Ursula Richter</p>,,"Láska starší ženy k mladšímu muži je stále ještě považována za neobvyklý, často dokonce nežádoucí jev. Vídeňská socioložka Ursula Richter ukazuje neobvyklé naděje, které mnoho...",79,160,"['naučná', '', 'české, Pragma, Ursula Richter']"
+n45050626,Reiki pro fyzické a psychické zdraví,97,1,2005,158,české,naučná,Jarmila Riegerová</p>,,"Reiki je učení práce s vesmírnou energií, jež ze své vlastní podstaty původu nemůže ublížit nebo být zneužita. Rei v překladu znamená vesmírný, životodárný a Ki znamená...",141,232,"['naučná', '', 'české, Fontána, Jarmila Riegerová']"
+n51133100,Překonávání konfliktů v rodině - Béatrice Trélaün,0,0,2005,136,české,naučná,Béatrice Trélaün</p>,,"V každodenním rodinném životě a během vývoje rodiny dochází občas nebo i často k nedorozuměním, hádkám a střetům. Někdo je tváří v tvář těm druhým odzbrojen, někdo reaguje...",156,200,"['naučná', '', 'české, Portál, Béatrice Trélaün']"
+n51028301,Man-čching Čeng: Tchaj-ťi čchüan,95,2,2005,144,české,naučná,Čeng Man-čching</p>,,"První české vydání knihy, která patří ke klasickým textům zabývajících se touto disciplínou. Profesor Cheng byl přímým žákem slavného Jang Čeng-Fua a díky svému tvůrčímu...",133,170,"['naučná', '', 'české, Argo, Čeng Man-čching']"
+n4421801,"Akné, Přířiny, projevy a terapeutické možnosti",90,1,2005,116,české,naučná,Jarmila Rulcová</p>,,"Rozsah a četnost vědeckých prací na téma akné odpovídá častosti výskytu této choroby. Pro průměrného adolescenta však samotné vědecké údaje mnoho nepomohou, setkáváme se s...",136,219,"['naučná', '', 'české, Triton, Jarmila Rulcová']"
+n21842179,"Srdce, které tančí -- Esence nauky - Púndža H. W. L.",100,1,2005,154,české,naučná,H. W. L. Púndža</p>,,"Nauka známého indického duchovního učitele (osobitého následovníka Šrí Ramany Maharšiho) podaná zhuštěnou literární formou.
+Ukázka z knihy:
+Nic nestojí mimo Prázdnotu, a proto...",288,288,"['naučná', '', 'české, H. W. L. Púndža']"
+n569764,Vředová choroba - MUDr. Pavel Kohout,0,0,2005,76,české,naučná,Pavel Kohout</p>,,"Anotace: V posledních 20 letech došlo k zásadní změně v pochopení etiopatogeneze vředové choroby žaludku a duodena, zejména přiznáním zásadní role H. pylori. Tradiční spektrum...",128,195,"['naučná', '', 'české, Pavel Kohout']"
+n30705068,Z každého z nás postupem let něco zmizí,0,0,2005,56,české,naučná,Kolář Jiří,,Knižně publikovaný rozhovor literárního historika Michala Bauera s básníkem a výtvarníkem po jeho návratu z exilu do Prahy je umělcovým ohlédnutím se za uplynulými léty a...,231,360,"['naučná', '', 'české, Bauer Michal, Kolář Jiří']"
+n23553941,GSM alarm - přenos poplachu na mobilní telefon,0,0,2005,84,české,naučná,Tomáš Flajzar</p>,,"V této knize je popsán postup, jak si v amatérských podmínkách vyrobit vlastní systém zabezpečení právě s využitím moderní signalizace narušení na mobilní telefon majitele,...",474,509,"['naučná', '', 'české, Tomáš Flajzar']"
+n461311755,Oděvní stroje a zařízení I,0,0,2005,112,české,naučná,Haas Václav</p>,,"Pro 1 ročník SOU a SOŠ
+Rozdělení a jednotlivé typy šicích strojů, popis jejich součástí, obsluhy a údržby, bezpečnost a ochrana zdraví při práci.",157,185,"['naučná', '', 'české, Haas Václav']"
+n30705106,P.S. Psové,0,0,2005,112,české,naučná,Erazim Kohák</p>,,"P.S. Psové kniha od autora Erazim Kohák. Reedice jedné z nejžádanějších a samotným autorem z jeho díla nejvíce ceněných knížek, v níž v krátkých brilantních úvahách staví proti...",101,126,"['naučná', '', 'české, Erazim Kohák']"
+n45152024,Tillandsia 1 - Začínáme s tilandsiemi - Antonín Lukscheiter,100,1,2005,145,české,naučná,Lukscheiter Antonín,,"Kniha je určena všem, kteří pěstují okrasné rostliny pro potěchu i lásku k přírodě. Obdivují její pestrost a zajímají se o méně známé, ale o to podivuhodnější rostliny -...",137,199,"['naučná', '', 'české, Lukscheiter Antonín, Lukscheit']"
+n45332530,"Povoláním filosof - F.-X. Putallaz, Ruedi Imbach",0,0,2005,144,české,naučná,Platón</p>,,Dva prvořadí medievalisté v této krátké knížce z roku 1997 shrnují všechny dostupné poznatky o jedné z nekontroverznějších postav středověkého myšlení a nabízejí zcela novou...,132,178,"['naučná', '', 'české, Platón']"
+n51140325,Samopal vz. 58,92,6,2005,148,české,naučná,Fencl Jiří</p>,,Renomovaný odborný publicista Ing. Jiří Fencl shrnul v této knize všechny v současné době dostupné informace o známém čs. samopalu vz. 58. Kniha začíná stručnou informací o...,174,400,"['naučná', '', 'české, Naše vojsko, Fencl Jiří']"
+n435059,Teorie osobnosti - Dragomirecký Andrej,0,0,2005,142,české,naučná,Andrej Dragomirecký</p>,,Teorie osobnosti popsaná v této knize uvádí v mnoha ohledech zcela nová řešení problematiky psychologie osobnosti a otázek s tím spojených. Kromě dalších věcí je například...,124,124,"['naučná', '', 'české, Andrej Dragomirecký']"
+n554253,Vše o tucích typu omega - 3 -- Odpovědi na základní otázky týkající se mastných kyselin typu omega-3 - Clara Felix,94,3,2005,112,české,naučná,Clara Felix</p>,,"Odpovědi na základní otázky týkající se mastných kyselin typu omega-3, proč je potřebujeme, v jakém množství a mnohem více informací.
+Se vzrůstající popularitou doplňků...",23,79,"['naučná', '', 'české, Pragma, Clara Felix']"
+n450810409,"Písemná a elektronická komunikace 1 - Kroužek, Jiří; Kuldová, Olga",0,0,2005,144,české,naučná,Kuldová Olga</p>,,"Publikace obsahuje nácvik psaní desetiprstovou metodou na klávesnici počítačů. Dále zahrnuje normalizovanou úpravu písemností, úlohy pro přepis textů s korekturními znaménky,...",153,189,"['naučná', '', 'české, Fortuna Print, Kroužek Jiří, Kuldová Olga']"
+n21052030,Savoniův rotor - Návod na stavbu - Schulz Heinz,85,2,2005,78,české,naučná,Heinz Schulz</p>,,"Savoniův rotor využívá energie větru na jiném principu než vrtule. Má jiné charakteristiky, příznivější zejména při slabém větru. V knize je detailně popsána stavba zařízení a...",61,88,"['naučná', '', 'české, Heinz Schulz']"
+n2146541,"Rady bylináře Pavla 2 -- Léčba bylinami a přírodními prostředky - Pavel Váňa, Jiří Kuchař",94,4,2005,134,české,naučná,Pavel Váňa</p>,,"Rady bylináře Pavla patří do zlatého fondu české fytoterapie. Jejich druhé pokračování, které vychází téměř patnáct let po vydání první knihy, obsahuje nejlepší recepty, které...",120,179,"['naučná', '', 'české, Eminent, Pavel Váňa']"
+n407109412,"Řasa Jaroslav, Gabriel V. - Strojírenská technologie 3, 1. díl",0,0,2005,156,české,naučná,Gabriel Vladimí</p>,,"Učebnice seznamuje se zásadami přípravy materiálu (polotovarů), tj. rovnání, orýsování, polohování, ustavování a středění. Uvádí princip metod dělení materiálu, používané...",145,220,"['naučná', '', 'české, Řasa Jaroslav, Gabriel Vladimí']"
+n51151643,Dieta X Hume Tabitha,78,4,2005,164,české,naučná,Hume Tabitha</p>,,"Seriózní doporučení renomované klinické dietetičky jak ""zdravě zhubnout"" a přitom neomezovat své chutě a zálibu v jídle a pestré stravě. Autorka využívá nejnovějších poznatků,...",58,89,"['naučná', '', 'české, Hume Tabitha']"
+n495213234,Falzifikace a falzifikátoři českých dějin - Josef Staněk,100,2,2005,150,české,naučná,Staněk Josef</p>,,"Agape Brno na četné intervence vydalo znovu dotisk knihy Falsifikace a falsifikátoři českých dějin, tj. jiného výkladu některých událostí českých dějin než je běžně uváděn....",105,122,"['naučná', '', 'české, Staněk Josef']"
+n2162032,Příběh tajné lásky -- Eliška Kateřina Smiřická a její sexuální skandál - Francek Jindřich,80,1,2005,168,české,naučná,Jindřich Francek</p>,,"Příběh tajné lásky kniha od autora Jindřich Francek. Příběh tajné lásky Elišky Kateřiny Smiřické, která se beznadějně zamilovala do poddaného, kováře Jiříka Wagnera. Kniha...",135,173,"['naučná', '', 'české, Havran, Jindřich Francek']"
+n23175612,Jak pracuje počítač,0,0,2005,1,české,naučná,Computer Media</p>,,Nejoblíbenější nástěnný obraz z naší nabídky. Zobrazuje rozložené interní komponenty osobního počítače včetně popisu jejich funkce. V samostatných čtvercích jsou připojeny...,331,342,"['naučná', '', 'české, Computer Media']"
+n2162448,"Olomouc rabína Bertholda Oppenheima - kolektiv, Melotík Zdeněk",0,0,2005,128,české,naučná,Zdeněk Melotík</p>,,"Kategorie 
+
+Regionální literatura - Olomoucký kraj 
+
+Filozofie a náboženství - Judaismus 
+
+Historie - Podle období - Moderní dějiny 
+
+Historie - Podle zemí a kontinentů - České...",140,140,"['naučná', '', 'české, Zdeněk Melotík']"
+n51153020,Zen a umění lukostřelby,70,1,2005,94,české,naučná,Eugen Herrigel</p>,,"V lukostřelbě střelec a zásah nejsou dvěma objekty v opozici, ale jsou totožnou realitou. Lukostřelec si přestává být vědom sám sebe jako někoho, jako někoho, kdo je zaměřen na...",95,120,"['naučná', '', 'české, Pragma, Eugen Herrigel']"
+n559680,Malujeme pastel II -- Motivy zvířat - Ute Ludwigsen-Kaiser,80,4,2005,32,české,naučná,Janáčková Zita</p>,,V knížce Malujeme pastel II - Motivy zvířat je popsán a vyobrazen postup při tvorbě pastelem od náčrtu až k hotovému obrázku. Všechny vybrané motivy jsou ukázány krok za krokem...,53,79,"['naučná', '', 'české, ANAGRAM, Janáčková Zita']"
+n455348238,Koření a jeho léčivé účinky - Valíček Pavel,100,2,2005,136,české,naučná,Pavel Valíček</p>,,"Milovníci koření jistě ocení informace z knihy Koření a jeho léčivé účinky nejen o využití jednotlivých druhů v kuchyni, ale i o jejich léčivých účincích.
+
+Popis
+
+Úryvek z...",103,157,"['naučná', '', 'české, EUROMEDIA GROUP a.s., Pavel Valíček']"
+n454360778,Moderní ruční palné zbraně - Ian V. Hogg,0,0,2005,164,české,naučná,Hogg Ian V.</p>,,Kniha Moderní ruční palné zbraně představuje reprezentativní průřez mnohotvárné oblasti více či méně moderních dlouhých a krátkých zbraní a má stručnou a srozumitelnou formou...,193,299,"['naučná', '', 'české, Naše vojsko, Hogg Ian V.']"
+n544892,"Naše první terárium, Plánování a zakládání vybavení. Zařízení a úprava. Nejvhodnější chovanci..",100,1,2005,72,české,naučná,Manfred Rogner</p>,,"Jazyk: český
+Počet stran: 70
+Rok vydání: 2005
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: GRANIT S.R.O. NAKLADATELSVÍ",52,79,"['naučná', '', 'české, Granit, Manfred Rogner']"
+n562997,Jak milovat a udržet si mladšího muže - Richter Ursula,0,0,2005,158,české,naučná,Ursula Richter</p>,,"Láska starší ženy k mladšímu muži je stále ještě považována za neobvyklý, často dokonce nežádoucí jev. Vídeňská socioložka Ursula Richter ukazuje neobvyklé naděje, které mnoho...",79,160,"['naučná', '', 'české, Pragma, Ursula Richter']"
+n45050626,Reiki pro fyzické a psychické zdraví,97,1,2005,158,české,naučná,Jarmila Riegerová</p>,,"Reiki je učení práce s vesmírnou energií, jež ze své vlastní podstaty původu nemůže ublížit nebo být zneužita. Rei v překladu znamená vesmírný, životodárný a Ki znamená...",141,232,"['naučná', '', 'české, Fontána, Jarmila Riegerová']"
+n51133100,Překonávání konfliktů v rodině - Béatrice Trélaün,0,0,2005,136,české,naučná,Béatrice Trélaün</p>,,"V každodenním rodinném životě a během vývoje rodiny dochází občas nebo i často k nedorozuměním, hádkám a střetům. Někdo je tváří v tvář těm druhým odzbrojen, někdo reaguje...",156,200,"['naučná', '', 'české, Portál, Béatrice Trélaün']"
+n51028301,Man-čching Čeng: Tchaj-ťi čchüan,95,2,2005,144,české,naučná,Čeng Man-čching</p>,,"První české vydání knihy, která patří ke klasickým textům zabývajících se touto disciplínou. Profesor Cheng byl přímým žákem slavného Jang Čeng-Fua a díky svému tvůrčímu...",133,170,"['naučná', '', 'české, Argo, Čeng Man-čching']"
+n4421801,"Akné, Přířiny, projevy a terapeutické možnosti",90,1,2005,116,české,naučná,Jarmila Rulcová</p>,,"Rozsah a četnost vědeckých prací na téma akné odpovídá častosti výskytu této choroby. Pro průměrného adolescenta však samotné vědecké údaje mnoho nepomohou, setkáváme se s...",136,219,"['naučná', '', 'české, Triton, Jarmila Rulcová']"
+n21842179,"Srdce, které tančí -- Esence nauky - Púndža H. W. L.",100,1,2005,154,české,naučná,H. W. L. Púndža</p>,,"Nauka známého indického duchovního učitele (osobitého následovníka Šrí Ramany Maharšiho) podaná zhuštěnou literární formou.
+Ukázka z knihy:
+Nic nestojí mimo Prázdnotu, a proto...",288,288,"['naučná', '', 'české, H. W. L. Púndža']"
+n569764,Vředová choroba - MUDr. Pavel Kohout,0,0,2005,76,české,naučná,Pavel Kohout</p>,,"Anotace: V posledních 20 letech došlo k zásadní změně v pochopení etiopatogeneze vředové choroby žaludku a duodena, zejména přiznáním zásadní role H. pylori. Tradiční spektrum...",128,195,"['naučná', '', 'české, Pavel Kohout']"
+n30705068,Z každého z nás postupem let něco zmizí,0,0,2005,56,české,naučná,Kolář Jiří,,Knižně publikovaný rozhovor literárního historika Michala Bauera s básníkem a výtvarníkem po jeho návratu z exilu do Prahy je umělcovým ohlédnutím se za uplynulými léty a...,231,360,"['naučná', '', 'české, Bauer Michal, Kolář Jiří']"
+n23553941,GSM alarm - přenos poplachu na mobilní telefon,0,0,2005,84,české,naučná,Tomáš Flajzar</p>,,"V této knize je popsán postup, jak si v amatérských podmínkách vyrobit vlastní systém zabezpečení právě s využitím moderní signalizace narušení na mobilní telefon majitele,...",474,509,"['naučná', '', 'české, Tomáš Flajzar']"
+n461311755,Oděvní stroje a zařízení I,0,0,2005,112,české,naučná,Haas Václav</p>,,"Pro 1 ročník SOU a SOŠ
+Rozdělení a jednotlivé typy šicích strojů, popis jejich součástí, obsluhy a údržby, bezpečnost a ochrana zdraví při práci.",157,185,"['naučná', '', 'české, Haas Václav']"
+n30705106,P.S. Psové,0,0,2005,112,české,naučná,Erazim Kohák</p>,,"P.S. Psové kniha od autora Erazim Kohák. Reedice jedné z nejžádanějších a samotným autorem z jeho díla nejvíce ceněných knížek, v níž v krátkých brilantních úvahách staví proti...",101,126,"['naučná', '', 'české, Erazim Kohák']"
+n45152024,Tillandsia 1 - Začínáme s tilandsiemi - Antonín Lukscheiter,100,1,2005,145,české,naučná,Lukscheiter Antonín,,"Kniha je určena všem, kteří pěstují okrasné rostliny pro potěchu i lásku k přírodě. Obdivují její pestrost a zajímají se o méně známé, ale o to podivuhodnější rostliny -...",137,199,"['naučná', '', 'české, Lukscheiter Antonín, Lukscheit']"
+n45332530,"Povoláním filosof - F.-X. Putallaz, Ruedi Imbach",0,0,2005,144,české,naučná,Platón</p>,,Dva prvořadí medievalisté v této krátké knížce z roku 1997 shrnují všechny dostupné poznatky o jedné z nekontroverznějších postav středověkého myšlení a nabízejí zcela novou...,132,178,"['naučná', '', 'české, Platón']"
+n51140325,Samopal vz. 58,92,6,2005,148,české,naučná,Fencl Jiří</p>,,Renomovaný odborný publicista Ing. Jiří Fencl shrnul v této knize všechny v současné době dostupné informace o známém čs. samopalu vz. 58. Kniha začíná stručnou informací o...,174,400,"['naučná', '', 'české, Naše vojsko, Fencl Jiří']"
+n435059,Teorie osobnosti - Dragomirecký Andrej,0,0,2005,142,české,naučná,Andrej Dragomirecký</p>,,Teorie osobnosti popsaná v této knize uvádí v mnoha ohledech zcela nová řešení problematiky psychologie osobnosti a otázek s tím spojených. Kromě dalších věcí je například...,124,124,"['naučná', '', 'české, Andrej Dragomirecký']"
+n554253,Vše o tucích typu omega - 3 -- Odpovědi na základní otázky týkající se mastných kyselin typu omega-3 - Clara Felix,94,3,2005,112,české,naučná,Clara Felix</p>,,"Odpovědi na základní otázky týkající se mastných kyselin typu omega-3, proč je potřebujeme, v jakém množství a mnohem více informací.
+Se vzrůstající popularitou doplňků...",23,79,"['naučná', '', 'české, Pragma, Clara Felix']"
+n450810409,"Písemná a elektronická komunikace 1 - Kroužek, Jiří; Kuldová, Olga",0,0,2005,144,české,naučná,Kuldová Olga</p>,,"Publikace obsahuje nácvik psaní desetiprstovou metodou na klávesnici počítačů. Dále zahrnuje normalizovanou úpravu písemností, úlohy pro přepis textů s korekturními znaménky,...",153,189,"['naučná', '', 'české, Fortuna Print, Kroužek Jiří, Kuldová Olga']"
+n21052030,Savoniův rotor - Návod na stavbu - Schulz Heinz,85,2,2005,78,české,naučná,Heinz Schulz</p>,,"Savoniův rotor využívá energie větru na jiném principu než vrtule. Má jiné charakteristiky, příznivější zejména při slabém větru. V knize je detailně popsána stavba zařízení a...",61,88,"['naučná', '', 'české, Heinz Schulz']"
+n2146541,"Rady bylináře Pavla 2 -- Léčba bylinami a přírodními prostředky - Pavel Váňa, Jiří Kuchař",94,4,2005,134,české,naučná,Pavel Váňa</p>,,"Rady bylináře Pavla patří do zlatého fondu české fytoterapie. Jejich druhé pokračování, které vychází téměř patnáct let po vydání první knihy, obsahuje nejlepší recepty, které...",120,179,"['naučná', '', 'české, Eminent, Pavel Váňa']"
+n407109412,"Řasa Jaroslav, Gabriel V. - Strojírenská technologie 3, 1. díl",0,0,2005,156,české,naučná,Gabriel Vladimí</p>,,"Učebnice seznamuje se zásadami přípravy materiálu (polotovarů), tj. rovnání, orýsování, polohování, ustavování a středění. Uvádí princip metod dělení materiálu, používané...",145,220,"['naučná', '', 'české, Řasa Jaroslav, Gabriel Vladimí']"
+n51151643,Dieta X Hume Tabitha,78,4,2005,164,české,naučná,Hume Tabitha</p>,,"Seriózní doporučení renomované klinické dietetičky jak ""zdravě zhubnout"" a přitom neomezovat své chutě a zálibu v jídle a pestré stravě. Autorka využívá nejnovějších poznatků,...",58,89,"['naučná', '', 'české, Hume Tabitha']"
+n495213234,Falzifikace a falzifikátoři českých dějin - Josef Staněk,100,2,2005,150,české,naučná,Staněk Josef</p>,,"Agape Brno na četné intervence vydalo znovu dotisk knihy Falsifikace a falsifikátoři českých dějin, tj. jiného výkladu některých událostí českých dějin než je běžně uváděn....",105,122,"['naučná', '', 'české, Staněk Josef']"
+n2162032,Příběh tajné lásky -- Eliška Kateřina Smiřická a její sexuální skandál - Francek Jindřich,80,1,2005,168,české,naučná,Jindřich Francek</p>,,"Příběh tajné lásky kniha od autora Jindřich Francek. Příběh tajné lásky Elišky Kateřiny Smiřické, která se beznadějně zamilovala do poddaného, kováře Jiříka Wagnera. Kniha...",135,173,"['naučná', '', 'české, Havran, Jindřich Francek']"
+n23175612,Jak pracuje počítač,0,0,2005,1,české,naučná,Computer Media</p>,,Nejoblíbenější nástěnný obraz z naší nabídky. Zobrazuje rozložené interní komponenty osobního počítače včetně popisu jejich funkce. V samostatných čtvercích jsou připojeny...,331,342,"['naučná', '', 'české, Computer Media']"
+n2162448,"Olomouc rabína Bertholda Oppenheima - kolektiv, Melotík Zdeněk",0,0,2005,128,české,naučná,Zdeněk Melotík</p>,,"Kategorie 
+
+Regionální literatura - Olomoucký kraj 
+
+Filozofie a náboženství - Judaismus 
+
+Historie - Podle období - Moderní dějiny 
+
+Historie - Podle zemí a kontinentů - České...",140,140,"['naučná', '', 'české, Zdeněk Melotík']"
+n51153020,Zen a umění lukostřelby,70,1,2005,94,české,naučná,Eugen Herrigel</p>,,"V lukostřelbě střelec a zásah nejsou dvěma objekty v opozici, ale jsou totožnou realitou. Lukostřelec si přestává být vědom sám sebe jako někoho, jako někoho, kdo je zaměřen na...",95,120,"['naučná', '', 'české, Pragma, Eugen Herrigel']"
+n559680,Malujeme pastel II -- Motivy zvířat - Ute Ludwigsen-Kaiser,80,4,2005,32,české,naučná,Janáčková Zita</p>,,V knížce Malujeme pastel II - Motivy zvířat je popsán a vyobrazen postup při tvorbě pastelem od náčrtu až k hotovému obrázku. Všechny vybrané motivy jsou ukázány krok za krokem...,53,79,"['naučná', '', 'české, ANAGRAM, Janáčková Zita']"
+n455348238,Koření a jeho léčivé účinky - Valíček Pavel,100,2,2005,136,české,naučná,Pavel Valíček</p>,,"Milovníci koření jistě ocení informace z knihy Koření a jeho léčivé účinky nejen o využití jednotlivých druhů v kuchyni, ale i o jejich léčivých účincích.
+
+Popis
+
+Úryvek z...",103,157,"['naučná', '', 'české, EUROMEDIA GROUP a.s., Pavel Valíček']"
+n454360778,Moderní ruční palné zbraně - Ian V. Hogg,0,0,2005,164,české,naučná,Hogg Ian V.</p>,,Kniha Moderní ruční palné zbraně představuje reprezentativní průřez mnohotvárné oblasti více či méně moderních dlouhých a krátkých zbraní a má stručnou a srozumitelnou formou...,193,299,"['naučná', '', 'české, Naše vojsko, Hogg Ian V.']"
+n544892,"Naše první terárium, Plánování a zakládání vybavení. Zařízení a úprava. Nejvhodnější chovanci..",100,1,2005,72,české,naučná,Manfred Rogner</p>,,"Jazyk: český
+Počet stran: 70
+Rok vydání: 2005
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: GRANIT S.R.O. NAKLADATELSVÍ",52,79,"['naučná', '', 'české, Granit, Manfred Rogner']"
+n562997,Jak milovat a udržet si mladšího muže - Richter Ursula,0,0,2005,158,české,naučná,Ursula Richter</p>,,"Láska starší ženy k mladšímu muži je stále ještě považována za neobvyklý, často dokonce nežádoucí jev. Vídeňská socioložka Ursula Richter ukazuje neobvyklé naděje, které mnoho...",79,160,"['naučná', '', 'české, Pragma, Ursula Richter']"
+n45050626,Reiki pro fyzické a psychické zdraví,97,1,2005,158,české,naučná,Jarmila Riegerová</p>,,"Reiki je učení práce s vesmírnou energií, jež ze své vlastní podstaty původu nemůže ublížit nebo být zneužita. Rei v překladu znamená vesmírný, životodárný a Ki znamená...",141,232,"['naučná', '', 'české, Fontána, Jarmila Riegerová']"
+n51133100,Překonávání konfliktů v rodině - Béatrice Trélaün,0,0,2005,136,české,naučná,Béatrice Trélaün</p>,,"V každodenním rodinném životě a během vývoje rodiny dochází občas nebo i často k nedorozuměním, hádkám a střetům. Někdo je tváří v tvář těm druhým odzbrojen, někdo reaguje...",156,200,"['naučná', '', 'české, Portál, Béatrice Trélaün']"
+n51028301,Man-čching Čeng: Tchaj-ťi čchüan,95,2,2005,144,české,naučná,Čeng Man-čching</p>,,"První české vydání knihy, která patří ke klasickým textům zabývajících se touto disciplínou. Profesor Cheng byl přímým žákem slavného Jang Čeng-Fua a díky svému tvůrčímu...",133,170,"['naučná', '', 'české, Argo, Čeng Man-čching']"
+n4421801,"Akné, Přířiny, projevy a terapeutické možnosti",90,1,2005,116,české,naučná,Jarmila Rulcová</p>,,"Rozsah a četnost vědeckých prací na téma akné odpovídá častosti výskytu této choroby. Pro průměrného adolescenta však samotné vědecké údaje mnoho nepomohou, setkáváme se s...",136,219,"['naučná', '', 'české, Triton, Jarmila Rulcová']"
+n21842179,"Srdce, které tančí -- Esence nauky - Púndža H. W. L.",100,1,2005,154,české,naučná,H. W. L. Púndža</p>,,"Nauka známého indického duchovního učitele (osobitého následovníka Šrí Ramany Maharšiho) podaná zhuštěnou literární formou.
+Ukázka z knihy:
+Nic nestojí mimo Prázdnotu, a proto...",288,288,"['naučná', '', 'české, H. W. L. Púndža']"
+n569764,Vředová choroba - MUDr. Pavel Kohout,0,0,2005,76,české,naučná,Pavel Kohout</p>,,"Anotace: V posledních 20 letech došlo k zásadní změně v pochopení etiopatogeneze vředové choroby žaludku a duodena, zejména přiznáním zásadní role H. pylori. Tradiční spektrum...",128,195,"['naučná', '', 'české, Pavel Kohout']"
+n30705068,Z každého z nás postupem let něco zmizí,0,0,2005,56,české,naučná,Kolář Jiří,,Knižně publikovaný rozhovor literárního historika Michala Bauera s básníkem a výtvarníkem po jeho návratu z exilu do Prahy je umělcovým ohlédnutím se za uplynulými léty a...,231,360,"['naučná', '', 'české, Bauer Michal, Kolář Jiří']"
+n23553941,GSM alarm - přenos poplachu na mobilní telefon,0,0,2005,84,české,naučná,Tomáš Flajzar</p>,,"V této knize je popsán postup, jak si v amatérských podmínkách vyrobit vlastní systém zabezpečení právě s využitím moderní signalizace narušení na mobilní telefon majitele,...",474,509,"['naučná', '', 'české, Tomáš Flajzar']"
+n461311755,Oděvní stroje a zařízení I,0,0,2005,112,české,naučná,Haas Václav</p>,,"Pro 1 ročník SOU a SOŠ
+Rozdělení a jednotlivé typy šicích strojů, popis jejich součástí, obsluhy a údržby, bezpečnost a ochrana zdraví při práci.",157,185,"['naučná', '', 'české, Haas Václav']"
+n30705106,P.S. Psové,0,0,2005,112,české,naučná,Erazim Kohák</p>,,"P.S. Psové kniha od autora Erazim Kohák. Reedice jedné z nejžádanějších a samotným autorem z jeho díla nejvíce ceněných knížek, v níž v krátkých brilantních úvahách staví proti...",101,126,"['naučná', '', 'české, Erazim Kohák']"
+n45152024,Tillandsia 1 - Začínáme s tilandsiemi - Antonín Lukscheiter,100,1,2005,145,české,naučná,Lukscheiter Antonín,,"Kniha je určena všem, kteří pěstují okrasné rostliny pro potěchu i lásku k přírodě. Obdivují její pestrost a zajímají se o méně známé, ale o to podivuhodnější rostliny -...",137,199,"['naučná', '', 'české, Lukscheiter Antonín, Lukscheit']"
+n45332530,"Povoláním filosof - F.-X. Putallaz, Ruedi Imbach",0,0,2005,144,české,naučná,Platón</p>,,Dva prvořadí medievalisté v této krátké knížce z roku 1997 shrnují všechny dostupné poznatky o jedné z nekontroverznějších postav středověkého myšlení a nabízejí zcela novou...,132,178,"['naučná', '', 'české, Platón']"
+n51140325,Samopal vz. 58,92,6,2005,148,české,naučná,Fencl Jiří</p>,,Renomovaný odborný publicista Ing. Jiří Fencl shrnul v této knize všechny v současné době dostupné informace o známém čs. samopalu vz. 58. Kniha začíná stručnou informací o...,174,400,"['naučná', '', 'české, Naše vojsko, Fencl Jiří']"
+n435059,Teorie osobnosti - Dragomirecký Andrej,0,0,2005,142,české,naučná,Andrej Dragomirecký</p>,,Teorie osobnosti popsaná v této knize uvádí v mnoha ohledech zcela nová řešení problematiky psychologie osobnosti a otázek s tím spojených. Kromě dalších věcí je například...,124,124,"['naučná', '', 'české, Andrej Dragomirecký']"
+n554253,Vše o tucích typu omega - 3 -- Odpovědi na základní otázky týkající se mastných kyselin typu omega-3 - Clara Felix,94,3,2005,112,české,naučná,Clara Felix</p>,,"Odpovědi na základní otázky týkající se mastných kyselin typu omega-3, proč je potřebujeme, v jakém množství a mnohem více informací.
+Se vzrůstající popularitou doplňků...",23,79,"['naučná', '', 'české, Pragma, Clara Felix']"
+n450810409,"Písemná a elektronická komunikace 1 - Kroužek, Jiří; Kuldová, Olga",0,0,2005,144,české,naučná,Kuldová Olga</p>,,"Publikace obsahuje nácvik psaní desetiprstovou metodou na klávesnici počítačů. Dále zahrnuje normalizovanou úpravu písemností, úlohy pro přepis textů s korekturními znaménky,...",153,189,"['naučná', '', 'české, Fortuna Print, Kroužek Jiří, Kuldová Olga']"
+n21052030,Savoniův rotor - Návod na stavbu - Schulz Heinz,85,2,2005,78,české,naučná,Heinz Schulz</p>,,"Savoniův rotor využívá energie větru na jiném principu než vrtule. Má jiné charakteristiky, příznivější zejména při slabém větru. V knize je detailně popsána stavba zařízení a...",61,88,"['naučná', '', 'české, Heinz Schulz']"
+n2146541,"Rady bylináře Pavla 2 -- Léčba bylinami a přírodními prostředky - Pavel Váňa, Jiří Kuchař",94,4,2005,134,české,naučná,Pavel Váňa</p>,,"Rady bylináře Pavla patří do zlatého fondu české fytoterapie. Jejich druhé pokračování, které vychází téměř patnáct let po vydání první knihy, obsahuje nejlepší recepty, které...",120,179,"['naučná', '', 'české, Eminent, Pavel Váňa']"
+n407109412,"Řasa Jaroslav, Gabriel V. - Strojírenská technologie 3, 1. díl",0,0,2005,156,české,naučná,Gabriel Vladimí</p>,,"Učebnice seznamuje se zásadami přípravy materiálu (polotovarů), tj. rovnání, orýsování, polohování, ustavování a středění. Uvádí princip metod dělení materiálu, používané...",145,220,"['naučná', '', 'české, Řasa Jaroslav, Gabriel Vladimí']"
+n51151643,Dieta X Hume Tabitha,78,4,2005,164,české,naučná,Hume Tabitha</p>,,"Seriózní doporučení renomované klinické dietetičky jak ""zdravě zhubnout"" a přitom neomezovat své chutě a zálibu v jídle a pestré stravě. Autorka využívá nejnovějších poznatků,...",58,89,"['naučná', '', 'české, Hume Tabitha']"
+n495213234,Falzifikace a falzifikátoři českých dějin - Josef Staněk,100,2,2005,150,české,naučná,Staněk Josef</p>,,"Agape Brno na četné intervence vydalo znovu dotisk knihy Falsifikace a falsifikátoři českých dějin, tj. jiného výkladu některých událostí českých dějin než je běžně uváděn....",105,122,"['naučná', '', 'české, Staněk Josef']"
+n2162032,Příběh tajné lásky -- Eliška Kateřina Smiřická a její sexuální skandál - Francek Jindřich,80,1,2005,168,české,naučná,Jindřich Francek</p>,,"Příběh tajné lásky kniha od autora Jindřich Francek. Příběh tajné lásky Elišky Kateřiny Smiřické, která se beznadějně zamilovala do poddaného, kováře Jiříka Wagnera. Kniha...",135,173,"['naučná', '', 'české, Havran, Jindřich Francek']"
+n23175612,Jak pracuje počítač,0,0,2005,1,české,naučná,Computer Media</p>,,Nejoblíbenější nástěnný obraz z naší nabídky. Zobrazuje rozložené interní komponenty osobního počítače včetně popisu jejich funkce. V samostatných čtvercích jsou připojeny...,331,342,"['naučná', '', 'české, Computer Media']"
+n2162448,"Olomouc rabína Bertholda Oppenheima - kolektiv, Melotík Zdeněk",0,0,2005,128,české,naučná,Zdeněk Melotík</p>,,"Kategorie 
+
+Regionální literatura - Olomoucký kraj 
+
+Filozofie a náboženství - Judaismus 
+
+Historie - Podle období - Moderní dějiny 
+
+Historie - Podle zemí a kontinentů - České...",140,140,"['naučná', '', 'české, Zdeněk Melotík']"
+n51153020,Zen a umění lukostřelby,70,1,2005,94,české,naučná,Eugen Herrigel</p>,,"V lukostřelbě střelec a zásah nejsou dvěma objekty v opozici, ale jsou totožnou realitou. Lukostřelec si přestává být vědom sám sebe jako někoho, jako někoho, kdo je zaměřen na...",95,120,"['naučná', '', 'české, Pragma, Eugen Herrigel']"
+n559680,Malujeme pastel II -- Motivy zvířat - Ute Ludwigsen-Kaiser,80,4,2005,32,české,naučná,Janáčková Zita</p>,,V knížce Malujeme pastel II - Motivy zvířat je popsán a vyobrazen postup při tvorbě pastelem od náčrtu až k hotovému obrázku. Všechny vybrané motivy jsou ukázány krok za krokem...,53,79,"['naučná', '', 'české, ANAGRAM, Janáčková Zita']"
+n455348238,Koření a jeho léčivé účinky - Valíček Pavel,100,2,2005,136,české,naučná,Pavel Valíček</p>,,"Milovníci koření jistě ocení informace z knihy Koření a jeho léčivé účinky nejen o využití jednotlivých druhů v kuchyni, ale i o jejich léčivých účincích.
+
+Popis
+
+Úryvek z...",103,157,"['naučná', '', 'české, EUROMEDIA GROUP a.s., Pavel Valíček']"
+n454360778,Moderní ruční palné zbraně - Ian V. Hogg,0,0,2005,164,české,naučná,Hogg Ian V.</p>,,Kniha Moderní ruční palné zbraně představuje reprezentativní průřez mnohotvárné oblasti více či méně moderních dlouhých a krátkých zbraní a má stručnou a srozumitelnou formou...,193,299,"['naučná', '', 'české, Naše vojsko, Hogg Ian V.']"
+n544892,"Naše první terárium, Plánování a zakládání vybavení. Zařízení a úprava. Nejvhodnější chovanci..",100,1,2005,72,české,naučná,Manfred Rogner</p>,,"Jazyk: český
+Počet stran: 70
+Rok vydání: 2005
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: GRANIT S.R.O. NAKLADATELSVÍ",52,79,"['naučná', '', 'české, Granit, Manfred Rogner']"
+n562997,Jak milovat a udržet si mladšího muže - Richter Ursula,0,0,2005,158,české,naučná,Ursula Richter</p>,,"Láska starší ženy k mladšímu muži je stále ještě považována za neobvyklý, často dokonce nežádoucí jev. Vídeňská socioložka Ursula Richter ukazuje neobvyklé naděje, které mnoho...",79,160,"['naučná', '', 'české, Pragma, Ursula Richter']"
+n45050626,Reiki pro fyzické a psychické zdraví,97,1,2005,158,české,naučná,Jarmila Riegerová</p>,,"Reiki je učení práce s vesmírnou energií, jež ze své vlastní podstaty původu nemůže ublížit nebo být zneužita. Rei v překladu znamená vesmírný, životodárný a Ki znamená...",141,232,"['naučná', '', 'české, Fontána, Jarmila Riegerová']"
+n51133100,Překonávání konfliktů v rodině - Béatrice Trélaün,0,0,2005,136,české,naučná,Béatrice Trélaün</p>,,"V každodenním rodinném životě a během vývoje rodiny dochází občas nebo i často k nedorozuměním, hádkám a střetům. Někdo je tváří v tvář těm druhým odzbrojen, někdo reaguje...",156,200,"['naučná', '', 'české, Portál, Béatrice Trélaün']"
+n51028301,Man-čching Čeng: Tchaj-ťi čchüan,95,2,2005,144,české,naučná,Čeng Man-čching</p>,,"První české vydání knihy, která patří ke klasickým textům zabývajících se touto disciplínou. Profesor Cheng byl přímým žákem slavného Jang Čeng-Fua a díky svému tvůrčímu...",133,170,"['naučná', '', 'české, Argo, Čeng Man-čching']"
+n4421801,"Akné, Přířiny, projevy a terapeutické možnosti",90,1,2005,116,české,naučná,Jarmila Rulcová</p>,,"Rozsah a četnost vědeckých prací na téma akné odpovídá častosti výskytu této choroby. Pro průměrného adolescenta však samotné vědecké údaje mnoho nepomohou, setkáváme se s...",136,219,"['naučná', '', 'české, Triton, Jarmila Rulcová']"
+n21842179,"Srdce, které tančí -- Esence nauky - Púndža H. W. L.",100,1,2005,154,české,naučná,H. W. L. Púndža</p>,,"Nauka známého indického duchovního učitele (osobitého následovníka Šrí Ramany Maharšiho) podaná zhuštěnou literární formou.
+Ukázka z knihy:
+Nic nestojí mimo Prázdnotu, a proto...",288,288,"['naučná', '', 'české, H. W. L. Púndža']"
+n569764,Vředová choroba - MUDr. Pavel Kohout,0,0,2005,76,české,naučná,Pavel Kohout</p>,,"Anotace: V posledních 20 letech došlo k zásadní změně v pochopení etiopatogeneze vředové choroby žaludku a duodena, zejména přiznáním zásadní role H. pylori. Tradiční spektrum...",128,195,"['naučná', '', 'české, Pavel Kohout']"
+n30705068,Z každého z nás postupem let něco zmizí,0,0,2005,56,české,naučná,Kolář Jiří,,Knižně publikovaný rozhovor literárního historika Michala Bauera s básníkem a výtvarníkem po jeho návratu z exilu do Prahy je umělcovým ohlédnutím se za uplynulými léty a...,231,360,"['naučná', '', 'české, Bauer Michal, Kolář Jiří']"
+n23553941,GSM alarm - přenos poplachu na mobilní telefon,0,0,2005,84,české,naučná,Tomáš Flajzar</p>,,"V této knize je popsán postup, jak si v amatérských podmínkách vyrobit vlastní systém zabezpečení právě s využitím moderní signalizace narušení na mobilní telefon majitele,...",474,509,"['naučná', '', 'české, Tomáš Flajzar']"
+n461311755,Oděvní stroje a zařízení I,0,0,2005,112,české,naučná,Haas Václav</p>,,"Pro 1 ročník SOU a SOŠ
+Rozdělení a jednotlivé typy šicích strojů, popis jejich součástí, obsluhy a údržby, bezpečnost a ochrana zdraví při práci.",157,185,"['naučná', '', 'české, Haas Václav']"
+n30705106,P.S. Psové,0,0,2005,112,české,naučná,Erazim Kohák</p>,,"P.S. Psové kniha od autora Erazim Kohák. Reedice jedné z nejžádanějších a samotným autorem z jeho díla nejvíce ceněných knížek, v níž v krátkých brilantních úvahách staví proti...",101,126,"['naučná', '', 'české, Erazim Kohák']"
+n45152024,Tillandsia 1 - Začínáme s tilandsiemi - Antonín Lukscheiter,100,1,2005,145,české,naučná,Lukscheiter Antonín,,"Kniha je určena všem, kteří pěstují okrasné rostliny pro potěchu i lásku k přírodě. Obdivují její pestrost a zajímají se o méně známé, ale o to podivuhodnější rostliny -...",137,199,"['naučná', '', 'české, Lukscheiter Antonín, Lukscheit']"
+n45332530,"Povoláním filosof - F.-X. Putallaz, Ruedi Imbach",0,0,2005,144,české,naučná,Platón</p>,,Dva prvořadí medievalisté v této krátké knížce z roku 1997 shrnují všechny dostupné poznatky o jedné z nekontroverznějších postav středověkého myšlení a nabízejí zcela novou...,132,178,"['naučná', '', 'české, Platón']"
+n51140325,Samopal vz. 58,92,6,2005,148,české,naučná,Fencl Jiří</p>,,Renomovaný odborný publicista Ing. Jiří Fencl shrnul v této knize všechny v současné době dostupné informace o známém čs. samopalu vz. 58. Kniha začíná stručnou informací o...,174,400,"['naučná', '', 'české, Naše vojsko, Fencl Jiří']"
+n435059,Teorie osobnosti - Dragomirecký Andrej,0,0,2005,142,české,naučná,Andrej Dragomirecký</p>,,Teorie osobnosti popsaná v této knize uvádí v mnoha ohledech zcela nová řešení problematiky psychologie osobnosti a otázek s tím spojených. Kromě dalších věcí je například...,124,124,"['naučná', '', 'české, Andrej Dragomirecký']"
+n554253,Vše o tucích typu omega - 3 -- Odpovědi na základní otázky týkající se mastných kyselin typu omega-3 - Clara Felix,94,3,2005,112,české,naučná,Clara Felix</p>,,"Odpovědi na základní otázky týkající se mastných kyselin typu omega-3, proč je potřebujeme, v jakém množství a mnohem více informací.
+Se vzrůstající popularitou doplňků...",23,79,"['naučná', '', 'české, Pragma, Clara Felix']"
+n450810409,"Písemná a elektronická komunikace 1 - Kroužek, Jiří; Kuldová, Olga",0,0,2005,144,české,naučná,Kuldová Olga</p>,,"Publikace obsahuje nácvik psaní desetiprstovou metodou na klávesnici počítačů. Dále zahrnuje normalizovanou úpravu písemností, úlohy pro přepis textů s korekturními znaménky,...",153,189,"['naučná', '', 'české, Fortuna Print, Kroužek Jiří, Kuldová Olga']"
+n21052030,Savoniův rotor - Návod na stavbu - Schulz Heinz,85,2,2005,78,české,naučná,Heinz Schulz</p>,,"Savoniův rotor využívá energie větru na jiném principu než vrtule. Má jiné charakteristiky, příznivější zejména při slabém větru. V knize je detailně popsána stavba zařízení a...",61,88,"['naučná', '', 'české, Heinz Schulz']"
+n2146541,"Rady bylináře Pavla 2 -- Léčba bylinami a přírodními prostředky - Pavel Váňa, Jiří Kuchař",94,4,2005,134,české,naučná,Pavel Váňa</p>,,"Rady bylináře Pavla patří do zlatého fondu české fytoterapie. Jejich druhé pokračování, které vychází téměř patnáct let po vydání první knihy, obsahuje nejlepší recepty, které...",120,179,"['naučná', '', 'české, Eminent, Pavel Váňa']"
+n407109412,"Řasa Jaroslav, Gabriel V. - Strojírenská technologie 3, 1. díl",0,0,2005,156,české,naučná,Gabriel Vladimí</p>,,"Učebnice seznamuje se zásadami přípravy materiálu (polotovarů), tj. rovnání, orýsování, polohování, ustavování a středění. Uvádí princip metod dělení materiálu, používané...",145,220,"['naučná', '', 'české, Řasa Jaroslav, Gabriel Vladimí']"
+n51151643,Dieta X Hume Tabitha,78,4,2005,164,české,naučná,Hume Tabitha</p>,,"Seriózní doporučení renomované klinické dietetičky jak ""zdravě zhubnout"" a přitom neomezovat své chutě a zálibu v jídle a pestré stravě. Autorka využívá nejnovějších poznatků,...",58,89,"['naučná', '', 'české, Hume Tabitha']"
+n495213234,Falzifikace a falzifikátoři českých dějin - Josef Staněk,100,2,2005,150,české,naučná,Staněk Josef</p>,,"Agape Brno na četné intervence vydalo znovu dotisk knihy Falsifikace a falsifikátoři českých dějin, tj. jiného výkladu některých událostí českých dějin než je běžně uváděn....",105,122,"['naučná', '', 'české, Staněk Josef']"
+n2162032,Příběh tajné lásky -- Eliška Kateřina Smiřická a její sexuální skandál - Francek Jindřich,80,1,2005,168,české,naučná,Jindřich Francek</p>,,"Příběh tajné lásky kniha od autora Jindřich Francek. Příběh tajné lásky Elišky Kateřiny Smiřické, která se beznadějně zamilovala do poddaného, kováře Jiříka Wagnera. Kniha...",135,173,"['naučná', '', 'české, Havran, Jindřich Francek']"
+n23175612,Jak pracuje počítač,0,0,2005,1,české,naučná,Computer Media</p>,,Nejoblíbenější nástěnný obraz z naší nabídky. Zobrazuje rozložené interní komponenty osobního počítače včetně popisu jejich funkce. V samostatných čtvercích jsou připojeny...,331,342,"['naučná', '', 'české, Computer Media']"
+n2162448,"Olomouc rabína Bertholda Oppenheima - kolektiv, Melotík Zdeněk",0,0,2005,128,české,naučná,Zdeněk Melotík</p>,,"Kategorie 
+
+Regionální literatura - Olomoucký kraj 
+
+Filozofie a náboženství - Judaismus 
+
+Historie - Podle období - Moderní dějiny 
+
+Historie - Podle zemí a kontinentů - České...",140,140,"['naučná', '', 'české, Zdeněk Melotík']"
+n51153020,Zen a umění lukostřelby,70,1,2005,94,české,naučná,Eugen Herrigel</p>,,"V lukostřelbě střelec a zásah nejsou dvěma objekty v opozici, ale jsou totožnou realitou. Lukostřelec si přestává být vědom sám sebe jako někoho, jako někoho, kdo je zaměřen na...",95,120,"['naučná', '', 'české, Pragma, Eugen Herrigel']"
+n559680,Malujeme pastel II -- Motivy zvířat - Ute Ludwigsen-Kaiser,80,4,2005,32,české,naučná,Janáčková Zita</p>,,V knížce Malujeme pastel II - Motivy zvířat je popsán a vyobrazen postup při tvorbě pastelem od náčrtu až k hotovému obrázku. Všechny vybrané motivy jsou ukázány krok za krokem...,53,79,"['naučná', '', 'české, ANAGRAM, Janáčková Zita']"
+n455348238,Koření a jeho léčivé účinky - Valíček Pavel,100,2,2005,136,české,naučná,Pavel Valíček</p>,,"Milovníci koření jistě ocení informace z knihy Koření a jeho léčivé účinky nejen o využití jednotlivých druhů v kuchyni, ale i o jejich léčivých účincích.
+
+Popis
+
+Úryvek z...",103,157,"['naučná', '', 'české, EUROMEDIA GROUP a.s., Pavel Valíček']"
+n454360778,Moderní ruční palné zbraně - Ian V. Hogg,0,0,2005,164,české,naučná,Hogg Ian V.</p>,,Kniha Moderní ruční palné zbraně představuje reprezentativní průřez mnohotvárné oblasti více či méně moderních dlouhých a krátkých zbraní a má stručnou a srozumitelnou formou...,193,299,"['naučná', '', 'české, Naše vojsko, Hogg Ian V.']"
+n544892,"Naše první terárium, Plánování a zakládání vybavení. Zařízení a úprava. Nejvhodnější chovanci..",100,1,2005,72,české,naučná,Manfred Rogner</p>,,"Jazyk: český
+Počet stran: 70
+Rok vydání: 2005
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: GRANIT S.R.O. NAKLADATELSVÍ",52,79,"['naučná', '', 'české, Granit, Manfred Rogner']"
+n562997,Jak milovat a udržet si mladšího muže - Richter Ursula,0,0,2005,158,české,naučná,Ursula Richter</p>,,"Láska starší ženy k mladšímu muži je stále ještě považována za neobvyklý, často dokonce nežádoucí jev. Vídeňská socioložka Ursula Richter ukazuje neobvyklé naděje, které mnoho...",79,160,"['naučná', '', 'české, Pragma, Ursula Richter']"
+n45050626,Reiki pro fyzické a psychické zdraví,97,1,2005,158,české,naučná,Jarmila Riegerová</p>,,"Reiki je učení práce s vesmírnou energií, jež ze své vlastní podstaty původu nemůže ublížit nebo být zneužita. Rei v překladu znamená vesmírný, životodárný a Ki znamená...",141,232,"['naučná', '', 'české, Fontána, Jarmila Riegerová']"
+n51133100,Překonávání konfliktů v rodině - Béatrice Trélaün,0,0,2005,136,české,naučná,Béatrice Trélaün</p>,,"V každodenním rodinném životě a během vývoje rodiny dochází občas nebo i často k nedorozuměním, hádkám a střetům. Někdo je tváří v tvář těm druhým odzbrojen, někdo reaguje...",156,200,"['naučná', '', 'české, Portál, Béatrice Trélaün']"
+n51028301,Man-čching Čeng: Tchaj-ťi čchüan,95,2,2005,144,české,naučná,Čeng Man-čching</p>,,"První české vydání knihy, která patří ke klasickým textům zabývajících se touto disciplínou. Profesor Cheng byl přímým žákem slavného Jang Čeng-Fua a díky svému tvůrčímu...",133,170,"['naučná', '', 'české, Argo, Čeng Man-čching']"
+n4421801,"Akné, Přířiny, projevy a terapeutické možnosti",90,1,2005,116,české,naučná,Jarmila Rulcová</p>,,"Rozsah a četnost vědeckých prací na téma akné odpovídá častosti výskytu této choroby. Pro průměrného adolescenta však samotné vědecké údaje mnoho nepomohou, setkáváme se s...",136,219,"['naučná', '', 'české, Triton, Jarmila Rulcová']"
+n21842179,"Srdce, které tančí -- Esence nauky - Púndža H. W. L.",100,1,2005,154,české,naučná,H. W. L. Púndža</p>,,"Nauka známého indického duchovního učitele (osobitého následovníka Šrí Ramany Maharšiho) podaná zhuštěnou literární formou.
+Ukázka z knihy:
+Nic nestojí mimo Prázdnotu, a proto...",288,288,"['naučná', '', 'české, H. W. L. Púndža']"
+n569764,Vředová choroba - MUDr. Pavel Kohout,0,0,2005,76,české,naučná,Pavel Kohout</p>,,"Anotace: V posledních 20 letech došlo k zásadní změně v pochopení etiopatogeneze vředové choroby žaludku a duodena, zejména přiznáním zásadní role H. pylori. Tradiční spektrum...",128,195,"['naučná', '', 'české, Pavel Kohout']"
+n30705068,Z každého z nás postupem let něco zmizí,0,0,2005,56,české,naučná,Kolář Jiří,,Knižně publikovaný rozhovor literárního historika Michala Bauera s básníkem a výtvarníkem po jeho návratu z exilu do Prahy je umělcovým ohlédnutím se za uplynulými léty a...,231,360,"['naučná', '', 'české, Bauer Michal, Kolář Jiří']"
+n23553941,GSM alarm - přenos poplachu na mobilní telefon,0,0,2005,84,české,naučná,Tomáš Flajzar</p>,,"V této knize je popsán postup, jak si v amatérských podmínkách vyrobit vlastní systém zabezpečení právě s využitím moderní signalizace narušení na mobilní telefon majitele,...",474,509,"['naučná', '', 'české, Tomáš Flajzar']"
+n461311755,Oděvní stroje a zařízení I,0,0,2005,112,české,naučná,Haas Václav</p>,,"Pro 1 ročník SOU a SOŠ
+Rozdělení a jednotlivé typy šicích strojů, popis jejich součástí, obsluhy a údržby, bezpečnost a ochrana zdraví při práci.",157,185,"['naučná', '', 'české, Haas Václav']"

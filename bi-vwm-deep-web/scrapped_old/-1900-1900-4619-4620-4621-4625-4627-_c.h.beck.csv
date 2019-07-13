@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n23555012,Ústava České republiky - komentář,0,0,1900,936,C.H.Beck,,české</p>,,Ústava České republiky byla přijata koncem roku 1992. Od té doby se některá její důležitá ustanovení výrazně změnila. Ústava byla také doplněna některými dalšími ústavními...,1,1,"['C.H.Beck', '', 'české']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n106710883,Maigretovo pařížské léto,50,1,2013,248,Baronet,beletrie,české</p>,,"Pokračování příběhů mladého pařížského kriminalisty Paula Maigreta, který se jmenuje shodně jako literární hrdina. Zdá se, že léto nebude ničím výjimečné, ani když se objeví...",79,89,"['Baronet, beletrie', '', 'české']"
+n106710885,Čestný muž,30,1,2013,296,Baronet,beletrie,české</p>,,"Eliot si je vědom své povinnosti - a ožení se s Laurou. Co jiného také může čestný muž udělat poté, co je za dramatických okolností nucen strávit několik dní v hostinci sám se...",269,269,"['Baronet, beletrie', '', 'české']"

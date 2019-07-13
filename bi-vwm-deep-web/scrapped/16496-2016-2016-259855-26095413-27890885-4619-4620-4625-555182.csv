@@ -1,0 +1,469 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n437481248,Gravity Falls Journal,99,8,2016,288,Disney,dětské,Rob Renzetti,anglické,"Journal 3 brims with every page ever seen on the show plus all-new pages with monsters and secrets, notes from Dipper and Mabel, and the Author's full story. Fans of
+Gravity...",354,604,"['dětské', '', 'Disney, Alex Hirsch, Rob Renzetti, anglické']"
+n422925905,Pěšky mezi buddhisty a komunisty - Ladislav Zibura,95,15,2016,288,BizBooks,cestopisy,Ladislav Zibura,české,"Nešikovný mladý muž ujde 1 500 kilometrů pěšky v Nepálu a v Číně. Dějí se mu hrozné věci, ale on se jim jen směje.
+
+Když mi byly tři, rozbil jsem si hlavu o bidet. Když mi bylo...",204,299,"['cestopisy', '', 'BizBooks, Ladislav Zibura, české']"
+n422824883,Deník malého Minecrafťáka (Cube Kid),89,11,2016,304,Computer Press,dětské,Cube Kid,české,"Kniha Deník malého Minecrafťáka
+ 
+Konečně je tu kniha, jak nehrát Minecfrat nudně a fádně.
+Očima malého hráče je kniha plná nápadů, hracích taktik.... jen, aby hra nebyla...",204,299,"['dětské', '', 'Computer Press, Cube Kid, české']"
+n353545834,Hrůzostrašné pohádky pro malé strašpytlíky,99,2,2016,304,Slovart,dětské,Jiří Žáček,české,"A proč právě hrůzostrašné pohádky? Protože je děti nejen milují (dospělí ostatně také, jen jim říkají jinak), ale zároveň v nich najdou mnoho příkladů, jak mohou překonat...",394,499,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n422617929,Kočičí válečníci (2) - Oheň a led - Erin Hunterová,98,2,2016,304,Albatros,dětské,Erin Hunter,české,"Druhý díl rozsáhlé ságy Kočičí válečníci začíná v době bezlistí. Domácí mazlíček Zrzek dostává nové jméno Ohnivous. Povýšil mezi válečníky, ale respektuje ho velitelka a starší...",136,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n333549728,Odpusť mi. Megan,96,2,2016,256,,dětské,Rushtonová Abbie,české,"Některá tajemství by měla zůstat skryta…
+
+Megan nemluví. A ani nemůže. Loni v létě se stalo něco hrozného a ona slíbila, že o tom nikdy nikomu neřekne. Trápí ji strašná vina....",39,200,"['dětské', '', 'EUROMEDIA GROUP, a.s., Rushtonová Abbie, české']"
+n432168978,Zikmund a Hanzelka (František Emmert),98,13,2016,272,Computer Press,cestopisy,František Emert,české,"Legendární čeští cestovatelé v neobyčejné knize plné přátelství, dobrodružství a unikátních fotografií z jejich cest.
+Zikmund a Hanzelka – jména, jež se stala legendami....",479,690,"['cestopisy', '', 'Computer Press, František Emert, české']"
+n455918747,"Atlas zemí, které neexistují - Padesát oficiálně neuznaných států, o kterých se málo ví - Nick Middleton",100,1,2016,240,,cestopisy,Nick Middleton,české,Graficky unikátně zpracovaný atlas zve na poutavou exkurzi do skrytého světa. Na 240 stranách a 50 mapách předkládá geograficko-historické informace o skutečných územích...,363,548,"['cestopisy', '', 'Nick Middleton, české']"
+n407656596,Kočičí válečníci - 1 - Vzhůru do divočiny - Erin Hunterová,76,5,2016,264,Albatros,dětské,Hunterová Erin,české,"Sledujte boj čtyř klanů divokých koček. Od autorky úspěšné série Zákon smečky. Čtyři klany divokých koček si odedávna dělí území lesa podle zákonů, které stanovili kdysi dávno...",136,199,"['dětské', '', 'Albatros, Hunterová Erin, české']"
+n473577363,Zakázané přání - Jessica Khouryová,0,0,2016,302,Marmer Media,dětské,Jessica Khoury,české,"Když Aladin objeví kouzelnou lampu, džinka Zahra se zjeví ve světě, který neviděla stovky let - světě, kde jsou zapovězena kouzla a samotná existence Zahry je nebezpečná. Aby...",197,296,"['dětské', '', 'Marmer Media, Jessica Khoury, české']"
+n339284901,Neslyšno,90,4,2016,244,Domino,dětské,Richelle Mead,české,"Dívka jménem Fej žije v horské vesnici, kterou sesuvy kamení zcela odřízly od světa. Přežití vesničanů zajišťuje jediné lano, po němž jim přes zrádné skalní stěny posílají...",25,289,"['dětské', '', 'Domino, Richelle Mead, české']"
+n429951431,"Oliver - kocour, který zachránil Vánoce - Sheila Norton",93,6,2016,296,Fragment,dětské,Sheila Norton,české,"Půvabný vánoční příběh, který vás chytne za srdce.
+Kocourek Oliver jen výjimečně opouští svůj bezpečný domov v hostinci Myslivna. Když ale hospodu zničí požár, zůstane bez...",208,284,"['dětské', '', 'Fragment, Sheila Norton, české']"
+n342269905,Hry pro maminky s dětmi,100,2,2016,272,Portál,dětské,Jana Hanšpachová,české,"Soubor tradičních i nových her, říkadel a námětů pro nejrůznější činnosti pro děti v předškolním věku. V důležitém období raného dětství tráví většina dětí nejvíce času s...",196,245,"['dětské', '', 'Portál, Jana Hanšpachová, české']"
+n357609612,Jak přežít dračí bouři - Škyťák Šelmovská Štika III. 7,0,0,2016,272,Slovart,dětské,Cressida Cowell,české,"Na začátku to vypadá jen jako drobná nepříjemnost – Škyťák se musí zúčastnit plaveckého závodu v ledové vodě, který patří mezi tradiční vikinské kratochvíle. Potom se ale věci...",161,249,"['dětské', '', 'Slovart, Cressida Cowell, české']"
+n456517362,Až budu velkej kluk,87,2,2016,288,,dětské,,české,"Tato kniha o dospívání je určená chlapcům, které čeká (nebo jim již začalo) období puberty. Nejde o žádné mravokárné poučky, naopak - přátelský, upřímný a otevřený styl knihy...",79,199,"['dětské', '', 'Svojtka&Co., Frith, Alex, české']"
+n368171226,Války čarodějek,0,0,2016,264,Víkend,dětské,Pounder Sibéal,české,"Čarodějnice se na téhle planetě vyskytují, co si kdo pamatuje. Vaří odporné lektvary v kotlících a poletují na košťatech oblohou. Chichotají se. Pronášejí kletby. Mají kočky....",172,269,"['dětské', '', 'Víkend, Pounder Sibéal, české']"
+n372593858,Princezny - Zlobivé pohádky o princeznách - Walt Disney,0,0,2016,264,Egmont,dětské,Disney Walt,české,"Tvé oblíbené princezny jsou milé, vždy upravené, způsobné a usměvavé. Ale když je potřeba, dokáží Ariel, Jasmína, Bella, Růženka, Tiana, Sněhurka i Popelka, že jsou rázné,...",348,499,"['dětské', '', 'Egmont, Disney Walt, české']"
+n423021796,Alea - dívka moře: Barevné vody - Tanya Stewnerová,100,4,2016,304,Fragment,dětské,Tanya Stewnerová,české,"Moře Aleu potřebuje. Zodpoví jí však i její otázky? Druhý díl velkolepého příběhu od německé bestselerové autorky.
+
+Dobrodružství, výjimečné přátelství a tajemství ukryté v...",204,299,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n370202347,Obr Dobr - Roald Dahl,85,4,2016,240,Knižní klub,dětské,Roald Dahl,české,"Hodných obrů je v pohádkách a příbězích velmi málo. Přečtěte si společně s dětmi krásný příběh o jednom hodném obrovi a malé Sofii. Sofie je osiřelá holčička, která žije v...",197,249,"['dětské', '', 'Knižní klub, Roald Dahl, české']"
+n383850186,Rockový polibek - Série - Stage Dive - 4 - Kylie Scott,99,4,2016,272,Baronet,dětské,Kylie Scott,české,"Měla to být záležitost na jednu noc…
+
+Pozitivní. Dvě maličké čárky na těhotenském testu převrátí život Lizzy Rollinsové vzhůru nohama. A to všechno kvůli jedné obrovské chybě,...",191,299,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n479279344,Bylo nás pět,0,0,2016,304,Albatros,dětské,Karel Poláček,české,"Albatros Bylo nás pět
+
+Námětem tohoto humorně zpracovaného románu, se stalo dětství autora Karla Poláčka, trávené v městečku Rychnově nad Kněžnou.
+
+Pět kluků s duší nezbedníků...",136,199,"['dětské', '', 'Albatros, Karel Poláček, české']"
+n395113552,Lacrimosa - Rekviem pro Saschu - Alice Scarling,0,0,2016,304,Nakladatelství BRÁNA,dětské,Alice Scarling,české,"Sascha po dětství prožitém v klášteře dospěla v osobnost, která si není jistá sama sebou a která ví, že jakékoliv selhání pro ni představuje smrtelné nebezpečí. Proto se obrní...",64,299,"['dětské', '', 'Nakladatelství BRÁNA, Alice Scarling, české']"
+n452446189,"Řeka, která teče pozpátku - Jean-Claude Mourlevat",0,0,2016,272,,dětské,Jean-Claude Mourlevat,české,"Románový příběh dvou osamělých dětí. Tomek má jediného přítele, starého moudrého vesnického písaře, Hannah miluje svého žlutomodře zbarveného ptáčka, jedinou památku na...",183,266,"['dětské', '', 'Jean-Claude Mourlevat, české']"
+n339235924,Zákon smečky - 4 - Trnitá cesta - Erin Hunterová,100,4,2016,248,Albatros,dětské,Erin Hunter,české,"Čtvrtý díl oblíbené fantasy série o psech.
+
+Hlavní hrdina Štístko a vůdce smečky Alfa nyní žijí v křehkém příměří, ale napětí mezi nimi vzrůstá. Nově vzniklá smečka spojená z...",138,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n366522414,Darebák David chystá léčku,0,0,2016,240,BB ART,dětské,Francesca Simonová,české,"Další sbírka vyprávění o nenapravitelném rebelovi Davidovi přináší dvanáct příběhů, v nichž se setkáváme s Davidem, jeho rodinou a spolužáky třeba na pěším výletě, v nóbl...",156,249,"['dětské', '', 'BB ART, Francesca Simonová, české']"
+n444180575,Annina dcéra Rilla,0,0,2016,296,Slovenské pedagogické nakladat,dětské,Montgomeryová Lucy Maud,slovenské,"Dostupné aj v kolekcii za skvelú cenu. Rilla je najmladšie Annino dieťa, má ryšavé vlasy ako mama a vyrastá z nej najkrajšie dievča v Glene St. Mary. V pätnástich rokoch túži...",187,257,"['dětské', '', 'Slovenské pedagogické nakladat, Montgomeryová Lucy Maud, slovenské']"
+n673193883,"My Heart and Other Black Holes - Warga, Jasmine",0,0,2016,302,Balzer + Bray,dětské,Jasmine Warga,anglické,"A stunning novel about the transformative power of love, perfect for fans of 13 Reasons Why by Jay Asher. Sixteen-year-old physics nerd Aysel is obsessed with plotting her own...",178,257,"['dětské', '', 'Balzer + Bray, Jasmine Warga, anglické']"
+n589088534,Moje srdce a jiné černé díry - Jasmine Wargaová,0,0,2016,260,Argo,dětské,Jasmine Wargaová,české,"Když máte pocit, jako byste místo srdce měli zoufale bezednou černou díru, která všechno spolkne, jaký smysl má každé ráno znovu vstávat? Aysel už nechce žít - čeká jen na...",189,269,"['dětské', '', 'Argo, Jasmine Wargaová, české']"
+n357082688,Třinácté nebe - Neil Smith,0,0,2016,312,Argo,dětské,Neil Smith,české,"Autor : Neil Smith, Popis : 
+ Je první týden školního roku a Oliver Dalrymple, neoblíbený a vysmívaný outsider, který je posedlý biologií a chemií, stojí u své šatní skříňky a...",222,298,"['dětské', '', 'Argo, Neil Smith, české']"
+n444453184,Jedinečné krajiny České republiky z letadla - Petr Toman,100,1,2016,304,,cestopisy,Petr Toman,české,"Autor : Petr Toman, Popis : 
+ V knize Jedinečné krajiny České republiky z letadla představuje fotograf Petr Toman českou krajinu tak, jak ji mohl vidět jen málokdo. V této...",670,950,"['cestopisy', '', 'Petr Toman, české']"
+n437481248,Gravity Falls Journal,99,8,2016,288,Disney,dětské,Rob Renzetti,anglické,"Journal 3 brims with every page ever seen on the show plus all-new pages with monsters and secrets, notes from Dipper and Mabel, and the Author's full story. Fans of
+Gravity...",354,604,"['dětské', '', 'Disney, Alex Hirsch, Rob Renzetti, anglické']"
+n422925905,Pěšky mezi buddhisty a komunisty - Ladislav Zibura,95,15,2016,288,BizBooks,cestopisy,Ladislav Zibura,české,"Nešikovný mladý muž ujde 1 500 kilometrů pěšky v Nepálu a v Číně. Dějí se mu hrozné věci, ale on se jim jen směje.
+
+Když mi byly tři, rozbil jsem si hlavu o bidet. Když mi bylo...",204,299,"['cestopisy', '', 'BizBooks, Ladislav Zibura, české']"
+n422824883,Deník malého Minecrafťáka (Cube Kid),89,11,2016,304,Computer Press,dětské,Cube Kid,české,"Kniha Deník malého Minecrafťáka
+ 
+Konečně je tu kniha, jak nehrát Minecfrat nudně a fádně.
+Očima malého hráče je kniha plná nápadů, hracích taktik.... jen, aby hra nebyla...",204,299,"['dětské', '', 'Computer Press, Cube Kid, české']"
+n353545834,Hrůzostrašné pohádky pro malé strašpytlíky,99,2,2016,304,Slovart,dětské,Jiří Žáček,české,"A proč právě hrůzostrašné pohádky? Protože je děti nejen milují (dospělí ostatně také, jen jim říkají jinak), ale zároveň v nich najdou mnoho příkladů, jak mohou překonat...",394,499,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n422617929,Kočičí válečníci (2) - Oheň a led - Erin Hunterová,98,2,2016,304,Albatros,dětské,Erin Hunter,české,"Druhý díl rozsáhlé ságy Kočičí válečníci začíná v době bezlistí. Domácí mazlíček Zrzek dostává nové jméno Ohnivous. Povýšil mezi válečníky, ale respektuje ho velitelka a starší...",136,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n333549728,Odpusť mi. Megan,96,2,2016,256,,dětské,Rushtonová Abbie,české,"Některá tajemství by měla zůstat skryta…
+
+Megan nemluví. A ani nemůže. Loni v létě se stalo něco hrozného a ona slíbila, že o tom nikdy nikomu neřekne. Trápí ji strašná vina....",39,200,"['dětské', '', 'EUROMEDIA GROUP, a.s., Rushtonová Abbie, české']"
+n432168978,Zikmund a Hanzelka (František Emmert),98,13,2016,272,Computer Press,cestopisy,František Emert,české,"Legendární čeští cestovatelé v neobyčejné knize plné přátelství, dobrodružství a unikátních fotografií z jejich cest.
+Zikmund a Hanzelka – jména, jež se stala legendami....",479,690,"['cestopisy', '', 'Computer Press, František Emert, české']"
+n455918747,"Atlas zemí, které neexistují - Padesát oficiálně neuznaných států, o kterých se málo ví - Nick Middleton",100,1,2016,240,,cestopisy,Nick Middleton,české,Graficky unikátně zpracovaný atlas zve na poutavou exkurzi do skrytého světa. Na 240 stranách a 50 mapách předkládá geograficko-historické informace o skutečných územích...,363,548,"['cestopisy', '', 'Nick Middleton, české']"
+n407656596,Kočičí válečníci - 1 - Vzhůru do divočiny - Erin Hunterová,76,5,2016,264,Albatros,dětské,Hunterová Erin,české,"Sledujte boj čtyř klanů divokých koček. Od autorky úspěšné série Zákon smečky. Čtyři klany divokých koček si odedávna dělí území lesa podle zákonů, které stanovili kdysi dávno...",136,199,"['dětské', '', 'Albatros, Hunterová Erin, české']"
+n473577363,Zakázané přání - Jessica Khouryová,0,0,2016,302,Marmer Media,dětské,Jessica Khoury,české,"Když Aladin objeví kouzelnou lampu, džinka Zahra se zjeví ve světě, který neviděla stovky let - světě, kde jsou zapovězena kouzla a samotná existence Zahry je nebezpečná. Aby...",197,296,"['dětské', '', 'Marmer Media, Jessica Khoury, české']"
+n339284901,Neslyšno,90,4,2016,244,Domino,dětské,Richelle Mead,české,"Dívka jménem Fej žije v horské vesnici, kterou sesuvy kamení zcela odřízly od světa. Přežití vesničanů zajišťuje jediné lano, po němž jim přes zrádné skalní stěny posílají...",25,289,"['dětské', '', 'Domino, Richelle Mead, české']"
+n429951431,"Oliver - kocour, který zachránil Vánoce - Sheila Norton",93,6,2016,296,Fragment,dětské,Sheila Norton,české,"Půvabný vánoční příběh, který vás chytne za srdce.
+Kocourek Oliver jen výjimečně opouští svůj bezpečný domov v hostinci Myslivna. Když ale hospodu zničí požár, zůstane bez...",208,284,"['dětské', '', 'Fragment, Sheila Norton, české']"
+n342269905,Hry pro maminky s dětmi,100,2,2016,272,Portál,dětské,Jana Hanšpachová,české,"Soubor tradičních i nových her, říkadel a námětů pro nejrůznější činnosti pro děti v předškolním věku. V důležitém období raného dětství tráví většina dětí nejvíce času s...",196,245,"['dětské', '', 'Portál, Jana Hanšpachová, české']"
+n357609612,Jak přežít dračí bouři - Škyťák Šelmovská Štika III. 7,0,0,2016,272,Slovart,dětské,Cressida Cowell,české,"Na začátku to vypadá jen jako drobná nepříjemnost – Škyťák se musí zúčastnit plaveckého závodu v ledové vodě, který patří mezi tradiční vikinské kratochvíle. Potom se ale věci...",161,249,"['dětské', '', 'Slovart, Cressida Cowell, české']"
+n456517362,Až budu velkej kluk,87,2,2016,288,,dětské,,české,"Tato kniha o dospívání je určená chlapcům, které čeká (nebo jim již začalo) období puberty. Nejde o žádné mravokárné poučky, naopak - přátelský, upřímný a otevřený styl knihy...",79,199,"['dětské', '', 'Svojtka&Co., Frith, Alex, české']"
+n368171226,Války čarodějek,0,0,2016,264,Víkend,dětské,Pounder Sibéal,české,"Čarodějnice se na téhle planetě vyskytují, co si kdo pamatuje. Vaří odporné lektvary v kotlících a poletují na košťatech oblohou. Chichotají se. Pronášejí kletby. Mají kočky....",172,269,"['dětské', '', 'Víkend, Pounder Sibéal, české']"
+n372593858,Princezny - Zlobivé pohádky o princeznách - Walt Disney,0,0,2016,264,Egmont,dětské,Disney Walt,české,"Tvé oblíbené princezny jsou milé, vždy upravené, způsobné a usměvavé. Ale když je potřeba, dokáží Ariel, Jasmína, Bella, Růženka, Tiana, Sněhurka i Popelka, že jsou rázné,...",348,499,"['dětské', '', 'Egmont, Disney Walt, české']"
+n423021796,Alea - dívka moře: Barevné vody - Tanya Stewnerová,100,4,2016,304,Fragment,dětské,Tanya Stewnerová,české,"Moře Aleu potřebuje. Zodpoví jí však i její otázky? Druhý díl velkolepého příběhu od německé bestselerové autorky.
+
+Dobrodružství, výjimečné přátelství a tajemství ukryté v...",204,299,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n370202347,Obr Dobr - Roald Dahl,85,4,2016,240,Knižní klub,dětské,Roald Dahl,české,"Hodných obrů je v pohádkách a příbězích velmi málo. Přečtěte si společně s dětmi krásný příběh o jednom hodném obrovi a malé Sofii. Sofie je osiřelá holčička, která žije v...",197,249,"['dětské', '', 'Knižní klub, Roald Dahl, české']"
+n383850186,Rockový polibek - Série - Stage Dive - 4 - Kylie Scott,99,4,2016,272,Baronet,dětské,Kylie Scott,české,"Měla to být záležitost na jednu noc…
+
+Pozitivní. Dvě maličké čárky na těhotenském testu převrátí život Lizzy Rollinsové vzhůru nohama. A to všechno kvůli jedné obrovské chybě,...",191,299,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n479279344,Bylo nás pět,0,0,2016,304,Albatros,dětské,Karel Poláček,české,"Albatros Bylo nás pět
+
+Námětem tohoto humorně zpracovaného románu, se stalo dětství autora Karla Poláčka, trávené v městečku Rychnově nad Kněžnou.
+
+Pět kluků s duší nezbedníků...",136,199,"['dětské', '', 'Albatros, Karel Poláček, české']"
+n395113552,Lacrimosa - Rekviem pro Saschu - Alice Scarling,0,0,2016,304,Nakladatelství BRÁNA,dětské,Alice Scarling,české,"Sascha po dětství prožitém v klášteře dospěla v osobnost, která si není jistá sama sebou a která ví, že jakékoliv selhání pro ni představuje smrtelné nebezpečí. Proto se obrní...",64,299,"['dětské', '', 'Nakladatelství BRÁNA, Alice Scarling, české']"
+n452446189,"Řeka, která teče pozpátku - Jean-Claude Mourlevat",0,0,2016,272,,dětské,Jean-Claude Mourlevat,české,"Románový příběh dvou osamělých dětí. Tomek má jediného přítele, starého moudrého vesnického písaře, Hannah miluje svého žlutomodře zbarveného ptáčka, jedinou památku na...",183,266,"['dětské', '', 'Jean-Claude Mourlevat, české']"
+n339235924,Zákon smečky - 4 - Trnitá cesta - Erin Hunterová,100,4,2016,248,Albatros,dětské,Erin Hunter,české,"Čtvrtý díl oblíbené fantasy série o psech.
+
+Hlavní hrdina Štístko a vůdce smečky Alfa nyní žijí v křehkém příměří, ale napětí mezi nimi vzrůstá. Nově vzniklá smečka spojená z...",138,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n366522414,Darebák David chystá léčku,0,0,2016,240,BB ART,dětské,Francesca Simonová,české,"Další sbírka vyprávění o nenapravitelném rebelovi Davidovi přináší dvanáct příběhů, v nichž se setkáváme s Davidem, jeho rodinou a spolužáky třeba na pěším výletě, v nóbl...",156,249,"['dětské', '', 'BB ART, Francesca Simonová, české']"
+n444180575,Annina dcéra Rilla,0,0,2016,296,Slovenské pedagogické nakladat,dětské,Montgomeryová Lucy Maud,slovenské,"Dostupné aj v kolekcii za skvelú cenu. Rilla je najmladšie Annino dieťa, má ryšavé vlasy ako mama a vyrastá z nej najkrajšie dievča v Glene St. Mary. V pätnástich rokoch túži...",187,257,"['dětské', '', 'Slovenské pedagogické nakladat, Montgomeryová Lucy Maud, slovenské']"
+n673193883,"My Heart and Other Black Holes - Warga, Jasmine",0,0,2016,302,Balzer + Bray,dětské,Jasmine Warga,anglické,"A stunning novel about the transformative power of love, perfect for fans of 13 Reasons Why by Jay Asher. Sixteen-year-old physics nerd Aysel is obsessed with plotting her own...",178,257,"['dětské', '', 'Balzer + Bray, Jasmine Warga, anglické']"
+n589088534,Moje srdce a jiné černé díry - Jasmine Wargaová,0,0,2016,260,Argo,dětské,Jasmine Wargaová,české,"Když máte pocit, jako byste místo srdce měli zoufale bezednou černou díru, která všechno spolkne, jaký smysl má každé ráno znovu vstávat? Aysel už nechce žít - čeká jen na...",189,269,"['dětské', '', 'Argo, Jasmine Wargaová, české']"
+n357082688,Třinácté nebe - Neil Smith,0,0,2016,312,Argo,dětské,Neil Smith,české,"Autor : Neil Smith, Popis : 
+ Je první týden školního roku a Oliver Dalrymple, neoblíbený a vysmívaný outsider, který je posedlý biologií a chemií, stojí u své šatní skříňky a...",222,298,"['dětské', '', 'Argo, Neil Smith, české']"
+n444453184,Jedinečné krajiny České republiky z letadla - Petr Toman,100,1,2016,304,,cestopisy,Petr Toman,české,"Autor : Petr Toman, Popis : 
+ V knize Jedinečné krajiny České republiky z letadla představuje fotograf Petr Toman českou krajinu tak, jak ji mohl vidět jen málokdo. V této...",670,950,"['cestopisy', '', 'Petr Toman, české']"
+n437481248,Gravity Falls Journal,99,8,2016,288,Disney,dětské,Rob Renzetti,anglické,"Journal 3 brims with every page ever seen on the show plus all-new pages with monsters and secrets, notes from Dipper and Mabel, and the Author's full story. Fans of
+Gravity...",354,604,"['dětské', '', 'Disney, Alex Hirsch, Rob Renzetti, anglické']"
+n422925905,Pěšky mezi buddhisty a komunisty - Ladislav Zibura,95,15,2016,288,BizBooks,cestopisy,Ladislav Zibura,české,"Nešikovný mladý muž ujde 1 500 kilometrů pěšky v Nepálu a v Číně. Dějí se mu hrozné věci, ale on se jim jen směje.
+
+Když mi byly tři, rozbil jsem si hlavu o bidet. Když mi bylo...",204,299,"['cestopisy', '', 'BizBooks, Ladislav Zibura, české']"
+n422824883,Deník malého Minecrafťáka (Cube Kid),89,11,2016,304,Computer Press,dětské,Cube Kid,české,"Kniha Deník malého Minecrafťáka
+ 
+Konečně je tu kniha, jak nehrát Minecfrat nudně a fádně.
+Očima malého hráče je kniha plná nápadů, hracích taktik.... jen, aby hra nebyla...",204,299,"['dětské', '', 'Computer Press, Cube Kid, české']"
+n353545834,Hrůzostrašné pohádky pro malé strašpytlíky,99,2,2016,304,Slovart,dětské,Jiří Žáček,české,"A proč právě hrůzostrašné pohádky? Protože je děti nejen milují (dospělí ostatně také, jen jim říkají jinak), ale zároveň v nich najdou mnoho příkladů, jak mohou překonat...",394,499,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n422617929,Kočičí válečníci (2) - Oheň a led - Erin Hunterová,98,2,2016,304,Albatros,dětské,Erin Hunter,české,"Druhý díl rozsáhlé ságy Kočičí válečníci začíná v době bezlistí. Domácí mazlíček Zrzek dostává nové jméno Ohnivous. Povýšil mezi válečníky, ale respektuje ho velitelka a starší...",136,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n333549728,Odpusť mi. Megan,96,2,2016,256,,dětské,Rushtonová Abbie,české,"Některá tajemství by měla zůstat skryta…
+
+Megan nemluví. A ani nemůže. Loni v létě se stalo něco hrozného a ona slíbila, že o tom nikdy nikomu neřekne. Trápí ji strašná vina....",39,200,"['dětské', '', 'EUROMEDIA GROUP, a.s., Rushtonová Abbie, české']"
+n432168978,Zikmund a Hanzelka (František Emmert),98,13,2016,272,Computer Press,cestopisy,František Emert,české,"Legendární čeští cestovatelé v neobyčejné knize plné přátelství, dobrodružství a unikátních fotografií z jejich cest.
+Zikmund a Hanzelka – jména, jež se stala legendami....",479,690,"['cestopisy', '', 'Computer Press, František Emert, české']"
+n455918747,"Atlas zemí, které neexistují - Padesát oficiálně neuznaných států, o kterých se málo ví - Nick Middleton",100,1,2016,240,,cestopisy,Nick Middleton,české,Graficky unikátně zpracovaný atlas zve na poutavou exkurzi do skrytého světa. Na 240 stranách a 50 mapách předkládá geograficko-historické informace o skutečných územích...,363,548,"['cestopisy', '', 'Nick Middleton, české']"
+n407656596,Kočičí válečníci - 1 - Vzhůru do divočiny - Erin Hunterová,76,5,2016,264,Albatros,dětské,Hunterová Erin,české,"Sledujte boj čtyř klanů divokých koček. Od autorky úspěšné série Zákon smečky. Čtyři klany divokých koček si odedávna dělí území lesa podle zákonů, které stanovili kdysi dávno...",136,199,"['dětské', '', 'Albatros, Hunterová Erin, české']"
+n473577363,Zakázané přání - Jessica Khouryová,0,0,2016,302,Marmer Media,dětské,Jessica Khoury,české,"Když Aladin objeví kouzelnou lampu, džinka Zahra se zjeví ve světě, který neviděla stovky let - světě, kde jsou zapovězena kouzla a samotná existence Zahry je nebezpečná. Aby...",197,296,"['dětské', '', 'Marmer Media, Jessica Khoury, české']"
+n339284901,Neslyšno,90,4,2016,244,Domino,dětské,Richelle Mead,české,"Dívka jménem Fej žije v horské vesnici, kterou sesuvy kamení zcela odřízly od světa. Přežití vesničanů zajišťuje jediné lano, po němž jim přes zrádné skalní stěny posílají...",25,289,"['dětské', '', 'Domino, Richelle Mead, české']"
+n429951431,"Oliver - kocour, který zachránil Vánoce - Sheila Norton",93,6,2016,296,Fragment,dětské,Sheila Norton,české,"Půvabný vánoční příběh, který vás chytne za srdce.
+Kocourek Oliver jen výjimečně opouští svůj bezpečný domov v hostinci Myslivna. Když ale hospodu zničí požár, zůstane bez...",208,284,"['dětské', '', 'Fragment, Sheila Norton, české']"
+n342269905,Hry pro maminky s dětmi,100,2,2016,272,Portál,dětské,Jana Hanšpachová,české,"Soubor tradičních i nových her, říkadel a námětů pro nejrůznější činnosti pro děti v předškolním věku. V důležitém období raného dětství tráví většina dětí nejvíce času s...",196,245,"['dětské', '', 'Portál, Jana Hanšpachová, české']"
+n357609612,Jak přežít dračí bouři - Škyťák Šelmovská Štika III. 7,0,0,2016,272,Slovart,dětské,Cressida Cowell,české,"Na začátku to vypadá jen jako drobná nepříjemnost – Škyťák se musí zúčastnit plaveckého závodu v ledové vodě, který patří mezi tradiční vikinské kratochvíle. Potom se ale věci...",161,249,"['dětské', '', 'Slovart, Cressida Cowell, české']"
+n456517362,Až budu velkej kluk,87,2,2016,288,,dětské,,české,"Tato kniha o dospívání je určená chlapcům, které čeká (nebo jim již začalo) období puberty. Nejde o žádné mravokárné poučky, naopak - přátelský, upřímný a otevřený styl knihy...",79,199,"['dětské', '', 'Svojtka&Co., Frith, Alex, české']"
+n368171226,Války čarodějek,0,0,2016,264,Víkend,dětské,Pounder Sibéal,české,"Čarodějnice se na téhle planetě vyskytují, co si kdo pamatuje. Vaří odporné lektvary v kotlících a poletují na košťatech oblohou. Chichotají se. Pronášejí kletby. Mají kočky....",172,269,"['dětské', '', 'Víkend, Pounder Sibéal, české']"
+n372593858,Princezny - Zlobivé pohádky o princeznách - Walt Disney,0,0,2016,264,Egmont,dětské,Disney Walt,české,"Tvé oblíbené princezny jsou milé, vždy upravené, způsobné a usměvavé. Ale když je potřeba, dokáží Ariel, Jasmína, Bella, Růženka, Tiana, Sněhurka i Popelka, že jsou rázné,...",348,499,"['dětské', '', 'Egmont, Disney Walt, české']"
+n423021796,Alea - dívka moře: Barevné vody - Tanya Stewnerová,100,4,2016,304,Fragment,dětské,Tanya Stewnerová,české,"Moře Aleu potřebuje. Zodpoví jí však i její otázky? Druhý díl velkolepého příběhu od německé bestselerové autorky.
+
+Dobrodružství, výjimečné přátelství a tajemství ukryté v...",204,299,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n370202347,Obr Dobr - Roald Dahl,85,4,2016,240,Knižní klub,dětské,Roald Dahl,české,"Hodných obrů je v pohádkách a příbězích velmi málo. Přečtěte si společně s dětmi krásný příběh o jednom hodném obrovi a malé Sofii. Sofie je osiřelá holčička, která žije v...",197,249,"['dětské', '', 'Knižní klub, Roald Dahl, české']"
+n383850186,Rockový polibek - Série - Stage Dive - 4 - Kylie Scott,99,4,2016,272,Baronet,dětské,Kylie Scott,české,"Měla to být záležitost na jednu noc…
+
+Pozitivní. Dvě maličké čárky na těhotenském testu převrátí život Lizzy Rollinsové vzhůru nohama. A to všechno kvůli jedné obrovské chybě,...",191,299,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n479279344,Bylo nás pět,0,0,2016,304,Albatros,dětské,Karel Poláček,české,"Albatros Bylo nás pět
+
+Námětem tohoto humorně zpracovaného románu, se stalo dětství autora Karla Poláčka, trávené v městečku Rychnově nad Kněžnou.
+
+Pět kluků s duší nezbedníků...",136,199,"['dětské', '', 'Albatros, Karel Poláček, české']"
+n395113552,Lacrimosa - Rekviem pro Saschu - Alice Scarling,0,0,2016,304,Nakladatelství BRÁNA,dětské,Alice Scarling,české,"Sascha po dětství prožitém v klášteře dospěla v osobnost, která si není jistá sama sebou a která ví, že jakékoliv selhání pro ni představuje smrtelné nebezpečí. Proto se obrní...",64,299,"['dětské', '', 'Nakladatelství BRÁNA, Alice Scarling, české']"
+n452446189,"Řeka, která teče pozpátku - Jean-Claude Mourlevat",0,0,2016,272,,dětské,Jean-Claude Mourlevat,české,"Románový příběh dvou osamělých dětí. Tomek má jediného přítele, starého moudrého vesnického písaře, Hannah miluje svého žlutomodře zbarveného ptáčka, jedinou památku na...",183,266,"['dětské', '', 'Jean-Claude Mourlevat, české']"
+n339235924,Zákon smečky - 4 - Trnitá cesta - Erin Hunterová,100,4,2016,248,Albatros,dětské,Erin Hunter,české,"Čtvrtý díl oblíbené fantasy série o psech.
+
+Hlavní hrdina Štístko a vůdce smečky Alfa nyní žijí v křehkém příměří, ale napětí mezi nimi vzrůstá. Nově vzniklá smečka spojená z...",138,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n366522414,Darebák David chystá léčku,0,0,2016,240,BB ART,dětské,Francesca Simonová,české,"Další sbírka vyprávění o nenapravitelném rebelovi Davidovi přináší dvanáct příběhů, v nichž se setkáváme s Davidem, jeho rodinou a spolužáky třeba na pěším výletě, v nóbl...",156,249,"['dětské', '', 'BB ART, Francesca Simonová, české']"
+n444180575,Annina dcéra Rilla,0,0,2016,296,Slovenské pedagogické nakladat,dětské,Montgomeryová Lucy Maud,slovenské,"Dostupné aj v kolekcii za skvelú cenu. Rilla je najmladšie Annino dieťa, má ryšavé vlasy ako mama a vyrastá z nej najkrajšie dievča v Glene St. Mary. V pätnástich rokoch túži...",187,257,"['dětské', '', 'Slovenské pedagogické nakladat, Montgomeryová Lucy Maud, slovenské']"
+n673193883,"My Heart and Other Black Holes - Warga, Jasmine",0,0,2016,302,Balzer + Bray,dětské,Jasmine Warga,anglické,"A stunning novel about the transformative power of love, perfect for fans of 13 Reasons Why by Jay Asher. Sixteen-year-old physics nerd Aysel is obsessed with plotting her own...",178,257,"['dětské', '', 'Balzer + Bray, Jasmine Warga, anglické']"
+n589088534,Moje srdce a jiné černé díry - Jasmine Wargaová,0,0,2016,260,Argo,dětské,Jasmine Wargaová,české,"Když máte pocit, jako byste místo srdce měli zoufale bezednou černou díru, která všechno spolkne, jaký smysl má každé ráno znovu vstávat? Aysel už nechce žít - čeká jen na...",189,269,"['dětské', '', 'Argo, Jasmine Wargaová, české']"
+n357082688,Třinácté nebe - Neil Smith,0,0,2016,312,Argo,dětské,Neil Smith,české,"Autor : Neil Smith, Popis : 
+ Je první týden školního roku a Oliver Dalrymple, neoblíbený a vysmívaný outsider, který je posedlý biologií a chemií, stojí u své šatní skříňky a...",222,298,"['dětské', '', 'Argo, Neil Smith, české']"
+n444453184,Jedinečné krajiny České republiky z letadla - Petr Toman,100,1,2016,304,,cestopisy,Petr Toman,české,"Autor : Petr Toman, Popis : 
+ V knize Jedinečné krajiny České republiky z letadla představuje fotograf Petr Toman českou krajinu tak, jak ji mohl vidět jen málokdo. V této...",670,950,"['cestopisy', '', 'Petr Toman, české']"
+n437481248,Gravity Falls Journal,99,8,2016,288,Disney,dětské,Rob Renzetti,anglické,"Journal 3 brims with every page ever seen on the show plus all-new pages with monsters and secrets, notes from Dipper and Mabel, and the Author's full story. Fans of
+Gravity...",354,604,"['dětské', '', 'Disney, Alex Hirsch, Rob Renzetti, anglické']"
+n422925905,Pěšky mezi buddhisty a komunisty - Ladislav Zibura,95,15,2016,288,BizBooks,cestopisy,Ladislav Zibura,české,"Nešikovný mladý muž ujde 1 500 kilometrů pěšky v Nepálu a v Číně. Dějí se mu hrozné věci, ale on se jim jen směje.
+
+Když mi byly tři, rozbil jsem si hlavu o bidet. Když mi bylo...",204,299,"['cestopisy', '', 'BizBooks, Ladislav Zibura, české']"
+n422824883,Deník malého Minecrafťáka (Cube Kid),89,11,2016,304,Computer Press,dětské,Cube Kid,české,"Kniha Deník malého Minecrafťáka
+ 
+Konečně je tu kniha, jak nehrát Minecfrat nudně a fádně.
+Očima malého hráče je kniha plná nápadů, hracích taktik.... jen, aby hra nebyla...",204,299,"['dětské', '', 'Computer Press, Cube Kid, české']"
+n353545834,Hrůzostrašné pohádky pro malé strašpytlíky,99,2,2016,304,Slovart,dětské,Jiří Žáček,české,"A proč právě hrůzostrašné pohádky? Protože je děti nejen milují (dospělí ostatně také, jen jim říkají jinak), ale zároveň v nich najdou mnoho příkladů, jak mohou překonat...",394,499,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n422617929,Kočičí válečníci (2) - Oheň a led - Erin Hunterová,98,2,2016,304,Albatros,dětské,Erin Hunter,české,"Druhý díl rozsáhlé ságy Kočičí válečníci začíná v době bezlistí. Domácí mazlíček Zrzek dostává nové jméno Ohnivous. Povýšil mezi válečníky, ale respektuje ho velitelka a starší...",136,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n333549728,Odpusť mi. Megan,96,2,2016,256,,dětské,Rushtonová Abbie,české,"Některá tajemství by měla zůstat skryta…
+
+Megan nemluví. A ani nemůže. Loni v létě se stalo něco hrozného a ona slíbila, že o tom nikdy nikomu neřekne. Trápí ji strašná vina....",39,200,"['dětské', '', 'EUROMEDIA GROUP, a.s., Rushtonová Abbie, české']"
+n432168978,Zikmund a Hanzelka (František Emmert),98,13,2016,272,Computer Press,cestopisy,František Emert,české,"Legendární čeští cestovatelé v neobyčejné knize plné přátelství, dobrodružství a unikátních fotografií z jejich cest.
+Zikmund a Hanzelka – jména, jež se stala legendami....",479,690,"['cestopisy', '', 'Computer Press, František Emert, české']"
+n455918747,"Atlas zemí, které neexistují - Padesát oficiálně neuznaných států, o kterých se málo ví - Nick Middleton",100,1,2016,240,,cestopisy,Nick Middleton,české,Graficky unikátně zpracovaný atlas zve na poutavou exkurzi do skrytého světa. Na 240 stranách a 50 mapách předkládá geograficko-historické informace o skutečných územích...,363,548,"['cestopisy', '', 'Nick Middleton, české']"
+n407656596,Kočičí válečníci - 1 - Vzhůru do divočiny - Erin Hunterová,76,5,2016,264,Albatros,dětské,Hunterová Erin,české,"Sledujte boj čtyř klanů divokých koček. Od autorky úspěšné série Zákon smečky. Čtyři klany divokých koček si odedávna dělí území lesa podle zákonů, které stanovili kdysi dávno...",136,199,"['dětské', '', 'Albatros, Hunterová Erin, české']"
+n473577363,Zakázané přání - Jessica Khouryová,0,0,2016,302,Marmer Media,dětské,Jessica Khoury,české,"Když Aladin objeví kouzelnou lampu, džinka Zahra se zjeví ve světě, který neviděla stovky let - světě, kde jsou zapovězena kouzla a samotná existence Zahry je nebezpečná. Aby...",197,296,"['dětské', '', 'Marmer Media, Jessica Khoury, české']"
+n339284901,Neslyšno,90,4,2016,244,Domino,dětské,Richelle Mead,české,"Dívka jménem Fej žije v horské vesnici, kterou sesuvy kamení zcela odřízly od světa. Přežití vesničanů zajišťuje jediné lano, po němž jim přes zrádné skalní stěny posílají...",25,289,"['dětské', '', 'Domino, Richelle Mead, české']"
+n429951431,"Oliver - kocour, který zachránil Vánoce - Sheila Norton",93,6,2016,296,Fragment,dětské,Sheila Norton,české,"Půvabný vánoční příběh, který vás chytne za srdce.
+Kocourek Oliver jen výjimečně opouští svůj bezpečný domov v hostinci Myslivna. Když ale hospodu zničí požár, zůstane bez...",208,284,"['dětské', '', 'Fragment, Sheila Norton, české']"
+n342269905,Hry pro maminky s dětmi,100,2,2016,272,Portál,dětské,Jana Hanšpachová,české,"Soubor tradičních i nových her, říkadel a námětů pro nejrůznější činnosti pro děti v předškolním věku. V důležitém období raného dětství tráví většina dětí nejvíce času s...",196,245,"['dětské', '', 'Portál, Jana Hanšpachová, české']"
+n357609612,Jak přežít dračí bouři - Škyťák Šelmovská Štika III. 7,0,0,2016,272,Slovart,dětské,Cressida Cowell,české,"Na začátku to vypadá jen jako drobná nepříjemnost – Škyťák se musí zúčastnit plaveckého závodu v ledové vodě, který patří mezi tradiční vikinské kratochvíle. Potom se ale věci...",161,249,"['dětské', '', 'Slovart, Cressida Cowell, české']"
+n456517362,Až budu velkej kluk,87,2,2016,288,,dětské,,české,"Tato kniha o dospívání je určená chlapcům, které čeká (nebo jim již začalo) období puberty. Nejde o žádné mravokárné poučky, naopak - přátelský, upřímný a otevřený styl knihy...",79,199,"['dětské', '', 'Svojtka&Co., Frith, Alex, české']"
+n368171226,Války čarodějek,0,0,2016,264,Víkend,dětské,Pounder Sibéal,české,"Čarodějnice se na téhle planetě vyskytují, co si kdo pamatuje. Vaří odporné lektvary v kotlících a poletují na košťatech oblohou. Chichotají se. Pronášejí kletby. Mají kočky....",172,269,"['dětské', '', 'Víkend, Pounder Sibéal, české']"
+n372593858,Princezny - Zlobivé pohádky o princeznách - Walt Disney,0,0,2016,264,Egmont,dětské,Disney Walt,české,"Tvé oblíbené princezny jsou milé, vždy upravené, způsobné a usměvavé. Ale když je potřeba, dokáží Ariel, Jasmína, Bella, Růženka, Tiana, Sněhurka i Popelka, že jsou rázné,...",348,499,"['dětské', '', 'Egmont, Disney Walt, české']"
+n423021796,Alea - dívka moře: Barevné vody - Tanya Stewnerová,100,4,2016,304,Fragment,dětské,Tanya Stewnerová,české,"Moře Aleu potřebuje. Zodpoví jí však i její otázky? Druhý díl velkolepého příběhu od německé bestselerové autorky.
+
+Dobrodružství, výjimečné přátelství a tajemství ukryté v...",204,299,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n370202347,Obr Dobr - Roald Dahl,85,4,2016,240,Knižní klub,dětské,Roald Dahl,české,"Hodných obrů je v pohádkách a příbězích velmi málo. Přečtěte si společně s dětmi krásný příběh o jednom hodném obrovi a malé Sofii. Sofie je osiřelá holčička, která žije v...",197,249,"['dětské', '', 'Knižní klub, Roald Dahl, české']"
+n383850186,Rockový polibek - Série - Stage Dive - 4 - Kylie Scott,99,4,2016,272,Baronet,dětské,Kylie Scott,české,"Měla to být záležitost na jednu noc…
+
+Pozitivní. Dvě maličké čárky na těhotenském testu převrátí život Lizzy Rollinsové vzhůru nohama. A to všechno kvůli jedné obrovské chybě,...",191,299,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n479279344,Bylo nás pět,0,0,2016,304,Albatros,dětské,Karel Poláček,české,"Albatros Bylo nás pět
+
+Námětem tohoto humorně zpracovaného románu, se stalo dětství autora Karla Poláčka, trávené v městečku Rychnově nad Kněžnou.
+
+Pět kluků s duší nezbedníků...",136,199,"['dětské', '', 'Albatros, Karel Poláček, české']"
+n395113552,Lacrimosa - Rekviem pro Saschu - Alice Scarling,0,0,2016,304,Nakladatelství BRÁNA,dětské,Alice Scarling,české,"Sascha po dětství prožitém v klášteře dospěla v osobnost, která si není jistá sama sebou a která ví, že jakékoliv selhání pro ni představuje smrtelné nebezpečí. Proto se obrní...",64,299,"['dětské', '', 'Nakladatelství BRÁNA, Alice Scarling, české']"
+n452446189,"Řeka, která teče pozpátku - Jean-Claude Mourlevat",0,0,2016,272,,dětské,Jean-Claude Mourlevat,české,"Románový příběh dvou osamělých dětí. Tomek má jediného přítele, starého moudrého vesnického písaře, Hannah miluje svého žlutomodře zbarveného ptáčka, jedinou památku na...",183,266,"['dětské', '', 'Jean-Claude Mourlevat, české']"
+n339235924,Zákon smečky - 4 - Trnitá cesta - Erin Hunterová,100,4,2016,248,Albatros,dětské,Erin Hunter,české,"Čtvrtý díl oblíbené fantasy série o psech.
+
+Hlavní hrdina Štístko a vůdce smečky Alfa nyní žijí v křehkém příměří, ale napětí mezi nimi vzrůstá. Nově vzniklá smečka spojená z...",138,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n366522414,Darebák David chystá léčku,0,0,2016,240,BB ART,dětské,Francesca Simonová,české,"Další sbírka vyprávění o nenapravitelném rebelovi Davidovi přináší dvanáct příběhů, v nichž se setkáváme s Davidem, jeho rodinou a spolužáky třeba na pěším výletě, v nóbl...",156,249,"['dětské', '', 'BB ART, Francesca Simonová, české']"
+n444180575,Annina dcéra Rilla,0,0,2016,296,Slovenské pedagogické nakladat,dětské,Montgomeryová Lucy Maud,slovenské,"Dostupné aj v kolekcii za skvelú cenu. Rilla je najmladšie Annino dieťa, má ryšavé vlasy ako mama a vyrastá z nej najkrajšie dievča v Glene St. Mary. V pätnástich rokoch túži...",187,257,"['dětské', '', 'Slovenské pedagogické nakladat, Montgomeryová Lucy Maud, slovenské']"
+n673193883,"My Heart and Other Black Holes - Warga, Jasmine",0,0,2016,302,Balzer + Bray,dětské,Jasmine Warga,anglické,"A stunning novel about the transformative power of love, perfect for fans of 13 Reasons Why by Jay Asher. Sixteen-year-old physics nerd Aysel is obsessed with plotting her own...",178,257,"['dětské', '', 'Balzer + Bray, Jasmine Warga, anglické']"
+n589088534,Moje srdce a jiné černé díry - Jasmine Wargaová,0,0,2016,260,Argo,dětské,Jasmine Wargaová,české,"Když máte pocit, jako byste místo srdce měli zoufale bezednou černou díru, která všechno spolkne, jaký smysl má každé ráno znovu vstávat? Aysel už nechce žít - čeká jen na...",189,269,"['dětské', '', 'Argo, Jasmine Wargaová, české']"
+n357082688,Třinácté nebe - Neil Smith,0,0,2016,312,Argo,dětské,Neil Smith,české,"Autor : Neil Smith, Popis : 
+ Je první týden školního roku a Oliver Dalrymple, neoblíbený a vysmívaný outsider, který je posedlý biologií a chemií, stojí u své šatní skříňky a...",222,298,"['dětské', '', 'Argo, Neil Smith, české']"
+n444453184,Jedinečné krajiny České republiky z letadla - Petr Toman,100,1,2016,304,,cestopisy,Petr Toman,české,"Autor : Petr Toman, Popis : 
+ V knize Jedinečné krajiny České republiky z letadla představuje fotograf Petr Toman českou krajinu tak, jak ji mohl vidět jen málokdo. V této...",670,950,"['cestopisy', '', 'Petr Toman, české']"
+n437481248,Gravity Falls Journal,99,8,2016,288,Disney,dětské,Rob Renzetti,anglické,"Journal 3 brims with every page ever seen on the show plus all-new pages with monsters and secrets, notes from Dipper and Mabel, and the Author's full story. Fans of
+Gravity...",354,604,"['dětské', '', 'Disney, Alex Hirsch, Rob Renzetti, anglické']"
+n422925905,Pěšky mezi buddhisty a komunisty - Ladislav Zibura,95,15,2016,288,BizBooks,cestopisy,Ladislav Zibura,české,"Nešikovný mladý muž ujde 1 500 kilometrů pěšky v Nepálu a v Číně. Dějí se mu hrozné věci, ale on se jim jen směje.
+
+Když mi byly tři, rozbil jsem si hlavu o bidet. Když mi bylo...",204,299,"['cestopisy', '', 'BizBooks, Ladislav Zibura, české']"
+n422824883,Deník malého Minecrafťáka (Cube Kid),89,11,2016,304,Computer Press,dětské,Cube Kid,české,"Kniha Deník malého Minecrafťáka
+ 
+Konečně je tu kniha, jak nehrát Minecfrat nudně a fádně.
+Očima malého hráče je kniha plná nápadů, hracích taktik.... jen, aby hra nebyla...",204,299,"['dětské', '', 'Computer Press, Cube Kid, české']"
+n353545834,Hrůzostrašné pohádky pro malé strašpytlíky,99,2,2016,304,Slovart,dětské,Jiří Žáček,české,"A proč právě hrůzostrašné pohádky? Protože je děti nejen milují (dospělí ostatně také, jen jim říkají jinak), ale zároveň v nich najdou mnoho příkladů, jak mohou překonat...",394,499,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n422617929,Kočičí válečníci (2) - Oheň a led - Erin Hunterová,98,2,2016,304,Albatros,dětské,Erin Hunter,české,"Druhý díl rozsáhlé ságy Kočičí válečníci začíná v době bezlistí. Domácí mazlíček Zrzek dostává nové jméno Ohnivous. Povýšil mezi válečníky, ale respektuje ho velitelka a starší...",136,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n333549728,Odpusť mi. Megan,96,2,2016,256,,dětské,Rushtonová Abbie,české,"Některá tajemství by měla zůstat skryta…
+
+Megan nemluví. A ani nemůže. Loni v létě se stalo něco hrozného a ona slíbila, že o tom nikdy nikomu neřekne. Trápí ji strašná vina....",39,200,"['dětské', '', 'EUROMEDIA GROUP, a.s., Rushtonová Abbie, české']"
+n432168978,Zikmund a Hanzelka (František Emmert),98,13,2016,272,Computer Press,cestopisy,František Emert,české,"Legendární čeští cestovatelé v neobyčejné knize plné přátelství, dobrodružství a unikátních fotografií z jejich cest.
+Zikmund a Hanzelka – jména, jež se stala legendami....",479,690,"['cestopisy', '', 'Computer Press, František Emert, české']"
+n455918747,"Atlas zemí, které neexistují - Padesát oficiálně neuznaných států, o kterých se málo ví - Nick Middleton",100,1,2016,240,,cestopisy,Nick Middleton,české,Graficky unikátně zpracovaný atlas zve na poutavou exkurzi do skrytého světa. Na 240 stranách a 50 mapách předkládá geograficko-historické informace o skutečných územích...,363,548,"['cestopisy', '', 'Nick Middleton, české']"
+n407656596,Kočičí válečníci - 1 - Vzhůru do divočiny - Erin Hunterová,76,5,2016,264,Albatros,dětské,Hunterová Erin,české,"Sledujte boj čtyř klanů divokých koček. Od autorky úspěšné série Zákon smečky. Čtyři klany divokých koček si odedávna dělí území lesa podle zákonů, které stanovili kdysi dávno...",136,199,"['dětské', '', 'Albatros, Hunterová Erin, české']"
+n473577363,Zakázané přání - Jessica Khouryová,0,0,2016,302,Marmer Media,dětské,Jessica Khoury,české,"Když Aladin objeví kouzelnou lampu, džinka Zahra se zjeví ve světě, který neviděla stovky let - světě, kde jsou zapovězena kouzla a samotná existence Zahry je nebezpečná. Aby...",197,296,"['dětské', '', 'Marmer Media, Jessica Khoury, české']"
+n339284901,Neslyšno,90,4,2016,244,Domino,dětské,Richelle Mead,české,"Dívka jménem Fej žije v horské vesnici, kterou sesuvy kamení zcela odřízly od světa. Přežití vesničanů zajišťuje jediné lano, po němž jim přes zrádné skalní stěny posílají...",25,289,"['dětské', '', 'Domino, Richelle Mead, české']"
+n429951431,"Oliver - kocour, který zachránil Vánoce - Sheila Norton",93,6,2016,296,Fragment,dětské,Sheila Norton,české,"Půvabný vánoční příběh, který vás chytne za srdce.
+Kocourek Oliver jen výjimečně opouští svůj bezpečný domov v hostinci Myslivna. Když ale hospodu zničí požár, zůstane bez...",208,284,"['dětské', '', 'Fragment, Sheila Norton, české']"
+n342269905,Hry pro maminky s dětmi,100,2,2016,272,Portál,dětské,Jana Hanšpachová,české,"Soubor tradičních i nových her, říkadel a námětů pro nejrůznější činnosti pro děti v předškolním věku. V důležitém období raného dětství tráví většina dětí nejvíce času s...",196,245,"['dětské', '', 'Portál, Jana Hanšpachová, české']"
+n357609612,Jak přežít dračí bouři - Škyťák Šelmovská Štika III. 7,0,0,2016,272,Slovart,dětské,Cressida Cowell,české,"Na začátku to vypadá jen jako drobná nepříjemnost – Škyťák se musí zúčastnit plaveckého závodu v ledové vodě, který patří mezi tradiční vikinské kratochvíle. Potom se ale věci...",161,249,"['dětské', '', 'Slovart, Cressida Cowell, české']"
+n456517362,Až budu velkej kluk,87,2,2016,288,,dětské,,české,"Tato kniha o dospívání je určená chlapcům, které čeká (nebo jim již začalo) období puberty. Nejde o žádné mravokárné poučky, naopak - přátelský, upřímný a otevřený styl knihy...",79,199,"['dětské', '', 'Svojtka&Co., Frith, Alex, české']"
+n368171226,Války čarodějek,0,0,2016,264,Víkend,dětské,Pounder Sibéal,české,"Čarodějnice se na téhle planetě vyskytují, co si kdo pamatuje. Vaří odporné lektvary v kotlících a poletují na košťatech oblohou. Chichotají se. Pronášejí kletby. Mají kočky....",172,269,"['dětské', '', 'Víkend, Pounder Sibéal, české']"
+n372593858,Princezny - Zlobivé pohádky o princeznách - Walt Disney,0,0,2016,264,Egmont,dětské,Disney Walt,české,"Tvé oblíbené princezny jsou milé, vždy upravené, způsobné a usměvavé. Ale když je potřeba, dokáží Ariel, Jasmína, Bella, Růženka, Tiana, Sněhurka i Popelka, že jsou rázné,...",348,499,"['dětské', '', 'Egmont, Disney Walt, české']"
+n423021796,Alea - dívka moře: Barevné vody - Tanya Stewnerová,100,4,2016,304,Fragment,dětské,Tanya Stewnerová,české,"Moře Aleu potřebuje. Zodpoví jí však i její otázky? Druhý díl velkolepého příběhu od německé bestselerové autorky.
+
+Dobrodružství, výjimečné přátelství a tajemství ukryté v...",204,299,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n370202347,Obr Dobr - Roald Dahl,85,4,2016,240,Knižní klub,dětské,Roald Dahl,české,"Hodných obrů je v pohádkách a příbězích velmi málo. Přečtěte si společně s dětmi krásný příběh o jednom hodném obrovi a malé Sofii. Sofie je osiřelá holčička, která žije v...",197,249,"['dětské', '', 'Knižní klub, Roald Dahl, české']"
+n383850186,Rockový polibek - Série - Stage Dive - 4 - Kylie Scott,99,4,2016,272,Baronet,dětské,Kylie Scott,české,"Měla to být záležitost na jednu noc…
+
+Pozitivní. Dvě maličké čárky na těhotenském testu převrátí život Lizzy Rollinsové vzhůru nohama. A to všechno kvůli jedné obrovské chybě,...",191,299,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n479279344,Bylo nás pět,0,0,2016,304,Albatros,dětské,Karel Poláček,české,"Albatros Bylo nás pět
+
+Námětem tohoto humorně zpracovaného románu, se stalo dětství autora Karla Poláčka, trávené v městečku Rychnově nad Kněžnou.
+
+Pět kluků s duší nezbedníků...",136,199,"['dětské', '', 'Albatros, Karel Poláček, české']"
+n395113552,Lacrimosa - Rekviem pro Saschu - Alice Scarling,0,0,2016,304,Nakladatelství BRÁNA,dětské,Alice Scarling,české,"Sascha po dětství prožitém v klášteře dospěla v osobnost, která si není jistá sama sebou a která ví, že jakékoliv selhání pro ni představuje smrtelné nebezpečí. Proto se obrní...",64,299,"['dětské', '', 'Nakladatelství BRÁNA, Alice Scarling, české']"
+n452446189,"Řeka, která teče pozpátku - Jean-Claude Mourlevat",0,0,2016,272,,dětské,Jean-Claude Mourlevat,české,"Románový příběh dvou osamělých dětí. Tomek má jediného přítele, starého moudrého vesnického písaře, Hannah miluje svého žlutomodře zbarveného ptáčka, jedinou památku na...",183,266,"['dětské', '', 'Jean-Claude Mourlevat, české']"
+n339235924,Zákon smečky - 4 - Trnitá cesta - Erin Hunterová,100,4,2016,248,Albatros,dětské,Erin Hunter,české,"Čtvrtý díl oblíbené fantasy série o psech.
+
+Hlavní hrdina Štístko a vůdce smečky Alfa nyní žijí v křehkém příměří, ale napětí mezi nimi vzrůstá. Nově vzniklá smečka spojená z...",138,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n366522414,Darebák David chystá léčku,0,0,2016,240,BB ART,dětské,Francesca Simonová,české,"Další sbírka vyprávění o nenapravitelném rebelovi Davidovi přináší dvanáct příběhů, v nichž se setkáváme s Davidem, jeho rodinou a spolužáky třeba na pěším výletě, v nóbl...",156,249,"['dětské', '', 'BB ART, Francesca Simonová, české']"
+n444180575,Annina dcéra Rilla,0,0,2016,296,Slovenské pedagogické nakladat,dětské,Montgomeryová Lucy Maud,slovenské,"Dostupné aj v kolekcii za skvelú cenu. Rilla je najmladšie Annino dieťa, má ryšavé vlasy ako mama a vyrastá z nej najkrajšie dievča v Glene St. Mary. V pätnástich rokoch túži...",187,257,"['dětské', '', 'Slovenské pedagogické nakladat, Montgomeryová Lucy Maud, slovenské']"
+n673193883,"My Heart and Other Black Holes - Warga, Jasmine",0,0,2016,302,Balzer + Bray,dětské,Jasmine Warga,anglické,"A stunning novel about the transformative power of love, perfect for fans of 13 Reasons Why by Jay Asher. Sixteen-year-old physics nerd Aysel is obsessed with plotting her own...",178,257,"['dětské', '', 'Balzer + Bray, Jasmine Warga, anglické']"
+n589088534,Moje srdce a jiné černé díry - Jasmine Wargaová,0,0,2016,260,Argo,dětské,Jasmine Wargaová,české,"Když máte pocit, jako byste místo srdce měli zoufale bezednou černou díru, která všechno spolkne, jaký smysl má každé ráno znovu vstávat? Aysel už nechce žít - čeká jen na...",189,269,"['dětské', '', 'Argo, Jasmine Wargaová, české']"
+n357082688,Třinácté nebe - Neil Smith,0,0,2016,312,Argo,dětské,Neil Smith,české,"Autor : Neil Smith, Popis : 
+ Je první týden školního roku a Oliver Dalrymple, neoblíbený a vysmívaný outsider, který je posedlý biologií a chemií, stojí u své šatní skříňky a...",222,298,"['dětské', '', 'Argo, Neil Smith, české']"
+n444453184,Jedinečné krajiny České republiky z letadla - Petr Toman,100,1,2016,304,,cestopisy,Petr Toman,české,"Autor : Petr Toman, Popis : 
+ V knize Jedinečné krajiny České republiky z letadla představuje fotograf Petr Toman českou krajinu tak, jak ji mohl vidět jen málokdo. V této...",670,950,"['cestopisy', '', 'Petr Toman, české']"
+n437481248,Gravity Falls Journal,99,8,2016,288,Disney,dětské,Rob Renzetti,anglické,"Journal 3 brims with every page ever seen on the show plus all-new pages with monsters and secrets, notes from Dipper and Mabel, and the Author's full story. Fans of
+Gravity...",354,604,"['dětské', '', 'Disney, Alex Hirsch, Rob Renzetti, anglické']"
+n422925905,Pěšky mezi buddhisty a komunisty - Ladislav Zibura,95,15,2016,288,BizBooks,cestopisy,Ladislav Zibura,české,"Nešikovný mladý muž ujde 1 500 kilometrů pěšky v Nepálu a v Číně. Dějí se mu hrozné věci, ale on se jim jen směje.
+
+Když mi byly tři, rozbil jsem si hlavu o bidet. Když mi bylo...",204,299,"['cestopisy', '', 'BizBooks, Ladislav Zibura, české']"
+n422824883,Deník malého Minecrafťáka (Cube Kid),89,11,2016,304,Computer Press,dětské,Cube Kid,české,"Kniha Deník malého Minecrafťáka
+ 
+Konečně je tu kniha, jak nehrát Minecfrat nudně a fádně.
+Očima malého hráče je kniha plná nápadů, hracích taktik.... jen, aby hra nebyla...",204,299,"['dětské', '', 'Computer Press, Cube Kid, české']"
+n353545834,Hrůzostrašné pohádky pro malé strašpytlíky,99,2,2016,304,Slovart,dětské,Jiří Žáček,české,"A proč právě hrůzostrašné pohádky? Protože je děti nejen milují (dospělí ostatně také, jen jim říkají jinak), ale zároveň v nich najdou mnoho příkladů, jak mohou překonat...",394,499,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n422617929,Kočičí válečníci (2) - Oheň a led - Erin Hunterová,98,2,2016,304,Albatros,dětské,Erin Hunter,české,"Druhý díl rozsáhlé ságy Kočičí válečníci začíná v době bezlistí. Domácí mazlíček Zrzek dostává nové jméno Ohnivous. Povýšil mezi válečníky, ale respektuje ho velitelka a starší...",136,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n333549728,Odpusť mi. Megan,96,2,2016,256,,dětské,Rushtonová Abbie,české,"Některá tajemství by měla zůstat skryta…
+
+Megan nemluví. A ani nemůže. Loni v létě se stalo něco hrozného a ona slíbila, že o tom nikdy nikomu neřekne. Trápí ji strašná vina....",39,200,"['dětské', '', 'EUROMEDIA GROUP, a.s., Rushtonová Abbie, české']"
+n432168978,Zikmund a Hanzelka (František Emmert),98,13,2016,272,Computer Press,cestopisy,František Emert,české,"Legendární čeští cestovatelé v neobyčejné knize plné přátelství, dobrodružství a unikátních fotografií z jejich cest.
+Zikmund a Hanzelka – jména, jež se stala legendami....",479,690,"['cestopisy', '', 'Computer Press, František Emert, české']"
+n455918747,"Atlas zemí, které neexistují - Padesát oficiálně neuznaných států, o kterých se málo ví - Nick Middleton",100,1,2016,240,,cestopisy,Nick Middleton,české,Graficky unikátně zpracovaný atlas zve na poutavou exkurzi do skrytého světa. Na 240 stranách a 50 mapách předkládá geograficko-historické informace o skutečných územích...,363,548,"['cestopisy', '', 'Nick Middleton, české']"
+n407656596,Kočičí válečníci - 1 - Vzhůru do divočiny - Erin Hunterová,76,5,2016,264,Albatros,dětské,Hunterová Erin,české,"Sledujte boj čtyř klanů divokých koček. Od autorky úspěšné série Zákon smečky. Čtyři klany divokých koček si odedávna dělí území lesa podle zákonů, které stanovili kdysi dávno...",136,199,"['dětské', '', 'Albatros, Hunterová Erin, české']"
+n473577363,Zakázané přání - Jessica Khouryová,0,0,2016,302,Marmer Media,dětské,Jessica Khoury,české,"Když Aladin objeví kouzelnou lampu, džinka Zahra se zjeví ve světě, který neviděla stovky let - světě, kde jsou zapovězena kouzla a samotná existence Zahry je nebezpečná. Aby...",197,296,"['dětské', '', 'Marmer Media, Jessica Khoury, české']"
+n339284901,Neslyšno,90,4,2016,244,Domino,dětské,Richelle Mead,české,"Dívka jménem Fej žije v horské vesnici, kterou sesuvy kamení zcela odřízly od světa. Přežití vesničanů zajišťuje jediné lano, po němž jim přes zrádné skalní stěny posílají...",25,289,"['dětské', '', 'Domino, Richelle Mead, české']"
+n429951431,"Oliver - kocour, který zachránil Vánoce - Sheila Norton",93,6,2016,296,Fragment,dětské,Sheila Norton,české,"Půvabný vánoční příběh, který vás chytne za srdce.
+Kocourek Oliver jen výjimečně opouští svůj bezpečný domov v hostinci Myslivna. Když ale hospodu zničí požár, zůstane bez...",208,284,"['dětské', '', 'Fragment, Sheila Norton, české']"
+n342269905,Hry pro maminky s dětmi,100,2,2016,272,Portál,dětské,Jana Hanšpachová,české,"Soubor tradičních i nových her, říkadel a námětů pro nejrůznější činnosti pro děti v předškolním věku. V důležitém období raného dětství tráví většina dětí nejvíce času s...",196,245,"['dětské', '', 'Portál, Jana Hanšpachová, české']"
+n357609612,Jak přežít dračí bouři - Škyťák Šelmovská Štika III. 7,0,0,2016,272,Slovart,dětské,Cressida Cowell,české,"Na začátku to vypadá jen jako drobná nepříjemnost – Škyťák se musí zúčastnit plaveckého závodu v ledové vodě, který patří mezi tradiční vikinské kratochvíle. Potom se ale věci...",161,249,"['dětské', '', 'Slovart, Cressida Cowell, české']"
+n456517362,Až budu velkej kluk,87,2,2016,288,,dětské,,české,"Tato kniha o dospívání je určená chlapcům, které čeká (nebo jim již začalo) období puberty. Nejde o žádné mravokárné poučky, naopak - přátelský, upřímný a otevřený styl knihy...",79,199,"['dětské', '', 'Svojtka&Co., Frith, Alex, české']"
+n368171226,Války čarodějek,0,0,2016,264,Víkend,dětské,Pounder Sibéal,české,"Čarodějnice se na téhle planetě vyskytují, co si kdo pamatuje. Vaří odporné lektvary v kotlících a poletují na košťatech oblohou. Chichotají se. Pronášejí kletby. Mají kočky....",172,269,"['dětské', '', 'Víkend, Pounder Sibéal, české']"
+n372593858,Princezny - Zlobivé pohádky o princeznách - Walt Disney,0,0,2016,264,Egmont,dětské,Disney Walt,české,"Tvé oblíbené princezny jsou milé, vždy upravené, způsobné a usměvavé. Ale když je potřeba, dokáží Ariel, Jasmína, Bella, Růženka, Tiana, Sněhurka i Popelka, že jsou rázné,...",348,499,"['dětské', '', 'Egmont, Disney Walt, české']"
+n423021796,Alea - dívka moře: Barevné vody - Tanya Stewnerová,100,4,2016,304,Fragment,dětské,Tanya Stewnerová,české,"Moře Aleu potřebuje. Zodpoví jí však i její otázky? Druhý díl velkolepého příběhu od německé bestselerové autorky.
+
+Dobrodružství, výjimečné přátelství a tajemství ukryté v...",204,299,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n370202347,Obr Dobr - Roald Dahl,85,4,2016,240,Knižní klub,dětské,Roald Dahl,české,"Hodných obrů je v pohádkách a příbězích velmi málo. Přečtěte si společně s dětmi krásný příběh o jednom hodném obrovi a malé Sofii. Sofie je osiřelá holčička, která žije v...",197,249,"['dětské', '', 'Knižní klub, Roald Dahl, české']"
+n383850186,Rockový polibek - Série - Stage Dive - 4 - Kylie Scott,99,4,2016,272,Baronet,dětské,Kylie Scott,české,"Měla to být záležitost na jednu noc…
+
+Pozitivní. Dvě maličké čárky na těhotenském testu převrátí život Lizzy Rollinsové vzhůru nohama. A to všechno kvůli jedné obrovské chybě,...",191,299,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n479279344,Bylo nás pět,0,0,2016,304,Albatros,dětské,Karel Poláček,české,"Albatros Bylo nás pět
+
+Námětem tohoto humorně zpracovaného románu, se stalo dětství autora Karla Poláčka, trávené v městečku Rychnově nad Kněžnou.
+
+Pět kluků s duší nezbedníků...",136,199,"['dětské', '', 'Albatros, Karel Poláček, české']"
+n395113552,Lacrimosa - Rekviem pro Saschu - Alice Scarling,0,0,2016,304,Nakladatelství BRÁNA,dětské,Alice Scarling,české,"Sascha po dětství prožitém v klášteře dospěla v osobnost, která si není jistá sama sebou a která ví, že jakékoliv selhání pro ni představuje smrtelné nebezpečí. Proto se obrní...",64,299,"['dětské', '', 'Nakladatelství BRÁNA, Alice Scarling, české']"
+n452446189,"Řeka, která teče pozpátku - Jean-Claude Mourlevat",0,0,2016,272,,dětské,Jean-Claude Mourlevat,české,"Románový příběh dvou osamělých dětí. Tomek má jediného přítele, starého moudrého vesnického písaře, Hannah miluje svého žlutomodře zbarveného ptáčka, jedinou památku na...",183,266,"['dětské', '', 'Jean-Claude Mourlevat, české']"
+n339235924,Zákon smečky - 4 - Trnitá cesta - Erin Hunterová,100,4,2016,248,Albatros,dětské,Erin Hunter,české,"Čtvrtý díl oblíbené fantasy série o psech.
+
+Hlavní hrdina Štístko a vůdce smečky Alfa nyní žijí v křehkém příměří, ale napětí mezi nimi vzrůstá. Nově vzniklá smečka spojená z...",138,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n366522414,Darebák David chystá léčku,0,0,2016,240,BB ART,dětské,Francesca Simonová,české,"Další sbírka vyprávění o nenapravitelném rebelovi Davidovi přináší dvanáct příběhů, v nichž se setkáváme s Davidem, jeho rodinou a spolužáky třeba na pěším výletě, v nóbl...",156,249,"['dětské', '', 'BB ART, Francesca Simonová, české']"
+n444180575,Annina dcéra Rilla,0,0,2016,296,Slovenské pedagogické nakladat,dětské,Montgomeryová Lucy Maud,slovenské,"Dostupné aj v kolekcii za skvelú cenu. Rilla je najmladšie Annino dieťa, má ryšavé vlasy ako mama a vyrastá z nej najkrajšie dievča v Glene St. Mary. V pätnástich rokoch túži...",187,257,"['dětské', '', 'Slovenské pedagogické nakladat, Montgomeryová Lucy Maud, slovenské']"
+n673193883,"My Heart and Other Black Holes - Warga, Jasmine",0,0,2016,302,Balzer + Bray,dětské,Jasmine Warga,anglické,"A stunning novel about the transformative power of love, perfect for fans of 13 Reasons Why by Jay Asher. Sixteen-year-old physics nerd Aysel is obsessed with plotting her own...",178,257,"['dětské', '', 'Balzer + Bray, Jasmine Warga, anglické']"
+n589088534,Moje srdce a jiné černé díry - Jasmine Wargaová,0,0,2016,260,Argo,dětské,Jasmine Wargaová,české,"Když máte pocit, jako byste místo srdce měli zoufale bezednou černou díru, která všechno spolkne, jaký smysl má každé ráno znovu vstávat? Aysel už nechce žít - čeká jen na...",189,269,"['dětské', '', 'Argo, Jasmine Wargaová, české']"
+n357082688,Třinácté nebe - Neil Smith,0,0,2016,312,Argo,dětské,Neil Smith,české,"Autor : Neil Smith, Popis : 
+ Je první týden školního roku a Oliver Dalrymple, neoblíbený a vysmívaný outsider, který je posedlý biologií a chemií, stojí u své šatní skříňky a...",222,298,"['dětské', '', 'Argo, Neil Smith, české']"
+n444453184,Jedinečné krajiny České republiky z letadla - Petr Toman,100,1,2016,304,,cestopisy,Petr Toman,české,"Autor : Petr Toman, Popis : 
+ V knize Jedinečné krajiny České republiky z letadla představuje fotograf Petr Toman českou krajinu tak, jak ji mohl vidět jen málokdo. V této...",670,950,"['cestopisy', '', 'Petr Toman, české']"
+n437481248,Gravity Falls Journal,99,8,2016,288,Disney,dětské,Rob Renzetti,anglické,"Journal 3 brims with every page ever seen on the show plus all-new pages with monsters and secrets, notes from Dipper and Mabel, and the Author's full story. Fans of
+Gravity...",354,604,"['dětské', '', 'Disney, Alex Hirsch, Rob Renzetti, anglické']"
+n422925905,Pěšky mezi buddhisty a komunisty - Ladislav Zibura,95,15,2016,288,BizBooks,cestopisy,Ladislav Zibura,české,"Nešikovný mladý muž ujde 1 500 kilometrů pěšky v Nepálu a v Číně. Dějí se mu hrozné věci, ale on se jim jen směje.
+
+Když mi byly tři, rozbil jsem si hlavu o bidet. Když mi bylo...",204,299,"['cestopisy', '', 'BizBooks, Ladislav Zibura, české']"
+n422824883,Deník malého Minecrafťáka (Cube Kid),89,11,2016,304,Computer Press,dětské,Cube Kid,české,"Kniha Deník malého Minecrafťáka
+ 
+Konečně je tu kniha, jak nehrát Minecfrat nudně a fádně.
+Očima malého hráče je kniha plná nápadů, hracích taktik.... jen, aby hra nebyla...",204,299,"['dětské', '', 'Computer Press, Cube Kid, české']"
+n353545834,Hrůzostrašné pohádky pro malé strašpytlíky,99,2,2016,304,Slovart,dětské,Jiří Žáček,české,"A proč právě hrůzostrašné pohádky? Protože je děti nejen milují (dospělí ostatně také, jen jim říkají jinak), ale zároveň v nich najdou mnoho příkladů, jak mohou překonat...",394,499,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n422617929,Kočičí válečníci (2) - Oheň a led - Erin Hunterová,98,2,2016,304,Albatros,dětské,Erin Hunter,české,"Druhý díl rozsáhlé ságy Kočičí válečníci začíná v době bezlistí. Domácí mazlíček Zrzek dostává nové jméno Ohnivous. Povýšil mezi válečníky, ale respektuje ho velitelka a starší...",136,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n333549728,Odpusť mi. Megan,96,2,2016,256,,dětské,Rushtonová Abbie,české,"Některá tajemství by měla zůstat skryta…
+
+Megan nemluví. A ani nemůže. Loni v létě se stalo něco hrozného a ona slíbila, že o tom nikdy nikomu neřekne. Trápí ji strašná vina....",39,200,"['dětské', '', 'EUROMEDIA GROUP, a.s., Rushtonová Abbie, české']"
+n432168978,Zikmund a Hanzelka (František Emmert),98,13,2016,272,Computer Press,cestopisy,František Emert,české,"Legendární čeští cestovatelé v neobyčejné knize plné přátelství, dobrodružství a unikátních fotografií z jejich cest.
+Zikmund a Hanzelka – jména, jež se stala legendami....",479,690,"['cestopisy', '', 'Computer Press, František Emert, české']"
+n455918747,"Atlas zemí, které neexistují - Padesát oficiálně neuznaných států, o kterých se málo ví - Nick Middleton",100,1,2016,240,,cestopisy,Nick Middleton,české,Graficky unikátně zpracovaný atlas zve na poutavou exkurzi do skrytého světa. Na 240 stranách a 50 mapách předkládá geograficko-historické informace o skutečných územích...,363,548,"['cestopisy', '', 'Nick Middleton, české']"
+n407656596,Kočičí válečníci - 1 - Vzhůru do divočiny - Erin Hunterová,76,5,2016,264,Albatros,dětské,Hunterová Erin,české,"Sledujte boj čtyř klanů divokých koček. Od autorky úspěšné série Zákon smečky. Čtyři klany divokých koček si odedávna dělí území lesa podle zákonů, které stanovili kdysi dávno...",136,199,"['dětské', '', 'Albatros, Hunterová Erin, české']"
+n473577363,Zakázané přání - Jessica Khouryová,0,0,2016,302,Marmer Media,dětské,Jessica Khoury,české,"Když Aladin objeví kouzelnou lampu, džinka Zahra se zjeví ve světě, který neviděla stovky let - světě, kde jsou zapovězena kouzla a samotná existence Zahry je nebezpečná. Aby...",197,296,"['dětské', '', 'Marmer Media, Jessica Khoury, české']"
+n339284901,Neslyšno,90,4,2016,244,Domino,dětské,Richelle Mead,české,"Dívka jménem Fej žije v horské vesnici, kterou sesuvy kamení zcela odřízly od světa. Přežití vesničanů zajišťuje jediné lano, po němž jim přes zrádné skalní stěny posílají...",25,289,"['dětské', '', 'Domino, Richelle Mead, české']"
+n429951431,"Oliver - kocour, který zachránil Vánoce - Sheila Norton",93,6,2016,296,Fragment,dětské,Sheila Norton,české,"Půvabný vánoční příběh, který vás chytne za srdce.
+Kocourek Oliver jen výjimečně opouští svůj bezpečný domov v hostinci Myslivna. Když ale hospodu zničí požár, zůstane bez...",208,284,"['dětské', '', 'Fragment, Sheila Norton, české']"
+n342269905,Hry pro maminky s dětmi,100,2,2016,272,Portál,dětské,Jana Hanšpachová,české,"Soubor tradičních i nových her, říkadel a námětů pro nejrůznější činnosti pro děti v předškolním věku. V důležitém období raného dětství tráví většina dětí nejvíce času s...",196,245,"['dětské', '', 'Portál, Jana Hanšpachová, české']"
+n357609612,Jak přežít dračí bouři - Škyťák Šelmovská Štika III. 7,0,0,2016,272,Slovart,dětské,Cressida Cowell,české,"Na začátku to vypadá jen jako drobná nepříjemnost – Škyťák se musí zúčastnit plaveckého závodu v ledové vodě, který patří mezi tradiční vikinské kratochvíle. Potom se ale věci...",161,249,"['dětské', '', 'Slovart, Cressida Cowell, české']"
+n456517362,Až budu velkej kluk,87,2,2016,288,,dětské,,české,"Tato kniha o dospívání je určená chlapcům, které čeká (nebo jim již začalo) období puberty. Nejde o žádné mravokárné poučky, naopak - přátelský, upřímný a otevřený styl knihy...",79,199,"['dětské', '', 'Svojtka&Co., Frith, Alex, české']"
+n368171226,Války čarodějek,0,0,2016,264,Víkend,dětské,Pounder Sibéal,české,"Čarodějnice se na téhle planetě vyskytují, co si kdo pamatuje. Vaří odporné lektvary v kotlících a poletují na košťatech oblohou. Chichotají se. Pronášejí kletby. Mají kočky....",172,269,"['dětské', '', 'Víkend, Pounder Sibéal, české']"
+n372593858,Princezny - Zlobivé pohádky o princeznách - Walt Disney,0,0,2016,264,Egmont,dětské,Disney Walt,české,"Tvé oblíbené princezny jsou milé, vždy upravené, způsobné a usměvavé. Ale když je potřeba, dokáží Ariel, Jasmína, Bella, Růženka, Tiana, Sněhurka i Popelka, že jsou rázné,...",348,499,"['dětské', '', 'Egmont, Disney Walt, české']"
+n423021796,Alea - dívka moře: Barevné vody - Tanya Stewnerová,100,4,2016,304,Fragment,dětské,Tanya Stewnerová,české,"Moře Aleu potřebuje. Zodpoví jí však i její otázky? Druhý díl velkolepého příběhu od německé bestselerové autorky.
+
+Dobrodružství, výjimečné přátelství a tajemství ukryté v...",204,299,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n370202347,Obr Dobr - Roald Dahl,85,4,2016,240,Knižní klub,dětské,Roald Dahl,české,"Hodných obrů je v pohádkách a příbězích velmi málo. Přečtěte si společně s dětmi krásný příběh o jednom hodném obrovi a malé Sofii. Sofie je osiřelá holčička, která žije v...",197,249,"['dětské', '', 'Knižní klub, Roald Dahl, české']"
+n383850186,Rockový polibek - Série - Stage Dive - 4 - Kylie Scott,99,4,2016,272,Baronet,dětské,Kylie Scott,české,"Měla to být záležitost na jednu noc…
+
+Pozitivní. Dvě maličké čárky na těhotenském testu převrátí život Lizzy Rollinsové vzhůru nohama. A to všechno kvůli jedné obrovské chybě,...",191,299,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n479279344,Bylo nás pět,0,0,2016,304,Albatros,dětské,Karel Poláček,české,"Albatros Bylo nás pět
+
+Námětem tohoto humorně zpracovaného románu, se stalo dětství autora Karla Poláčka, trávené v městečku Rychnově nad Kněžnou.
+
+Pět kluků s duší nezbedníků...",136,199,"['dětské', '', 'Albatros, Karel Poláček, české']"
+n395113552,Lacrimosa - Rekviem pro Saschu - Alice Scarling,0,0,2016,304,Nakladatelství BRÁNA,dětské,Alice Scarling,české,"Sascha po dětství prožitém v klášteře dospěla v osobnost, která si není jistá sama sebou a která ví, že jakékoliv selhání pro ni představuje smrtelné nebezpečí. Proto se obrní...",64,299,"['dětské', '', 'Nakladatelství BRÁNA, Alice Scarling, české']"
+n452446189,"Řeka, která teče pozpátku - Jean-Claude Mourlevat",0,0,2016,272,,dětské,Jean-Claude Mourlevat,české,"Románový příběh dvou osamělých dětí. Tomek má jediného přítele, starého moudrého vesnického písaře, Hannah miluje svého žlutomodře zbarveného ptáčka, jedinou památku na...",183,266,"['dětské', '', 'Jean-Claude Mourlevat, české']"
+n339235924,Zákon smečky - 4 - Trnitá cesta - Erin Hunterová,100,4,2016,248,Albatros,dětské,Erin Hunter,české,"Čtvrtý díl oblíbené fantasy série o psech.
+
+Hlavní hrdina Štístko a vůdce smečky Alfa nyní žijí v křehkém příměří, ale napětí mezi nimi vzrůstá. Nově vzniklá smečka spojená z...",138,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n366522414,Darebák David chystá léčku,0,0,2016,240,BB ART,dětské,Francesca Simonová,české,"Další sbírka vyprávění o nenapravitelném rebelovi Davidovi přináší dvanáct příběhů, v nichž se setkáváme s Davidem, jeho rodinou a spolužáky třeba na pěším výletě, v nóbl...",156,249,"['dětské', '', 'BB ART, Francesca Simonová, české']"
+n444180575,Annina dcéra Rilla,0,0,2016,296,Slovenské pedagogické nakladat,dětské,Montgomeryová Lucy Maud,slovenské,"Dostupné aj v kolekcii za skvelú cenu. Rilla je najmladšie Annino dieťa, má ryšavé vlasy ako mama a vyrastá z nej najkrajšie dievča v Glene St. Mary. V pätnástich rokoch túži...",187,257,"['dětské', '', 'Slovenské pedagogické nakladat, Montgomeryová Lucy Maud, slovenské']"
+n673193883,"My Heart and Other Black Holes - Warga, Jasmine",0,0,2016,302,Balzer + Bray,dětské,Jasmine Warga,anglické,"A stunning novel about the transformative power of love, perfect for fans of 13 Reasons Why by Jay Asher. Sixteen-year-old physics nerd Aysel is obsessed with plotting her own...",178,257,"['dětské', '', 'Balzer + Bray, Jasmine Warga, anglické']"
+n589088534,Moje srdce a jiné černé díry - Jasmine Wargaová,0,0,2016,260,Argo,dětské,Jasmine Wargaová,české,"Když máte pocit, jako byste místo srdce měli zoufale bezednou černou díru, která všechno spolkne, jaký smysl má každé ráno znovu vstávat? Aysel už nechce žít - čeká jen na...",189,269,"['dětské', '', 'Argo, Jasmine Wargaová, české']"
+n357082688,Třinácté nebe - Neil Smith,0,0,2016,312,Argo,dětské,Neil Smith,české,"Autor : Neil Smith, Popis : 
+ Je první týden školního roku a Oliver Dalrymple, neoblíbený a vysmívaný outsider, který je posedlý biologií a chemií, stojí u své šatní skříňky a...",222,298,"['dětské', '', 'Argo, Neil Smith, české']"
+n444453184,Jedinečné krajiny České republiky z letadla - Petr Toman,100,1,2016,304,,cestopisy,Petr Toman,české,"Autor : Petr Toman, Popis : 
+ V knize Jedinečné krajiny České republiky z letadla představuje fotograf Petr Toman českou krajinu tak, jak ji mohl vidět jen málokdo. V této...",670,950,"['cestopisy', '', 'Petr Toman, české']"
+n437481248,Gravity Falls Journal,99,8,2016,288,Disney,dětské,Rob Renzetti,anglické,"Journal 3 brims with every page ever seen on the show plus all-new pages with monsters and secrets, notes from Dipper and Mabel, and the Author's full story. Fans of
+Gravity...",354,604,"['dětské', '', 'Disney, Alex Hirsch, Rob Renzetti, anglické']"
+n422925905,Pěšky mezi buddhisty a komunisty - Ladislav Zibura,95,15,2016,288,BizBooks,cestopisy,Ladislav Zibura,české,"Nešikovný mladý muž ujde 1 500 kilometrů pěšky v Nepálu a v Číně. Dějí se mu hrozné věci, ale on se jim jen směje.
+
+Když mi byly tři, rozbil jsem si hlavu o bidet. Když mi bylo...",204,299,"['cestopisy', '', 'BizBooks, Ladislav Zibura, české']"
+n422824883,Deník malého Minecrafťáka (Cube Kid),89,11,2016,304,Computer Press,dětské,Cube Kid,české,"Kniha Deník malého Minecrafťáka
+ 
+Konečně je tu kniha, jak nehrát Minecfrat nudně a fádně.
+Očima malého hráče je kniha plná nápadů, hracích taktik.... jen, aby hra nebyla...",204,299,"['dětské', '', 'Computer Press, Cube Kid, české']"
+n353545834,Hrůzostrašné pohádky pro malé strašpytlíky,99,2,2016,304,Slovart,dětské,Jiří Žáček,české,"A proč právě hrůzostrašné pohádky? Protože je děti nejen milují (dospělí ostatně také, jen jim říkají jinak), ale zároveň v nich najdou mnoho příkladů, jak mohou překonat...",394,499,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n422617929,Kočičí válečníci (2) - Oheň a led - Erin Hunterová,98,2,2016,304,Albatros,dětské,Erin Hunter,české,"Druhý díl rozsáhlé ságy Kočičí válečníci začíná v době bezlistí. Domácí mazlíček Zrzek dostává nové jméno Ohnivous. Povýšil mezi válečníky, ale respektuje ho velitelka a starší...",136,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n333549728,Odpusť mi. Megan,96,2,2016,256,,dětské,Rushtonová Abbie,české,"Některá tajemství by měla zůstat skryta…
+
+Megan nemluví. A ani nemůže. Loni v létě se stalo něco hrozného a ona slíbila, že o tom nikdy nikomu neřekne. Trápí ji strašná vina....",39,200,"['dětské', '', 'EUROMEDIA GROUP, a.s., Rushtonová Abbie, české']"
+n432168978,Zikmund a Hanzelka (František Emmert),98,13,2016,272,Computer Press,cestopisy,František Emert,české,"Legendární čeští cestovatelé v neobyčejné knize plné přátelství, dobrodružství a unikátních fotografií z jejich cest.
+Zikmund a Hanzelka – jména, jež se stala legendami....",479,690,"['cestopisy', '', 'Computer Press, František Emert, české']"
+n455918747,"Atlas zemí, které neexistují - Padesát oficiálně neuznaných států, o kterých se málo ví - Nick Middleton",100,1,2016,240,,cestopisy,Nick Middleton,české,Graficky unikátně zpracovaný atlas zve na poutavou exkurzi do skrytého světa. Na 240 stranách a 50 mapách předkládá geograficko-historické informace o skutečných územích...,363,548,"['cestopisy', '', 'Nick Middleton, české']"
+n407656596,Kočičí válečníci - 1 - Vzhůru do divočiny - Erin Hunterová,76,5,2016,264,Albatros,dětské,Hunterová Erin,české,"Sledujte boj čtyř klanů divokých koček. Od autorky úspěšné série Zákon smečky. Čtyři klany divokých koček si odedávna dělí území lesa podle zákonů, které stanovili kdysi dávno...",136,199,"['dětské', '', 'Albatros, Hunterová Erin, české']"
+n473577363,Zakázané přání - Jessica Khouryová,0,0,2016,302,Marmer Media,dětské,Jessica Khoury,české,"Když Aladin objeví kouzelnou lampu, džinka Zahra se zjeví ve světě, který neviděla stovky let - světě, kde jsou zapovězena kouzla a samotná existence Zahry je nebezpečná. Aby...",197,296,"['dětské', '', 'Marmer Media, Jessica Khoury, české']"
+n339284901,Neslyšno,90,4,2016,244,Domino,dětské,Richelle Mead,české,"Dívka jménem Fej žije v horské vesnici, kterou sesuvy kamení zcela odřízly od světa. Přežití vesničanů zajišťuje jediné lano, po němž jim přes zrádné skalní stěny posílají...",25,289,"['dětské', '', 'Domino, Richelle Mead, české']"
+n429951431,"Oliver - kocour, který zachránil Vánoce - Sheila Norton",93,6,2016,296,Fragment,dětské,Sheila Norton,české,"Půvabný vánoční příběh, který vás chytne za srdce.
+Kocourek Oliver jen výjimečně opouští svůj bezpečný domov v hostinci Myslivna. Když ale hospodu zničí požár, zůstane bez...",208,284,"['dětské', '', 'Fragment, Sheila Norton, české']"
+n342269905,Hry pro maminky s dětmi,100,2,2016,272,Portál,dětské,Jana Hanšpachová,české,"Soubor tradičních i nových her, říkadel a námětů pro nejrůznější činnosti pro děti v předškolním věku. V důležitém období raného dětství tráví většina dětí nejvíce času s...",196,245,"['dětské', '', 'Portál, Jana Hanšpachová, české']"
+n357609612,Jak přežít dračí bouři - Škyťák Šelmovská Štika III. 7,0,0,2016,272,Slovart,dětské,Cressida Cowell,české,"Na začátku to vypadá jen jako drobná nepříjemnost – Škyťák se musí zúčastnit plaveckého závodu v ledové vodě, který patří mezi tradiční vikinské kratochvíle. Potom se ale věci...",161,249,"['dětské', '', 'Slovart, Cressida Cowell, české']"
+n456517362,Až budu velkej kluk,87,2,2016,288,,dětské,,české,"Tato kniha o dospívání je určená chlapcům, které čeká (nebo jim již začalo) období puberty. Nejde o žádné mravokárné poučky, naopak - přátelský, upřímný a otevřený styl knihy...",79,199,"['dětské', '', 'Svojtka&Co., Frith, Alex, české']"
+n368171226,Války čarodějek,0,0,2016,264,Víkend,dětské,Pounder Sibéal,české,"Čarodějnice se na téhle planetě vyskytují, co si kdo pamatuje. Vaří odporné lektvary v kotlících a poletují na košťatech oblohou. Chichotají se. Pronášejí kletby. Mají kočky....",172,269,"['dětské', '', 'Víkend, Pounder Sibéal, české']"
+n372593858,Princezny - Zlobivé pohádky o princeznách - Walt Disney,0,0,2016,264,Egmont,dětské,Disney Walt,české,"Tvé oblíbené princezny jsou milé, vždy upravené, způsobné a usměvavé. Ale když je potřeba, dokáží Ariel, Jasmína, Bella, Růženka, Tiana, Sněhurka i Popelka, že jsou rázné,...",348,499,"['dětské', '', 'Egmont, Disney Walt, české']"
+n423021796,Alea - dívka moře: Barevné vody - Tanya Stewnerová,100,4,2016,304,Fragment,dětské,Tanya Stewnerová,české,"Moře Aleu potřebuje. Zodpoví jí však i její otázky? Druhý díl velkolepého příběhu od německé bestselerové autorky.
+
+Dobrodružství, výjimečné přátelství a tajemství ukryté v...",204,299,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n370202347,Obr Dobr - Roald Dahl,85,4,2016,240,Knižní klub,dětské,Roald Dahl,české,"Hodných obrů je v pohádkách a příbězích velmi málo. Přečtěte si společně s dětmi krásný příběh o jednom hodném obrovi a malé Sofii. Sofie je osiřelá holčička, která žije v...",197,249,"['dětské', '', 'Knižní klub, Roald Dahl, české']"
+n383850186,Rockový polibek - Série - Stage Dive - 4 - Kylie Scott,99,4,2016,272,Baronet,dětské,Kylie Scott,české,"Měla to být záležitost na jednu noc…
+
+Pozitivní. Dvě maličké čárky na těhotenském testu převrátí život Lizzy Rollinsové vzhůru nohama. A to všechno kvůli jedné obrovské chybě,...",191,299,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n479279344,Bylo nás pět,0,0,2016,304,Albatros,dětské,Karel Poláček,české,"Albatros Bylo nás pět
+
+Námětem tohoto humorně zpracovaného románu, se stalo dětství autora Karla Poláčka, trávené v městečku Rychnově nad Kněžnou.
+
+Pět kluků s duší nezbedníků...",136,199,"['dětské', '', 'Albatros, Karel Poláček, české']"
+n395113552,Lacrimosa - Rekviem pro Saschu - Alice Scarling,0,0,2016,304,Nakladatelství BRÁNA,dětské,Alice Scarling,české,"Sascha po dětství prožitém v klášteře dospěla v osobnost, která si není jistá sama sebou a která ví, že jakékoliv selhání pro ni představuje smrtelné nebezpečí. Proto se obrní...",64,299,"['dětské', '', 'Nakladatelství BRÁNA, Alice Scarling, české']"
+n452446189,"Řeka, která teče pozpátku - Jean-Claude Mourlevat",0,0,2016,272,,dětské,Jean-Claude Mourlevat,české,"Románový příběh dvou osamělých dětí. Tomek má jediného přítele, starého moudrého vesnického písaře, Hannah miluje svého žlutomodře zbarveného ptáčka, jedinou památku na...",183,266,"['dětské', '', 'Jean-Claude Mourlevat, české']"
+n339235924,Zákon smečky - 4 - Trnitá cesta - Erin Hunterová,100,4,2016,248,Albatros,dětské,Erin Hunter,české,"Čtvrtý díl oblíbené fantasy série o psech.
+
+Hlavní hrdina Štístko a vůdce smečky Alfa nyní žijí v křehkém příměří, ale napětí mezi nimi vzrůstá. Nově vzniklá smečka spojená z...",138,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n366522414,Darebák David chystá léčku,0,0,2016,240,BB ART,dětské,Francesca Simonová,české,"Další sbírka vyprávění o nenapravitelném rebelovi Davidovi přináší dvanáct příběhů, v nichž se setkáváme s Davidem, jeho rodinou a spolužáky třeba na pěším výletě, v nóbl...",156,249,"['dětské', '', 'BB ART, Francesca Simonová, české']"
+n444180575,Annina dcéra Rilla,0,0,2016,296,Slovenské pedagogické nakladat,dětské,Montgomeryová Lucy Maud,slovenské,"Dostupné aj v kolekcii za skvelú cenu. Rilla je najmladšie Annino dieťa, má ryšavé vlasy ako mama a vyrastá z nej najkrajšie dievča v Glene St. Mary. V pätnástich rokoch túži...",187,257,"['dětské', '', 'Slovenské pedagogické nakladat, Montgomeryová Lucy Maud, slovenské']"
+n673193883,"My Heart and Other Black Holes - Warga, Jasmine",0,0,2016,302,Balzer + Bray,dětské,Jasmine Warga,anglické,"A stunning novel about the transformative power of love, perfect for fans of 13 Reasons Why by Jay Asher. Sixteen-year-old physics nerd Aysel is obsessed with plotting her own...",178,257,"['dětské', '', 'Balzer + Bray, Jasmine Warga, anglické']"
+n589088534,Moje srdce a jiné černé díry - Jasmine Wargaová,0,0,2016,260,Argo,dětské,Jasmine Wargaová,české,"Když máte pocit, jako byste místo srdce měli zoufale bezednou černou díru, která všechno spolkne, jaký smysl má každé ráno znovu vstávat? Aysel už nechce žít - čeká jen na...",189,269,"['dětské', '', 'Argo, Jasmine Wargaová, české']"
+n357082688,Třinácté nebe - Neil Smith,0,0,2016,312,Argo,dětské,Neil Smith,české,"Autor : Neil Smith, Popis : 
+ Je první týden školního roku a Oliver Dalrymple, neoblíbený a vysmívaný outsider, který je posedlý biologií a chemií, stojí u své šatní skříňky a...",222,298,"['dětské', '', 'Argo, Neil Smith, české']"
+n444453184,Jedinečné krajiny České republiky z letadla - Petr Toman,100,1,2016,304,,cestopisy,Petr Toman,české,"Autor : Petr Toman, Popis : 
+ V knize Jedinečné krajiny České republiky z letadla představuje fotograf Petr Toman českou krajinu tak, jak ji mohl vidět jen málokdo. V této...",670,950,"['cestopisy', '', 'Petr Toman, české']"
+n437481248,Gravity Falls Journal,99,8,2016,288,Disney,dětské,Rob Renzetti,anglické,"Journal 3 brims with every page ever seen on the show plus all-new pages with monsters and secrets, notes from Dipper and Mabel, and the Author's full story. Fans of
+Gravity...",354,604,"['dětské', '', 'Disney, Alex Hirsch, Rob Renzetti, anglické']"
+n422925905,Pěšky mezi buddhisty a komunisty - Ladislav Zibura,95,15,2016,288,BizBooks,cestopisy,Ladislav Zibura,české,"Nešikovný mladý muž ujde 1 500 kilometrů pěšky v Nepálu a v Číně. Dějí se mu hrozné věci, ale on se jim jen směje.
+
+Když mi byly tři, rozbil jsem si hlavu o bidet. Když mi bylo...",204,299,"['cestopisy', '', 'BizBooks, Ladislav Zibura, české']"
+n422824883,Deník malého Minecrafťáka (Cube Kid),89,11,2016,304,Computer Press,dětské,Cube Kid,české,"Kniha Deník malého Minecrafťáka
+ 
+Konečně je tu kniha, jak nehrát Minecfrat nudně a fádně.
+Očima malého hráče je kniha plná nápadů, hracích taktik.... jen, aby hra nebyla...",204,299,"['dětské', '', 'Computer Press, Cube Kid, české']"
+n353545834,Hrůzostrašné pohádky pro malé strašpytlíky,99,2,2016,304,Slovart,dětské,Jiří Žáček,české,"A proč právě hrůzostrašné pohádky? Protože je děti nejen milují (dospělí ostatně také, jen jim říkají jinak), ale zároveň v nich najdou mnoho příkladů, jak mohou překonat...",394,499,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n422617929,Kočičí válečníci (2) - Oheň a led - Erin Hunterová,98,2,2016,304,Albatros,dětské,Erin Hunter,české,"Druhý díl rozsáhlé ságy Kočičí válečníci začíná v době bezlistí. Domácí mazlíček Zrzek dostává nové jméno Ohnivous. Povýšil mezi válečníky, ale respektuje ho velitelka a starší...",136,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n333549728,Odpusť mi. Megan,96,2,2016,256,,dětské,Rushtonová Abbie,české,"Některá tajemství by měla zůstat skryta…
+
+Megan nemluví. A ani nemůže. Loni v létě se stalo něco hrozného a ona slíbila, že o tom nikdy nikomu neřekne. Trápí ji strašná vina....",39,200,"['dětské', '', 'EUROMEDIA GROUP, a.s., Rushtonová Abbie, české']"
+n432168978,Zikmund a Hanzelka (František Emmert),98,13,2016,272,Computer Press,cestopisy,František Emert,české,"Legendární čeští cestovatelé v neobyčejné knize plné přátelství, dobrodružství a unikátních fotografií z jejich cest.
+Zikmund a Hanzelka – jména, jež se stala legendami....",479,690,"['cestopisy', '', 'Computer Press, František Emert, české']"
+n455918747,"Atlas zemí, které neexistují - Padesát oficiálně neuznaných států, o kterých se málo ví - Nick Middleton",100,1,2016,240,,cestopisy,Nick Middleton,české,Graficky unikátně zpracovaný atlas zve na poutavou exkurzi do skrytého světa. Na 240 stranách a 50 mapách předkládá geograficko-historické informace o skutečných územích...,363,548,"['cestopisy', '', 'Nick Middleton, české']"
+n407656596,Kočičí válečníci - 1 - Vzhůru do divočiny - Erin Hunterová,76,5,2016,264,Albatros,dětské,Hunterová Erin,české,"Sledujte boj čtyř klanů divokých koček. Od autorky úspěšné série Zákon smečky. Čtyři klany divokých koček si odedávna dělí území lesa podle zákonů, které stanovili kdysi dávno...",136,199,"['dětské', '', 'Albatros, Hunterová Erin, české']"
+n473577363,Zakázané přání - Jessica Khouryová,0,0,2016,302,Marmer Media,dětské,Jessica Khoury,české,"Když Aladin objeví kouzelnou lampu, džinka Zahra se zjeví ve světě, který neviděla stovky let - světě, kde jsou zapovězena kouzla a samotná existence Zahry je nebezpečná. Aby...",197,296,"['dětské', '', 'Marmer Media, Jessica Khoury, české']"
+n339284901,Neslyšno,90,4,2016,244,Domino,dětské,Richelle Mead,české,"Dívka jménem Fej žije v horské vesnici, kterou sesuvy kamení zcela odřízly od světa. Přežití vesničanů zajišťuje jediné lano, po němž jim přes zrádné skalní stěny posílají...",25,289,"['dětské', '', 'Domino, Richelle Mead, české']"
+n429951431,"Oliver - kocour, který zachránil Vánoce - Sheila Norton",93,6,2016,296,Fragment,dětské,Sheila Norton,české,"Půvabný vánoční příběh, který vás chytne za srdce.
+Kocourek Oliver jen výjimečně opouští svůj bezpečný domov v hostinci Myslivna. Když ale hospodu zničí požár, zůstane bez...",208,284,"['dětské', '', 'Fragment, Sheila Norton, české']"
+n342269905,Hry pro maminky s dětmi,100,2,2016,272,Portál,dětské,Jana Hanšpachová,české,"Soubor tradičních i nových her, říkadel a námětů pro nejrůznější činnosti pro děti v předškolním věku. V důležitém období raného dětství tráví většina dětí nejvíce času s...",196,245,"['dětské', '', 'Portál, Jana Hanšpachová, české']"
+n357609612,Jak přežít dračí bouři - Škyťák Šelmovská Štika III. 7,0,0,2016,272,Slovart,dětské,Cressida Cowell,české,"Na začátku to vypadá jen jako drobná nepříjemnost – Škyťák se musí zúčastnit plaveckého závodu v ledové vodě, který patří mezi tradiční vikinské kratochvíle. Potom se ale věci...",161,249,"['dětské', '', 'Slovart, Cressida Cowell, české']"
+n456517362,Až budu velkej kluk,87,2,2016,288,,dětské,,české,"Tato kniha o dospívání je určená chlapcům, které čeká (nebo jim již začalo) období puberty. Nejde o žádné mravokárné poučky, naopak - přátelský, upřímný a otevřený styl knihy...",79,199,"['dětské', '', 'Svojtka&Co., Frith, Alex, české']"
+n368171226,Války čarodějek,0,0,2016,264,Víkend,dětské,Pounder Sibéal,české,"Čarodějnice se na téhle planetě vyskytují, co si kdo pamatuje. Vaří odporné lektvary v kotlících a poletují na košťatech oblohou. Chichotají se. Pronášejí kletby. Mají kočky....",172,269,"['dětské', '', 'Víkend, Pounder Sibéal, české']"
+n372593858,Princezny - Zlobivé pohádky o princeznách - Walt Disney,0,0,2016,264,Egmont,dětské,Disney Walt,české,"Tvé oblíbené princezny jsou milé, vždy upravené, způsobné a usměvavé. Ale když je potřeba, dokáží Ariel, Jasmína, Bella, Růženka, Tiana, Sněhurka i Popelka, že jsou rázné,...",348,499,"['dětské', '', 'Egmont, Disney Walt, české']"
+n423021796,Alea - dívka moře: Barevné vody - Tanya Stewnerová,100,4,2016,304,Fragment,dětské,Tanya Stewnerová,české,"Moře Aleu potřebuje. Zodpoví jí však i její otázky? Druhý díl velkolepého příběhu od německé bestselerové autorky.
+
+Dobrodružství, výjimečné přátelství a tajemství ukryté v...",204,299,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n370202347,Obr Dobr - Roald Dahl,85,4,2016,240,Knižní klub,dětské,Roald Dahl,české,"Hodných obrů je v pohádkách a příbězích velmi málo. Přečtěte si společně s dětmi krásný příběh o jednom hodném obrovi a malé Sofii. Sofie je osiřelá holčička, která žije v...",197,249,"['dětské', '', 'Knižní klub, Roald Dahl, české']"
+n383850186,Rockový polibek - Série - Stage Dive - 4 - Kylie Scott,99,4,2016,272,Baronet,dětské,Kylie Scott,české,"Měla to být záležitost na jednu noc…
+
+Pozitivní. Dvě maličké čárky na těhotenském testu převrátí život Lizzy Rollinsové vzhůru nohama. A to všechno kvůli jedné obrovské chybě,...",191,299,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n479279344,Bylo nás pět,0,0,2016,304,Albatros,dětské,Karel Poláček,české,"Albatros Bylo nás pět
+
+Námětem tohoto humorně zpracovaného románu, se stalo dětství autora Karla Poláčka, trávené v městečku Rychnově nad Kněžnou.
+
+Pět kluků s duší nezbedníků...",136,199,"['dětské', '', 'Albatros, Karel Poláček, české']"
+n395113552,Lacrimosa - Rekviem pro Saschu - Alice Scarling,0,0,2016,304,Nakladatelství BRÁNA,dětské,Alice Scarling,české,"Sascha po dětství prožitém v klášteře dospěla v osobnost, která si není jistá sama sebou a která ví, že jakékoliv selhání pro ni představuje smrtelné nebezpečí. Proto se obrní...",64,299,"['dětské', '', 'Nakladatelství BRÁNA, Alice Scarling, české']"
+n452446189,"Řeka, která teče pozpátku - Jean-Claude Mourlevat",0,0,2016,272,,dětské,Jean-Claude Mourlevat,české,"Románový příběh dvou osamělých dětí. Tomek má jediného přítele, starého moudrého vesnického písaře, Hannah miluje svého žlutomodře zbarveného ptáčka, jedinou památku na...",183,266,"['dětské', '', 'Jean-Claude Mourlevat, české']"
+n339235924,Zákon smečky - 4 - Trnitá cesta - Erin Hunterová,100,4,2016,248,Albatros,dětské,Erin Hunter,české,"Čtvrtý díl oblíbené fantasy série o psech.
+
+Hlavní hrdina Štístko a vůdce smečky Alfa nyní žijí v křehkém příměří, ale napětí mezi nimi vzrůstá. Nově vzniklá smečka spojená z...",138,199,"['dětské', '', 'Albatros, Erin Hunter, české']"
+n366522414,Darebák David chystá léčku,0,0,2016,240,BB ART,dětské,Francesca Simonová,české,"Další sbírka vyprávění o nenapravitelném rebelovi Davidovi přináší dvanáct příběhů, v nichž se setkáváme s Davidem, jeho rodinou a spolužáky třeba na pěším výletě, v nóbl...",156,249,"['dětské', '', 'BB ART, Francesca Simonová, české']"
+n444180575,Annina dcéra Rilla,0,0,2016,296,Slovenské pedagogické nakladat,dětské,Montgomeryová Lucy Maud,slovenské,"Dostupné aj v kolekcii za skvelú cenu. Rilla je najmladšie Annino dieťa, má ryšavé vlasy ako mama a vyrastá z nej najkrajšie dievča v Glene St. Mary. V pätnástich rokoch túži...",187,257,"['dětské', '', 'Slovenské pedagogické nakladat, Montgomeryová Lucy Maud, slovenské']"
+n673193883,"My Heart and Other Black Holes - Warga, Jasmine",0,0,2016,302,Balzer + Bray,dětské,Jasmine Warga,anglické,"A stunning novel about the transformative power of love, perfect for fans of 13 Reasons Why by Jay Asher. Sixteen-year-old physics nerd Aysel is obsessed with plotting her own...",178,257,"['dětské', '', 'Balzer + Bray, Jasmine Warga, anglické']"
+n589088534,Moje srdce a jiné černé díry - Jasmine Wargaová,0,0,2016,260,Argo,dětské,Jasmine Wargaová,české,"Když máte pocit, jako byste místo srdce měli zoufale bezednou černou díru, která všechno spolkne, jaký smysl má každé ráno znovu vstávat? Aysel už nechce žít - čeká jen na...",189,269,"['dětské', '', 'Argo, Jasmine Wargaová, české']"
+n357082688,Třinácté nebe - Neil Smith,0,0,2016,312,Argo,dětské,Neil Smith,české,"Autor : Neil Smith, Popis : 
+ Je první týden školního roku a Oliver Dalrymple, neoblíbený a vysmívaný outsider, který je posedlý biologií a chemií, stojí u své šatní skříňky a...",222,298,"['dětské', '', 'Argo, Neil Smith, české']"
+n444453184,Jedinečné krajiny České republiky z letadla - Petr Toman,100,1,2016,304,,cestopisy,Petr Toman,české,"Autor : Petr Toman, Popis : 
+ V knize Jedinečné krajiny České republiky z letadla představuje fotograf Petr Toman českou krajinu tak, jak ji mohl vidět jen málokdo. V této...",670,950,"['cestopisy', '', 'Petr Toman, české']"

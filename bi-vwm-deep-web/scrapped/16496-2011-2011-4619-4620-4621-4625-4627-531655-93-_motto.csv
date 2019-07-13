@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n31088228,Co encyklopedie tají,88,2,2011,312,Motto,naučná,české</p>,,"Co encyklopedie tají kniha od autora Stanislava Jarolímková. Méně známé zajímavosti o poměrně známých věcech, osobnostech i událostech. Tentokrát jde o informace, na které...",99,257,"['Motto, naučná', '', 'české']"
+n21676325,Jak vychovat šťastné dítě,82,4,2011,256,Motto,naučná,české</p>,,"Jak vychovat šťastné dítě kniha od autora Eva Rheinwaldová. Kultovní a velmi oblíbená příručka, jejíž prodaný náklad přesáhl 30 000 výtisků!
+
+Máte děti nebo se je chystáte mít?...",63,80,"['Motto, naučná', '', 'české']"

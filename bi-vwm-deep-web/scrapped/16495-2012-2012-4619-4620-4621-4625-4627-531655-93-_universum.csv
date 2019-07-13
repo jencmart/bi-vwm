@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n61257926,Můj život s rybami,92,17,2012,192,Universum,naučná,české</p>,,"Jakub Vágner je proslulý český sportovní rybář, držitel mnoha světových rybářských rekordů. Pro splnění svého snu - zmapování největších a nejvzácnějších sladkovodních ryb naší...",277,349,"['Universum, naučná', '', 'české']"
+n46988547,Rozkládání státu - Vladimíra Dvořáková,89,14,2012,176,Universum,naučná,české</p>,,"Známá česká politoložka hledá odpověď na řadu otázek, které si veřejnost klade - co se v této zemi děje, proč se tomu tak děje a zda existuje nějaké východisko. V sérii...",182,229,"['Universum, naučná', '', 'české']"

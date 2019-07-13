@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n460962481,Windows 10 - Praktická příručka - Karel Klatovský,87,2,2015,236,Computer Media,naučná,české</p>,,"Windows 10 je nejmodernějším operačním systémem společnosti Microsoft na trhu. Nabízí řadu nových pokrokových funkcí, jako je nová vylepšená nabídka Start, virtuální plochy,...",199,299,"['Computer Media, naučná', '', 'české']"

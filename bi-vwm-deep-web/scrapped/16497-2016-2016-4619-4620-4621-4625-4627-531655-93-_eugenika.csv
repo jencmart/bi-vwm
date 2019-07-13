@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n391666621,Omládněte - jde to! - Marisa Peer,100,1,2016,360,Eugenika,naučná,Marisa Peer</p>,,"Koho by alespoň občas netrápilo, že stárne? Jak zůstat bez ohledu na svůj věk svěží, silný, pěkný a zdravý? Dá se to vůbec?
+Kniha omladit - jde to vám pomůže vypadat mnohem...",256,398,"['Eugenika, naučná', '', 'české, Marisa Peer']"
+n385726075,Tvořivá pochybnost,0,0,2016,392,,naučná,,,"Jeden z nejvýznamnějších a nejoriginálnějších duchovních učitelů naší doby vysvětluje, proč skutečně duchovně založený a upřímně hledající člověk nemůže ustrnout v žádném...",286,428,"['Eugenika, naučná', '', 'české, Osho']"

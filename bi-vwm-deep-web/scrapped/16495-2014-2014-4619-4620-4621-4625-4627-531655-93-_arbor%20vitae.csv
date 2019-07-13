@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n218082448,Erwin Müller,0,0,2014,176,Arbor vitae,naučná,české</p>,,Osobitá tvorba českého Němce Erwina Müllera dochovaná v Oblastní galerii v Liberci a několika soukromých sbírkách v Čechách vnikala ve dvacátých a třicátých letech 20. století....,286,390,"['Arbor vitae, naučná', '', 'české']"
+n193706968,"Orbis pictus Františka Kupky Theinhardtová Markéta, Brulle Pierre",0,0,2014,196,Arbor vitae,naučná,české</p>,,"Kniha se zaměřuje na první tvůrčí období Františka Kupky (1871–1957), kdy pracoval pro tisk, který ve Francii tou dobou zažíval svůj zlatý věk, ať už zaměřený na Art nouveau...",300,990,"['Arbor vitae, naučná', '', 'české']"

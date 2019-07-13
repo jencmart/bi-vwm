@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n522694082,Antonín Novotný,0,0,2011,344,Barrister &amp; Principal,naučná,české</p>,,"Kniha renomovaného historika Karla Kaplana nabízí detailní pohled na éru v pořadí třetího komunistického prezidenta ČSSR, Antonína Novotného. Jeho jméno je v historickém...",327,327,"['Barrister & Principal, naučná', '', 'české']"
+n34903018,Chvála ciceronství,0,0,2011,376,Barrister &amp; Principal,naučná,české</p>,,"Chvála ciceronství - Umělecká díla mezi pohádkou a vědou. Tradice „ciceronství“ v Itálii a především v Římě 18. století, kde učení a výřeční prů­vodci doprovázeli...",246,395,"['Barrister & Principal, naučná', '', 'české']"

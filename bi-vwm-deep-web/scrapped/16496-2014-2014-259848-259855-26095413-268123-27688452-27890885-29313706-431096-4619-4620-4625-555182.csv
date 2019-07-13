@@ -1,0 +1,409 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n185570295,Hormonální Jógová terapie Dinah Rodrigues,97,41,2014,280,Fontána,esoterika,Dinah Rodrigues,české,"V této knize vám uznávaná jógová terapeutka Dinah Rodrigues představuje novou formu dynamické jógy - hormonální jógovou terapii, která je sestavena tak, aby znovu aktivovala...",348,458,"['esoterika', '', 'Fontána, Dinah Rodrigues, české']"
+n196605146,Spatříš svoje anděly - Theresa Cheung,93,9,2014,296,Knižní klub,esoterika,Cheungová Theresa,české,"Spatříš svoje anděly je inspirující kniha Theresy Cheung a zároveň průvodce, který vám může pomoci pochopit, jakou roli v životech nás všech hrají andělé každý den.vašeho...",276,349,"['esoterika', '', 'Knižní klub, Cheungová Theresa, české']"
+n200175936,Selekce - Kiera Cassová,97,20,2014,288,COOBOO,dětské,Kiera Cassová,české,"Pro třicet pět dívek je Selekce životní šancí. Příležitostí k útěku od života, který jim byl stanoven od narození. Být obklopena světem třpytivých šatů a drahocenných šperků....",173,249,"['dětské', '', 'COOBOO, Kiera Cassová, české']"
+n228012717,Moje nejlepší recepty - Lenka Holas Kořínková,87,10,2014,312,Eminent,kuchařky,Lenka Holas Kořínková,české,Slavná herečka a oblíbená autorka změnila díky svému originálnímu stravovacímu systému životy tisícům lidí a její dieta se stala pojmem... Nyní přichází s novou knihou svých...,171,259,"['kuchařky', '', 'Eminent, Lenka Holas Kořínková, české']"
+n202335528,Kuchařka ze Svatojánu - Eva Francová,95,96,2014,256,Motto,kuchařky,Eva Francová,české,"Být ženou, vládkyní krbu, vyžaduje víc než jen vařit. Být ženou znamená dávat a udržovat život v mnoha podobách. ",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n173762616,Menu podle Koko - Veronika Kokešová,93,18,2014,240,Smart Press,kuchařky,Veronika Kokešová,české,"Menu podle Koko
+Kuchařka plná videí
+Veronika Koko Kokešová
+
+Se stejnou vášní, s jakou moderátorka pražského radia Expres FM Veronika Kokešová alias Koko připravuje slavný blog...",180,403,"['kuchařky', '', 'Smart Press, Veronika Kokešová, české']"
+n222368573,"Pipi Dlouhá punčocha - 9. vyd. - Astrid Lindgrenová, Adolf Born",94,11,2014,272,Albatros,dětské,Astrid Lindgren,české,"Albatros Pipi Dlouhá punčocha
+
+Knížka plná báječných nápadů, bohaté fantazie a jedinečného humoru.
+
+Příhody ze života svérázné devítileté dívenky s nevšedním chováním, jménem i...",208,299,"['dětské', '', 'Albatros, Astrid Lindgren, české']"
+n148774248,Steampunk tarot,97,12,2014,300,Synergie,esoterika,Barbara Moore,české,"Nasaďte si letecké či svářečské brýle, oblečte si svůj nejlepší korzet, posaďte si na hlavu cylindr a vydejte se na dobrodružnou výpravu do světa steampunku. Steampunk si...",329,499,"['esoterika', '', 'Synergie, Barbara Moore, české']"
+n205435502,Hlavolamikon - Radek Pelánek,95,8,2014,240,Computer Press,křížovky,Radek Pelánek,české,"Řešíte rádi hlavolamy, hádanky či logické úlohy? Luštíte na dovolené? Jezdíte s dětmi na tábory? Chcete vyplnit dětem jejich volný čas zábavnými aktivitami? Potřebujete žákům...",136,199,"['křížovky', '', 'Computer Press, Radek Pelánek, české']"
+n219484925,Krysburger Kniha - Walliams David,95,3,2014,268,Argo,dětské,David Walliams,české,"Jak je u Walliamse obvyklé, nemají to jeho hrdinové v životě zrovna snadné. Ani Zoe není výjimkou. Její táta se po smrti Zoeiny mámy podruhé oženil, ale neměl v tomhle směru...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n220977950,"Jednou ano, dvakrát ne - Cylin Busbyová",90,2,2014,248,COOBOO,dětské,Cylin Busbyová,české,"West je úspěšný středoškolák a má vše, co si jen může přát. Avšak jednoho dne se probudí po nehodě v nemocnici ? ochrnutý a bez možnosti mluvit.. Jediný způsob, jak se se může...",67,185,"['dětské', '', 'COOBOO, Cylin Busbyová, české']"
+n454746976,Příběhy skutečné odvahy - Bear Grylls,100,2,2014,288,Jota,cestopisy,Bear Grylls,české,"Bear Grylls ví, co všechno musí člověk umět a znát, aby přežil v extrémních podmínkách. Není však první v historii. Vezměte si třeba amerického pilota Luise Zamperiniho, jenž...",206,348,"['cestopisy', '', 'Jota, Bear Grylls, české']"
+n459941980,Velká lidových písniček a říkadel,0,0,2014,256,Fragment,dětské,Josef Lada,české,"Výběr nejznámějších českých lidových písniček, říkadel, hádanek, pranostik, jazykolamů či rozpočítadel potěší nejen děti, ale i rodiče a prarodiče.
+Formát: 216,0 x 295,0 x...",302,449,"['dětské', '', 'Fragment, Josef Lada, české']"
+n203584291,Současná paleo dieta - Loren Cordain,83,3,2014,304,Ikar,kuchařky,Loren Cordain,české,"Jednoduchý způsob, jak zhubnout a zbavit se zdravotních neduhů
+
+Paleo dieta je strava, na kterou je lidský organismus nastavený od samého počátku. 
+
+Paleo dieta vám změní...",238,299,"['kuchařky', '', 'Ikar, Loren Cordain, české']"
+n203942332,S Bohem a fašisty - Deschner Karlheinz,95,2,2014,256,Naše vojsko,esoterika,Karlheinz Deschner,české,"Kniha připomíná kolaboraci Vatikánu nejen s Hitlerem, ale i s Mussolinim, Francem a méně známým Pavelićem, fašistickým vůdcem v Chorvatsku, který je spolu s kardinálem...",256,399,"['esoterika', '', 'Naše vojsko, Karlheinz Deschner, české']"
+n216997798,"Kameny a hvězdy. Síly předků, oči kamenů, světla odjinud - Václav Cílek - Dokořán",94,5,2014,288,Dokořán,esoterika,Václav Cílek,české,Nedaleko slavných kounovských řad odkryli lovci menhirů několik kamenných uskupení a vztyčili víc než dvacet menhirů o váze až sedm tun. Jsou to opravdové kamenné památky?...,209,298,"['esoterika', '', 'Dokořán, Václav Cílek, české']"
+n215262914,100 přání Erica Bertelegniová,100,3,2014,264,Jota,dětské,Bertelegni Erika,české,"13 let, 100 přání a 1 kouzelný příběh!
+
+Je nedělení odpoledne a skoro třináctiletá Aurora Bílá právě vešla do knihkupectví, jehož prodavačka umí… létat! A nejen to, taky...",174,288,"['dětské', '', 'Jota, Bertelegni Erika, české']"
+n362883526,Dobrodružství Toma Sawyera,0,0,2014,240,Albatros,dětské,Mark Twain,české,"Albatros Dobrodružství Toma Sawyera
+
+Mark Twain, spisovatel světového formátu, zachytil v této knížce dobrodružství osiřelého chlapce uprostřed americké společnosti....",160,269,"['dětské', '', 'Albatros, Mark Twain, české']"
+n259847858,Flanagan John: Hraničářův učeň 6 - Čaroděj na severu Kniha,0,0,2014,312,Egmont,dětské,John Flanagan,české,"Hraničářův učeň 6 - Čaroděj na severu kniha od autora Flanagan John. Will coby plnohodnotný hraničář pečující o vlastní léno se záhy přesvědčí, že v každé, dokonce i v té...",186,299,"['dětské', '', 'Egmont, John Flanagan, české']"
+n259849893,Jakub a hvězdy - Renáta Fučíková,97,3,2014,240,Mladá fronta,dětské,Renáta Fučíková,české,"Příběh malého Jakuba, který se s rodinou stěhuje z města na venkov. Když má v novém domě ve svém půdním pokoji poprvé spát, dostane strach. Tatínek mu proto začne vyprávět...",324,499,"['dětské', '', 'Mladá fronta, Renáta Fučíková, české']"
+n211996410,Chytré pohádky pro malé rozumbrady - Jiří Žáček,95,23,2014,256,Slovart,dětské,Jiří Žáček,české,"Vlastně ani osoby s nadpřirozenými schopnostmi v nich často nenajdete. A právě taková je naše knížka. Kniha, kde vystupují obyčejní lidé s neobyčejným chováním. Není vám jasné...",355,449,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n189576732,THOVT brány Atlantidy - Kerstin Simoné,94,24,2014,300,,esoterika,Kerstin Simoné,české,"Bájná Atlantida – země, již většina z nás nosí v hlubinách svého nitra a jež čeká na to, aby ji lidstvo probudilo. Ve druhém dílu svých poselství Thovt připomíná, že většina z...",246,350,"['esoterika', '', 'Kerstin Simoné, české']"
+n185832146,Fantastické dorty (DK) - Karen Sullivanová,92,16,2014,256,Ikar,kuchařky,Sullivanová Karen,české,"Báječné dorty! Naučíte se, jak používat modelovací hmotu, jako je marcipán, fondán, máslová poleva, temperovaná čokoláda a bílková poleva. Můžete si vyzkoušet více než 100...",459,459,"['kuchařky', '', 'Ikar, Sullivanová Karen, české']"
+n214264258,"České pohádky 4. vyd. Jan Drda, Josef Lada",96,4,2014,304,Albatros,dětské,Jan Drda,české,"Albatros České pohádky
+
+Jedinečné pohádkové příběhy, vyprávěné osobitým jazykem Jana Drdy a obrázky Josefa Lady, mnohé známé z filmového zpracování, jsou báječným čtením pro...",204,299,"['dětské', '', 'Albatros, Jan Drda, české']"
+n618726022,Klub Tygrů - Ostrov děsivých goril - Thomas C. Brezina,0,0,2014,280,Fragment,dětské,Thomas C. Brezina,české,"Poklidnou výletní plavbu po moři pokazí náhlá bouřka a zažene člun s Biggi, Lukem a Patrikem na záhadný ostrov, o kterém se vypráví strašidelné historky. Když najdou jeskyni a...",137,179,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n184248174,Anunnakové a hledání nesmrtelnosti,95,2,2014,262,Fontána,esoterika,Zecharia Sitchin,české,"""Sitchinovo dílo představuje spojení evoluce s kreacionismem. Sitchin svůj život zasvětil propagací myšlenek, že se lidstvo vyvinulo výsledkem drobného genetického zásahu...",236,368,"['esoterika', '', 'Fontána, Zecharia Sitchin, české']"
+n213830098,"Nevíte, co jíte - Petr Fořt, Ivan Mach",94,9,2014,256,BizBooks,kuchařky,Ivan Mach,české,"Jak na vás působí reklamy na dětské sladkosti a k nim přidané hračky?. Do některých fast food restaurací chtějí děti pro hračky, které k jídlu dostanou, vůbec ne pro jídlo. Ale...",243,349,"['kuchařky', '', 'BizBooks, Ivan Mach, české']"
+n184281126,Léto na táboře,0,0,2014,248,Alpress,dětské,Jen Calonita,české,"Proč si jenom Samina nejlepší kámoška musela zrovna před prázdninami najít kluka! Aby Sam nemusela celé léto poslouchat jejich zamilované vrkání, přihlásí se na tábor. Jenže...",152,242,"['dětské', '', 'Alpress, Jen Calonita, české']"
+n179785062,Dobříšsko na starých pohlednicích,0,0,2014,300,,cestopisy,Prášil Petr,české,"Kniha Dobříšsko na starých pohlednicích navazuje na dříve vydané knihy Příbramsko a Berounsko. Téměř 600 pohlednic nás zavede do časů dětství našich rodičů a prarodičů, do...",331,499,"['cestopisy', '', 'Prášil Petr, české']"
+n205468171,KOČIČÍ GEN - Thomas C. Brezina,100,2,2014,304,Fragment,dětské,Thomas C. Brezina,české,"Dokáže vidět ve tmě. Je jiná a zvláštní…
+
+ Katie je patnáct let a po smrti svých rodičů bydlí s babičkou a strýcem na malém ostrově. Její, do té doby poklidný život, se však...",134,199,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n185570295,Hormonální Jógová terapie Dinah Rodrigues,97,41,2014,280,Fontána,esoterika,Dinah Rodrigues,české,"V této knize vám uznávaná jógová terapeutka Dinah Rodrigues představuje novou formu dynamické jógy - hormonální jógovou terapii, která je sestavena tak, aby znovu aktivovala...",348,458,"['esoterika', '', 'Fontána, Dinah Rodrigues, české']"
+n196605146,Spatříš svoje anděly - Theresa Cheung,93,9,2014,296,Knižní klub,esoterika,Cheungová Theresa,české,"Spatříš svoje anděly je inspirující kniha Theresy Cheung a zároveň průvodce, který vám může pomoci pochopit, jakou roli v životech nás všech hrají andělé každý den.vašeho...",276,349,"['esoterika', '', 'Knižní klub, Cheungová Theresa, české']"
+n200175936,Selekce - Kiera Cassová,97,20,2014,288,COOBOO,dětské,Kiera Cassová,české,"Pro třicet pět dívek je Selekce životní šancí. Příležitostí k útěku od života, který jim byl stanoven od narození. Být obklopena světem třpytivých šatů a drahocenných šperků....",173,249,"['dětské', '', 'COOBOO, Kiera Cassová, české']"
+n228012717,Moje nejlepší recepty - Lenka Holas Kořínková,87,10,2014,312,Eminent,kuchařky,Lenka Holas Kořínková,české,Slavná herečka a oblíbená autorka změnila díky svému originálnímu stravovacímu systému životy tisícům lidí a její dieta se stala pojmem... Nyní přichází s novou knihou svých...,171,259,"['kuchařky', '', 'Eminent, Lenka Holas Kořínková, české']"
+n202335528,Kuchařka ze Svatojánu - Eva Francová,95,96,2014,256,Motto,kuchařky,Eva Francová,české,"Být ženou, vládkyní krbu, vyžaduje víc než jen vařit. Být ženou znamená dávat a udržovat život v mnoha podobách. ",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n173762616,Menu podle Koko - Veronika Kokešová,93,18,2014,240,Smart Press,kuchařky,Veronika Kokešová,české,"Menu podle Koko
+Kuchařka plná videí
+Veronika Koko Kokešová
+
+Se stejnou vášní, s jakou moderátorka pražského radia Expres FM Veronika Kokešová alias Koko připravuje slavný blog...",180,403,"['kuchařky', '', 'Smart Press, Veronika Kokešová, české']"
+n222368573,"Pipi Dlouhá punčocha - 9. vyd. - Astrid Lindgrenová, Adolf Born",94,11,2014,272,Albatros,dětské,Astrid Lindgren,české,"Albatros Pipi Dlouhá punčocha
+
+Knížka plná báječných nápadů, bohaté fantazie a jedinečného humoru.
+
+Příhody ze života svérázné devítileté dívenky s nevšedním chováním, jménem i...",208,299,"['dětské', '', 'Albatros, Astrid Lindgren, české']"
+n148774248,Steampunk tarot,97,12,2014,300,Synergie,esoterika,Barbara Moore,české,"Nasaďte si letecké či svářečské brýle, oblečte si svůj nejlepší korzet, posaďte si na hlavu cylindr a vydejte se na dobrodružnou výpravu do světa steampunku. Steampunk si...",329,499,"['esoterika', '', 'Synergie, Barbara Moore, české']"
+n205435502,Hlavolamikon - Radek Pelánek,95,8,2014,240,Computer Press,křížovky,Radek Pelánek,české,"Řešíte rádi hlavolamy, hádanky či logické úlohy? Luštíte na dovolené? Jezdíte s dětmi na tábory? Chcete vyplnit dětem jejich volný čas zábavnými aktivitami? Potřebujete žákům...",136,199,"['křížovky', '', 'Computer Press, Radek Pelánek, české']"
+n219484925,Krysburger Kniha - Walliams David,95,3,2014,268,Argo,dětské,David Walliams,české,"Jak je u Walliamse obvyklé, nemají to jeho hrdinové v životě zrovna snadné. Ani Zoe není výjimkou. Její táta se po smrti Zoeiny mámy podruhé oženil, ale neměl v tomhle směru...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n220977950,"Jednou ano, dvakrát ne - Cylin Busbyová",90,2,2014,248,COOBOO,dětské,Cylin Busbyová,české,"West je úspěšný středoškolák a má vše, co si jen může přát. Avšak jednoho dne se probudí po nehodě v nemocnici ? ochrnutý a bez možnosti mluvit.. Jediný způsob, jak se se může...",67,185,"['dětské', '', 'COOBOO, Cylin Busbyová, české']"
+n454746976,Příběhy skutečné odvahy - Bear Grylls,100,2,2014,288,Jota,cestopisy,Bear Grylls,české,"Bear Grylls ví, co všechno musí člověk umět a znát, aby přežil v extrémních podmínkách. Není však první v historii. Vezměte si třeba amerického pilota Luise Zamperiniho, jenž...",206,348,"['cestopisy', '', 'Jota, Bear Grylls, české']"
+n459941980,Velká lidových písniček a říkadel,0,0,2014,256,Fragment,dětské,Josef Lada,české,"Výběr nejznámějších českých lidových písniček, říkadel, hádanek, pranostik, jazykolamů či rozpočítadel potěší nejen děti, ale i rodiče a prarodiče.
+Formát: 216,0 x 295,0 x...",302,449,"['dětské', '', 'Fragment, Josef Lada, české']"
+n203584291,Současná paleo dieta - Loren Cordain,83,3,2014,304,Ikar,kuchařky,Loren Cordain,české,"Jednoduchý způsob, jak zhubnout a zbavit se zdravotních neduhů
+
+Paleo dieta je strava, na kterou je lidský organismus nastavený od samého počátku. 
+
+Paleo dieta vám změní...",238,299,"['kuchařky', '', 'Ikar, Loren Cordain, české']"
+n203942332,S Bohem a fašisty - Deschner Karlheinz,95,2,2014,256,Naše vojsko,esoterika,Karlheinz Deschner,české,"Kniha připomíná kolaboraci Vatikánu nejen s Hitlerem, ale i s Mussolinim, Francem a méně známým Pavelićem, fašistickým vůdcem v Chorvatsku, který je spolu s kardinálem...",256,399,"['esoterika', '', 'Naše vojsko, Karlheinz Deschner, české']"
+n216997798,"Kameny a hvězdy. Síly předků, oči kamenů, světla odjinud - Václav Cílek - Dokořán",94,5,2014,288,Dokořán,esoterika,Václav Cílek,české,Nedaleko slavných kounovských řad odkryli lovci menhirů několik kamenných uskupení a vztyčili víc než dvacet menhirů o váze až sedm tun. Jsou to opravdové kamenné památky?...,209,298,"['esoterika', '', 'Dokořán, Václav Cílek, české']"
+n215262914,100 přání Erica Bertelegniová,100,3,2014,264,Jota,dětské,Bertelegni Erika,české,"13 let, 100 přání a 1 kouzelný příběh!
+
+Je nedělení odpoledne a skoro třináctiletá Aurora Bílá právě vešla do knihkupectví, jehož prodavačka umí… létat! A nejen to, taky...",174,288,"['dětské', '', 'Jota, Bertelegni Erika, české']"
+n362883526,Dobrodružství Toma Sawyera,0,0,2014,240,Albatros,dětské,Mark Twain,české,"Albatros Dobrodružství Toma Sawyera
+
+Mark Twain, spisovatel světového formátu, zachytil v této knížce dobrodružství osiřelého chlapce uprostřed americké společnosti....",160,269,"['dětské', '', 'Albatros, Mark Twain, české']"
+n259847858,Flanagan John: Hraničářův učeň 6 - Čaroděj na severu Kniha,0,0,2014,312,Egmont,dětské,John Flanagan,české,"Hraničářův učeň 6 - Čaroděj na severu kniha od autora Flanagan John. Will coby plnohodnotný hraničář pečující o vlastní léno se záhy přesvědčí, že v každé, dokonce i v té...",186,299,"['dětské', '', 'Egmont, John Flanagan, české']"
+n259849893,Jakub a hvězdy - Renáta Fučíková,97,3,2014,240,Mladá fronta,dětské,Renáta Fučíková,české,"Příběh malého Jakuba, který se s rodinou stěhuje z města na venkov. Když má v novém domě ve svém půdním pokoji poprvé spát, dostane strach. Tatínek mu proto začne vyprávět...",324,499,"['dětské', '', 'Mladá fronta, Renáta Fučíková, české']"
+n211996410,Chytré pohádky pro malé rozumbrady - Jiří Žáček,95,23,2014,256,Slovart,dětské,Jiří Žáček,české,"Vlastně ani osoby s nadpřirozenými schopnostmi v nich často nenajdete. A právě taková je naše knížka. Kniha, kde vystupují obyčejní lidé s neobyčejným chováním. Není vám jasné...",355,449,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n189576732,THOVT brány Atlantidy - Kerstin Simoné,94,24,2014,300,,esoterika,Kerstin Simoné,české,"Bájná Atlantida – země, již většina z nás nosí v hlubinách svého nitra a jež čeká na to, aby ji lidstvo probudilo. Ve druhém dílu svých poselství Thovt připomíná, že většina z...",246,350,"['esoterika', '', 'Kerstin Simoné, české']"
+n185832146,Fantastické dorty (DK) - Karen Sullivanová,92,16,2014,256,Ikar,kuchařky,Sullivanová Karen,české,"Báječné dorty! Naučíte se, jak používat modelovací hmotu, jako je marcipán, fondán, máslová poleva, temperovaná čokoláda a bílková poleva. Můžete si vyzkoušet více než 100...",459,459,"['kuchařky', '', 'Ikar, Sullivanová Karen, české']"
+n214264258,"České pohádky 4. vyd. Jan Drda, Josef Lada",96,4,2014,304,Albatros,dětské,Jan Drda,české,"Albatros České pohádky
+
+Jedinečné pohádkové příběhy, vyprávěné osobitým jazykem Jana Drdy a obrázky Josefa Lady, mnohé známé z filmového zpracování, jsou báječným čtením pro...",204,299,"['dětské', '', 'Albatros, Jan Drda, české']"
+n618726022,Klub Tygrů - Ostrov děsivých goril - Thomas C. Brezina,0,0,2014,280,Fragment,dětské,Thomas C. Brezina,české,"Poklidnou výletní plavbu po moři pokazí náhlá bouřka a zažene člun s Biggi, Lukem a Patrikem na záhadný ostrov, o kterém se vypráví strašidelné historky. Když najdou jeskyni a...",137,179,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n184248174,Anunnakové a hledání nesmrtelnosti,95,2,2014,262,Fontána,esoterika,Zecharia Sitchin,české,"""Sitchinovo dílo představuje spojení evoluce s kreacionismem. Sitchin svůj život zasvětil propagací myšlenek, že se lidstvo vyvinulo výsledkem drobného genetického zásahu...",236,368,"['esoterika', '', 'Fontána, Zecharia Sitchin, české']"
+n213830098,"Nevíte, co jíte - Petr Fořt, Ivan Mach",94,9,2014,256,BizBooks,kuchařky,Ivan Mach,české,"Jak na vás působí reklamy na dětské sladkosti a k nim přidané hračky?. Do některých fast food restaurací chtějí děti pro hračky, které k jídlu dostanou, vůbec ne pro jídlo. Ale...",243,349,"['kuchařky', '', 'BizBooks, Ivan Mach, české']"
+n184281126,Léto na táboře,0,0,2014,248,Alpress,dětské,Jen Calonita,české,"Proč si jenom Samina nejlepší kámoška musela zrovna před prázdninami najít kluka! Aby Sam nemusela celé léto poslouchat jejich zamilované vrkání, přihlásí se na tábor. Jenže...",152,242,"['dětské', '', 'Alpress, Jen Calonita, české']"
+n179785062,Dobříšsko na starých pohlednicích,0,0,2014,300,,cestopisy,Prášil Petr,české,"Kniha Dobříšsko na starých pohlednicích navazuje na dříve vydané knihy Příbramsko a Berounsko. Téměř 600 pohlednic nás zavede do časů dětství našich rodičů a prarodičů, do...",331,499,"['cestopisy', '', 'Prášil Petr, české']"
+n205468171,KOČIČÍ GEN - Thomas C. Brezina,100,2,2014,304,Fragment,dětské,Thomas C. Brezina,české,"Dokáže vidět ve tmě. Je jiná a zvláštní…
+
+ Katie je patnáct let a po smrti svých rodičů bydlí s babičkou a strýcem na malém ostrově. Její, do té doby poklidný život, se však...",134,199,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n185570295,Hormonální Jógová terapie Dinah Rodrigues,97,41,2014,280,Fontána,esoterika,Dinah Rodrigues,české,"V této knize vám uznávaná jógová terapeutka Dinah Rodrigues představuje novou formu dynamické jógy - hormonální jógovou terapii, která je sestavena tak, aby znovu aktivovala...",348,458,"['esoterika', '', 'Fontána, Dinah Rodrigues, české']"
+n196605146,Spatříš svoje anděly - Theresa Cheung,93,9,2014,296,Knižní klub,esoterika,Cheungová Theresa,české,"Spatříš svoje anděly je inspirující kniha Theresy Cheung a zároveň průvodce, který vám může pomoci pochopit, jakou roli v životech nás všech hrají andělé každý den.vašeho...",276,349,"['esoterika', '', 'Knižní klub, Cheungová Theresa, české']"
+n200175936,Selekce - Kiera Cassová,97,20,2014,288,COOBOO,dětské,Kiera Cassová,české,"Pro třicet pět dívek je Selekce životní šancí. Příležitostí k útěku od života, který jim byl stanoven od narození. Být obklopena světem třpytivých šatů a drahocenných šperků....",173,249,"['dětské', '', 'COOBOO, Kiera Cassová, české']"
+n228012717,Moje nejlepší recepty - Lenka Holas Kořínková,87,10,2014,312,Eminent,kuchařky,Lenka Holas Kořínková,české,Slavná herečka a oblíbená autorka změnila díky svému originálnímu stravovacímu systému životy tisícům lidí a její dieta se stala pojmem... Nyní přichází s novou knihou svých...,171,259,"['kuchařky', '', 'Eminent, Lenka Holas Kořínková, české']"
+n202335528,Kuchařka ze Svatojánu - Eva Francová,95,96,2014,256,Motto,kuchařky,Eva Francová,české,"Být ženou, vládkyní krbu, vyžaduje víc než jen vařit. Být ženou znamená dávat a udržovat život v mnoha podobách. ",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n173762616,Menu podle Koko - Veronika Kokešová,93,18,2014,240,Smart Press,kuchařky,Veronika Kokešová,české,"Menu podle Koko
+Kuchařka plná videí
+Veronika Koko Kokešová
+
+Se stejnou vášní, s jakou moderátorka pražského radia Expres FM Veronika Kokešová alias Koko připravuje slavný blog...",180,403,"['kuchařky', '', 'Smart Press, Veronika Kokešová, české']"
+n222368573,"Pipi Dlouhá punčocha - 9. vyd. - Astrid Lindgrenová, Adolf Born",94,11,2014,272,Albatros,dětské,Astrid Lindgren,české,"Albatros Pipi Dlouhá punčocha
+
+Knížka plná báječných nápadů, bohaté fantazie a jedinečného humoru.
+
+Příhody ze života svérázné devítileté dívenky s nevšedním chováním, jménem i...",208,299,"['dětské', '', 'Albatros, Astrid Lindgren, české']"
+n148774248,Steampunk tarot,97,12,2014,300,Synergie,esoterika,Barbara Moore,české,"Nasaďte si letecké či svářečské brýle, oblečte si svůj nejlepší korzet, posaďte si na hlavu cylindr a vydejte se na dobrodružnou výpravu do světa steampunku. Steampunk si...",329,499,"['esoterika', '', 'Synergie, Barbara Moore, české']"
+n205435502,Hlavolamikon - Radek Pelánek,95,8,2014,240,Computer Press,křížovky,Radek Pelánek,české,"Řešíte rádi hlavolamy, hádanky či logické úlohy? Luštíte na dovolené? Jezdíte s dětmi na tábory? Chcete vyplnit dětem jejich volný čas zábavnými aktivitami? Potřebujete žákům...",136,199,"['křížovky', '', 'Computer Press, Radek Pelánek, české']"
+n219484925,Krysburger Kniha - Walliams David,95,3,2014,268,Argo,dětské,David Walliams,české,"Jak je u Walliamse obvyklé, nemají to jeho hrdinové v životě zrovna snadné. Ani Zoe není výjimkou. Její táta se po smrti Zoeiny mámy podruhé oženil, ale neměl v tomhle směru...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n220977950,"Jednou ano, dvakrát ne - Cylin Busbyová",90,2,2014,248,COOBOO,dětské,Cylin Busbyová,české,"West je úspěšný středoškolák a má vše, co si jen může přát. Avšak jednoho dne se probudí po nehodě v nemocnici ? ochrnutý a bez možnosti mluvit.. Jediný způsob, jak se se může...",67,185,"['dětské', '', 'COOBOO, Cylin Busbyová, české']"
+n454746976,Příběhy skutečné odvahy - Bear Grylls,100,2,2014,288,Jota,cestopisy,Bear Grylls,české,"Bear Grylls ví, co všechno musí člověk umět a znát, aby přežil v extrémních podmínkách. Není však první v historii. Vezměte si třeba amerického pilota Luise Zamperiniho, jenž...",206,348,"['cestopisy', '', 'Jota, Bear Grylls, české']"
+n459941980,Velká lidových písniček a říkadel,0,0,2014,256,Fragment,dětské,Josef Lada,české,"Výběr nejznámějších českých lidových písniček, říkadel, hádanek, pranostik, jazykolamů či rozpočítadel potěší nejen děti, ale i rodiče a prarodiče.
+Formát: 216,0 x 295,0 x...",302,449,"['dětské', '', 'Fragment, Josef Lada, české']"
+n203584291,Současná paleo dieta - Loren Cordain,83,3,2014,304,Ikar,kuchařky,Loren Cordain,české,"Jednoduchý způsob, jak zhubnout a zbavit se zdravotních neduhů
+
+Paleo dieta je strava, na kterou je lidský organismus nastavený od samého počátku. 
+
+Paleo dieta vám změní...",238,299,"['kuchařky', '', 'Ikar, Loren Cordain, české']"
+n203942332,S Bohem a fašisty - Deschner Karlheinz,95,2,2014,256,Naše vojsko,esoterika,Karlheinz Deschner,české,"Kniha připomíná kolaboraci Vatikánu nejen s Hitlerem, ale i s Mussolinim, Francem a méně známým Pavelićem, fašistickým vůdcem v Chorvatsku, který je spolu s kardinálem...",256,399,"['esoterika', '', 'Naše vojsko, Karlheinz Deschner, české']"
+n216997798,"Kameny a hvězdy. Síly předků, oči kamenů, světla odjinud - Václav Cílek - Dokořán",94,5,2014,288,Dokořán,esoterika,Václav Cílek,české,Nedaleko slavných kounovských řad odkryli lovci menhirů několik kamenných uskupení a vztyčili víc než dvacet menhirů o váze až sedm tun. Jsou to opravdové kamenné památky?...,209,298,"['esoterika', '', 'Dokořán, Václav Cílek, české']"
+n215262914,100 přání Erica Bertelegniová,100,3,2014,264,Jota,dětské,Bertelegni Erika,české,"13 let, 100 přání a 1 kouzelný příběh!
+
+Je nedělení odpoledne a skoro třináctiletá Aurora Bílá právě vešla do knihkupectví, jehož prodavačka umí… létat! A nejen to, taky...",174,288,"['dětské', '', 'Jota, Bertelegni Erika, české']"
+n362883526,Dobrodružství Toma Sawyera,0,0,2014,240,Albatros,dětské,Mark Twain,české,"Albatros Dobrodružství Toma Sawyera
+
+Mark Twain, spisovatel světového formátu, zachytil v této knížce dobrodružství osiřelého chlapce uprostřed americké společnosti....",160,269,"['dětské', '', 'Albatros, Mark Twain, české']"
+n259847858,Flanagan John: Hraničářův učeň 6 - Čaroděj na severu Kniha,0,0,2014,312,Egmont,dětské,John Flanagan,české,"Hraničářův učeň 6 - Čaroděj na severu kniha od autora Flanagan John. Will coby plnohodnotný hraničář pečující o vlastní léno se záhy přesvědčí, že v každé, dokonce i v té...",186,299,"['dětské', '', 'Egmont, John Flanagan, české']"
+n259849893,Jakub a hvězdy - Renáta Fučíková,97,3,2014,240,Mladá fronta,dětské,Renáta Fučíková,české,"Příběh malého Jakuba, který se s rodinou stěhuje z města na venkov. Když má v novém domě ve svém půdním pokoji poprvé spát, dostane strach. Tatínek mu proto začne vyprávět...",324,499,"['dětské', '', 'Mladá fronta, Renáta Fučíková, české']"
+n211996410,Chytré pohádky pro malé rozumbrady - Jiří Žáček,95,23,2014,256,Slovart,dětské,Jiří Žáček,české,"Vlastně ani osoby s nadpřirozenými schopnostmi v nich často nenajdete. A právě taková je naše knížka. Kniha, kde vystupují obyčejní lidé s neobyčejným chováním. Není vám jasné...",355,449,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n189576732,THOVT brány Atlantidy - Kerstin Simoné,94,24,2014,300,,esoterika,Kerstin Simoné,české,"Bájná Atlantida – země, již většina z nás nosí v hlubinách svého nitra a jež čeká na to, aby ji lidstvo probudilo. Ve druhém dílu svých poselství Thovt připomíná, že většina z...",246,350,"['esoterika', '', 'Kerstin Simoné, české']"
+n185832146,Fantastické dorty (DK) - Karen Sullivanová,92,16,2014,256,Ikar,kuchařky,Sullivanová Karen,české,"Báječné dorty! Naučíte se, jak používat modelovací hmotu, jako je marcipán, fondán, máslová poleva, temperovaná čokoláda a bílková poleva. Můžete si vyzkoušet více než 100...",459,459,"['kuchařky', '', 'Ikar, Sullivanová Karen, české']"
+n214264258,"České pohádky 4. vyd. Jan Drda, Josef Lada",96,4,2014,304,Albatros,dětské,Jan Drda,české,"Albatros České pohádky
+
+Jedinečné pohádkové příběhy, vyprávěné osobitým jazykem Jana Drdy a obrázky Josefa Lady, mnohé známé z filmového zpracování, jsou báječným čtením pro...",204,299,"['dětské', '', 'Albatros, Jan Drda, české']"
+n618726022,Klub Tygrů - Ostrov děsivých goril - Thomas C. Brezina,0,0,2014,280,Fragment,dětské,Thomas C. Brezina,české,"Poklidnou výletní plavbu po moři pokazí náhlá bouřka a zažene člun s Biggi, Lukem a Patrikem na záhadný ostrov, o kterém se vypráví strašidelné historky. Když najdou jeskyni a...",137,179,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n184248174,Anunnakové a hledání nesmrtelnosti,95,2,2014,262,Fontána,esoterika,Zecharia Sitchin,české,"""Sitchinovo dílo představuje spojení evoluce s kreacionismem. Sitchin svůj život zasvětil propagací myšlenek, že se lidstvo vyvinulo výsledkem drobného genetického zásahu...",236,368,"['esoterika', '', 'Fontána, Zecharia Sitchin, české']"
+n213830098,"Nevíte, co jíte - Petr Fořt, Ivan Mach",94,9,2014,256,BizBooks,kuchařky,Ivan Mach,české,"Jak na vás působí reklamy na dětské sladkosti a k nim přidané hračky?. Do některých fast food restaurací chtějí děti pro hračky, které k jídlu dostanou, vůbec ne pro jídlo. Ale...",243,349,"['kuchařky', '', 'BizBooks, Ivan Mach, české']"
+n184281126,Léto na táboře,0,0,2014,248,Alpress,dětské,Jen Calonita,české,"Proč si jenom Samina nejlepší kámoška musela zrovna před prázdninami najít kluka! Aby Sam nemusela celé léto poslouchat jejich zamilované vrkání, přihlásí se na tábor. Jenže...",152,242,"['dětské', '', 'Alpress, Jen Calonita, české']"
+n179785062,Dobříšsko na starých pohlednicích,0,0,2014,300,,cestopisy,Prášil Petr,české,"Kniha Dobříšsko na starých pohlednicích navazuje na dříve vydané knihy Příbramsko a Berounsko. Téměř 600 pohlednic nás zavede do časů dětství našich rodičů a prarodičů, do...",331,499,"['cestopisy', '', 'Prášil Petr, české']"
+n205468171,KOČIČÍ GEN - Thomas C. Brezina,100,2,2014,304,Fragment,dětské,Thomas C. Brezina,české,"Dokáže vidět ve tmě. Je jiná a zvláštní…
+
+ Katie je patnáct let a po smrti svých rodičů bydlí s babičkou a strýcem na malém ostrově. Její, do té doby poklidný život, se však...",134,199,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n185570295,Hormonální Jógová terapie Dinah Rodrigues,97,41,2014,280,Fontána,esoterika,Dinah Rodrigues,české,"V této knize vám uznávaná jógová terapeutka Dinah Rodrigues představuje novou formu dynamické jógy - hormonální jógovou terapii, která je sestavena tak, aby znovu aktivovala...",348,458,"['esoterika', '', 'Fontána, Dinah Rodrigues, české']"
+n196605146,Spatříš svoje anděly - Theresa Cheung,93,9,2014,296,Knižní klub,esoterika,Cheungová Theresa,české,"Spatříš svoje anděly je inspirující kniha Theresy Cheung a zároveň průvodce, který vám může pomoci pochopit, jakou roli v životech nás všech hrají andělé každý den.vašeho...",276,349,"['esoterika', '', 'Knižní klub, Cheungová Theresa, české']"
+n200175936,Selekce - Kiera Cassová,97,20,2014,288,COOBOO,dětské,Kiera Cassová,české,"Pro třicet pět dívek je Selekce životní šancí. Příležitostí k útěku od života, který jim byl stanoven od narození. Být obklopena světem třpytivých šatů a drahocenných šperků....",173,249,"['dětské', '', 'COOBOO, Kiera Cassová, české']"
+n228012717,Moje nejlepší recepty - Lenka Holas Kořínková,87,10,2014,312,Eminent,kuchařky,Lenka Holas Kořínková,české,Slavná herečka a oblíbená autorka změnila díky svému originálnímu stravovacímu systému životy tisícům lidí a její dieta se stala pojmem... Nyní přichází s novou knihou svých...,171,259,"['kuchařky', '', 'Eminent, Lenka Holas Kořínková, české']"
+n202335528,Kuchařka ze Svatojánu - Eva Francová,95,96,2014,256,Motto,kuchařky,Eva Francová,české,"Být ženou, vládkyní krbu, vyžaduje víc než jen vařit. Být ženou znamená dávat a udržovat život v mnoha podobách. ",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n173762616,Menu podle Koko - Veronika Kokešová,93,18,2014,240,Smart Press,kuchařky,Veronika Kokešová,české,"Menu podle Koko
+Kuchařka plná videí
+Veronika Koko Kokešová
+
+Se stejnou vášní, s jakou moderátorka pražského radia Expres FM Veronika Kokešová alias Koko připravuje slavný blog...",180,403,"['kuchařky', '', 'Smart Press, Veronika Kokešová, české']"
+n222368573,"Pipi Dlouhá punčocha - 9. vyd. - Astrid Lindgrenová, Adolf Born",94,11,2014,272,Albatros,dětské,Astrid Lindgren,české,"Albatros Pipi Dlouhá punčocha
+
+Knížka plná báječných nápadů, bohaté fantazie a jedinečného humoru.
+
+Příhody ze života svérázné devítileté dívenky s nevšedním chováním, jménem i...",208,299,"['dětské', '', 'Albatros, Astrid Lindgren, české']"
+n148774248,Steampunk tarot,97,12,2014,300,Synergie,esoterika,Barbara Moore,české,"Nasaďte si letecké či svářečské brýle, oblečte si svůj nejlepší korzet, posaďte si na hlavu cylindr a vydejte se na dobrodružnou výpravu do světa steampunku. Steampunk si...",329,499,"['esoterika', '', 'Synergie, Barbara Moore, české']"
+n205435502,Hlavolamikon - Radek Pelánek,95,8,2014,240,Computer Press,křížovky,Radek Pelánek,české,"Řešíte rádi hlavolamy, hádanky či logické úlohy? Luštíte na dovolené? Jezdíte s dětmi na tábory? Chcete vyplnit dětem jejich volný čas zábavnými aktivitami? Potřebujete žákům...",136,199,"['křížovky', '', 'Computer Press, Radek Pelánek, české']"
+n219484925,Krysburger Kniha - Walliams David,95,3,2014,268,Argo,dětské,David Walliams,české,"Jak je u Walliamse obvyklé, nemají to jeho hrdinové v životě zrovna snadné. Ani Zoe není výjimkou. Její táta se po smrti Zoeiny mámy podruhé oženil, ale neměl v tomhle směru...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n220977950,"Jednou ano, dvakrát ne - Cylin Busbyová",90,2,2014,248,COOBOO,dětské,Cylin Busbyová,české,"West je úspěšný středoškolák a má vše, co si jen může přát. Avšak jednoho dne se probudí po nehodě v nemocnici ? ochrnutý a bez možnosti mluvit.. Jediný způsob, jak se se může...",67,185,"['dětské', '', 'COOBOO, Cylin Busbyová, české']"
+n454746976,Příběhy skutečné odvahy - Bear Grylls,100,2,2014,288,Jota,cestopisy,Bear Grylls,české,"Bear Grylls ví, co všechno musí člověk umět a znát, aby přežil v extrémních podmínkách. Není však první v historii. Vezměte si třeba amerického pilota Luise Zamperiniho, jenž...",206,348,"['cestopisy', '', 'Jota, Bear Grylls, české']"
+n459941980,Velká lidových písniček a říkadel,0,0,2014,256,Fragment,dětské,Josef Lada,české,"Výběr nejznámějších českých lidových písniček, říkadel, hádanek, pranostik, jazykolamů či rozpočítadel potěší nejen děti, ale i rodiče a prarodiče.
+Formát: 216,0 x 295,0 x...",302,449,"['dětské', '', 'Fragment, Josef Lada, české']"
+n203584291,Současná paleo dieta - Loren Cordain,83,3,2014,304,Ikar,kuchařky,Loren Cordain,české,"Jednoduchý způsob, jak zhubnout a zbavit se zdravotních neduhů
+
+Paleo dieta je strava, na kterou je lidský organismus nastavený od samého počátku. 
+
+Paleo dieta vám změní...",238,299,"['kuchařky', '', 'Ikar, Loren Cordain, české']"
+n203942332,S Bohem a fašisty - Deschner Karlheinz,95,2,2014,256,Naše vojsko,esoterika,Karlheinz Deschner,české,"Kniha připomíná kolaboraci Vatikánu nejen s Hitlerem, ale i s Mussolinim, Francem a méně známým Pavelićem, fašistickým vůdcem v Chorvatsku, který je spolu s kardinálem...",256,399,"['esoterika', '', 'Naše vojsko, Karlheinz Deschner, české']"
+n216997798,"Kameny a hvězdy. Síly předků, oči kamenů, světla odjinud - Václav Cílek - Dokořán",94,5,2014,288,Dokořán,esoterika,Václav Cílek,české,Nedaleko slavných kounovských řad odkryli lovci menhirů několik kamenných uskupení a vztyčili víc než dvacet menhirů o váze až sedm tun. Jsou to opravdové kamenné památky?...,209,298,"['esoterika', '', 'Dokořán, Václav Cílek, české']"
+n215262914,100 přání Erica Bertelegniová,100,3,2014,264,Jota,dětské,Bertelegni Erika,české,"13 let, 100 přání a 1 kouzelný příběh!
+
+Je nedělení odpoledne a skoro třináctiletá Aurora Bílá právě vešla do knihkupectví, jehož prodavačka umí… létat! A nejen to, taky...",174,288,"['dětské', '', 'Jota, Bertelegni Erika, české']"
+n362883526,Dobrodružství Toma Sawyera,0,0,2014,240,Albatros,dětské,Mark Twain,české,"Albatros Dobrodružství Toma Sawyera
+
+Mark Twain, spisovatel světového formátu, zachytil v této knížce dobrodružství osiřelého chlapce uprostřed americké společnosti....",160,269,"['dětské', '', 'Albatros, Mark Twain, české']"
+n259847858,Flanagan John: Hraničářův učeň 6 - Čaroděj na severu Kniha,0,0,2014,312,Egmont,dětské,John Flanagan,české,"Hraničářův učeň 6 - Čaroděj na severu kniha od autora Flanagan John. Will coby plnohodnotný hraničář pečující o vlastní léno se záhy přesvědčí, že v každé, dokonce i v té...",186,299,"['dětské', '', 'Egmont, John Flanagan, české']"
+n259849893,Jakub a hvězdy - Renáta Fučíková,97,3,2014,240,Mladá fronta,dětské,Renáta Fučíková,české,"Příběh malého Jakuba, který se s rodinou stěhuje z města na venkov. Když má v novém domě ve svém půdním pokoji poprvé spát, dostane strach. Tatínek mu proto začne vyprávět...",324,499,"['dětské', '', 'Mladá fronta, Renáta Fučíková, české']"
+n211996410,Chytré pohádky pro malé rozumbrady - Jiří Žáček,95,23,2014,256,Slovart,dětské,Jiří Žáček,české,"Vlastně ani osoby s nadpřirozenými schopnostmi v nich často nenajdete. A právě taková je naše knížka. Kniha, kde vystupují obyčejní lidé s neobyčejným chováním. Není vám jasné...",355,449,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n189576732,THOVT brány Atlantidy - Kerstin Simoné,94,24,2014,300,,esoterika,Kerstin Simoné,české,"Bájná Atlantida – země, již většina z nás nosí v hlubinách svého nitra a jež čeká na to, aby ji lidstvo probudilo. Ve druhém dílu svých poselství Thovt připomíná, že většina z...",246,350,"['esoterika', '', 'Kerstin Simoné, české']"
+n185832146,Fantastické dorty (DK) - Karen Sullivanová,92,16,2014,256,Ikar,kuchařky,Sullivanová Karen,české,"Báječné dorty! Naučíte se, jak používat modelovací hmotu, jako je marcipán, fondán, máslová poleva, temperovaná čokoláda a bílková poleva. Můžete si vyzkoušet více než 100...",459,459,"['kuchařky', '', 'Ikar, Sullivanová Karen, české']"
+n214264258,"České pohádky 4. vyd. Jan Drda, Josef Lada",96,4,2014,304,Albatros,dětské,Jan Drda,české,"Albatros České pohádky
+
+Jedinečné pohádkové příběhy, vyprávěné osobitým jazykem Jana Drdy a obrázky Josefa Lady, mnohé známé z filmového zpracování, jsou báječným čtením pro...",204,299,"['dětské', '', 'Albatros, Jan Drda, české']"
+n618726022,Klub Tygrů - Ostrov děsivých goril - Thomas C. Brezina,0,0,2014,280,Fragment,dětské,Thomas C. Brezina,české,"Poklidnou výletní plavbu po moři pokazí náhlá bouřka a zažene člun s Biggi, Lukem a Patrikem na záhadný ostrov, o kterém se vypráví strašidelné historky. Když najdou jeskyni a...",137,179,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n184248174,Anunnakové a hledání nesmrtelnosti,95,2,2014,262,Fontána,esoterika,Zecharia Sitchin,české,"""Sitchinovo dílo představuje spojení evoluce s kreacionismem. Sitchin svůj život zasvětil propagací myšlenek, že se lidstvo vyvinulo výsledkem drobného genetického zásahu...",236,368,"['esoterika', '', 'Fontána, Zecharia Sitchin, české']"
+n213830098,"Nevíte, co jíte - Petr Fořt, Ivan Mach",94,9,2014,256,BizBooks,kuchařky,Ivan Mach,české,"Jak na vás působí reklamy na dětské sladkosti a k nim přidané hračky?. Do některých fast food restaurací chtějí děti pro hračky, které k jídlu dostanou, vůbec ne pro jídlo. Ale...",243,349,"['kuchařky', '', 'BizBooks, Ivan Mach, české']"
+n184281126,Léto na táboře,0,0,2014,248,Alpress,dětské,Jen Calonita,české,"Proč si jenom Samina nejlepší kámoška musela zrovna před prázdninami najít kluka! Aby Sam nemusela celé léto poslouchat jejich zamilované vrkání, přihlásí se na tábor. Jenže...",152,242,"['dětské', '', 'Alpress, Jen Calonita, české']"
+n179785062,Dobříšsko na starých pohlednicích,0,0,2014,300,,cestopisy,Prášil Petr,české,"Kniha Dobříšsko na starých pohlednicích navazuje na dříve vydané knihy Příbramsko a Berounsko. Téměř 600 pohlednic nás zavede do časů dětství našich rodičů a prarodičů, do...",331,499,"['cestopisy', '', 'Prášil Petr, české']"
+n205468171,KOČIČÍ GEN - Thomas C. Brezina,100,2,2014,304,Fragment,dětské,Thomas C. Brezina,české,"Dokáže vidět ve tmě. Je jiná a zvláštní…
+
+ Katie je patnáct let a po smrti svých rodičů bydlí s babičkou a strýcem na malém ostrově. Její, do té doby poklidný život, se však...",134,199,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n185570295,Hormonální Jógová terapie Dinah Rodrigues,97,41,2014,280,Fontána,esoterika,Dinah Rodrigues,české,"V této knize vám uznávaná jógová terapeutka Dinah Rodrigues představuje novou formu dynamické jógy - hormonální jógovou terapii, která je sestavena tak, aby znovu aktivovala...",348,458,"['esoterika', '', 'Fontána, Dinah Rodrigues, české']"
+n196605146,Spatříš svoje anděly - Theresa Cheung,93,9,2014,296,Knižní klub,esoterika,Cheungová Theresa,české,"Spatříš svoje anděly je inspirující kniha Theresy Cheung a zároveň průvodce, který vám může pomoci pochopit, jakou roli v životech nás všech hrají andělé každý den.vašeho...",276,349,"['esoterika', '', 'Knižní klub, Cheungová Theresa, české']"
+n200175936,Selekce - Kiera Cassová,97,20,2014,288,COOBOO,dětské,Kiera Cassová,české,"Pro třicet pět dívek je Selekce životní šancí. Příležitostí k útěku od života, který jim byl stanoven od narození. Být obklopena světem třpytivých šatů a drahocenných šperků....",173,249,"['dětské', '', 'COOBOO, Kiera Cassová, české']"
+n228012717,Moje nejlepší recepty - Lenka Holas Kořínková,87,10,2014,312,Eminent,kuchařky,Lenka Holas Kořínková,české,Slavná herečka a oblíbená autorka změnila díky svému originálnímu stravovacímu systému životy tisícům lidí a její dieta se stala pojmem... Nyní přichází s novou knihou svých...,171,259,"['kuchařky', '', 'Eminent, Lenka Holas Kořínková, české']"
+n202335528,Kuchařka ze Svatojánu - Eva Francová,95,96,2014,256,Motto,kuchařky,Eva Francová,české,"Být ženou, vládkyní krbu, vyžaduje víc než jen vařit. Být ženou znamená dávat a udržovat život v mnoha podobách. ",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n173762616,Menu podle Koko - Veronika Kokešová,93,18,2014,240,Smart Press,kuchařky,Veronika Kokešová,české,"Menu podle Koko
+Kuchařka plná videí
+Veronika Koko Kokešová
+
+Se stejnou vášní, s jakou moderátorka pražského radia Expres FM Veronika Kokešová alias Koko připravuje slavný blog...",180,403,"['kuchařky', '', 'Smart Press, Veronika Kokešová, české']"
+n222368573,"Pipi Dlouhá punčocha - 9. vyd. - Astrid Lindgrenová, Adolf Born",94,11,2014,272,Albatros,dětské,Astrid Lindgren,české,"Albatros Pipi Dlouhá punčocha
+
+Knížka plná báječných nápadů, bohaté fantazie a jedinečného humoru.
+
+Příhody ze života svérázné devítileté dívenky s nevšedním chováním, jménem i...",208,299,"['dětské', '', 'Albatros, Astrid Lindgren, české']"
+n148774248,Steampunk tarot,97,12,2014,300,Synergie,esoterika,Barbara Moore,české,"Nasaďte si letecké či svářečské brýle, oblečte si svůj nejlepší korzet, posaďte si na hlavu cylindr a vydejte se na dobrodružnou výpravu do světa steampunku. Steampunk si...",329,499,"['esoterika', '', 'Synergie, Barbara Moore, české']"
+n205435502,Hlavolamikon - Radek Pelánek,95,8,2014,240,Computer Press,křížovky,Radek Pelánek,české,"Řešíte rádi hlavolamy, hádanky či logické úlohy? Luštíte na dovolené? Jezdíte s dětmi na tábory? Chcete vyplnit dětem jejich volný čas zábavnými aktivitami? Potřebujete žákům...",136,199,"['křížovky', '', 'Computer Press, Radek Pelánek, české']"
+n219484925,Krysburger Kniha - Walliams David,95,3,2014,268,Argo,dětské,David Walliams,české,"Jak je u Walliamse obvyklé, nemají to jeho hrdinové v životě zrovna snadné. Ani Zoe není výjimkou. Její táta se po smrti Zoeiny mámy podruhé oženil, ale neměl v tomhle směru...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n220977950,"Jednou ano, dvakrát ne - Cylin Busbyová",90,2,2014,248,COOBOO,dětské,Cylin Busbyová,české,"West je úspěšný středoškolák a má vše, co si jen může přát. Avšak jednoho dne se probudí po nehodě v nemocnici ? ochrnutý a bez možnosti mluvit.. Jediný způsob, jak se se může...",67,185,"['dětské', '', 'COOBOO, Cylin Busbyová, české']"
+n454746976,Příběhy skutečné odvahy - Bear Grylls,100,2,2014,288,Jota,cestopisy,Bear Grylls,české,"Bear Grylls ví, co všechno musí člověk umět a znát, aby přežil v extrémních podmínkách. Není však první v historii. Vezměte si třeba amerického pilota Luise Zamperiniho, jenž...",206,348,"['cestopisy', '', 'Jota, Bear Grylls, české']"
+n459941980,Velká lidových písniček a říkadel,0,0,2014,256,Fragment,dětské,Josef Lada,české,"Výběr nejznámějších českých lidových písniček, říkadel, hádanek, pranostik, jazykolamů či rozpočítadel potěší nejen děti, ale i rodiče a prarodiče.
+Formát: 216,0 x 295,0 x...",302,449,"['dětské', '', 'Fragment, Josef Lada, české']"
+n203584291,Současná paleo dieta - Loren Cordain,83,3,2014,304,Ikar,kuchařky,Loren Cordain,české,"Jednoduchý způsob, jak zhubnout a zbavit se zdravotních neduhů
+
+Paleo dieta je strava, na kterou je lidský organismus nastavený od samého počátku. 
+
+Paleo dieta vám změní...",238,299,"['kuchařky', '', 'Ikar, Loren Cordain, české']"
+n203942332,S Bohem a fašisty - Deschner Karlheinz,95,2,2014,256,Naše vojsko,esoterika,Karlheinz Deschner,české,"Kniha připomíná kolaboraci Vatikánu nejen s Hitlerem, ale i s Mussolinim, Francem a méně známým Pavelićem, fašistickým vůdcem v Chorvatsku, který je spolu s kardinálem...",256,399,"['esoterika', '', 'Naše vojsko, Karlheinz Deschner, české']"
+n216997798,"Kameny a hvězdy. Síly předků, oči kamenů, světla odjinud - Václav Cílek - Dokořán",94,5,2014,288,Dokořán,esoterika,Václav Cílek,české,Nedaleko slavných kounovských řad odkryli lovci menhirů několik kamenných uskupení a vztyčili víc než dvacet menhirů o váze až sedm tun. Jsou to opravdové kamenné památky?...,209,298,"['esoterika', '', 'Dokořán, Václav Cílek, české']"
+n215262914,100 přání Erica Bertelegniová,100,3,2014,264,Jota,dětské,Bertelegni Erika,české,"13 let, 100 přání a 1 kouzelný příběh!
+
+Je nedělení odpoledne a skoro třináctiletá Aurora Bílá právě vešla do knihkupectví, jehož prodavačka umí… létat! A nejen to, taky...",174,288,"['dětské', '', 'Jota, Bertelegni Erika, české']"
+n362883526,Dobrodružství Toma Sawyera,0,0,2014,240,Albatros,dětské,Mark Twain,české,"Albatros Dobrodružství Toma Sawyera
+
+Mark Twain, spisovatel světového formátu, zachytil v této knížce dobrodružství osiřelého chlapce uprostřed americké společnosti....",160,269,"['dětské', '', 'Albatros, Mark Twain, české']"
+n259847858,Flanagan John: Hraničářův učeň 6 - Čaroděj na severu Kniha,0,0,2014,312,Egmont,dětské,John Flanagan,české,"Hraničářův učeň 6 - Čaroděj na severu kniha od autora Flanagan John. Will coby plnohodnotný hraničář pečující o vlastní léno se záhy přesvědčí, že v každé, dokonce i v té...",186,299,"['dětské', '', 'Egmont, John Flanagan, české']"
+n259849893,Jakub a hvězdy - Renáta Fučíková,97,3,2014,240,Mladá fronta,dětské,Renáta Fučíková,české,"Příběh malého Jakuba, který se s rodinou stěhuje z města na venkov. Když má v novém domě ve svém půdním pokoji poprvé spát, dostane strach. Tatínek mu proto začne vyprávět...",324,499,"['dětské', '', 'Mladá fronta, Renáta Fučíková, české']"
+n211996410,Chytré pohádky pro malé rozumbrady - Jiří Žáček,95,23,2014,256,Slovart,dětské,Jiří Žáček,české,"Vlastně ani osoby s nadpřirozenými schopnostmi v nich často nenajdete. A právě taková je naše knížka. Kniha, kde vystupují obyčejní lidé s neobyčejným chováním. Není vám jasné...",355,449,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n189576732,THOVT brány Atlantidy - Kerstin Simoné,94,24,2014,300,,esoterika,Kerstin Simoné,české,"Bájná Atlantida – země, již většina z nás nosí v hlubinách svého nitra a jež čeká na to, aby ji lidstvo probudilo. Ve druhém dílu svých poselství Thovt připomíná, že většina z...",246,350,"['esoterika', '', 'Kerstin Simoné, české']"
+n185832146,Fantastické dorty (DK) - Karen Sullivanová,92,16,2014,256,Ikar,kuchařky,Sullivanová Karen,české,"Báječné dorty! Naučíte se, jak používat modelovací hmotu, jako je marcipán, fondán, máslová poleva, temperovaná čokoláda a bílková poleva. Můžete si vyzkoušet více než 100...",459,459,"['kuchařky', '', 'Ikar, Sullivanová Karen, české']"
+n214264258,"České pohádky 4. vyd. Jan Drda, Josef Lada",96,4,2014,304,Albatros,dětské,Jan Drda,české,"Albatros České pohádky
+
+Jedinečné pohádkové příběhy, vyprávěné osobitým jazykem Jana Drdy a obrázky Josefa Lady, mnohé známé z filmového zpracování, jsou báječným čtením pro...",204,299,"['dětské', '', 'Albatros, Jan Drda, české']"
+n618726022,Klub Tygrů - Ostrov děsivých goril - Thomas C. Brezina,0,0,2014,280,Fragment,dětské,Thomas C. Brezina,české,"Poklidnou výletní plavbu po moři pokazí náhlá bouřka a zažene člun s Biggi, Lukem a Patrikem na záhadný ostrov, o kterém se vypráví strašidelné historky. Když najdou jeskyni a...",137,179,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n184248174,Anunnakové a hledání nesmrtelnosti,95,2,2014,262,Fontána,esoterika,Zecharia Sitchin,české,"""Sitchinovo dílo představuje spojení evoluce s kreacionismem. Sitchin svůj život zasvětil propagací myšlenek, že se lidstvo vyvinulo výsledkem drobného genetického zásahu...",236,368,"['esoterika', '', 'Fontána, Zecharia Sitchin, české']"
+n213830098,"Nevíte, co jíte - Petr Fořt, Ivan Mach",94,9,2014,256,BizBooks,kuchařky,Ivan Mach,české,"Jak na vás působí reklamy na dětské sladkosti a k nim přidané hračky?. Do některých fast food restaurací chtějí děti pro hračky, které k jídlu dostanou, vůbec ne pro jídlo. Ale...",243,349,"['kuchařky', '', 'BizBooks, Ivan Mach, české']"
+n184281126,Léto na táboře,0,0,2014,248,Alpress,dětské,Jen Calonita,české,"Proč si jenom Samina nejlepší kámoška musela zrovna před prázdninami najít kluka! Aby Sam nemusela celé léto poslouchat jejich zamilované vrkání, přihlásí se na tábor. Jenže...",152,242,"['dětské', '', 'Alpress, Jen Calonita, české']"
+n179785062,Dobříšsko na starých pohlednicích,0,0,2014,300,,cestopisy,Prášil Petr,české,"Kniha Dobříšsko na starých pohlednicích navazuje na dříve vydané knihy Příbramsko a Berounsko. Téměř 600 pohlednic nás zavede do časů dětství našich rodičů a prarodičů, do...",331,499,"['cestopisy', '', 'Prášil Petr, české']"
+n205468171,KOČIČÍ GEN - Thomas C. Brezina,100,2,2014,304,Fragment,dětské,Thomas C. Brezina,české,"Dokáže vidět ve tmě. Je jiná a zvláštní…
+
+ Katie je patnáct let a po smrti svých rodičů bydlí s babičkou a strýcem na malém ostrově. Její, do té doby poklidný život, se však...",134,199,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n185570295,Hormonální Jógová terapie Dinah Rodrigues,97,41,2014,280,Fontána,esoterika,Dinah Rodrigues,české,"V této knize vám uznávaná jógová terapeutka Dinah Rodrigues představuje novou formu dynamické jógy - hormonální jógovou terapii, která je sestavena tak, aby znovu aktivovala...",348,458,"['esoterika', '', 'Fontána, Dinah Rodrigues, české']"
+n196605146,Spatříš svoje anděly - Theresa Cheung,93,9,2014,296,Knižní klub,esoterika,Cheungová Theresa,české,"Spatříš svoje anděly je inspirující kniha Theresy Cheung a zároveň průvodce, který vám může pomoci pochopit, jakou roli v životech nás všech hrají andělé každý den.vašeho...",276,349,"['esoterika', '', 'Knižní klub, Cheungová Theresa, české']"
+n200175936,Selekce - Kiera Cassová,97,20,2014,288,COOBOO,dětské,Kiera Cassová,české,"Pro třicet pět dívek je Selekce životní šancí. Příležitostí k útěku od života, který jim byl stanoven od narození. Být obklopena světem třpytivých šatů a drahocenných šperků....",173,249,"['dětské', '', 'COOBOO, Kiera Cassová, české']"
+n228012717,Moje nejlepší recepty - Lenka Holas Kořínková,87,10,2014,312,Eminent,kuchařky,Lenka Holas Kořínková,české,Slavná herečka a oblíbená autorka změnila díky svému originálnímu stravovacímu systému životy tisícům lidí a její dieta se stala pojmem... Nyní přichází s novou knihou svých...,171,259,"['kuchařky', '', 'Eminent, Lenka Holas Kořínková, české']"
+n202335528,Kuchařka ze Svatojánu - Eva Francová,95,96,2014,256,Motto,kuchařky,Eva Francová,české,"Být ženou, vládkyní krbu, vyžaduje víc než jen vařit. Být ženou znamená dávat a udržovat život v mnoha podobách. ",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n173762616,Menu podle Koko - Veronika Kokešová,93,18,2014,240,Smart Press,kuchařky,Veronika Kokešová,české,"Menu podle Koko
+Kuchařka plná videí
+Veronika Koko Kokešová
+
+Se stejnou vášní, s jakou moderátorka pražského radia Expres FM Veronika Kokešová alias Koko připravuje slavný blog...",180,403,"['kuchařky', '', 'Smart Press, Veronika Kokešová, české']"
+n222368573,"Pipi Dlouhá punčocha - 9. vyd. - Astrid Lindgrenová, Adolf Born",94,11,2014,272,Albatros,dětské,Astrid Lindgren,české,"Albatros Pipi Dlouhá punčocha
+
+Knížka plná báječných nápadů, bohaté fantazie a jedinečného humoru.
+
+Příhody ze života svérázné devítileté dívenky s nevšedním chováním, jménem i...",208,299,"['dětské', '', 'Albatros, Astrid Lindgren, české']"
+n148774248,Steampunk tarot,97,12,2014,300,Synergie,esoterika,Barbara Moore,české,"Nasaďte si letecké či svářečské brýle, oblečte si svůj nejlepší korzet, posaďte si na hlavu cylindr a vydejte se na dobrodružnou výpravu do světa steampunku. Steampunk si...",329,499,"['esoterika', '', 'Synergie, Barbara Moore, české']"
+n205435502,Hlavolamikon - Radek Pelánek,95,8,2014,240,Computer Press,křížovky,Radek Pelánek,české,"Řešíte rádi hlavolamy, hádanky či logické úlohy? Luštíte na dovolené? Jezdíte s dětmi na tábory? Chcete vyplnit dětem jejich volný čas zábavnými aktivitami? Potřebujete žákům...",136,199,"['křížovky', '', 'Computer Press, Radek Pelánek, české']"
+n219484925,Krysburger Kniha - Walliams David,95,3,2014,268,Argo,dětské,David Walliams,české,"Jak je u Walliamse obvyklé, nemají to jeho hrdinové v životě zrovna snadné. Ani Zoe není výjimkou. Její táta se po smrti Zoeiny mámy podruhé oženil, ale neměl v tomhle směru...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n220977950,"Jednou ano, dvakrát ne - Cylin Busbyová",90,2,2014,248,COOBOO,dětské,Cylin Busbyová,české,"West je úspěšný středoškolák a má vše, co si jen může přát. Avšak jednoho dne se probudí po nehodě v nemocnici ? ochrnutý a bez možnosti mluvit.. Jediný způsob, jak se se může...",67,185,"['dětské', '', 'COOBOO, Cylin Busbyová, české']"
+n454746976,Příběhy skutečné odvahy - Bear Grylls,100,2,2014,288,Jota,cestopisy,Bear Grylls,české,"Bear Grylls ví, co všechno musí člověk umět a znát, aby přežil v extrémních podmínkách. Není však první v historii. Vezměte si třeba amerického pilota Luise Zamperiniho, jenž...",206,348,"['cestopisy', '', 'Jota, Bear Grylls, české']"
+n459941980,Velká lidových písniček a říkadel,0,0,2014,256,Fragment,dětské,Josef Lada,české,"Výběr nejznámějších českých lidových písniček, říkadel, hádanek, pranostik, jazykolamů či rozpočítadel potěší nejen děti, ale i rodiče a prarodiče.
+Formát: 216,0 x 295,0 x...",302,449,"['dětské', '', 'Fragment, Josef Lada, české']"
+n203584291,Současná paleo dieta - Loren Cordain,83,3,2014,304,Ikar,kuchařky,Loren Cordain,české,"Jednoduchý způsob, jak zhubnout a zbavit se zdravotních neduhů
+
+Paleo dieta je strava, na kterou je lidský organismus nastavený od samého počátku. 
+
+Paleo dieta vám změní...",238,299,"['kuchařky', '', 'Ikar, Loren Cordain, české']"
+n203942332,S Bohem a fašisty - Deschner Karlheinz,95,2,2014,256,Naše vojsko,esoterika,Karlheinz Deschner,české,"Kniha připomíná kolaboraci Vatikánu nejen s Hitlerem, ale i s Mussolinim, Francem a méně známým Pavelićem, fašistickým vůdcem v Chorvatsku, který je spolu s kardinálem...",256,399,"['esoterika', '', 'Naše vojsko, Karlheinz Deschner, české']"
+n216997798,"Kameny a hvězdy. Síly předků, oči kamenů, světla odjinud - Václav Cílek - Dokořán",94,5,2014,288,Dokořán,esoterika,Václav Cílek,české,Nedaleko slavných kounovských řad odkryli lovci menhirů několik kamenných uskupení a vztyčili víc než dvacet menhirů o váze až sedm tun. Jsou to opravdové kamenné památky?...,209,298,"['esoterika', '', 'Dokořán, Václav Cílek, české']"
+n215262914,100 přání Erica Bertelegniová,100,3,2014,264,Jota,dětské,Bertelegni Erika,české,"13 let, 100 přání a 1 kouzelný příběh!
+
+Je nedělení odpoledne a skoro třináctiletá Aurora Bílá právě vešla do knihkupectví, jehož prodavačka umí… létat! A nejen to, taky...",174,288,"['dětské', '', 'Jota, Bertelegni Erika, české']"
+n362883526,Dobrodružství Toma Sawyera,0,0,2014,240,Albatros,dětské,Mark Twain,české,"Albatros Dobrodružství Toma Sawyera
+
+Mark Twain, spisovatel světového formátu, zachytil v této knížce dobrodružství osiřelého chlapce uprostřed americké společnosti....",160,269,"['dětské', '', 'Albatros, Mark Twain, české']"
+n259847858,Flanagan John: Hraničářův učeň 6 - Čaroděj na severu Kniha,0,0,2014,312,Egmont,dětské,John Flanagan,české,"Hraničářův učeň 6 - Čaroděj na severu kniha od autora Flanagan John. Will coby plnohodnotný hraničář pečující o vlastní léno se záhy přesvědčí, že v každé, dokonce i v té...",186,299,"['dětské', '', 'Egmont, John Flanagan, české']"
+n259849893,Jakub a hvězdy - Renáta Fučíková,97,3,2014,240,Mladá fronta,dětské,Renáta Fučíková,české,"Příběh malého Jakuba, který se s rodinou stěhuje z města na venkov. Když má v novém domě ve svém půdním pokoji poprvé spát, dostane strach. Tatínek mu proto začne vyprávět...",324,499,"['dětské', '', 'Mladá fronta, Renáta Fučíková, české']"
+n211996410,Chytré pohádky pro malé rozumbrady - Jiří Žáček,95,23,2014,256,Slovart,dětské,Jiří Žáček,české,"Vlastně ani osoby s nadpřirozenými schopnostmi v nich často nenajdete. A právě taková je naše knížka. Kniha, kde vystupují obyčejní lidé s neobyčejným chováním. Není vám jasné...",355,449,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n189576732,THOVT brány Atlantidy - Kerstin Simoné,94,24,2014,300,,esoterika,Kerstin Simoné,české,"Bájná Atlantida – země, již většina z nás nosí v hlubinách svého nitra a jež čeká na to, aby ji lidstvo probudilo. Ve druhém dílu svých poselství Thovt připomíná, že většina z...",246,350,"['esoterika', '', 'Kerstin Simoné, české']"
+n185832146,Fantastické dorty (DK) - Karen Sullivanová,92,16,2014,256,Ikar,kuchařky,Sullivanová Karen,české,"Báječné dorty! Naučíte se, jak používat modelovací hmotu, jako je marcipán, fondán, máslová poleva, temperovaná čokoláda a bílková poleva. Můžete si vyzkoušet více než 100...",459,459,"['kuchařky', '', 'Ikar, Sullivanová Karen, české']"
+n214264258,"České pohádky 4. vyd. Jan Drda, Josef Lada",96,4,2014,304,Albatros,dětské,Jan Drda,české,"Albatros České pohádky
+
+Jedinečné pohádkové příběhy, vyprávěné osobitým jazykem Jana Drdy a obrázky Josefa Lady, mnohé známé z filmového zpracování, jsou báječným čtením pro...",204,299,"['dětské', '', 'Albatros, Jan Drda, české']"
+n618726022,Klub Tygrů - Ostrov děsivých goril - Thomas C. Brezina,0,0,2014,280,Fragment,dětské,Thomas C. Brezina,české,"Poklidnou výletní plavbu po moři pokazí náhlá bouřka a zažene člun s Biggi, Lukem a Patrikem na záhadný ostrov, o kterém se vypráví strašidelné historky. Když najdou jeskyni a...",137,179,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n184248174,Anunnakové a hledání nesmrtelnosti,95,2,2014,262,Fontána,esoterika,Zecharia Sitchin,české,"""Sitchinovo dílo představuje spojení evoluce s kreacionismem. Sitchin svůj život zasvětil propagací myšlenek, že se lidstvo vyvinulo výsledkem drobného genetického zásahu...",236,368,"['esoterika', '', 'Fontána, Zecharia Sitchin, české']"
+n213830098,"Nevíte, co jíte - Petr Fořt, Ivan Mach",94,9,2014,256,BizBooks,kuchařky,Ivan Mach,české,"Jak na vás působí reklamy na dětské sladkosti a k nim přidané hračky?. Do některých fast food restaurací chtějí děti pro hračky, které k jídlu dostanou, vůbec ne pro jídlo. Ale...",243,349,"['kuchařky', '', 'BizBooks, Ivan Mach, české']"
+n184281126,Léto na táboře,0,0,2014,248,Alpress,dětské,Jen Calonita,české,"Proč si jenom Samina nejlepší kámoška musela zrovna před prázdninami najít kluka! Aby Sam nemusela celé léto poslouchat jejich zamilované vrkání, přihlásí se na tábor. Jenže...",152,242,"['dětské', '', 'Alpress, Jen Calonita, české']"
+n179785062,Dobříšsko na starých pohlednicích,0,0,2014,300,,cestopisy,Prášil Petr,české,"Kniha Dobříšsko na starých pohlednicích navazuje na dříve vydané knihy Příbramsko a Berounsko. Téměř 600 pohlednic nás zavede do časů dětství našich rodičů a prarodičů, do...",331,499,"['cestopisy', '', 'Prášil Petr, české']"
+n205468171,KOČIČÍ GEN - Thomas C. Brezina,100,2,2014,304,Fragment,dětské,Thomas C. Brezina,české,"Dokáže vidět ve tmě. Je jiná a zvláštní…
+
+ Katie je patnáct let a po smrti svých rodičů bydlí s babičkou a strýcem na malém ostrově. Její, do té doby poklidný život, se však...",134,199,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n185570295,Hormonální Jógová terapie Dinah Rodrigues,97,41,2014,280,Fontána,esoterika,Dinah Rodrigues,české,"V této knize vám uznávaná jógová terapeutka Dinah Rodrigues představuje novou formu dynamické jógy - hormonální jógovou terapii, která je sestavena tak, aby znovu aktivovala...",348,458,"['esoterika', '', 'Fontána, Dinah Rodrigues, české']"
+n196605146,Spatříš svoje anděly - Theresa Cheung,93,9,2014,296,Knižní klub,esoterika,Cheungová Theresa,české,"Spatříš svoje anděly je inspirující kniha Theresy Cheung a zároveň průvodce, který vám může pomoci pochopit, jakou roli v životech nás všech hrají andělé každý den.vašeho...",276,349,"['esoterika', '', 'Knižní klub, Cheungová Theresa, české']"
+n200175936,Selekce - Kiera Cassová,97,20,2014,288,COOBOO,dětské,Kiera Cassová,české,"Pro třicet pět dívek je Selekce životní šancí. Příležitostí k útěku od života, který jim byl stanoven od narození. Být obklopena světem třpytivých šatů a drahocenných šperků....",173,249,"['dětské', '', 'COOBOO, Kiera Cassová, české']"
+n228012717,Moje nejlepší recepty - Lenka Holas Kořínková,87,10,2014,312,Eminent,kuchařky,Lenka Holas Kořínková,české,Slavná herečka a oblíbená autorka změnila díky svému originálnímu stravovacímu systému životy tisícům lidí a její dieta se stala pojmem... Nyní přichází s novou knihou svých...,171,259,"['kuchařky', '', 'Eminent, Lenka Holas Kořínková, české']"
+n202335528,Kuchařka ze Svatojánu - Eva Francová,95,96,2014,256,Motto,kuchařky,Eva Francová,české,"Být ženou, vládkyní krbu, vyžaduje víc než jen vařit. Být ženou znamená dávat a udržovat život v mnoha podobách. ",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n173762616,Menu podle Koko - Veronika Kokešová,93,18,2014,240,Smart Press,kuchařky,Veronika Kokešová,české,"Menu podle Koko
+Kuchařka plná videí
+Veronika Koko Kokešová
+
+Se stejnou vášní, s jakou moderátorka pražského radia Expres FM Veronika Kokešová alias Koko připravuje slavný blog...",180,403,"['kuchařky', '', 'Smart Press, Veronika Kokešová, české']"
+n222368573,"Pipi Dlouhá punčocha - 9. vyd. - Astrid Lindgrenová, Adolf Born",94,11,2014,272,Albatros,dětské,Astrid Lindgren,české,"Albatros Pipi Dlouhá punčocha
+
+Knížka plná báječných nápadů, bohaté fantazie a jedinečného humoru.
+
+Příhody ze života svérázné devítileté dívenky s nevšedním chováním, jménem i...",208,299,"['dětské', '', 'Albatros, Astrid Lindgren, české']"
+n148774248,Steampunk tarot,97,12,2014,300,Synergie,esoterika,Barbara Moore,české,"Nasaďte si letecké či svářečské brýle, oblečte si svůj nejlepší korzet, posaďte si na hlavu cylindr a vydejte se na dobrodružnou výpravu do světa steampunku. Steampunk si...",329,499,"['esoterika', '', 'Synergie, Barbara Moore, české']"
+n205435502,Hlavolamikon - Radek Pelánek,95,8,2014,240,Computer Press,křížovky,Radek Pelánek,české,"Řešíte rádi hlavolamy, hádanky či logické úlohy? Luštíte na dovolené? Jezdíte s dětmi na tábory? Chcete vyplnit dětem jejich volný čas zábavnými aktivitami? Potřebujete žákům...",136,199,"['křížovky', '', 'Computer Press, Radek Pelánek, české']"
+n219484925,Krysburger Kniha - Walliams David,95,3,2014,268,Argo,dětské,David Walliams,české,"Jak je u Walliamse obvyklé, nemají to jeho hrdinové v životě zrovna snadné. Ani Zoe není výjimkou. Její táta se po smrti Zoeiny mámy podruhé oženil, ale neměl v tomhle směru...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n220977950,"Jednou ano, dvakrát ne - Cylin Busbyová",90,2,2014,248,COOBOO,dětské,Cylin Busbyová,české,"West je úspěšný středoškolák a má vše, co si jen může přát. Avšak jednoho dne se probudí po nehodě v nemocnici ? ochrnutý a bez možnosti mluvit.. Jediný způsob, jak se se může...",67,185,"['dětské', '', 'COOBOO, Cylin Busbyová, české']"
+n454746976,Příběhy skutečné odvahy - Bear Grylls,100,2,2014,288,Jota,cestopisy,Bear Grylls,české,"Bear Grylls ví, co všechno musí člověk umět a znát, aby přežil v extrémních podmínkách. Není však první v historii. Vezměte si třeba amerického pilota Luise Zamperiniho, jenž...",206,348,"['cestopisy', '', 'Jota, Bear Grylls, české']"
+n459941980,Velká lidových písniček a říkadel,0,0,2014,256,Fragment,dětské,Josef Lada,české,"Výběr nejznámějších českých lidových písniček, říkadel, hádanek, pranostik, jazykolamů či rozpočítadel potěší nejen děti, ale i rodiče a prarodiče.
+Formát: 216,0 x 295,0 x...",302,449,"['dětské', '', 'Fragment, Josef Lada, české']"
+n203584291,Současná paleo dieta - Loren Cordain,83,3,2014,304,Ikar,kuchařky,Loren Cordain,české,"Jednoduchý způsob, jak zhubnout a zbavit se zdravotních neduhů
+
+Paleo dieta je strava, na kterou je lidský organismus nastavený od samého počátku. 
+
+Paleo dieta vám změní...",238,299,"['kuchařky', '', 'Ikar, Loren Cordain, české']"
+n203942332,S Bohem a fašisty - Deschner Karlheinz,95,2,2014,256,Naše vojsko,esoterika,Karlheinz Deschner,české,"Kniha připomíná kolaboraci Vatikánu nejen s Hitlerem, ale i s Mussolinim, Francem a méně známým Pavelićem, fašistickým vůdcem v Chorvatsku, který je spolu s kardinálem...",256,399,"['esoterika', '', 'Naše vojsko, Karlheinz Deschner, české']"
+n216997798,"Kameny a hvězdy. Síly předků, oči kamenů, světla odjinud - Václav Cílek - Dokořán",94,5,2014,288,Dokořán,esoterika,Václav Cílek,české,Nedaleko slavných kounovských řad odkryli lovci menhirů několik kamenných uskupení a vztyčili víc než dvacet menhirů o váze až sedm tun. Jsou to opravdové kamenné památky?...,209,298,"['esoterika', '', 'Dokořán, Václav Cílek, české']"
+n215262914,100 přání Erica Bertelegniová,100,3,2014,264,Jota,dětské,Bertelegni Erika,české,"13 let, 100 přání a 1 kouzelný příběh!
+
+Je nedělení odpoledne a skoro třináctiletá Aurora Bílá právě vešla do knihkupectví, jehož prodavačka umí… létat! A nejen to, taky...",174,288,"['dětské', '', 'Jota, Bertelegni Erika, české']"
+n362883526,Dobrodružství Toma Sawyera,0,0,2014,240,Albatros,dětské,Mark Twain,české,"Albatros Dobrodružství Toma Sawyera
+
+Mark Twain, spisovatel světového formátu, zachytil v této knížce dobrodružství osiřelého chlapce uprostřed americké společnosti....",160,269,"['dětské', '', 'Albatros, Mark Twain, české']"
+n259847858,Flanagan John: Hraničářův učeň 6 - Čaroděj na severu Kniha,0,0,2014,312,Egmont,dětské,John Flanagan,české,"Hraničářův učeň 6 - Čaroděj na severu kniha od autora Flanagan John. Will coby plnohodnotný hraničář pečující o vlastní léno se záhy přesvědčí, že v každé, dokonce i v té...",186,299,"['dětské', '', 'Egmont, John Flanagan, české']"
+n259849893,Jakub a hvězdy - Renáta Fučíková,97,3,2014,240,Mladá fronta,dětské,Renáta Fučíková,české,"Příběh malého Jakuba, který se s rodinou stěhuje z města na venkov. Když má v novém domě ve svém půdním pokoji poprvé spát, dostane strach. Tatínek mu proto začne vyprávět...",324,499,"['dětské', '', 'Mladá fronta, Renáta Fučíková, české']"
+n211996410,Chytré pohádky pro malé rozumbrady - Jiří Žáček,95,23,2014,256,Slovart,dětské,Jiří Žáček,české,"Vlastně ani osoby s nadpřirozenými schopnostmi v nich často nenajdete. A právě taková je naše knížka. Kniha, kde vystupují obyčejní lidé s neobyčejným chováním. Není vám jasné...",355,449,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n189576732,THOVT brány Atlantidy - Kerstin Simoné,94,24,2014,300,,esoterika,Kerstin Simoné,české,"Bájná Atlantida – země, již většina z nás nosí v hlubinách svého nitra a jež čeká na to, aby ji lidstvo probudilo. Ve druhém dílu svých poselství Thovt připomíná, že většina z...",246,350,"['esoterika', '', 'Kerstin Simoné, české']"
+n185832146,Fantastické dorty (DK) - Karen Sullivanová,92,16,2014,256,Ikar,kuchařky,Sullivanová Karen,české,"Báječné dorty! Naučíte se, jak používat modelovací hmotu, jako je marcipán, fondán, máslová poleva, temperovaná čokoláda a bílková poleva. Můžete si vyzkoušet více než 100...",459,459,"['kuchařky', '', 'Ikar, Sullivanová Karen, české']"
+n214264258,"České pohádky 4. vyd. Jan Drda, Josef Lada",96,4,2014,304,Albatros,dětské,Jan Drda,české,"Albatros České pohádky
+
+Jedinečné pohádkové příběhy, vyprávěné osobitým jazykem Jana Drdy a obrázky Josefa Lady, mnohé známé z filmového zpracování, jsou báječným čtením pro...",204,299,"['dětské', '', 'Albatros, Jan Drda, české']"
+n618726022,Klub Tygrů - Ostrov děsivých goril - Thomas C. Brezina,0,0,2014,280,Fragment,dětské,Thomas C. Brezina,české,"Poklidnou výletní plavbu po moři pokazí náhlá bouřka a zažene člun s Biggi, Lukem a Patrikem na záhadný ostrov, o kterém se vypráví strašidelné historky. Když najdou jeskyni a...",137,179,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n184248174,Anunnakové a hledání nesmrtelnosti,95,2,2014,262,Fontána,esoterika,Zecharia Sitchin,české,"""Sitchinovo dílo představuje spojení evoluce s kreacionismem. Sitchin svůj život zasvětil propagací myšlenek, že se lidstvo vyvinulo výsledkem drobného genetického zásahu...",236,368,"['esoterika', '', 'Fontána, Zecharia Sitchin, české']"
+n213830098,"Nevíte, co jíte - Petr Fořt, Ivan Mach",94,9,2014,256,BizBooks,kuchařky,Ivan Mach,české,"Jak na vás působí reklamy na dětské sladkosti a k nim přidané hračky?. Do některých fast food restaurací chtějí děti pro hračky, které k jídlu dostanou, vůbec ne pro jídlo. Ale...",243,349,"['kuchařky', '', 'BizBooks, Ivan Mach, české']"
+n184281126,Léto na táboře,0,0,2014,248,Alpress,dětské,Jen Calonita,české,"Proč si jenom Samina nejlepší kámoška musela zrovna před prázdninami najít kluka! Aby Sam nemusela celé léto poslouchat jejich zamilované vrkání, přihlásí se na tábor. Jenže...",152,242,"['dětské', '', 'Alpress, Jen Calonita, české']"
+n179785062,Dobříšsko na starých pohlednicích,0,0,2014,300,,cestopisy,Prášil Petr,české,"Kniha Dobříšsko na starých pohlednicích navazuje na dříve vydané knihy Příbramsko a Berounsko. Téměř 600 pohlednic nás zavede do časů dětství našich rodičů a prarodičů, do...",331,499,"['cestopisy', '', 'Prášil Petr, české']"
+n205468171,KOČIČÍ GEN - Thomas C. Brezina,100,2,2014,304,Fragment,dětské,Thomas C. Brezina,české,"Dokáže vidět ve tmě. Je jiná a zvláštní…
+
+ Katie je patnáct let a po smrti svých rodičů bydlí s babičkou a strýcem na malém ostrově. Její, do té doby poklidný život, se však...",134,199,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n185570295,Hormonální Jógová terapie Dinah Rodrigues,97,41,2014,280,Fontána,esoterika,Dinah Rodrigues,české,"V této knize vám uznávaná jógová terapeutka Dinah Rodrigues představuje novou formu dynamické jógy - hormonální jógovou terapii, která je sestavena tak, aby znovu aktivovala...",348,458,"['esoterika', '', 'Fontána, Dinah Rodrigues, české']"
+n196605146,Spatříš svoje anděly - Theresa Cheung,93,9,2014,296,Knižní klub,esoterika,Cheungová Theresa,české,"Spatříš svoje anděly je inspirující kniha Theresy Cheung a zároveň průvodce, který vám může pomoci pochopit, jakou roli v životech nás všech hrají andělé každý den.vašeho...",276,349,"['esoterika', '', 'Knižní klub, Cheungová Theresa, české']"
+n200175936,Selekce - Kiera Cassová,97,20,2014,288,COOBOO,dětské,Kiera Cassová,české,"Pro třicet pět dívek je Selekce životní šancí. Příležitostí k útěku od života, který jim byl stanoven od narození. Být obklopena světem třpytivých šatů a drahocenných šperků....",173,249,"['dětské', '', 'COOBOO, Kiera Cassová, české']"
+n228012717,Moje nejlepší recepty - Lenka Holas Kořínková,87,10,2014,312,Eminent,kuchařky,Lenka Holas Kořínková,české,Slavná herečka a oblíbená autorka změnila díky svému originálnímu stravovacímu systému životy tisícům lidí a její dieta se stala pojmem... Nyní přichází s novou knihou svých...,171,259,"['kuchařky', '', 'Eminent, Lenka Holas Kořínková, české']"
+n202335528,Kuchařka ze Svatojánu - Eva Francová,95,96,2014,256,Motto,kuchařky,Eva Francová,české,"Být ženou, vládkyní krbu, vyžaduje víc než jen vařit. Být ženou znamená dávat a udržovat život v mnoha podobách. ",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n173762616,Menu podle Koko - Veronika Kokešová,93,18,2014,240,Smart Press,kuchařky,Veronika Kokešová,české,"Menu podle Koko
+Kuchařka plná videí
+Veronika Koko Kokešová
+
+Se stejnou vášní, s jakou moderátorka pražského radia Expres FM Veronika Kokešová alias Koko připravuje slavný blog...",180,403,"['kuchařky', '', 'Smart Press, Veronika Kokešová, české']"
+n222368573,"Pipi Dlouhá punčocha - 9. vyd. - Astrid Lindgrenová, Adolf Born",94,11,2014,272,Albatros,dětské,Astrid Lindgren,české,"Albatros Pipi Dlouhá punčocha
+
+Knížka plná báječných nápadů, bohaté fantazie a jedinečného humoru.
+
+Příhody ze života svérázné devítileté dívenky s nevšedním chováním, jménem i...",208,299,"['dětské', '', 'Albatros, Astrid Lindgren, české']"
+n148774248,Steampunk tarot,97,12,2014,300,Synergie,esoterika,Barbara Moore,české,"Nasaďte si letecké či svářečské brýle, oblečte si svůj nejlepší korzet, posaďte si na hlavu cylindr a vydejte se na dobrodružnou výpravu do světa steampunku. Steampunk si...",329,499,"['esoterika', '', 'Synergie, Barbara Moore, české']"
+n205435502,Hlavolamikon - Radek Pelánek,95,8,2014,240,Computer Press,křížovky,Radek Pelánek,české,"Řešíte rádi hlavolamy, hádanky či logické úlohy? Luštíte na dovolené? Jezdíte s dětmi na tábory? Chcete vyplnit dětem jejich volný čas zábavnými aktivitami? Potřebujete žákům...",136,199,"['křížovky', '', 'Computer Press, Radek Pelánek, české']"
+n219484925,Krysburger Kniha - Walliams David,95,3,2014,268,Argo,dětské,David Walliams,české,"Jak je u Walliamse obvyklé, nemají to jeho hrdinové v životě zrovna snadné. Ani Zoe není výjimkou. Její táta se po smrti Zoeiny mámy podruhé oženil, ale neměl v tomhle směru...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n220977950,"Jednou ano, dvakrát ne - Cylin Busbyová",90,2,2014,248,COOBOO,dětské,Cylin Busbyová,české,"West je úspěšný středoškolák a má vše, co si jen může přát. Avšak jednoho dne se probudí po nehodě v nemocnici ? ochrnutý a bez možnosti mluvit.. Jediný způsob, jak se se může...",67,185,"['dětské', '', 'COOBOO, Cylin Busbyová, české']"
+n454746976,Příběhy skutečné odvahy - Bear Grylls,100,2,2014,288,Jota,cestopisy,Bear Grylls,české,"Bear Grylls ví, co všechno musí člověk umět a znát, aby přežil v extrémních podmínkách. Není však první v historii. Vezměte si třeba amerického pilota Luise Zamperiniho, jenž...",206,348,"['cestopisy', '', 'Jota, Bear Grylls, české']"
+n459941980,Velká lidových písniček a říkadel,0,0,2014,256,Fragment,dětské,Josef Lada,české,"Výběr nejznámějších českých lidových písniček, říkadel, hádanek, pranostik, jazykolamů či rozpočítadel potěší nejen děti, ale i rodiče a prarodiče.
+Formát: 216,0 x 295,0 x...",302,449,"['dětské', '', 'Fragment, Josef Lada, české']"
+n203584291,Současná paleo dieta - Loren Cordain,83,3,2014,304,Ikar,kuchařky,Loren Cordain,české,"Jednoduchý způsob, jak zhubnout a zbavit se zdravotních neduhů
+
+Paleo dieta je strava, na kterou je lidský organismus nastavený od samého počátku. 
+
+Paleo dieta vám změní...",238,299,"['kuchařky', '', 'Ikar, Loren Cordain, české']"
+n203942332,S Bohem a fašisty - Deschner Karlheinz,95,2,2014,256,Naše vojsko,esoterika,Karlheinz Deschner,české,"Kniha připomíná kolaboraci Vatikánu nejen s Hitlerem, ale i s Mussolinim, Francem a méně známým Pavelićem, fašistickým vůdcem v Chorvatsku, který je spolu s kardinálem...",256,399,"['esoterika', '', 'Naše vojsko, Karlheinz Deschner, české']"
+n216997798,"Kameny a hvězdy. Síly předků, oči kamenů, světla odjinud - Václav Cílek - Dokořán",94,5,2014,288,Dokořán,esoterika,Václav Cílek,české,Nedaleko slavných kounovských řad odkryli lovci menhirů několik kamenných uskupení a vztyčili víc než dvacet menhirů o váze až sedm tun. Jsou to opravdové kamenné památky?...,209,298,"['esoterika', '', 'Dokořán, Václav Cílek, české']"
+n215262914,100 přání Erica Bertelegniová,100,3,2014,264,Jota,dětské,Bertelegni Erika,české,"13 let, 100 přání a 1 kouzelný příběh!
+
+Je nedělení odpoledne a skoro třináctiletá Aurora Bílá právě vešla do knihkupectví, jehož prodavačka umí… létat! A nejen to, taky...",174,288,"['dětské', '', 'Jota, Bertelegni Erika, české']"
+n362883526,Dobrodružství Toma Sawyera,0,0,2014,240,Albatros,dětské,Mark Twain,české,"Albatros Dobrodružství Toma Sawyera
+
+Mark Twain, spisovatel světového formátu, zachytil v této knížce dobrodružství osiřelého chlapce uprostřed americké společnosti....",160,269,"['dětské', '', 'Albatros, Mark Twain, české']"
+n259847858,Flanagan John: Hraničářův učeň 6 - Čaroděj na severu Kniha,0,0,2014,312,Egmont,dětské,John Flanagan,české,"Hraničářův učeň 6 - Čaroděj na severu kniha od autora Flanagan John. Will coby plnohodnotný hraničář pečující o vlastní léno se záhy přesvědčí, že v každé, dokonce i v té...",186,299,"['dětské', '', 'Egmont, John Flanagan, české']"
+n259849893,Jakub a hvězdy - Renáta Fučíková,97,3,2014,240,Mladá fronta,dětské,Renáta Fučíková,české,"Příběh malého Jakuba, který se s rodinou stěhuje z města na venkov. Když má v novém domě ve svém půdním pokoji poprvé spát, dostane strach. Tatínek mu proto začne vyprávět...",324,499,"['dětské', '', 'Mladá fronta, Renáta Fučíková, české']"
+n211996410,Chytré pohádky pro malé rozumbrady - Jiří Žáček,95,23,2014,256,Slovart,dětské,Jiří Žáček,české,"Vlastně ani osoby s nadpřirozenými schopnostmi v nich často nenajdete. A právě taková je naše knížka. Kniha, kde vystupují obyčejní lidé s neobyčejným chováním. Není vám jasné...",355,449,"['dětské', '', 'Slovart, Jiří Žáček, české']"
+n189576732,THOVT brány Atlantidy - Kerstin Simoné,94,24,2014,300,,esoterika,Kerstin Simoné,české,"Bájná Atlantida – země, již většina z nás nosí v hlubinách svého nitra a jež čeká na to, aby ji lidstvo probudilo. Ve druhém dílu svých poselství Thovt připomíná, že většina z...",246,350,"['esoterika', '', 'Kerstin Simoné, české']"
+n185832146,Fantastické dorty (DK) - Karen Sullivanová,92,16,2014,256,Ikar,kuchařky,Sullivanová Karen,české,"Báječné dorty! Naučíte se, jak používat modelovací hmotu, jako je marcipán, fondán, máslová poleva, temperovaná čokoláda a bílková poleva. Můžete si vyzkoušet více než 100...",459,459,"['kuchařky', '', 'Ikar, Sullivanová Karen, české']"
+n214264258,"České pohádky 4. vyd. Jan Drda, Josef Lada",96,4,2014,304,Albatros,dětské,Jan Drda,české,"Albatros České pohádky
+
+Jedinečné pohádkové příběhy, vyprávěné osobitým jazykem Jana Drdy a obrázky Josefa Lady, mnohé známé z filmového zpracování, jsou báječným čtením pro...",204,299,"['dětské', '', 'Albatros, Jan Drda, české']"
+n618726022,Klub Tygrů - Ostrov děsivých goril - Thomas C. Brezina,0,0,2014,280,Fragment,dětské,Thomas C. Brezina,české,"Poklidnou výletní plavbu po moři pokazí náhlá bouřka a zažene člun s Biggi, Lukem a Patrikem na záhadný ostrov, o kterém se vypráví strašidelné historky. Když najdou jeskyni a...",137,179,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"
+n184248174,Anunnakové a hledání nesmrtelnosti,95,2,2014,262,Fontána,esoterika,Zecharia Sitchin,české,"""Sitchinovo dílo představuje spojení evoluce s kreacionismem. Sitchin svůj život zasvětil propagací myšlenek, že se lidstvo vyvinulo výsledkem drobného genetického zásahu...",236,368,"['esoterika', '', 'Fontána, Zecharia Sitchin, české']"
+n213830098,"Nevíte, co jíte - Petr Fořt, Ivan Mach",94,9,2014,256,BizBooks,kuchařky,Ivan Mach,české,"Jak na vás působí reklamy na dětské sladkosti a k nim přidané hračky?. Do některých fast food restaurací chtějí děti pro hračky, které k jídlu dostanou, vůbec ne pro jídlo. Ale...",243,349,"['kuchařky', '', 'BizBooks, Ivan Mach, české']"
+n184281126,Léto na táboře,0,0,2014,248,Alpress,dětské,Jen Calonita,české,"Proč si jenom Samina nejlepší kámoška musela zrovna před prázdninami najít kluka! Aby Sam nemusela celé léto poslouchat jejich zamilované vrkání, přihlásí se na tábor. Jenže...",152,242,"['dětské', '', 'Alpress, Jen Calonita, české']"
+n179785062,Dobříšsko na starých pohlednicích,0,0,2014,300,,cestopisy,Prášil Petr,české,"Kniha Dobříšsko na starých pohlednicích navazuje na dříve vydané knihy Příbramsko a Berounsko. Téměř 600 pohlednic nás zavede do časů dětství našich rodičů a prarodičů, do...",331,499,"['cestopisy', '', 'Prášil Petr, české']"
+n205468171,KOČIČÍ GEN - Thomas C. Brezina,100,2,2014,304,Fragment,dětské,Thomas C. Brezina,české,"Dokáže vidět ve tmě. Je jiná a zvláštní…
+
+ Katie je patnáct let a po smrti svých rodičů bydlí s babičkou a strýcem na malém ostrově. Její, do té doby poklidný život, se však...",134,199,"['dětské', '', 'Fragment, Thomas C. Brezina, české']"

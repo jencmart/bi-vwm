@@ -1,0 +1,581 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"
+n390053066,Rychlé recepty Low Carb - Štíhlá linie raz dva - Pfannebecker Inga,95,3,2016,64,Vašut,kuchařky,Inga Pfannebecker,české,"Anotace:
+Low Carb je stále populárnější. Stále více lidí totiž přichází na to, že díky nižšímu obsahu sacharidů ve stravě mohou být v lepší formě.
+Obzvláště večer jsou jídla s...",95,149,"['kuchařky', '', 'Vašut, Inga Pfannebecker, české']"
+n701006709,Podzim,80,0,2016,160,IDW,kuchařky,redakce časopisu Apetit,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: BURDA Praha spol. s r.o.",223,349,"['kuchařky', '', 'IDW, redakce časopisu Apetit, české']"
+n374591782,SNADNO a RYCHLE 2 - Jednoduché recepty pro každý den - Roman Vaněk,83,39,2016,96,,kuchařky,Roman Vaněk,české,"Zakladatel Pražského kulinářského institutu a populární kuchař Roman Vaněk přichází s další knihou do oblíbené řady ""bílých kuchařek"". Inspirován úspěchem svého počinu Snadno a...",248,359,"['kuchařky', '', 'Roman Vaněk, české']"
+n440752844,Recepty Remoska,88,4,2016,160,,kuchařky,Karina Havlů,české,Vystudovala Filozofickou fakultu UK a mimořádné studium filmové a televizní produkce na FAMU. Překládá knihy pro dospělé a pro děti a divadelní hry amerických a italských...,163,299,"['kuchařky', '', 'Karina Havlů, české']"
+n363799746,Prostřeno na Podkarpatské Rusi - Dagmar Březinová,80,1,2016,100,,kuchařky,Dagmar Březinová,české,"Prostřeno na Podkarpatské Rusi kniha od autora Dagmar Březinová. Recepty a další zajímavosti spojené s tradičním stravováním v bývalé Podkarpatské Rusi, dnešní Zakarpatské...",101,170,"['kuchařky', '', 'Dagmar Březinová, české']"
+n435728825,Štíhlé recepty do 15 minut - Lucia Wagnerová,84,7,2016,96,,kuchařky,Lucia Wagnerová,české,"50 rychlých, nutričně vyvážených receptů ze kterých nepřibereš
+Věčně někam spěcháš a nemáš čas přemýšlet nad tím, co během dne sníš?
+Vyzkoušej věnovat přípravě zdravého jídla...",182,279,"['kuchařky', '', 'Lucia Wagnerová, české']"
+n464174373,Padesát odstínů kuřete - F.L. Fowler,100,1,2016,160,Fragment,kuchařky,F.L. Fowler,české,"Rozpálená kuchařka, která láme žebříčky prodejnosti.
+
+„Cítím, jak se mě dotýkají něčí ruce a jemně mě zvedají z kachlíkové podlahy. Dlouhé a silné prsty mě pevně svírají a...",47,269,"['kuchařky', '', 'Fragment, F.L. Fowler, české']"
+n419415744,Vietnamská domácí kuchyně - Viet Anh Doan,96,29,2016,152,Ikar,kuchařky,Viet Anh Doan,české,"Viet Anh Doan si získal nesmírnou popularitu jako představitel Lia ze seriálu Ohnivý kuře a to jak svými výroky o Vietnamcích, obchodu a politice, tak i svým kuchařským uměním....",79,279,"['kuchařky', '', 'Ikar, Viet Anh Doan, české']"
+n365111657,Brambory (Edice Apetit),80,3,2016,160,,kuchařky,české</p>,,"Miniedice Apetit Brambory, vám nabídne přes 100 receptů z brambor, které jsme pro vás uvařili a vyzkoušeli v redakční kuchyni časopisu Apetit. Mají milion podob a chutí. Jsou...",124,199,"['kuchařky', '', 'české']"
+n405885839,České smoothie - Kuchařka s duší,99,24,2016,160,Esence,kuchařky,Kateřina Kuranova,české,"Na začátku se nevyhneme krátkému povídání o autorce samotné a nahlédneme do jejího životního stylu. Pak už se budeme věnovat samotnému smoothie, jeho složení, používaným...",222,279,"['kuchařky', '', 'Esence, Kateřina Kuranova, české']"
+n385648039,Bílá magie. Ochranná kouzla - Ileana Abrevová,90,5,2016,160,Knižní klub,esoterika,Abrevová Ileana,české,"Chcete, aby váš svět byl bezpečnější? Proč nezkusit trošku kouzlení, když můžete ochránit sebe, své blízké i svůj příbytek Každé zaříkávadlo v této knížce je etické a většinou...",39,139,"['esoterika', '', 'Knižní klub, Abrevová Ileana, české']"
+n405963886,Kvašení pro zdraví,0,0,2016,160,Ikar,kuchařky,Dunja Gulin,české,"Konzumace kvašených potravin může být skvělý způsob, jak přirozeným způsobem podpoříte svůj trávicí a imunitní systém. Kuchařka a odbornice na zdravou výživu Dunja Gulinová v...",79,257,"['kuchařky', '', 'Ikar, Dunja Gulin, české']"
+n461317958,Džusy a smoothies nabité vitamíny,0,0,2016,160,Omega,kuchařky,Christine Bailey,české,"Hledáte jednoduchý způsob, jak vaše tělo nabít energií a být zdravější, zhubnout a cítit se skvěle? Džusy a smoothies nabité energií je výborná sbírka lahodných receptů na...",170,249,"['kuchařky', '', 'Omega, Christine Bailey, české']"
+n673188582,"Andělské rady – Valentine Radleigh, Virtue Doreen",87,5,2016,44,Synergie,esoterika,Radleigh Valent,české,"Potřebujete si rychle vytáhnout kartu, která vás povzbudí a dodá vám pocit jistoty? Rozhodujete se mezi několika možnostmi a hledáte jasnou odpověď? 
+
+ Nádherně ilustrované...",137,199,"['esoterika', '', 'Synergie, Doreen Virtue, Radleigh Valent, české']"
+n411873640,"Tak vaří Viet nam. Kuchařka od Vietnamců v Česku - Phuong Lan Tranová, Nam VU Hoai",90,3,2016,160,,kuchařky,Vu Hoal Na,české,"Kuchařka od vietnamců v česku. Dva mladí vietnamští autoři žijící trvale v České republice sestavili výběr nejběžnějších jídel, která se vyskytují ve vietnamské kuchyni a na...",189,299,"['kuchařky', '', 'Mladá fronta, Tranová Phuong Lan, Vu Hoal Na, české']"
+n415151891,Domácí kváskové pečení - Gabriela Hradecká,80,6,2016,88,Computer Press,kuchařky,Gabriela Hradecká,české,"Cprees Domácí kváskové pečení
+
+Naučte se péct domácí kváskový chleba.
+
+Myslíte si, že upéct si vlastní chleba je příliš těžké? Autorka této knihy vás přesvědčí, že ne. Skoro...",173,249,"['kuchařky', '', 'Computer Press, Gabriela Hradecká, české']"
+n364522329,Luštěniny - Taylorová Genevieve,93,4,2016,144,Ikar,kuchařky,Genevieve Taylor,české,"Luštěniny jsou zdravé, chutné, nízkotučné, obsahují velké množství vlákniny, mají nízký glykemický index, a přesto je málo konzumujeme. 100 nových pokrmů pro snídani, oběd,...",39,223,"['kuchařky', '', 'Ikar, Genevieve Taylor, české']"
+n451565342,Paleo vaření,0,0,2016,144,Grada,kuchařky,Martin Kintrup,české,"I v současnosti chce mít člověk hodnotnou stravu a neztrácet vařením příliš času. V této knize zjistíte, jak dobrá paleo jídla připravit - od snídaně až po dezert. Podle našich...",118,258,"['kuchařky', '', 'Grada, Martin Kintrup, české']"
+n368971891,Kouzelní delfíni a mořské víly,86,5,2016,44,Synergie,esoterika,Doreen Virtue,české,"Kouzelní delfíni a mořské víly kniha od autora Doreen Virtue. Tyto úžasné vykládací karty byly speciálně vytvořeny k tomu, aby vám usnadnily dosahování vašich cílů, nalezení...",110,274,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n329088325,Bílá magie. Kouzla pro každý den,95,2,2016,128,Knižní klub,esoterika,Ileana Abrevová,české,"Chcete vylepšit svůj svět? Nemusíte studovat zdlouhavé rituály – stačí používat rychlá a zábavná kouzla! Třeba si dejte pod polštář ametyst, aby se vám ulevilo, nebo si zapalte...",118,149,"['esoterika', '', 'Knižní klub, Ileana Abrevová, české']"
+n368971890,Andělé Bozi Bohyně,84,5,2016,64,Synergie,esoterika,Toni Carmine Salerno,české,"Andělé Bozi Bohyně - nové kapesní vydání
+Toni Carmine Salerno/ Synergie, kniha a 45 karet
+Andělská poselství a odpovědi shůry
+Andělské vykládací karty Andělé, bozi a bohyně vás...",110,210,"['esoterika', '', 'Synergie, Toni Carmine Salerno, české']"
+n431482980,Kváskové pečení - Naučte se péct chléb a pečivo s kvásky,100,2,2016,160,Slovart,kuchařky,Masonová Jane,české,Naučte se péct chléb a pečivo s kvásky. V posledních letech prožívá kváskové pečení znovuzrození a my objevujeme výraznější chuť kváskového chleba a pečiva. Kniha je zásadním...,259,359,"['kuchařky', '', 'Slovart, Masonová Jane, české']"
+n374591784,"Černá Luna, karmický bod v našem horoskopu + karty Černá Luna",88,6,2016,160,,esoterika,Martina Blažena Boháčová,české,"Tato kniha pojednává o tom, jak si díky postavení Černé Luny v našem horoskopu najdeme tajemství, které skrýváme před světem a často také sami před sebou. Černá Luna není...",244,380,"['esoterika', '', 'Martina Blažena Boháčová, české']"
+n361242539,Weber: Steaky,100,3,2016,144,Ikar,kuchařky,Jamie Purviance,české,"Šťavnatý, zprudka ogrilovaný steak neodmyslitelně patří k letnímu posezení s rodinou a přáteli. Naučte se i vy vybrat to nejlepší maso, připravit k němu pikantní i jemné omáčky...",118,303,"['kuchařky', '', 'Ikar, Jamie Purviance, české']"
+n312727215,Pečeme a zdobíme dorty: Jak na to,91,11,2016,160,Metafora,kuchařky,Deaconová Carol,české,"Přes 40 návodů na háčkování veselých ptačích kamarádů
+
+Pusťte se do háčkování téhle pestrobarevné party a budete veselí jako papoušek. Užijete si zábavy jako tučňáci, co se...",211,349,"['kuchařky', '', 'Metafora, Deaconová Carol, české']"
+n431903016,Těhotenská jóga - Barbara KŘndig,0,0,2016,105,Fontána,esoterika,Barbara Kündig,české,Tato kniha je vyzváním k rozhodnutí ponořit se s plnou radostí do tématu těhotenství a jógy. Proč vám tento krok prospěje? Jóga posilní vaše tělo a vašeho ducha a nejlépe vás...,264,398,"['esoterika', '', 'Fontána, Barbara Kündig, české']"
+n673172491,Paleo recepty pro každého,0,0,2016,36,Synergie,kuchařky,Eva Christian,české,"Vyzkoušet stravování podle zásad paleo je ta nejlepší věc, kterou pro sebe můžete udělat. Jedná se o přirozenou stravu, inspirovanou jídelníčkem našich dávných předků, která...",55,116,"['kuchařky', '', 'Synergie, Sandra Jagemann, Eva Christian, české']"
+n444167547,Bake & the City - kniha,0,0,2016,144,Ella &amp; Max,kuchařky,Tobias Müller,české,"Tato kuchařka zve všechny milovníky pečení a mlsání na lákavou okružní cestu za evropskými moučníky. Autorem je sympatický kuchař Tobias Müller, který je mezi bloggery, kteří...",129,4,"['kuchařky', '', 'Ella & Max, Tobias Müller, české']"
+n423056058,Krtek - Luštěnky,0,0,2016,60,,křížovky,Krtek,české,"Luštěnky - blok plný zábavy
+ Křížovky, básničky, bludiště, obrázková sudoku... to vše a ještě mnohem víc v aktivity bloku plném zábavy! Titul obsahuje 60 barevných stran s...",57,99,"['křížovky', '', 'Krtek, české']"
+n378843063,Čerešnička na torte - Katarína Kaššová,0,0,2016,120,Libri,kuchařky,Katarína Kaššová,slovenské,"Jazyk: slovenský
+Počet stran: 120
+Rok vydání: 2016
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Fortuna Libri SK, s.r.o.",276,418,"['kuchařky', '', 'Libri, Katarína Kaššová, slovenské']"

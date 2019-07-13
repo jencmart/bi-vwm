@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n615401878,PHP 7 - PRAKTICKÝ PRŮVODCE - Sklar David,0,0,2018,368,Zoner press,naučná,české</p>,,"Nudné weby jsou statické. Zajímavé weby jsou dynamické. 
+
+Pokud chcete začít pracovat s PHP, nejrozšířenějším skriptovacím jazykem pro web, tato kniha je určena právě vám. Její...",339,499,"['Zoner press, naučná', '', 'české']"

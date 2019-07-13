@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n341304508,Pište správně česky,99,6,2015,384,Zoner press,naučná,české</p>,,"Bestsellerová Poradna šílených korektorů v novém, rozšířeném vydání! 
+
+Bolí vás hlava z toho věčného přemýšlení, kde ve větě napsat čárku? Jste v pokušení házet si mincí...",242,349,"['Zoner press, naučná', '', 'české']"

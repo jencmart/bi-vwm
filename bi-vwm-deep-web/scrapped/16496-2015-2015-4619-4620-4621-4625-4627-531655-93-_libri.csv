@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n46160559,Slované - Magdalena Beranová,98,4,2015,312,Libri,naučná,české</p>,,"Slované kniha od autora Magdalena Beranová. Kniha je věnována civilizaci starých Slovanů, kteří se na sklonku starověku dostali na historickou scénu, aby záhy ovládli značnou...",173,290,"['Libri, naučná', '', 'české']"
+n339773048,Encyklopedie mytologie germánských a severských národů - Jitka Vlčková,98,4,2015,256,Libri,naučná,české</p>,,"Knížka se soustředí na rozlehlou geografickou oblast osídlenou v minulosti germánskými kmeny (pevninská Evropa, Skandinávie, Britské ostrovy a Island) a doplňkově se zabývá i...",175,326,"['Libri, naučná', '', 'české']"

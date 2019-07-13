@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n6614814,Miluj svůj život - 2DVD - Louise L. Hay,100,3,2010,0,Pragma,naučná,Louise L. Hay</p>,,"Tento inspirující film natočený podle knihy Miluj svůj život je uváděn samotnou autorkou Louise L. Hay. Film odhaluje Louisin fascinující osobní příběh a ukazuje, jak se...",229,290,"['Pragma, naučná', '', 'české, Louise L. Hay']"
+n19893878,Co nemá manželka nikdy dělat Blanche Ebbutt,0,0,2010,84,Pragma,naučná,Blanche Ebbutt</p>,,"Knížka provádí čtenáře vším, čeho se mají vdané ženy vystříhat. Poskytuje rady týkající se: všeobecných zvyků, osobních vztahů, žárlivosti, financí, domácnosti, zábavy a...",70,76,"['Pragma, naučná', '', 'české, Blanche Ebbutt']"

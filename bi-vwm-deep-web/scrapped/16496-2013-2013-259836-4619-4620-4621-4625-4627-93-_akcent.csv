@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n129278268,Na prahu dospělosti Řeháčková Věra,100,1,2013,248,Akcent,beletrie,české</p>,,"Na prahu dospělosti kniha od autora Řeháčková Věra. Autorka, jejíž spisovatelskou doménou je žánr citového románového čtení pro ženy, ve svém díle poutavě rozvíjí příběh dvou...",148,249,"['Akcent, beletrie', '', 'české']"
+n135560093,Půjčovna dívek Synek Karel,0,0,2013,272,Akcent,beletrie,české</p>,,"V0232071
+Román je příběhem dvou bratrů. Adam, mladý muž a milovník žen, silně ovlivněný matkou herečkou, pokládající život za zábavnou hru, se střetává se světem, kterému...",134,259,"['Akcent, beletrie', '', 'české']"

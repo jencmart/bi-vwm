@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n29674748,2012 konec světa,90,1,2011,360,Alpress,naučná,české</p>,,"Knihu 2012 konec světa napsal filozof a politik Tibor Zelikovics.
+Prastará proroctví tvrdí, že rok 2012 staví lidstvo na práh nového světového řádu. Také islám, křesťanství i...",202,295,"['Alpress, naučná', '', 'české']"
+n32057273,Nejznámější vědci ve službách války,0,0,2011,366,Alpress,naučná,české</p>,,"Alfred Nobel jako vynálezce dynamitu, bratři Wrightovi, kteří postavili první skutečné letadlo, vynálezce radaru Robert Watson-Watt, otec balistické rakety V2 Wernher von...",119,119,"['Alpress, naučná', '', 'české']"

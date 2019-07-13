@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n555784995,S počítačem nejen k maturitě 2. díl - Pavel Navrátil,0,0,2014,176,Computer Media,naučná,české</p>,,Druhý díl populární učebnice informatiky pro střední školy. Učebnice trvale odráží vývoj a technolgické trendy doby. Ve svém osmém vydání se proto zaměřuje především na moderní...,121,190,"['Computer Media, naučná', '', 'české']"

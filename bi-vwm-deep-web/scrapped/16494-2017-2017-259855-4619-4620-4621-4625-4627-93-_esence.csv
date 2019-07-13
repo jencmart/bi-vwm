@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n491226228,Moje malá princezna,0,0,2017,64,Esence,dětské,české</p>,,"Moderní a originální album navržené přímo pro vaši holčičku, jejíž fotku můžete vložit do speciální kapsy a vyzdobit si tak dokonce i obálku. V knize najdete roztomilé...",237,299,"['Esence, dětské', '', 'české']"
+n491226229,Můj malý princ,100,1,2017,64,Esence,dětské,české</p>,,"Moderní a originální album navržené přímo pro vašeho chlapečka, jehož fotku můžete vložit do speciální kapsy a vyzdobit si tak dokonce i obálku. V knize najdete roztomilé...",237,299,"['Esence, dětské', '', 'české']"

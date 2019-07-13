@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n685316286,Pište správně česky,100,2,2018,424,Zoner press,beletrie,české</p>,,"Bestsellerová poradna šílených korektorů v druhém aktualizovaném, rozšířeném vydání (přes 80 normostran nového textu). 
+
+Bolí vás hlava z toho věčného přemýšlení, kde ve větě...",256,369,"['Zoner press, beletrie', '', 'české']"

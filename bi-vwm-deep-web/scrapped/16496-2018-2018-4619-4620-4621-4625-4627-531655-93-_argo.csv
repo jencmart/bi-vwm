@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n694986925,Léčba informací - Marie Vilánková,98,12,2018,280,Argo,naučná,české</p>,,"Popis
+Myslíte, že jen léky s účinnou látkou mohou léčit? Je potlačování příznaků nemocí pomocí chemických léků opravdu léčení? Co, když je to jinak? Řadu věcí, které oficiální...",214,302,"['Argo, naučná', '', 'české']"
+n686778907,Ne nestačí - Naomi Klein,0,0,2018,296,Argo,naučná,české</p>,,"„Trump, jakkoli působí jako extrém, nepředstavuje ani tak odchylku jako spíš logické vyústění - koktejl smíchaný z těch prakticky nejhorších trendů minulého půlstoletí, říká...",209,298,"['Argo, naučná', '', 'české']"
+n621476165,"Kontaktní rodičovství - Sears William, Searsová Martha",0,0,2018,292,Argo,naučná,české</p>,,"Kontaktní rodičovství je výchovná metoda, která navrací děti do náručí (a postelí) rodičů, pomáhá maminkám najít cestu k vlastnímu mateřství a zvládnout s otevřenou myslí...",209,305,"['Argo, naučná', '', 'české']"

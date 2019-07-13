@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n699030305,Miroslav Grebeníček Ve znamení kříže,90,24,2018,416,Ottovo nakladatelstvo,naučná,české</p>,,"Mimořádná kniha Miroslava Grebeníčka dokumentuje především průběh církevních restitucí a vývoj katolictví v naší zemi.
+
+ Není náhodou, že největší náboženské revolty byly v...",204,299,"['Ottovo nakladatelstvo, naučná', '', 'české']"

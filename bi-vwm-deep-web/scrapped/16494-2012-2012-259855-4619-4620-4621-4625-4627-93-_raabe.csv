@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n55128326,Jóga,100,3,2012,128,,dětské,,,"V brožuře naleznete příspěvky věnované cvičení jógy v předškolním věku. Děti se naučí rozmanitými způsoby pracovat s dechem, posílí svou mentální i fyzickou kondici, zlepší si...",268,365,"['Raabe, dětské', '', 'české, Košťálová, Markéta']"
+n527337286,Hravé cvičení - kolektiv autorů,0,0,2012,112,Raabe,dětské,Kolektiv autorů</p>,,"Publikace obsahuje náměty na činnosti, které vedou k rozvoji pohybových dovedností u dětí, rozvíjejí obratnost, koordinaci pohybů a jemnou motoriku. Cvičení jsou laděna...",270,365,"['Raabe, dětské', '', 'české, Kolektiv autorů']"

@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n240096280,Low Power Interconnect Design,0,0,2022,200,,,"<abbr title=""Počet stran"">200</abbr></p>",,"As well as offering practical solutions for delay and power reduction for on-chip interconnects and buses, this book provides in-depth descriptions of the problem of signal...",2,2,['']

@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n101132720,Sir Gawain and the Green Knight,0,0,1967,260,,,"<abbr title=""Počet stran"">260</abbr></p>",,"Oxford University Press, 262 pages, ISBN-13: 9780198114864, ISBN-10: 0198114869",922,1,['']
+n92582545,"The Cathedrals of - A. Clifton-Taylor, M. Hurlimann",0,0,1967,288,,,"<abbr title=""Počet stran"">288</abbr></p>",,More than two hundred photographs and text trace the development of cathedral design from its Norman beginnings through the flowering of Gothic to the new Roman Catholic...,215,242,['']
+n91370347,"""Measure for Measure"" W. Shakespeare",0,0,1967,304,,,Bloomsbury</p>,,"The Arden Shakespeare is the established edition of Shakespeare's work. Justly celebrated for its authoritative scholarship and invaluable commentary,",257,305,"['', 'Bloomsbury']"
+n263621070,Vincent Van Gogh - Walter Feilchenfeldt,0,0,1967,312,,,"<abbr title=""Počet stran"">312</abbr></p>",,The first comprehensive catalogue of Van Gogh's work from his time in France. Each work illustrated to scale. New research reveals fakes.,1,2,['']

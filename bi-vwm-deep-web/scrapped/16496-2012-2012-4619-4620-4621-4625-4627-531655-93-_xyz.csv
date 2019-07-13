@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n42223591,Poselství bohů,0,0,2012,272,XYZ,naučná,české</p>,,"Vědcům, archeologům i záhadologům na celém světě vrtá hlavou již po mnoho desetiletí stále jedna a táž nápadná skutečnost: Proč znovu a znovu nacházíme na naší planetě stále...",99,270,"['XYZ, naučná', '', 'české']"
+n47321806,Sedm nových nejkrásnějších divů světa,95,1,2012,248,XYZ,naučná,české</p>,,"Sedm nových nejkrásnějších divů světa kniha od autora Lucie Bártová. Od řeckého učence Filóna Byzantského, který ve své knize popsal starověkých sedm divů světa, uplynulo více...",169,199,"['XYZ, naučná', '', 'české']"
+n56011045,Svět pirátů,90,1,2012,296,XYZ,naučná,české</p>,,"Kolik velkých příběhů a dramat by zůstalo napospas závratné minulosti, kdyby nebylo spisovatelů? A co teprve, když se jedná o pohnuté pirátské osudy. Ty jsou obzvlášť opředeny...",95,214,"['XYZ, naučná', '', 'české']"

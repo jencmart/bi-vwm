@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n588065275,Totalitní anekdoty - Ondřej Šebesta,0,0,2017,112,Epocha,beletrie,české</p>,,"O anekdotě praví moudrá encyklopedie, že se jedná o řecký výraz pro texty předávané ústně nebo z nějakých důvodů nezveřejněné. Je to zpravidla krátké humorné vyprávění, které...",75,115,"['Epocha, beletrie', '', 'české']"
+n734981371,Čas budoucí - Adam Skořepa,0,0,2017,72,Epocha,beletrie,české</p>,,"Novela s prvky vědecké a společenské fikce, která ve třech volně navazujících příbězích popisuje jednu z mnoha možností vývoje umělé inteligence a jejího vlivu na formování...",62,95,"['Epocha, beletrie', '', 'české']"

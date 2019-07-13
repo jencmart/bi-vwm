@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n26015992,Budeme žít věčně?,100,2,2012,250,KNIHA ZLÍN,naučná,české</p>,,"Přírodovědecké výzkumy na téma život, inteligence a hmota dosáhly v současné době revoluční výsledky, které provokují naše dosavadní pojetí přírody, lidského těla a ducha....",192,249,"['KNIHA ZLÍN, naučná', '', 'české']"

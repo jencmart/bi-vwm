@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n311381112,Raketa č. 04 - Náladové - kolektiv,90,1,2015,40,Labyrint,naučná,české</p>,,"časopis Raketa 4/2015
+V Raketě najdete povídání o barvách, o temperamentech, o barevných obdobích různých umělců, o svátkách mrtvých a mnoho dalšího. Jako v každé Raketě, i...",89,89,"['Labyrint, naučná', '', 'české']"

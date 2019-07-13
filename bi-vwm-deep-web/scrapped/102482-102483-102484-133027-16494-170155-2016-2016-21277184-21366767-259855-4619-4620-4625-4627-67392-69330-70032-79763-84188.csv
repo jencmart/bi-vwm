@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n398156033,Der Kleine Prinz - Antoine de Saint Exupéry,0,0,2016,96,,dětské,německé</p>,,"Als der Berufspilot und Schriftsteller Antoine de Saint-Exupéry im Jahr 1943 seinen 'Kleinen Prinzen' erfand, konnte er nicht ahnen, welch gewaltiger Welterfolg sein Büchlein...",87,182,"['dětské', '', 'německé']"
+n43223299,La legende del enfant jesus de Prague,0,0,2016,46,,dětské,francouzské</p>,,"Legenda o Pražském Jezulátku Po šest století provází zázračná soška slavného Pražského Jezulátka další a další generace Pražanů i poutníků z celého světa, kteří se přicházejí...",178,178,"['dětské', '', 'francouzské']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n260603813,Magické kameny - Tomáš Míček,0,0,2015,328,Slovart,naučná,české</p>,,"Magické kameny kniha od autora Míček Tomáš. Český fotograf Tomáš Míček pro nás působivým způsobem objevuje dynamickou tvůrčí sílu přírody, která přivádí na svět nádherné skalní...",843,1,"['Slovart, naučná', '', 'české']"
+n260603812,Stromy světa - Tomáš Míček,10,1,2015,368,Slovart,naučná,české</p>,,Fotograf Tomáš Míček se převážně zaměřuje na osaměle stojící stromy. Svými fotografickými knihami již potěšil celou řadu čtenářů. Téměř mystickým způsobem v nich zachytil...,839,1,"['Slovart, naučná', '', 'české']"

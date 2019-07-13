@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n25114710,Vývojové tendence velkých podniků,0,0,2011,276,C.H.Beck,naučná,české</p>,,"Autoři publikace hledají odpověď na vybrané aktuální otázky, které přináší současný vývoj podnikové sféry. Celkový koncept publikace i její závěry se opírají o rozsáhlý...",282,437,"['C.H.Beck, naučná', '', 'české']"
+n37162767,Právní otázky podnikání v SRN,0,0,2011,284,C.H.Beck,naučná,české</p>,,"Spolková republika Německo patří k významných obchodním partnerům České republiky.  Je proto vhodné se dostatečně orientovat v právní úpravě německého prostředí, kde jsou...",529,670,"['C.H.Beck, naučná', '', 'české']"

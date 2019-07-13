@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n193227973,Skotské pohádky / Scottish Tales,95,1,2014,168,Garamond,beletrie,české</p>,,Dvojjazyčná kniha česko-anglická - nezkrácený text s komentářem..  Dvojjazyčné vydání určené pro mírně pokročilé obsahuje lexikální a gramatický komentář pod čarou a slovní...,132,170,"['Garamond, beletrie', '', 'české']"
+n193364125,Německé pohádky / Die Märchen,0,0,2014,128,Garamond,beletrie,české</p>,,"Výběr z klasických příběhů bratří Grimmů obsahuje pohádky Tři přadleny; Střízlíček a medvěd; Domácí skřítkové; Stolečku, prostři se; Obušku, z pytle ven; Zlatý oslíček; Jeníček...",107,170,"['Garamond, beletrie', '', 'české']"

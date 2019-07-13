@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n289444476,Pánek Šimon - Aby dobro pomáhalo,85,1,2015,304,Portál,beletrie,české</p>,,Šimon Pánek je výrazná osobnost veřejného života a humanitární manažer. Knižní rozhovor představuje obě roviny jeho celoživotní práce a od konkrétních životních situací se...,239,339,"['Portál, beletrie', '', 'české']"
+n289175869,Nietzsche v Nice,90,0,2015,264,Portál,beletrie,české</p>,,"Dvaadvacetiletá Cécile, která pracuje jako pokojská v malém penzionu v Nice, je zvyklá na ledacos, ovšem o tak zvláštního hosta se dosud nikdy nestarala. Zdá se, že je vůči...",121,357,"['Portál, beletrie', '', 'české']"

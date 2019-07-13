@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n362968546,Feynmanovy přednášky z fyziky 3,98,1,2013,436,Fragment,naučná,české</p>,,"Pro někoho je fyzika jen školní předmět, pro někoho je koníčkem a pro jiného dokonce vášní. Richard P. Feynman o ní dokázal mluvit s takovým zaujetím, že jeho přednášky patřily...",336,499,"['Fragment, naučná', '', 'české']"

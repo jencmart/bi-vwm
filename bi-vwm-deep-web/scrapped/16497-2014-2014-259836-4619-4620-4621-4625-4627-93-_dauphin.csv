@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n632170385,Lékařský román,0,0,2014,432,Dauphin,beletrie,české</p>,,"Sex, ketamin a rock`n roll ve Finsku. Štěstí v neštěstí společnosti blahobytu aneb kniha věnovaná Georgovi W. Bushovi, velikému lékaři národů.
+
+ Velkolepý román finské...",278,358,"['Dauphin, beletrie', '', 'české']"
+n632876167,Korhonen Riku - Lékařský román,0,0,2014,432,Dauphin,beletrie,české</p>,,"Velkolepý román finské vycházející liteární hvězdy na pomezí porna, příručky uživatele ketaminu a existenciální sondy euroamerické civilizace, vše patřené vypouklým zrcadlem...",298,358,"['Dauphin, beletrie', '', 'české']"

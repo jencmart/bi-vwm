@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n95712793,Živé stříbro - Juraj Jakubisko,100,2,2013,320,XYZ,naučná,české</p>,,"Jednou večer mě matka poprosí, abych jí sklepal teploměr. Skleněná trubička se mi vysmekne z ruky a rozbije se. Mezi střepy se mihnou drobné stříbrné kuličky a dotykem se...",267,349,"['XYZ, naučná', '', 'české']"

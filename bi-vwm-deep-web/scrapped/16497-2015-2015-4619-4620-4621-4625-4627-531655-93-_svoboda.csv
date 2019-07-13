@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n289167002,Kniha masáží,100,1,2015,364,Svoboda,naučná,české</p>,,"Autor : Jan Sedmík, Popis : 
+ Masáže patřily a stále ještě patří do centra zájmu ošetřovaných, ale i těch, kteří by chtěli tuto službu poskytovat. Při současném životním stylu,...",259,399,"['Svoboda, naučná', '', 'české']"

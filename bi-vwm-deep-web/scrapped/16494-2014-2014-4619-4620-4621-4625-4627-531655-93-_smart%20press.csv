@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n123977613,Tvůj fotodeníček,92,1,2014,160,Smart Press,naučná,české</p>,,"Kniha navazuje na úspěšný první díl „Tvůj fotodeníček od těhotenství do tří let“. Autorkami tohoto druhého dílu je Smart Press a české maminky, kterým na českém trhu chybělo...",127,399,"['Smart Press, naučná', '', 'české']"
+n123977608,Tvůj fotodeníček,79,4,2014,160,Smart Press,naučná,české</p>,,"Kniha navazuje na úspěšný první díl „Tvůj fotodeníček od těhotenství do tří let“. Autorkami tohoto druhého dílu je Smart Press a české maminky, kterým na českém trhu chybělo...",127,399,"['Smart Press, naučná', '', 'české']"

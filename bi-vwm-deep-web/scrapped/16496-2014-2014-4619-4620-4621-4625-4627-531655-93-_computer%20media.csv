@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n460973270,Windows 8.1 - Praktická příručka - Karel Klatovský,10,1,2014,284,Computer Media,naučná,české</p>,,"Windows 8.1 je revoluční operační systém, který svým uživatelům přináší nové možnosti z používání počítače a Internetu. Byl vyvíjen i s ohledem na moderní dotyková zařízení, a...",191,299,"['Computer Media, naučná', '', 'české']"

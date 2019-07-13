@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n202128658,Umění jako terapie,90,1,2014,240,KNIHA ZLÍN,naučná,české</p>,,"Umění jako terapie
+
+Často slýcháme, že umění je velmi důležité. Jen zřídka se ale dozvíme, proč vlastně. Alain de Botton a John Armstrong jsou přesvědčeni, že umění nám může...",448,669,"['KNIHA ZLÍN, naučná', '', 'české']"

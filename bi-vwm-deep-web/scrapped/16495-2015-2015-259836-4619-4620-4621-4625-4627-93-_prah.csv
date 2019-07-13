@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n323301764,Dante pro začátečníky - Joe Lee,90,1,2015,192,Práh,beletrie,české</p>,,"Konečně je tu Božská komedie s vtipem, Dante, co má šmrnc, výlet do posmrtného života se šťastným koncem. Vlastně měl vždycky šťastný konec, ale kdo mohl vědět, že po Pekle...",215,279,"['Práh, beletrie', '', 'české']"
+n300420121,Řecká mytologie pro začátečníky,0,0,2015,206,Práh,beletrie,české</p>,,"Existovala by západní civilizace bez řeckých bájí? Byli bychom schopni definovat naši společnost a sami sebe bez jakéhokoli odkazu na velkolepé, skvostné, vášnivé, vzrušující i...",237,270,"['Práh, beletrie', '', 'české']"

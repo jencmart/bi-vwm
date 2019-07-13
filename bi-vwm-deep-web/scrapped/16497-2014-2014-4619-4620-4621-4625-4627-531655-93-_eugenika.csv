@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n201694413,"Cítit se dobře Burns David D., M.D.",100,3,2014,352,Eugenika,naučná,české</p>,,"Úžasná kniha! Absolútne logicky vám vysvetlí, aké automatické negatívne myšlienky vás držia v pasci. Tento triezvy pohľad na vec vás každých pár strán rozosmeje, pretože vám...",245,398,"['Eugenika, naučná', '', 'české']"
+n210595533,Recepty pro zdraví - Jelena Svitko,0,0,2014,408,Eugenika,naučná,české</p>,,"Oblíbená ukrajinská léčitelka sestavila tento neobyčejně bohatý receptář na základě znalostí své babičky a dalších lidových léčitelů i prostých moudrých lidí. Rady, návody,...",282,385,"['Eugenika, naučná', '', 'české']"

@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n85375931,Kniha o čase,0,0,2013,256,Rebo,naučná,české</p>,,"Čas není vidět ani slyšet, nedokážeme jej vnímat nebo cítit, a přesto ovládá naše životy a vše kolem nás. Třebaže jej umíme velmi přesně změřit, zůstává čas i nadále jedním z...",330,499,"['Rebo, naučná', '', 'české']"

@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n171933118,Dokud hraje huslař (v ruskom jazyku) Vadim Busyrev,0,0,2013,193,,beletrie,ruské</p>,,Kniha s nádechem kriminálních povídek realisticky zachycuje život ruských vojáků na počátku sedmdesátých let. Děj příběhu se točí kolem vyšetřování krádeže zbraní v sovětském...,522,522,"['beletrie', '', 'ruské']"
+n171933121,Tady je příliš horko! - v ruskom jazyku - Vlad Rivlin,0,0,2013,224,,beletrie,ruské</p>,,"Autor : Vlad Rivlin,  
+ Kniha „Tady je příliš horko!“, obsahuje povídky Izraelského spisovatele Vlada Rivlina, který ale píše v ruštině. Základním tématem jeho povídek jsou...",356,522,"['beletrie', '', 'ruské']"
+n171933122,Vyvolená - v ruskom jazyku - Varvara Islavskaya,0,0,2013,170,,beletrie,ruské</p>,,"Je to mysticky-fantastická povídka, věnovaná české historii a především historii Prahy. Ruská slečna Eliza si splnila svůj dětský sen a vydala se na vánoční prázdniny do Prahy....",223,574,"['beletrie', '', 'ruské']"

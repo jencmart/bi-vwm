@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n31283800,Etické problémy v onkologii Marie Opatrná,0,0,1900,120,naučná,,Mladá fronta,,"Publikace je velmi zajímavá již tím, že problematice etiky v onkologii dosud nebyla komplexně žádná monografie věnována. Autorka, původním zaměřením onkoložka, vykonává v...",194,300,"['Mladá fronta', 'naučná', 'české']"
+n51027897,Ohrada,0,0,1900,0,Mladá fronta,,české</p>,,"Ohrada z nakladatelství Mladá fronta, rok vydání 1900.",75,86,"['Mladá fronta', 'české']"
+n16433953,Ach nikdy už ne osud Pavel Rejchrt,0,0,1900,0,Mladá fronta,,české</p>,,"Cyklus grafických listů na téma Don Quijote, doplněný verši Věry Provazníkové, představuje jeden z vrcholů Reynkova grafického díla. Čtrnáct suchých jehel (1955 – 1960) vzniklo...",68,69,"['Mladá fronta', '', 'české']"

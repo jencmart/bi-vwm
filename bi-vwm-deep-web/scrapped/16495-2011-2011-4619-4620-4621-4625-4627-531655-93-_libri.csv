@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n39180831,Praha 1437–1610,0,0,2011,208,Libri,naučná,české</p>,,"Kniha pojednává o dějinách pozdně gotické a renesanční architektury v Praze. Pozornost věnuje nejen jednotlivým významným stavbám a osobnostem, které se výrazně zapsaly do...",594,850,"['Libri, naučná', '', 'české']"
+n22408451,Tibet - Josef Kolmaš,100,1,2011,192,Libri,naučná,české</p>,,"Autor, světově uznávaný tibetolog prof. Josef Kolmaš nás zasvěceně provází dějinami od nejstarších dob a legend až po současnost. Odpovídající pozornost vedle politických...",113,197,"['Libri, naučná', '', 'české']"
+n19648847,Lotyšsko - Jindřich Dejmek,80,1,2011,174,Libri,naučná,české</p>,,"Vůbec první česká monografie věnovaná jednomu z tzv. baltských států je prací renomovaného historika, vědeckého pracovníka Historického ústavu AV ČR Jindřicha Dejmka, který se...",136,190,"['Libri, naučná', '', 'české']"

@@ -1,0 +1,393 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n541650315,"Podívej, jak je hezky u zvířátek",75,1,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z přírody a ze zoologické zahrady plné podnětů, které ukazují, jaká zvířátka žijí...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n550905357,"Víš, co má v plínce myš? - Guido van Genechten",95,29,2017,32,české,dětské,Guido van Genechten</p>,,"Půvabná kreslená knížka známého belgického spisovatele a ilustrátora Guido van Genechtena, která se brzy stala světovým bestsellerem. S textem básníka Hynka Viléma pobaví...",150,237,"['Barrister & Principal, dětské', '', 'české, Guido van Genechten']"
+n560643206,Hledej Krtka - Miler Zdeněk,92,11,2017,12,Pikola,dětské,Zdeněk Miler</p>,,"Dokážete na stránkách knížky najít Krtečka a všechny jeho kamarády? V lese, kolem krtiny i na louce se pořád děje spousta zajímavých věcí. Pečlivě si prohlédněte obrázky a sami...",142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n522705345,vílí býlí,98,9,2017,112,Portál,dětské,Radomír Socha</p>,,"Když holčička Janinka objeví na půdě babiččiny chaloupky starodávný ilustrovaný herbář, začnou se dít podivné věci. Herbář je totiž kouzelný a ukrývá v sobě neuvěřitelná...",215,302,"['Portál, dětské', '', 'české, Radomír Socha']"
+n472889976,Vtipy pro děti,99,14,2017,104,české,dětské,Computer Press,,"Cpress Vtipy pro děti
+
+Kniha plná vtipů, které zaručeně pobaví každého čtenáře.
+
+Smích léčí a každý den našeho života, kdy jsme se nezasmáli je ztracený.
+
+Věděli jste, že při...",103,149,"['Computer Press, dětské', '', 'české, CPress']"
+n567663719,Husa Líza - Petr Horáček,92,3,2017,40,Portál,dětské,Petr Horáček</p>,,"Husa Líza by moc chtěla být jiná než ostatní husy. 
+
+ Chtěla by umět klapat zobákem tak silně jako tukan, plavat jako tuleň a skákat tak jako klokan. Ale když se pokusí zařvat...",120,159,"['Portál, dětské', '', 'české, Petr Horáček']"
+n560643208,Hledej Krtka na cestách - Miler Zdeněk,90,5,2017,12,Pikola,dětské,Zdeněk Miler</p>,,Krteček se docela sám vydal do světa. Na cestách se setkává se spoustou kamarádů a užije si s nimi hodně legrace. Pečlivě si prohlédněte obrázky a sami uvidíte. Obrázkové...,142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n535419367,Atlas zvířat celého světa,83,3,2017,96,Pikola,dětské,Zdeněk Šohajek</p>,,"Tato velkoformátová kniha se stane pro čtenáře ve věku 7–11 let průvodcem po světě zvířat, která obývají naši planetu. Typická zvířena jednotlivých světadílů a geografických...",276,353,"['Pikola, dětské', '', 'české, Zdeněk Šohajek']"
+n546641393,Louskáček - Leysenová An,100,6,2017,48,Pikola,dětské,An Leysenová</p>,,Klárka s bratrem Fritzem Vánoce zbožňují. Každoročně jim strýček Drosselmeyer nadělí nějaký zvláštní vánoční dárek. Letos dostane Klárka dřevěného vojáčka. Je to louskáček na...,157,201,"['Pikola, dětské', '', 'české, An Leysenová']"
+n491226227,Co se děje v přírodě - Anne Suess,97,11,2017,10,Pikola,dětské,Anne Suess</p>,,"Na okraji polí, v lese, u rybníka nebo v noci – v této krásné knize najdeš na každé stránce víc než 30 zvířátek. Kde žije netopýr? Jak vypadá rákosník obecný? Kdo najde žábu?...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n560643205,Veseláha o malém Krtkovi - Miler Zdeněk,60,5,2017,32,Pikola,dětské,Zdeněk Miler</p>,,"Zažijte s Krtečkem spoustu zábavy a poznejte s ním svět. Co dělá Krteček přes den, jaká dobrodružství zažívá v přírodě a jaká na báječných výletech po světě? Pečlivě si...",181,232,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n541650317,"Podívej, jak je hezky ve městě a na venkově",93,5,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z města a z venkova plné podnětů, které ukazují, co se děje na ulici, před školou...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n491226226,Co se děje po celý rok? - Anne Suess,90,16,2017,10,Pikola,dětské,Anne Suess</p>,,"Knížka podporuje pozorovací schopnosti a podněcuje fantazii, rozvíjí jazyk a rozšiřuje slovní zásobu. Situace z každodenního života napomáhají k lepší orientaci ve světě, který...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n458730470,První čtení s počítáním,100,1,2017,64,Portál,dětské,Iva Nováková</p>,,"Autorský pracovní sešit je tvořený tematickými dvoustránkami, na kterých si dítě procvičí jednak čtení s porozuměním (krátké vyprávění s následným jednoduchým úkolem, jehož...",127,159,"['Portál, dětské', '', 'české, Iva Nováková']"
+n503026809,Co mají na práci myšky a myšáci - Robin Král,98,4,2017,96,Pikola,dětské,Robin Král</p>,,"Do rukou se vám dostala interaktivní knížka určená především předškolním dětem k rozvíjení jejich řečových schopností. Na velkých obrázcích si můžou hledat, co myšky a myšáci a...",157,201,"['Pikola, dětské', '', 'české, Robin Král']"
+n547897118,"Ztracený princ Margarín - Twain Mark, Stead Philip",0,0,2017,152,Pikola,dětské,Philip Stead</p>,,"Jednou večer, bylo to ve vzdálených 80. letech 19. století, se zrodil pohádkový příběh, který na své objevení čekal více než celé století.. Tehdy, v jednom pařížském hotelu, si...",209,302,"['Pikola, dětské', '', 'české, Mark Twain, Philip Stead']"
+n489596520,"Kniha o přírodě - van Borkulo Nicole, Roebers Geert-Jan",90,2,2017,64,Pikola,dětské,Geert-Jan </p>,,"Nechejte děti dívat se na přírodu jinýma očima!
+
+Každý z nás si pamatuje, s jakým okouzlením sbíral mušle na pláži, žasl nad barvami podzimního listí, obdivoval let motýla a...",237,302,"['Pikola, dětské', '', 'české, Nicole van Borkulo, Geert-Jan']"
+n572212886,"O zvědavém štěňátku - Miler Zdeněk, Hercíková Iva",98,10,2017,72,Pikola,dětské,Hercíková Iva</p>,,"Roztomilé, ale nezkušené štěňátko se vydává na dobrodružnou cestu do okolního světa. Seznamuje se se sluníčkem, s kačerem, s včelkami i se žabkami. Někdy je to veselé, někdy...",157,201,"['Pikola, dětské', '', 'české, Miler Zdeněk, Hercíková Iva']"
+n673197342,Carola Wimmerová Rychlý jako vítr,100,1,2017,160,české,dětské,Carola Wimmerová</p>,,"Rychlý jako vítr Carola Wimmerová
+
+Majka se moc těší na letní prázdniny s táborem, kam má jet se svojí kamarádkou.
+
+Třídní učitel ji ale nechává propadnout a její sen se pomalu...",173,229,"['Computer Press, dětské', '', 'české, Carola Wimmerová']"
+n535419369,Atlas velkých měst celého světa,0,0,2017,96,Pikola,dětské,Šohajek Zdeněk</p>,,"Tato velkoformátová kniha nabízí čtenářům ve věku 7–11 let úchvatné turné po 20 nejkrásnějších, nejvýznamnějších a nejzajímavějších velkých městech světa.
+Seznámí je nejen s...",276,353,"['Pikola, dětské', '', 'české, Šohajek Zdeněk']"
+n567499097,Minecraft - Nejlepší spojovačky - Moore Gareth,100,5,2017,64,české,dětské,Gareth Moore</p>,,"Fandové Minecraftu, radujte se! Nyní se k vám dostává soubor výjimečných spojovaček z kostičkovaného světa, které jinde nenajdete. Dostanete se do nejhlubšího dolu i na...",138,199,"['Computer Press, dětské', '', 'české, Gareth Moore']"
+n652276500,Vlna se blíží - Lauren Tarhisová,0,0,2017,112,české,dětské,Lauren Tarhisová</p>,,"Akční a dobrodružný příběh pro děti, který naučí o dějinách více než leckterá hodina dějepisu.
+
+To neštěstí prožíval celý svět… Pro Bena byla návštěva otcova rodného města po...",117,152,"['Computer Press, dětské', '', 'české, Lauren Tarhisová']"
+n522705312,Hádanky pro školáky,100,5,2017,128,Portál,dětské,Zuzana Pospíšilová</p>,,"Soubor hádanek je určený pro děti školního věku od třetí třídy výše, přičemž obtížnost jednotlivých hádanek postupně stoupá. Cílem knihy je děti poutavým způsobem seznámit s...",218,269,"['Portál, dětské', '', 'české, Zuzana Pospíšilová']"
+n569088272,"Česká říkadla, písničky a pohádky - Milada Motlová",93,3,2017,104,Pikola,dětské,Milada Motlová</p>,,"V barevně ilustrované knížce na děti čekají nejznámější lidová říkadla: třeba Šiju boty, Paci, paci, Vařila myšička kašičku, Byl jeden domeček, Šel Janeček na kopeček, Oženil...",169,201,"['Pikola, dětské', '', 'české, Milada Motlová']"
+n565760882,Dračí polévka - Ježková Alena,0,0,2017,96,Olympia,dětské,Ježková Alena</p>,,"Příběh o vietnamském chlapci Longovi, který žije dva životy: ve škole mluví česky a jmenuje se Láďa, doma mluví vietnamsky. Long hledá sám sebe. Pomáhá mu v tom děda, který umí...",177,269,"['Olympia, dětské', '', 'české, Ježková Alena']"
+n558940732,VELKÝ VYSVĚTLOVAČ - Složité věci popsané jednoduchými slovy - Randall Munroe,80,5,2017,64,Práh,dětské,Randall Munroe</p>,,"Složité věci popsané jednoduchými slovy
+
+Od autora bestselleru Co kdyby
+
+Velký formát, skládačky, nákresy…
+
+Pro děti, mládež i všechny zvídavce
+
+Do rukou se vám dostává kniha,...",272,399,"['Práh, dětské', '', 'české, Randall Munroe']"
+n556695098,Sopka se probouzí - Lauren Tarhisová,100,4,2017,128,české,dětské,Lauren Tarshisová</p>,,"Obyvatele Pompejí, už otřesy půdy pod jejich nohama nijak zvlášť neznepokojují. Jsou přesvědčeni, že uvnitř hory žije obrovské zvíře, které se jednou za čas probouzí vzteklé a...",119,152,"['Computer Press, dětské', '', 'české, Lauren Tarshisová']"
+n475322912,Dubánci - příběhy jednoho roku - Petr Václavek,90,5,2017,120,české,dětské,Slávek Rydval,,"Prohlédněte si ukázkovou kapitolu této úžasné knížky. Před dubem, za dubem nesmí nikdo stát? Ale kdepak, jsou tam přece pohádkoví Dubánci. Víte, že Dubánci skutečně existují?...",170,249,"['Computer Press, dětské', '', 'české, Petr Václavek, Slávek Rydval']"
+n527271405,"Krtek a televize - Miler Zdeněk, Doskočilová Hana",0,0,2017,48,Pikola,dětské,Miler Zdeněk</p>,,Naše předškoláky i prvňáčky určitě pobaví nový příběh Krtečka a jeho kamarádů. Tentokrát v něm důležitou roli hraje televize - přivezl ji šnek ve svém domečku a všem obyvatelům...,135,171,"['Pikola, dětské', '', 'české, Miler Zdeněk']"
+n505848397,Byl jednou jeden domeček,0,0,2017,24,české,dětské,Marcela Konárková</p>,,"Byl jednou jeden domeček / There Once Was a Little...
+Lidová říkanka pro děti v netradičním provedení. Kombinace recyklovaného a barevného papíru vám nabídne nejen vizuální,...",441,490,"['Pop - Pap, dětské', '', 'české, Marcela Konárková']"
+n541650315,"Podívej, jak je hezky u zvířátek",75,1,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z přírody a ze zoologické zahrady plné podnětů, které ukazují, jaká zvířátka žijí...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n550905357,"Víš, co má v plínce myš? - Guido van Genechten",95,29,2017,32,české,dětské,Guido van Genechten</p>,,"Půvabná kreslená knížka známého belgického spisovatele a ilustrátora Guido van Genechtena, která se brzy stala světovým bestsellerem. S textem básníka Hynka Viléma pobaví...",150,237,"['Barrister & Principal, dětské', '', 'české, Guido van Genechten']"
+n560643206,Hledej Krtka - Miler Zdeněk,92,11,2017,12,Pikola,dětské,Zdeněk Miler</p>,,"Dokážete na stránkách knížky najít Krtečka a všechny jeho kamarády? V lese, kolem krtiny i na louce se pořád děje spousta zajímavých věcí. Pečlivě si prohlédněte obrázky a sami...",142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n522705345,vílí býlí,98,9,2017,112,Portál,dětské,Radomír Socha</p>,,"Když holčička Janinka objeví na půdě babiččiny chaloupky starodávný ilustrovaný herbář, začnou se dít podivné věci. Herbář je totiž kouzelný a ukrývá v sobě neuvěřitelná...",215,302,"['Portál, dětské', '', 'české, Radomír Socha']"
+n472889976,Vtipy pro děti,99,14,2017,104,české,dětské,Computer Press,,"Cpress Vtipy pro děti
+
+Kniha plná vtipů, které zaručeně pobaví každého čtenáře.
+
+Smích léčí a každý den našeho života, kdy jsme se nezasmáli je ztracený.
+
+Věděli jste, že při...",103,149,"['Computer Press, dětské', '', 'české, CPress']"
+n567663719,Husa Líza - Petr Horáček,92,3,2017,40,Portál,dětské,Petr Horáček</p>,,"Husa Líza by moc chtěla být jiná než ostatní husy. 
+
+ Chtěla by umět klapat zobákem tak silně jako tukan, plavat jako tuleň a skákat tak jako klokan. Ale když se pokusí zařvat...",120,159,"['Portál, dětské', '', 'české, Petr Horáček']"
+n560643208,Hledej Krtka na cestách - Miler Zdeněk,90,5,2017,12,Pikola,dětské,Zdeněk Miler</p>,,Krteček se docela sám vydal do světa. Na cestách se setkává se spoustou kamarádů a užije si s nimi hodně legrace. Pečlivě si prohlédněte obrázky a sami uvidíte. Obrázkové...,142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n535419367,Atlas zvířat celého světa,83,3,2017,96,Pikola,dětské,Zdeněk Šohajek</p>,,"Tato velkoformátová kniha se stane pro čtenáře ve věku 7–11 let průvodcem po světě zvířat, která obývají naši planetu. Typická zvířena jednotlivých světadílů a geografických...",276,353,"['Pikola, dětské', '', 'české, Zdeněk Šohajek']"
+n546641393,Louskáček - Leysenová An,100,6,2017,48,Pikola,dětské,An Leysenová</p>,,Klárka s bratrem Fritzem Vánoce zbožňují. Každoročně jim strýček Drosselmeyer nadělí nějaký zvláštní vánoční dárek. Letos dostane Klárka dřevěného vojáčka. Je to louskáček na...,157,201,"['Pikola, dětské', '', 'české, An Leysenová']"
+n491226227,Co se děje v přírodě - Anne Suess,97,11,2017,10,Pikola,dětské,Anne Suess</p>,,"Na okraji polí, v lese, u rybníka nebo v noci – v této krásné knize najdeš na každé stránce víc než 30 zvířátek. Kde žije netopýr? Jak vypadá rákosník obecný? Kdo najde žábu?...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n560643205,Veseláha o malém Krtkovi - Miler Zdeněk,60,5,2017,32,Pikola,dětské,Zdeněk Miler</p>,,"Zažijte s Krtečkem spoustu zábavy a poznejte s ním svět. Co dělá Krteček přes den, jaká dobrodružství zažívá v přírodě a jaká na báječných výletech po světě? Pečlivě si...",181,232,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n541650317,"Podívej, jak je hezky ve městě a na venkově",93,5,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z města a z venkova plné podnětů, které ukazují, co se děje na ulici, před školou...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n491226226,Co se děje po celý rok? - Anne Suess,90,16,2017,10,Pikola,dětské,Anne Suess</p>,,"Knížka podporuje pozorovací schopnosti a podněcuje fantazii, rozvíjí jazyk a rozšiřuje slovní zásobu. Situace z každodenního života napomáhají k lepší orientaci ve světě, který...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n458730470,První čtení s počítáním,100,1,2017,64,Portál,dětské,Iva Nováková</p>,,"Autorský pracovní sešit je tvořený tematickými dvoustránkami, na kterých si dítě procvičí jednak čtení s porozuměním (krátké vyprávění s následným jednoduchým úkolem, jehož...",127,159,"['Portál, dětské', '', 'české, Iva Nováková']"
+n503026809,Co mají na práci myšky a myšáci - Robin Král,98,4,2017,96,Pikola,dětské,Robin Král</p>,,"Do rukou se vám dostala interaktivní knížka určená především předškolním dětem k rozvíjení jejich řečových schopností. Na velkých obrázcích si můžou hledat, co myšky a myšáci a...",157,201,"['Pikola, dětské', '', 'české, Robin Král']"
+n547897118,"Ztracený princ Margarín - Twain Mark, Stead Philip",0,0,2017,152,Pikola,dětské,Philip Stead</p>,,"Jednou večer, bylo to ve vzdálených 80. letech 19. století, se zrodil pohádkový příběh, který na své objevení čekal více než celé století.. Tehdy, v jednom pařížském hotelu, si...",209,302,"['Pikola, dětské', '', 'české, Mark Twain, Philip Stead']"
+n489596520,"Kniha o přírodě - van Borkulo Nicole, Roebers Geert-Jan",90,2,2017,64,Pikola,dětské,Geert-Jan </p>,,"Nechejte děti dívat se na přírodu jinýma očima!
+
+Každý z nás si pamatuje, s jakým okouzlením sbíral mušle na pláži, žasl nad barvami podzimního listí, obdivoval let motýla a...",237,302,"['Pikola, dětské', '', 'české, Nicole van Borkulo, Geert-Jan']"
+n572212886,"O zvědavém štěňátku - Miler Zdeněk, Hercíková Iva",98,10,2017,72,Pikola,dětské,Hercíková Iva</p>,,"Roztomilé, ale nezkušené štěňátko se vydává na dobrodružnou cestu do okolního světa. Seznamuje se se sluníčkem, s kačerem, s včelkami i se žabkami. Někdy je to veselé, někdy...",157,201,"['Pikola, dětské', '', 'české, Miler Zdeněk, Hercíková Iva']"
+n673197342,Carola Wimmerová Rychlý jako vítr,100,1,2017,160,české,dětské,Carola Wimmerová</p>,,"Rychlý jako vítr Carola Wimmerová
+
+Majka se moc těší na letní prázdniny s táborem, kam má jet se svojí kamarádkou.
+
+Třídní učitel ji ale nechává propadnout a její sen se pomalu...",173,229,"['Computer Press, dětské', '', 'české, Carola Wimmerová']"
+n535419369,Atlas velkých měst celého světa,0,0,2017,96,Pikola,dětské,Šohajek Zdeněk</p>,,"Tato velkoformátová kniha nabízí čtenářům ve věku 7–11 let úchvatné turné po 20 nejkrásnějších, nejvýznamnějších a nejzajímavějších velkých městech světa.
+Seznámí je nejen s...",276,353,"['Pikola, dětské', '', 'české, Šohajek Zdeněk']"
+n567499097,Minecraft - Nejlepší spojovačky - Moore Gareth,100,5,2017,64,české,dětské,Gareth Moore</p>,,"Fandové Minecraftu, radujte se! Nyní se k vám dostává soubor výjimečných spojovaček z kostičkovaného světa, které jinde nenajdete. Dostanete se do nejhlubšího dolu i na...",138,199,"['Computer Press, dětské', '', 'české, Gareth Moore']"
+n652276500,Vlna se blíží - Lauren Tarhisová,0,0,2017,112,české,dětské,Lauren Tarhisová</p>,,"Akční a dobrodružný příběh pro děti, který naučí o dějinách více než leckterá hodina dějepisu.
+
+To neštěstí prožíval celý svět… Pro Bena byla návštěva otcova rodného města po...",117,152,"['Computer Press, dětské', '', 'české, Lauren Tarhisová']"
+n522705312,Hádanky pro školáky,100,5,2017,128,Portál,dětské,Zuzana Pospíšilová</p>,,"Soubor hádanek je určený pro děti školního věku od třetí třídy výše, přičemž obtížnost jednotlivých hádanek postupně stoupá. Cílem knihy je děti poutavým způsobem seznámit s...",218,269,"['Portál, dětské', '', 'české, Zuzana Pospíšilová']"
+n569088272,"Česká říkadla, písničky a pohádky - Milada Motlová",93,3,2017,104,Pikola,dětské,Milada Motlová</p>,,"V barevně ilustrované knížce na děti čekají nejznámější lidová říkadla: třeba Šiju boty, Paci, paci, Vařila myšička kašičku, Byl jeden domeček, Šel Janeček na kopeček, Oženil...",169,201,"['Pikola, dětské', '', 'české, Milada Motlová']"
+n558940732,VELKÝ VYSVĚTLOVAČ - Složité věci popsané jednoduchými slovy - Randall Munroe,80,5,2017,64,Práh,dětské,Randall Munroe</p>,,"Složité věci popsané jednoduchými slovy
+
+Od autora bestselleru Co kdyby
+
+Velký formát, skládačky, nákresy…
+
+Pro děti, mládež i všechny zvídavce
+
+Do rukou se vám dostává kniha,...",272,399,"['Práh, dětské', '', 'české, Randall Munroe']"
+n565760882,Dračí polévka - Ježková Alena,0,0,2017,96,Olympia,dětské,Ježková Alena</p>,,"Příběh o vietnamském chlapci Longovi, který žije dva životy: ve škole mluví česky a jmenuje se Láďa, doma mluví vietnamsky. Long hledá sám sebe. Pomáhá mu v tom děda, který umí...",177,269,"['Olympia, dětské', '', 'české, Ježková Alena']"
+n556695098,Sopka se probouzí - Lauren Tarhisová,100,4,2017,128,české,dětské,Lauren Tarshisová</p>,,"Obyvatele Pompejí, už otřesy půdy pod jejich nohama nijak zvlášť neznepokojují. Jsou přesvědčeni, že uvnitř hory žije obrovské zvíře, které se jednou za čas probouzí vzteklé a...",119,152,"['Computer Press, dětské', '', 'české, Lauren Tarshisová']"
+n475322912,Dubánci - příběhy jednoho roku - Petr Václavek,90,5,2017,120,české,dětské,Slávek Rydval,,"Prohlédněte si ukázkovou kapitolu této úžasné knížky. Před dubem, za dubem nesmí nikdo stát? Ale kdepak, jsou tam přece pohádkoví Dubánci. Víte, že Dubánci skutečně existují?...",170,249,"['Computer Press, dětské', '', 'české, Petr Václavek, Slávek Rydval']"
+n527271405,"Krtek a televize - Miler Zdeněk, Doskočilová Hana",0,0,2017,48,Pikola,dětské,Miler Zdeněk</p>,,Naše předškoláky i prvňáčky určitě pobaví nový příběh Krtečka a jeho kamarádů. Tentokrát v něm důležitou roli hraje televize - přivezl ji šnek ve svém domečku a všem obyvatelům...,135,171,"['Pikola, dětské', '', 'české, Miler Zdeněk']"
+n505848397,Byl jednou jeden domeček,0,0,2017,24,české,dětské,Marcela Konárková</p>,,"Byl jednou jeden domeček / There Once Was a Little...
+Lidová říkanka pro děti v netradičním provedení. Kombinace recyklovaného a barevného papíru vám nabídne nejen vizuální,...",441,490,"['Pop - Pap, dětské', '', 'české, Marcela Konárková']"
+n541650315,"Podívej, jak je hezky u zvířátek",75,1,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z přírody a ze zoologické zahrady plné podnětů, které ukazují, jaká zvířátka žijí...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n550905357,"Víš, co má v plínce myš? - Guido van Genechten",95,29,2017,32,české,dětské,Guido van Genechten</p>,,"Půvabná kreslená knížka známého belgického spisovatele a ilustrátora Guido van Genechtena, která se brzy stala světovým bestsellerem. S textem básníka Hynka Viléma pobaví...",150,237,"['Barrister & Principal, dětské', '', 'české, Guido van Genechten']"
+n560643206,Hledej Krtka - Miler Zdeněk,92,11,2017,12,Pikola,dětské,Zdeněk Miler</p>,,"Dokážete na stránkách knížky najít Krtečka a všechny jeho kamarády? V lese, kolem krtiny i na louce se pořád děje spousta zajímavých věcí. Pečlivě si prohlédněte obrázky a sami...",142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n522705345,vílí býlí,98,9,2017,112,Portál,dětské,Radomír Socha</p>,,"Když holčička Janinka objeví na půdě babiččiny chaloupky starodávný ilustrovaný herbář, začnou se dít podivné věci. Herbář je totiž kouzelný a ukrývá v sobě neuvěřitelná...",215,302,"['Portál, dětské', '', 'české, Radomír Socha']"
+n472889976,Vtipy pro děti,99,14,2017,104,české,dětské,Computer Press,,"Cpress Vtipy pro děti
+
+Kniha plná vtipů, které zaručeně pobaví každého čtenáře.
+
+Smích léčí a každý den našeho života, kdy jsme se nezasmáli je ztracený.
+
+Věděli jste, že při...",103,149,"['Computer Press, dětské', '', 'české, CPress']"
+n567663719,Husa Líza - Petr Horáček,92,3,2017,40,Portál,dětské,Petr Horáček</p>,,"Husa Líza by moc chtěla být jiná než ostatní husy. 
+
+ Chtěla by umět klapat zobákem tak silně jako tukan, plavat jako tuleň a skákat tak jako klokan. Ale když se pokusí zařvat...",120,159,"['Portál, dětské', '', 'české, Petr Horáček']"
+n560643208,Hledej Krtka na cestách - Miler Zdeněk,90,5,2017,12,Pikola,dětské,Zdeněk Miler</p>,,Krteček se docela sám vydal do světa. Na cestách se setkává se spoustou kamarádů a užije si s nimi hodně legrace. Pečlivě si prohlédněte obrázky a sami uvidíte. Obrázkové...,142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n535419367,Atlas zvířat celého světa,83,3,2017,96,Pikola,dětské,Zdeněk Šohajek</p>,,"Tato velkoformátová kniha se stane pro čtenáře ve věku 7–11 let průvodcem po světě zvířat, která obývají naši planetu. Typická zvířena jednotlivých světadílů a geografických...",276,353,"['Pikola, dětské', '', 'české, Zdeněk Šohajek']"
+n546641393,Louskáček - Leysenová An,100,6,2017,48,Pikola,dětské,An Leysenová</p>,,Klárka s bratrem Fritzem Vánoce zbožňují. Každoročně jim strýček Drosselmeyer nadělí nějaký zvláštní vánoční dárek. Letos dostane Klárka dřevěného vojáčka. Je to louskáček na...,157,201,"['Pikola, dětské', '', 'české, An Leysenová']"
+n491226227,Co se děje v přírodě - Anne Suess,97,11,2017,10,Pikola,dětské,Anne Suess</p>,,"Na okraji polí, v lese, u rybníka nebo v noci – v této krásné knize najdeš na každé stránce víc než 30 zvířátek. Kde žije netopýr? Jak vypadá rákosník obecný? Kdo najde žábu?...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n560643205,Veseláha o malém Krtkovi - Miler Zdeněk,60,5,2017,32,Pikola,dětské,Zdeněk Miler</p>,,"Zažijte s Krtečkem spoustu zábavy a poznejte s ním svět. Co dělá Krteček přes den, jaká dobrodružství zažívá v přírodě a jaká na báječných výletech po světě? Pečlivě si...",181,232,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n541650317,"Podívej, jak je hezky ve městě a na venkově",93,5,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z města a z venkova plné podnětů, které ukazují, co se děje na ulici, před školou...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n491226226,Co se děje po celý rok? - Anne Suess,90,16,2017,10,Pikola,dětské,Anne Suess</p>,,"Knížka podporuje pozorovací schopnosti a podněcuje fantazii, rozvíjí jazyk a rozšiřuje slovní zásobu. Situace z každodenního života napomáhají k lepší orientaci ve světě, který...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n458730470,První čtení s počítáním,100,1,2017,64,Portál,dětské,Iva Nováková</p>,,"Autorský pracovní sešit je tvořený tematickými dvoustránkami, na kterých si dítě procvičí jednak čtení s porozuměním (krátké vyprávění s následným jednoduchým úkolem, jehož...",127,159,"['Portál, dětské', '', 'české, Iva Nováková']"
+n503026809,Co mají na práci myšky a myšáci - Robin Král,98,4,2017,96,Pikola,dětské,Robin Král</p>,,"Do rukou se vám dostala interaktivní knížka určená především předškolním dětem k rozvíjení jejich řečových schopností. Na velkých obrázcích si můžou hledat, co myšky a myšáci a...",157,201,"['Pikola, dětské', '', 'české, Robin Král']"
+n547897118,"Ztracený princ Margarín - Twain Mark, Stead Philip",0,0,2017,152,Pikola,dětské,Philip Stead</p>,,"Jednou večer, bylo to ve vzdálených 80. letech 19. století, se zrodil pohádkový příběh, který na své objevení čekal více než celé století.. Tehdy, v jednom pařížském hotelu, si...",209,302,"['Pikola, dětské', '', 'české, Mark Twain, Philip Stead']"
+n489596520,"Kniha o přírodě - van Borkulo Nicole, Roebers Geert-Jan",90,2,2017,64,Pikola,dětské,Geert-Jan </p>,,"Nechejte děti dívat se na přírodu jinýma očima!
+
+Každý z nás si pamatuje, s jakým okouzlením sbíral mušle na pláži, žasl nad barvami podzimního listí, obdivoval let motýla a...",237,302,"['Pikola, dětské', '', 'české, Nicole van Borkulo, Geert-Jan']"
+n572212886,"O zvědavém štěňátku - Miler Zdeněk, Hercíková Iva",98,10,2017,72,Pikola,dětské,Hercíková Iva</p>,,"Roztomilé, ale nezkušené štěňátko se vydává na dobrodružnou cestu do okolního světa. Seznamuje se se sluníčkem, s kačerem, s včelkami i se žabkami. Někdy je to veselé, někdy...",157,201,"['Pikola, dětské', '', 'české, Miler Zdeněk, Hercíková Iva']"
+n673197342,Carola Wimmerová Rychlý jako vítr,100,1,2017,160,české,dětské,Carola Wimmerová</p>,,"Rychlý jako vítr Carola Wimmerová
+
+Majka se moc těší na letní prázdniny s táborem, kam má jet se svojí kamarádkou.
+
+Třídní učitel ji ale nechává propadnout a její sen se pomalu...",173,229,"['Computer Press, dětské', '', 'české, Carola Wimmerová']"
+n535419369,Atlas velkých měst celého světa,0,0,2017,96,Pikola,dětské,Šohajek Zdeněk</p>,,"Tato velkoformátová kniha nabízí čtenářům ve věku 7–11 let úchvatné turné po 20 nejkrásnějších, nejvýznamnějších a nejzajímavějších velkých městech světa.
+Seznámí je nejen s...",276,353,"['Pikola, dětské', '', 'české, Šohajek Zdeněk']"
+n567499097,Minecraft - Nejlepší spojovačky - Moore Gareth,100,5,2017,64,české,dětské,Gareth Moore</p>,,"Fandové Minecraftu, radujte se! Nyní se k vám dostává soubor výjimečných spojovaček z kostičkovaného světa, které jinde nenajdete. Dostanete se do nejhlubšího dolu i na...",138,199,"['Computer Press, dětské', '', 'české, Gareth Moore']"
+n652276500,Vlna se blíží - Lauren Tarhisová,0,0,2017,112,české,dětské,Lauren Tarhisová</p>,,"Akční a dobrodružný příběh pro děti, který naučí o dějinách více než leckterá hodina dějepisu.
+
+To neštěstí prožíval celý svět… Pro Bena byla návštěva otcova rodného města po...",117,152,"['Computer Press, dětské', '', 'české, Lauren Tarhisová']"
+n522705312,Hádanky pro školáky,100,5,2017,128,Portál,dětské,Zuzana Pospíšilová</p>,,"Soubor hádanek je určený pro děti školního věku od třetí třídy výše, přičemž obtížnost jednotlivých hádanek postupně stoupá. Cílem knihy je děti poutavým způsobem seznámit s...",218,269,"['Portál, dětské', '', 'české, Zuzana Pospíšilová']"
+n569088272,"Česká říkadla, písničky a pohádky - Milada Motlová",93,3,2017,104,Pikola,dětské,Milada Motlová</p>,,"V barevně ilustrované knížce na děti čekají nejznámější lidová říkadla: třeba Šiju boty, Paci, paci, Vařila myšička kašičku, Byl jeden domeček, Šel Janeček na kopeček, Oženil...",169,201,"['Pikola, dětské', '', 'české, Milada Motlová']"
+n565760882,Dračí polévka - Ježková Alena,0,0,2017,96,Olympia,dětské,Ježková Alena</p>,,"Příběh o vietnamském chlapci Longovi, který žije dva životy: ve škole mluví česky a jmenuje se Láďa, doma mluví vietnamsky. Long hledá sám sebe. Pomáhá mu v tom děda, který umí...",177,269,"['Olympia, dětské', '', 'české, Ježková Alena']"
+n558940732,VELKÝ VYSVĚTLOVAČ - Složité věci popsané jednoduchými slovy - Randall Munroe,80,5,2017,64,Práh,dětské,Randall Munroe</p>,,"Složité věci popsané jednoduchými slovy
+
+Od autora bestselleru Co kdyby
+
+Velký formát, skládačky, nákresy…
+
+Pro děti, mládež i všechny zvídavce
+
+Do rukou se vám dostává kniha,...",272,399,"['Práh, dětské', '', 'české, Randall Munroe']"
+n556695098,Sopka se probouzí - Lauren Tarhisová,100,4,2017,128,české,dětské,Lauren Tarshisová</p>,,"Obyvatele Pompejí, už otřesy půdy pod jejich nohama nijak zvlášť neznepokojují. Jsou přesvědčeni, že uvnitř hory žije obrovské zvíře, které se jednou za čas probouzí vzteklé a...",119,152,"['Computer Press, dětské', '', 'české, Lauren Tarshisová']"
+n475322912,Dubánci - příběhy jednoho roku - Petr Václavek,90,5,2017,120,české,dětské,Slávek Rydval,,"Prohlédněte si ukázkovou kapitolu této úžasné knížky. Před dubem, za dubem nesmí nikdo stát? Ale kdepak, jsou tam přece pohádkoví Dubánci. Víte, že Dubánci skutečně existují?...",170,249,"['Computer Press, dětské', '', 'české, Petr Václavek, Slávek Rydval']"
+n527271405,"Krtek a televize - Miler Zdeněk, Doskočilová Hana",0,0,2017,48,Pikola,dětské,Miler Zdeněk</p>,,Naše předškoláky i prvňáčky určitě pobaví nový příběh Krtečka a jeho kamarádů. Tentokrát v něm důležitou roli hraje televize - přivezl ji šnek ve svém domečku a všem obyvatelům...,135,171,"['Pikola, dětské', '', 'české, Miler Zdeněk']"
+n505848397,Byl jednou jeden domeček,0,0,2017,24,české,dětské,Marcela Konárková</p>,,"Byl jednou jeden domeček / There Once Was a Little...
+Lidová říkanka pro děti v netradičním provedení. Kombinace recyklovaného a barevného papíru vám nabídne nejen vizuální,...",441,490,"['Pop - Pap, dětské', '', 'české, Marcela Konárková']"
+n541650315,"Podívej, jak je hezky u zvířátek",75,1,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z přírody a ze zoologické zahrady plné podnětů, které ukazují, jaká zvířátka žijí...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n550905357,"Víš, co má v plínce myš? - Guido van Genechten",95,29,2017,32,české,dětské,Guido van Genechten</p>,,"Půvabná kreslená knížka známého belgického spisovatele a ilustrátora Guido van Genechtena, která se brzy stala světovým bestsellerem. S textem básníka Hynka Viléma pobaví...",150,237,"['Barrister & Principal, dětské', '', 'české, Guido van Genechten']"
+n560643206,Hledej Krtka - Miler Zdeněk,92,11,2017,12,Pikola,dětské,Zdeněk Miler</p>,,"Dokážete na stránkách knížky najít Krtečka a všechny jeho kamarády? V lese, kolem krtiny i na louce se pořád děje spousta zajímavých věcí. Pečlivě si prohlédněte obrázky a sami...",142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n522705345,vílí býlí,98,9,2017,112,Portál,dětské,Radomír Socha</p>,,"Když holčička Janinka objeví na půdě babiččiny chaloupky starodávný ilustrovaný herbář, začnou se dít podivné věci. Herbář je totiž kouzelný a ukrývá v sobě neuvěřitelná...",215,302,"['Portál, dětské', '', 'české, Radomír Socha']"
+n472889976,Vtipy pro děti,99,14,2017,104,české,dětské,Computer Press,,"Cpress Vtipy pro děti
+
+Kniha plná vtipů, které zaručeně pobaví každého čtenáře.
+
+Smích léčí a každý den našeho života, kdy jsme se nezasmáli je ztracený.
+
+Věděli jste, že při...",103,149,"['Computer Press, dětské', '', 'české, CPress']"
+n567663719,Husa Líza - Petr Horáček,92,3,2017,40,Portál,dětské,Petr Horáček</p>,,"Husa Líza by moc chtěla být jiná než ostatní husy. 
+
+ Chtěla by umět klapat zobákem tak silně jako tukan, plavat jako tuleň a skákat tak jako klokan. Ale když se pokusí zařvat...",120,159,"['Portál, dětské', '', 'české, Petr Horáček']"
+n560643208,Hledej Krtka na cestách - Miler Zdeněk,90,5,2017,12,Pikola,dětské,Zdeněk Miler</p>,,Krteček se docela sám vydal do světa. Na cestách se setkává se spoustou kamarádů a užije si s nimi hodně legrace. Pečlivě si prohlédněte obrázky a sami uvidíte. Obrázkové...,142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n535419367,Atlas zvířat celého světa,83,3,2017,96,Pikola,dětské,Zdeněk Šohajek</p>,,"Tato velkoformátová kniha se stane pro čtenáře ve věku 7–11 let průvodcem po světě zvířat, která obývají naši planetu. Typická zvířena jednotlivých světadílů a geografických...",276,353,"['Pikola, dětské', '', 'české, Zdeněk Šohajek']"
+n546641393,Louskáček - Leysenová An,100,6,2017,48,Pikola,dětské,An Leysenová</p>,,Klárka s bratrem Fritzem Vánoce zbožňují. Každoročně jim strýček Drosselmeyer nadělí nějaký zvláštní vánoční dárek. Letos dostane Klárka dřevěného vojáčka. Je to louskáček na...,157,201,"['Pikola, dětské', '', 'české, An Leysenová']"
+n491226227,Co se děje v přírodě - Anne Suess,97,11,2017,10,Pikola,dětské,Anne Suess</p>,,"Na okraji polí, v lese, u rybníka nebo v noci – v této krásné knize najdeš na každé stránce víc než 30 zvířátek. Kde žije netopýr? Jak vypadá rákosník obecný? Kdo najde žábu?...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n560643205,Veseláha o malém Krtkovi - Miler Zdeněk,60,5,2017,32,Pikola,dětské,Zdeněk Miler</p>,,"Zažijte s Krtečkem spoustu zábavy a poznejte s ním svět. Co dělá Krteček přes den, jaká dobrodružství zažívá v přírodě a jaká na báječných výletech po světě? Pečlivě si...",181,232,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n541650317,"Podívej, jak je hezky ve městě a na venkově",93,5,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z města a z venkova plné podnětů, které ukazují, co se děje na ulici, před školou...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n491226226,Co se děje po celý rok? - Anne Suess,90,16,2017,10,Pikola,dětské,Anne Suess</p>,,"Knížka podporuje pozorovací schopnosti a podněcuje fantazii, rozvíjí jazyk a rozšiřuje slovní zásobu. Situace z každodenního života napomáhají k lepší orientaci ve světě, který...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n458730470,První čtení s počítáním,100,1,2017,64,Portál,dětské,Iva Nováková</p>,,"Autorský pracovní sešit je tvořený tematickými dvoustránkami, na kterých si dítě procvičí jednak čtení s porozuměním (krátké vyprávění s následným jednoduchým úkolem, jehož...",127,159,"['Portál, dětské', '', 'české, Iva Nováková']"
+n503026809,Co mají na práci myšky a myšáci - Robin Král,98,4,2017,96,Pikola,dětské,Robin Král</p>,,"Do rukou se vám dostala interaktivní knížka určená především předškolním dětem k rozvíjení jejich řečových schopností. Na velkých obrázcích si můžou hledat, co myšky a myšáci a...",157,201,"['Pikola, dětské', '', 'české, Robin Král']"
+n547897118,"Ztracený princ Margarín - Twain Mark, Stead Philip",0,0,2017,152,Pikola,dětské,Philip Stead</p>,,"Jednou večer, bylo to ve vzdálených 80. letech 19. století, se zrodil pohádkový příběh, který na své objevení čekal více než celé století.. Tehdy, v jednom pařížském hotelu, si...",209,302,"['Pikola, dětské', '', 'české, Mark Twain, Philip Stead']"
+n489596520,"Kniha o přírodě - van Borkulo Nicole, Roebers Geert-Jan",90,2,2017,64,Pikola,dětské,Geert-Jan </p>,,"Nechejte děti dívat se na přírodu jinýma očima!
+
+Každý z nás si pamatuje, s jakým okouzlením sbíral mušle na pláži, žasl nad barvami podzimního listí, obdivoval let motýla a...",237,302,"['Pikola, dětské', '', 'české, Nicole van Borkulo, Geert-Jan']"
+n572212886,"O zvědavém štěňátku - Miler Zdeněk, Hercíková Iva",98,10,2017,72,Pikola,dětské,Hercíková Iva</p>,,"Roztomilé, ale nezkušené štěňátko se vydává na dobrodružnou cestu do okolního světa. Seznamuje se se sluníčkem, s kačerem, s včelkami i se žabkami. Někdy je to veselé, někdy...",157,201,"['Pikola, dětské', '', 'české, Miler Zdeněk, Hercíková Iva']"
+n673197342,Carola Wimmerová Rychlý jako vítr,100,1,2017,160,české,dětské,Carola Wimmerová</p>,,"Rychlý jako vítr Carola Wimmerová
+
+Majka se moc těší na letní prázdniny s táborem, kam má jet se svojí kamarádkou.
+
+Třídní učitel ji ale nechává propadnout a její sen se pomalu...",173,229,"['Computer Press, dětské', '', 'české, Carola Wimmerová']"
+n535419369,Atlas velkých měst celého světa,0,0,2017,96,Pikola,dětské,Šohajek Zdeněk</p>,,"Tato velkoformátová kniha nabízí čtenářům ve věku 7–11 let úchvatné turné po 20 nejkrásnějších, nejvýznamnějších a nejzajímavějších velkých městech světa.
+Seznámí je nejen s...",276,353,"['Pikola, dětské', '', 'české, Šohajek Zdeněk']"
+n567499097,Minecraft - Nejlepší spojovačky - Moore Gareth,100,5,2017,64,české,dětské,Gareth Moore</p>,,"Fandové Minecraftu, radujte se! Nyní se k vám dostává soubor výjimečných spojovaček z kostičkovaného světa, které jinde nenajdete. Dostanete se do nejhlubšího dolu i na...",138,199,"['Computer Press, dětské', '', 'české, Gareth Moore']"
+n652276500,Vlna se blíží - Lauren Tarhisová,0,0,2017,112,české,dětské,Lauren Tarhisová</p>,,"Akční a dobrodružný příběh pro děti, který naučí o dějinách více než leckterá hodina dějepisu.
+
+To neštěstí prožíval celý svět… Pro Bena byla návštěva otcova rodného města po...",117,152,"['Computer Press, dětské', '', 'české, Lauren Tarhisová']"
+n522705312,Hádanky pro školáky,100,5,2017,128,Portál,dětské,Zuzana Pospíšilová</p>,,"Soubor hádanek je určený pro děti školního věku od třetí třídy výše, přičemž obtížnost jednotlivých hádanek postupně stoupá. Cílem knihy je děti poutavým způsobem seznámit s...",218,269,"['Portál, dětské', '', 'české, Zuzana Pospíšilová']"
+n569088272,"Česká říkadla, písničky a pohádky - Milada Motlová",93,3,2017,104,Pikola,dětské,Milada Motlová</p>,,"V barevně ilustrované knížce na děti čekají nejznámější lidová říkadla: třeba Šiju boty, Paci, paci, Vařila myšička kašičku, Byl jeden domeček, Šel Janeček na kopeček, Oženil...",169,201,"['Pikola, dětské', '', 'české, Milada Motlová']"
+n558940732,VELKÝ VYSVĚTLOVAČ - Složité věci popsané jednoduchými slovy - Randall Munroe,80,5,2017,64,Práh,dětské,Randall Munroe</p>,,"Složité věci popsané jednoduchými slovy
+
+Od autora bestselleru Co kdyby
+
+Velký formát, skládačky, nákresy…
+
+Pro děti, mládež i všechny zvídavce
+
+Do rukou se vám dostává kniha,...",272,399,"['Práh, dětské', '', 'české, Randall Munroe']"
+n565760882,Dračí polévka - Ježková Alena,0,0,2017,96,Olympia,dětské,Ježková Alena</p>,,"Příběh o vietnamském chlapci Longovi, který žije dva životy: ve škole mluví česky a jmenuje se Láďa, doma mluví vietnamsky. Long hledá sám sebe. Pomáhá mu v tom děda, který umí...",177,269,"['Olympia, dětské', '', 'české, Ježková Alena']"
+n556695098,Sopka se probouzí - Lauren Tarhisová,100,4,2017,128,české,dětské,Lauren Tarshisová</p>,,"Obyvatele Pompejí, už otřesy půdy pod jejich nohama nijak zvlášť neznepokojují. Jsou přesvědčeni, že uvnitř hory žije obrovské zvíře, které se jednou za čas probouzí vzteklé a...",119,152,"['Computer Press, dětské', '', 'české, Lauren Tarshisová']"
+n475322912,Dubánci - příběhy jednoho roku - Petr Václavek,90,5,2017,120,české,dětské,Slávek Rydval,,"Prohlédněte si ukázkovou kapitolu této úžasné knížky. Před dubem, za dubem nesmí nikdo stát? Ale kdepak, jsou tam přece pohádkoví Dubánci. Víte, že Dubánci skutečně existují?...",170,249,"['Computer Press, dětské', '', 'české, Petr Václavek, Slávek Rydval']"
+n527271405,"Krtek a televize - Miler Zdeněk, Doskočilová Hana",0,0,2017,48,Pikola,dětské,Miler Zdeněk</p>,,Naše předškoláky i prvňáčky určitě pobaví nový příběh Krtečka a jeho kamarádů. Tentokrát v něm důležitou roli hraje televize - přivezl ji šnek ve svém domečku a všem obyvatelům...,135,171,"['Pikola, dětské', '', 'české, Miler Zdeněk']"
+n505848397,Byl jednou jeden domeček,0,0,2017,24,české,dětské,Marcela Konárková</p>,,"Byl jednou jeden domeček / There Once Was a Little...
+Lidová říkanka pro děti v netradičním provedení. Kombinace recyklovaného a barevného papíru vám nabídne nejen vizuální,...",441,490,"['Pop - Pap, dětské', '', 'české, Marcela Konárková']"
+n541650315,"Podívej, jak je hezky u zvířátek",75,1,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z přírody a ze zoologické zahrady plné podnětů, které ukazují, jaká zvířátka žijí...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n550905357,"Víš, co má v plínce myš? - Guido van Genechten",95,29,2017,32,české,dětské,Guido van Genechten</p>,,"Půvabná kreslená knížka známého belgického spisovatele a ilustrátora Guido van Genechtena, která se brzy stala světovým bestsellerem. S textem básníka Hynka Viléma pobaví...",150,237,"['Barrister & Principal, dětské', '', 'české, Guido van Genechten']"
+n560643206,Hledej Krtka - Miler Zdeněk,92,11,2017,12,Pikola,dětské,Zdeněk Miler</p>,,"Dokážete na stránkách knížky najít Krtečka a všechny jeho kamarády? V lese, kolem krtiny i na louce se pořád děje spousta zajímavých věcí. Pečlivě si prohlédněte obrázky a sami...",142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n522705345,vílí býlí,98,9,2017,112,Portál,dětské,Radomír Socha</p>,,"Když holčička Janinka objeví na půdě babiččiny chaloupky starodávný ilustrovaný herbář, začnou se dít podivné věci. Herbář je totiž kouzelný a ukrývá v sobě neuvěřitelná...",215,302,"['Portál, dětské', '', 'české, Radomír Socha']"
+n472889976,Vtipy pro děti,99,14,2017,104,české,dětské,Computer Press,,"Cpress Vtipy pro děti
+
+Kniha plná vtipů, které zaručeně pobaví každého čtenáře.
+
+Smích léčí a každý den našeho života, kdy jsme se nezasmáli je ztracený.
+
+Věděli jste, že při...",103,149,"['Computer Press, dětské', '', 'české, CPress']"
+n567663719,Husa Líza - Petr Horáček,92,3,2017,40,Portál,dětské,Petr Horáček</p>,,"Husa Líza by moc chtěla být jiná než ostatní husy. 
+
+ Chtěla by umět klapat zobákem tak silně jako tukan, plavat jako tuleň a skákat tak jako klokan. Ale když se pokusí zařvat...",120,159,"['Portál, dětské', '', 'české, Petr Horáček']"
+n560643208,Hledej Krtka na cestách - Miler Zdeněk,90,5,2017,12,Pikola,dětské,Zdeněk Miler</p>,,Krteček se docela sám vydal do světa. Na cestách se setkává se spoustou kamarádů a užije si s nimi hodně legrace. Pečlivě si prohlédněte obrázky a sami uvidíte. Obrázkové...,142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n535419367,Atlas zvířat celého světa,83,3,2017,96,Pikola,dětské,Zdeněk Šohajek</p>,,"Tato velkoformátová kniha se stane pro čtenáře ve věku 7–11 let průvodcem po světě zvířat, která obývají naši planetu. Typická zvířena jednotlivých světadílů a geografických...",276,353,"['Pikola, dětské', '', 'české, Zdeněk Šohajek']"
+n546641393,Louskáček - Leysenová An,100,6,2017,48,Pikola,dětské,An Leysenová</p>,,Klárka s bratrem Fritzem Vánoce zbožňují. Každoročně jim strýček Drosselmeyer nadělí nějaký zvláštní vánoční dárek. Letos dostane Klárka dřevěného vojáčka. Je to louskáček na...,157,201,"['Pikola, dětské', '', 'české, An Leysenová']"
+n491226227,Co se děje v přírodě - Anne Suess,97,11,2017,10,Pikola,dětské,Anne Suess</p>,,"Na okraji polí, v lese, u rybníka nebo v noci – v této krásné knize najdeš na každé stránce víc než 30 zvířátek. Kde žije netopýr? Jak vypadá rákosník obecný? Kdo najde žábu?...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n560643205,Veseláha o malém Krtkovi - Miler Zdeněk,60,5,2017,32,Pikola,dětské,Zdeněk Miler</p>,,"Zažijte s Krtečkem spoustu zábavy a poznejte s ním svět. Co dělá Krteček přes den, jaká dobrodružství zažívá v přírodě a jaká na báječných výletech po světě? Pečlivě si...",181,232,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n541650317,"Podívej, jak je hezky ve městě a na venkově",93,5,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z města a z venkova plné podnětů, které ukazují, co se děje na ulici, před školou...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n491226226,Co se děje po celý rok? - Anne Suess,90,16,2017,10,Pikola,dětské,Anne Suess</p>,,"Knížka podporuje pozorovací schopnosti a podněcuje fantazii, rozvíjí jazyk a rozšiřuje slovní zásobu. Situace z každodenního života napomáhají k lepší orientaci ve světě, který...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n458730470,První čtení s počítáním,100,1,2017,64,Portál,dětské,Iva Nováková</p>,,"Autorský pracovní sešit je tvořený tematickými dvoustránkami, na kterých si dítě procvičí jednak čtení s porozuměním (krátké vyprávění s následným jednoduchým úkolem, jehož...",127,159,"['Portál, dětské', '', 'české, Iva Nováková']"
+n503026809,Co mají na práci myšky a myšáci - Robin Král,98,4,2017,96,Pikola,dětské,Robin Král</p>,,"Do rukou se vám dostala interaktivní knížka určená především předškolním dětem k rozvíjení jejich řečových schopností. Na velkých obrázcích si můžou hledat, co myšky a myšáci a...",157,201,"['Pikola, dětské', '', 'české, Robin Král']"
+n547897118,"Ztracený princ Margarín - Twain Mark, Stead Philip",0,0,2017,152,Pikola,dětské,Philip Stead</p>,,"Jednou večer, bylo to ve vzdálených 80. letech 19. století, se zrodil pohádkový příběh, který na své objevení čekal více než celé století.. Tehdy, v jednom pařížském hotelu, si...",209,302,"['Pikola, dětské', '', 'české, Mark Twain, Philip Stead']"
+n489596520,"Kniha o přírodě - van Borkulo Nicole, Roebers Geert-Jan",90,2,2017,64,Pikola,dětské,Geert-Jan </p>,,"Nechejte děti dívat se na přírodu jinýma očima!
+
+Každý z nás si pamatuje, s jakým okouzlením sbíral mušle na pláži, žasl nad barvami podzimního listí, obdivoval let motýla a...",237,302,"['Pikola, dětské', '', 'české, Nicole van Borkulo, Geert-Jan']"
+n572212886,"O zvědavém štěňátku - Miler Zdeněk, Hercíková Iva",98,10,2017,72,Pikola,dětské,Hercíková Iva</p>,,"Roztomilé, ale nezkušené štěňátko se vydává na dobrodružnou cestu do okolního světa. Seznamuje se se sluníčkem, s kačerem, s včelkami i se žabkami. Někdy je to veselé, někdy...",157,201,"['Pikola, dětské', '', 'české, Miler Zdeněk, Hercíková Iva']"
+n673197342,Carola Wimmerová Rychlý jako vítr,100,1,2017,160,české,dětské,Carola Wimmerová</p>,,"Rychlý jako vítr Carola Wimmerová
+
+Majka se moc těší na letní prázdniny s táborem, kam má jet se svojí kamarádkou.
+
+Třídní učitel ji ale nechává propadnout a její sen se pomalu...",173,229,"['Computer Press, dětské', '', 'české, Carola Wimmerová']"
+n535419369,Atlas velkých měst celého světa,0,0,2017,96,Pikola,dětské,Šohajek Zdeněk</p>,,"Tato velkoformátová kniha nabízí čtenářům ve věku 7–11 let úchvatné turné po 20 nejkrásnějších, nejvýznamnějších a nejzajímavějších velkých městech světa.
+Seznámí je nejen s...",276,353,"['Pikola, dětské', '', 'české, Šohajek Zdeněk']"
+n567499097,Minecraft - Nejlepší spojovačky - Moore Gareth,100,5,2017,64,české,dětské,Gareth Moore</p>,,"Fandové Minecraftu, radujte se! Nyní se k vám dostává soubor výjimečných spojovaček z kostičkovaného světa, které jinde nenajdete. Dostanete se do nejhlubšího dolu i na...",138,199,"['Computer Press, dětské', '', 'české, Gareth Moore']"
+n652276500,Vlna se blíží - Lauren Tarhisová,0,0,2017,112,české,dětské,Lauren Tarhisová</p>,,"Akční a dobrodružný příběh pro děti, který naučí o dějinách více než leckterá hodina dějepisu.
+
+To neštěstí prožíval celý svět… Pro Bena byla návštěva otcova rodného města po...",117,152,"['Computer Press, dětské', '', 'české, Lauren Tarhisová']"
+n522705312,Hádanky pro školáky,100,5,2017,128,Portál,dětské,Zuzana Pospíšilová</p>,,"Soubor hádanek je určený pro děti školního věku od třetí třídy výše, přičemž obtížnost jednotlivých hádanek postupně stoupá. Cílem knihy je děti poutavým způsobem seznámit s...",218,269,"['Portál, dětské', '', 'české, Zuzana Pospíšilová']"
+n569088272,"Česká říkadla, písničky a pohádky - Milada Motlová",93,3,2017,104,Pikola,dětské,Milada Motlová</p>,,"V barevně ilustrované knížce na děti čekají nejznámější lidová říkadla: třeba Šiju boty, Paci, paci, Vařila myšička kašičku, Byl jeden domeček, Šel Janeček na kopeček, Oženil...",169,201,"['Pikola, dětské', '', 'české, Milada Motlová']"
+n565760882,Dračí polévka - Ježková Alena,0,0,2017,96,Olympia,dětské,Ježková Alena</p>,,"Příběh o vietnamském chlapci Longovi, který žije dva životy: ve škole mluví česky a jmenuje se Láďa, doma mluví vietnamsky. Long hledá sám sebe. Pomáhá mu v tom děda, který umí...",177,269,"['Olympia, dětské', '', 'české, Ježková Alena']"
+n558940732,VELKÝ VYSVĚTLOVAČ - Složité věci popsané jednoduchými slovy - Randall Munroe,80,5,2017,64,Práh,dětské,Randall Munroe</p>,,"Složité věci popsané jednoduchými slovy
+
+Od autora bestselleru Co kdyby
+
+Velký formát, skládačky, nákresy…
+
+Pro děti, mládež i všechny zvídavce
+
+Do rukou se vám dostává kniha,...",272,399,"['Práh, dětské', '', 'české, Randall Munroe']"
+n556695098,Sopka se probouzí - Lauren Tarhisová,100,4,2017,128,české,dětské,Lauren Tarshisová</p>,,"Obyvatele Pompejí, už otřesy půdy pod jejich nohama nijak zvlášť neznepokojují. Jsou přesvědčeni, že uvnitř hory žije obrovské zvíře, které se jednou za čas probouzí vzteklé a...",119,152,"['Computer Press, dětské', '', 'české, Lauren Tarshisová']"
+n475322912,Dubánci - příběhy jednoho roku - Petr Václavek,90,5,2017,120,české,dětské,Slávek Rydval,,"Prohlédněte si ukázkovou kapitolu této úžasné knížky. Před dubem, za dubem nesmí nikdo stát? Ale kdepak, jsou tam přece pohádkoví Dubánci. Víte, že Dubánci skutečně existují?...",170,249,"['Computer Press, dětské', '', 'české, Petr Václavek, Slávek Rydval']"
+n527271405,"Krtek a televize - Miler Zdeněk, Doskočilová Hana",0,0,2017,48,Pikola,dětské,Miler Zdeněk</p>,,Naše předškoláky i prvňáčky určitě pobaví nový příběh Krtečka a jeho kamarádů. Tentokrát v něm důležitou roli hraje televize - přivezl ji šnek ve svém domečku a všem obyvatelům...,135,171,"['Pikola, dětské', '', 'české, Miler Zdeněk']"
+n505848397,Byl jednou jeden domeček,0,0,2017,24,české,dětské,Marcela Konárková</p>,,"Byl jednou jeden domeček / There Once Was a Little...
+Lidová říkanka pro děti v netradičním provedení. Kombinace recyklovaného a barevného papíru vám nabídne nejen vizuální,...",441,490,"['Pop - Pap, dětské', '', 'české, Marcela Konárková']"
+n541650315,"Podívej, jak je hezky u zvířátek",75,1,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z přírody a ze zoologické zahrady plné podnětů, které ukazují, jaká zvířátka žijí...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n550905357,"Víš, co má v plínce myš? - Guido van Genechten",95,29,2017,32,české,dětské,Guido van Genechten</p>,,"Půvabná kreslená knížka známého belgického spisovatele a ilustrátora Guido van Genechtena, která se brzy stala světovým bestsellerem. S textem básníka Hynka Viléma pobaví...",150,237,"['Barrister & Principal, dětské', '', 'české, Guido van Genechten']"
+n560643206,Hledej Krtka - Miler Zdeněk,92,11,2017,12,Pikola,dětské,Zdeněk Miler</p>,,"Dokážete na stránkách knížky najít Krtečka a všechny jeho kamarády? V lese, kolem krtiny i na louce se pořád děje spousta zajímavých věcí. Pečlivě si prohlédněte obrázky a sami...",142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n522705345,vílí býlí,98,9,2017,112,Portál,dětské,Radomír Socha</p>,,"Když holčička Janinka objeví na půdě babiččiny chaloupky starodávný ilustrovaný herbář, začnou se dít podivné věci. Herbář je totiž kouzelný a ukrývá v sobě neuvěřitelná...",215,302,"['Portál, dětské', '', 'české, Radomír Socha']"
+n472889976,Vtipy pro děti,99,14,2017,104,české,dětské,Computer Press,,"Cpress Vtipy pro děti
+
+Kniha plná vtipů, které zaručeně pobaví každého čtenáře.
+
+Smích léčí a každý den našeho života, kdy jsme se nezasmáli je ztracený.
+
+Věděli jste, že při...",103,149,"['Computer Press, dětské', '', 'české, CPress']"
+n567663719,Husa Líza - Petr Horáček,92,3,2017,40,Portál,dětské,Petr Horáček</p>,,"Husa Líza by moc chtěla být jiná než ostatní husy. 
+
+ Chtěla by umět klapat zobákem tak silně jako tukan, plavat jako tuleň a skákat tak jako klokan. Ale když se pokusí zařvat...",120,159,"['Portál, dětské', '', 'české, Petr Horáček']"
+n560643208,Hledej Krtka na cestách - Miler Zdeněk,90,5,2017,12,Pikola,dětské,Zdeněk Miler</p>,,Krteček se docela sám vydal do světa. Na cestách se setkává se spoustou kamarádů a užije si s nimi hodně legrace. Pečlivě si prohlédněte obrázky a sami uvidíte. Obrázkové...,142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n535419367,Atlas zvířat celého světa,83,3,2017,96,Pikola,dětské,Zdeněk Šohajek</p>,,"Tato velkoformátová kniha se stane pro čtenáře ve věku 7–11 let průvodcem po světě zvířat, která obývají naši planetu. Typická zvířena jednotlivých světadílů a geografických...",276,353,"['Pikola, dětské', '', 'české, Zdeněk Šohajek']"
+n546641393,Louskáček - Leysenová An,100,6,2017,48,Pikola,dětské,An Leysenová</p>,,Klárka s bratrem Fritzem Vánoce zbožňují. Každoročně jim strýček Drosselmeyer nadělí nějaký zvláštní vánoční dárek. Letos dostane Klárka dřevěného vojáčka. Je to louskáček na...,157,201,"['Pikola, dětské', '', 'české, An Leysenová']"
+n491226227,Co se děje v přírodě - Anne Suess,97,11,2017,10,Pikola,dětské,Anne Suess</p>,,"Na okraji polí, v lese, u rybníka nebo v noci – v této krásné knize najdeš na každé stránce víc než 30 zvířátek. Kde žije netopýr? Jak vypadá rákosník obecný? Kdo najde žábu?...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n560643205,Veseláha o malém Krtkovi - Miler Zdeněk,60,5,2017,32,Pikola,dětské,Zdeněk Miler</p>,,"Zažijte s Krtečkem spoustu zábavy a poznejte s ním svět. Co dělá Krteček přes den, jaká dobrodružství zažívá v přírodě a jaká na báječných výletech po světě? Pečlivě si...",181,232,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n541650317,"Podívej, jak je hezky ve městě a na venkově",93,5,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z města a z venkova plné podnětů, které ukazují, co se děje na ulici, před školou...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n491226226,Co se děje po celý rok? - Anne Suess,90,16,2017,10,Pikola,dětské,Anne Suess</p>,,"Knížka podporuje pozorovací schopnosti a podněcuje fantazii, rozvíjí jazyk a rozšiřuje slovní zásobu. Situace z každodenního života napomáhají k lepší orientaci ve světě, který...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n458730470,První čtení s počítáním,100,1,2017,64,Portál,dětské,Iva Nováková</p>,,"Autorský pracovní sešit je tvořený tematickými dvoustránkami, na kterých si dítě procvičí jednak čtení s porozuměním (krátké vyprávění s následným jednoduchým úkolem, jehož...",127,159,"['Portál, dětské', '', 'české, Iva Nováková']"
+n503026809,Co mají na práci myšky a myšáci - Robin Král,98,4,2017,96,Pikola,dětské,Robin Král</p>,,"Do rukou se vám dostala interaktivní knížka určená především předškolním dětem k rozvíjení jejich řečových schopností. Na velkých obrázcích si můžou hledat, co myšky a myšáci a...",157,201,"['Pikola, dětské', '', 'české, Robin Král']"
+n547897118,"Ztracený princ Margarín - Twain Mark, Stead Philip",0,0,2017,152,Pikola,dětské,Philip Stead</p>,,"Jednou večer, bylo to ve vzdálených 80. letech 19. století, se zrodil pohádkový příběh, který na své objevení čekal více než celé století.. Tehdy, v jednom pařížském hotelu, si...",209,302,"['Pikola, dětské', '', 'české, Mark Twain, Philip Stead']"
+n489596520,"Kniha o přírodě - van Borkulo Nicole, Roebers Geert-Jan",90,2,2017,64,Pikola,dětské,Geert-Jan </p>,,"Nechejte děti dívat se na přírodu jinýma očima!
+
+Každý z nás si pamatuje, s jakým okouzlením sbíral mušle na pláži, žasl nad barvami podzimního listí, obdivoval let motýla a...",237,302,"['Pikola, dětské', '', 'české, Nicole van Borkulo, Geert-Jan']"
+n572212886,"O zvědavém štěňátku - Miler Zdeněk, Hercíková Iva",98,10,2017,72,Pikola,dětské,Hercíková Iva</p>,,"Roztomilé, ale nezkušené štěňátko se vydává na dobrodružnou cestu do okolního světa. Seznamuje se se sluníčkem, s kačerem, s včelkami i se žabkami. Někdy je to veselé, někdy...",157,201,"['Pikola, dětské', '', 'české, Miler Zdeněk, Hercíková Iva']"
+n673197342,Carola Wimmerová Rychlý jako vítr,100,1,2017,160,české,dětské,Carola Wimmerová</p>,,"Rychlý jako vítr Carola Wimmerová
+
+Majka se moc těší na letní prázdniny s táborem, kam má jet se svojí kamarádkou.
+
+Třídní učitel ji ale nechává propadnout a její sen se pomalu...",173,229,"['Computer Press, dětské', '', 'české, Carola Wimmerová']"
+n535419369,Atlas velkých měst celého světa,0,0,2017,96,Pikola,dětské,Šohajek Zdeněk</p>,,"Tato velkoformátová kniha nabízí čtenářům ve věku 7–11 let úchvatné turné po 20 nejkrásnějších, nejvýznamnějších a nejzajímavějších velkých městech světa.
+Seznámí je nejen s...",276,353,"['Pikola, dětské', '', 'české, Šohajek Zdeněk']"
+n567499097,Minecraft - Nejlepší spojovačky - Moore Gareth,100,5,2017,64,české,dětské,Gareth Moore</p>,,"Fandové Minecraftu, radujte se! Nyní se k vám dostává soubor výjimečných spojovaček z kostičkovaného světa, které jinde nenajdete. Dostanete se do nejhlubšího dolu i na...",138,199,"['Computer Press, dětské', '', 'české, Gareth Moore']"
+n652276500,Vlna se blíží - Lauren Tarhisová,0,0,2017,112,české,dětské,Lauren Tarhisová</p>,,"Akční a dobrodružný příběh pro děti, který naučí o dějinách více než leckterá hodina dějepisu.
+
+To neštěstí prožíval celý svět… Pro Bena byla návštěva otcova rodného města po...",117,152,"['Computer Press, dětské', '', 'české, Lauren Tarhisová']"
+n522705312,Hádanky pro školáky,100,5,2017,128,Portál,dětské,Zuzana Pospíšilová</p>,,"Soubor hádanek je určený pro děti školního věku od třetí třídy výše, přičemž obtížnost jednotlivých hádanek postupně stoupá. Cílem knihy je děti poutavým způsobem seznámit s...",218,269,"['Portál, dětské', '', 'české, Zuzana Pospíšilová']"
+n569088272,"Česká říkadla, písničky a pohádky - Milada Motlová",93,3,2017,104,Pikola,dětské,Milada Motlová</p>,,"V barevně ilustrované knížce na děti čekají nejznámější lidová říkadla: třeba Šiju boty, Paci, paci, Vařila myšička kašičku, Byl jeden domeček, Šel Janeček na kopeček, Oženil...",169,201,"['Pikola, dětské', '', 'české, Milada Motlová']"
+n565760882,Dračí polévka - Ježková Alena,0,0,2017,96,Olympia,dětské,Ježková Alena</p>,,"Příběh o vietnamském chlapci Longovi, který žije dva životy: ve škole mluví česky a jmenuje se Láďa, doma mluví vietnamsky. Long hledá sám sebe. Pomáhá mu v tom děda, který umí...",177,269,"['Olympia, dětské', '', 'české, Ježková Alena']"
+n558940732,VELKÝ VYSVĚTLOVAČ - Složité věci popsané jednoduchými slovy - Randall Munroe,80,5,2017,64,Práh,dětské,Randall Munroe</p>,,"Složité věci popsané jednoduchými slovy
+
+Od autora bestselleru Co kdyby
+
+Velký formát, skládačky, nákresy…
+
+Pro děti, mládež i všechny zvídavce
+
+Do rukou se vám dostává kniha,...",272,399,"['Práh, dětské', '', 'české, Randall Munroe']"
+n556695098,Sopka se probouzí - Lauren Tarhisová,100,4,2017,128,české,dětské,Lauren Tarshisová</p>,,"Obyvatele Pompejí, už otřesy půdy pod jejich nohama nijak zvlášť neznepokojují. Jsou přesvědčeni, že uvnitř hory žije obrovské zvíře, které se jednou za čas probouzí vzteklé a...",119,152,"['Computer Press, dětské', '', 'české, Lauren Tarshisová']"
+n475322912,Dubánci - příběhy jednoho roku - Petr Václavek,90,5,2017,120,české,dětské,Slávek Rydval,,"Prohlédněte si ukázkovou kapitolu této úžasné knížky. Před dubem, za dubem nesmí nikdo stát? Ale kdepak, jsou tam přece pohádkoví Dubánci. Víte, že Dubánci skutečně existují?...",170,249,"['Computer Press, dětské', '', 'české, Petr Václavek, Slávek Rydval']"
+n527271405,"Krtek a televize - Miler Zdeněk, Doskočilová Hana",0,0,2017,48,Pikola,dětské,Miler Zdeněk</p>,,Naše předškoláky i prvňáčky určitě pobaví nový příběh Krtečka a jeho kamarádů. Tentokrát v něm důležitou roli hraje televize - přivezl ji šnek ve svém domečku a všem obyvatelům...,135,171,"['Pikola, dětské', '', 'české, Miler Zdeněk']"
+n505848397,Byl jednou jeden domeček,0,0,2017,24,české,dětské,Marcela Konárková</p>,,"Byl jednou jeden domeček / There Once Was a Little...
+Lidová říkanka pro děti v netradičním provedení. Kombinace recyklovaného a barevného papíru vám nabídne nejen vizuální,...",441,490,"['Pop - Pap, dětské', '', 'české, Marcela Konárková']"
+n541650315,"Podívej, jak je hezky u zvířátek",75,1,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z přírody a ze zoologické zahrady plné podnětů, které ukazují, jaká zvířátka žijí...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n550905357,"Víš, co má v plínce myš? - Guido van Genechten",95,29,2017,32,české,dětské,Guido van Genechten</p>,,"Půvabná kreslená knížka známého belgického spisovatele a ilustrátora Guido van Genechtena, která se brzy stala světovým bestsellerem. S textem básníka Hynka Viléma pobaví...",150,237,"['Barrister & Principal, dětské', '', 'české, Guido van Genechten']"
+n560643206,Hledej Krtka - Miler Zdeněk,92,11,2017,12,Pikola,dětské,Zdeněk Miler</p>,,"Dokážete na stránkách knížky najít Krtečka a všechny jeho kamarády? V lese, kolem krtiny i na louce se pořád děje spousta zajímavých věcí. Pečlivě si prohlédněte obrázky a sami...",142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n522705345,vílí býlí,98,9,2017,112,Portál,dětské,Radomír Socha</p>,,"Když holčička Janinka objeví na půdě babiččiny chaloupky starodávný ilustrovaný herbář, začnou se dít podivné věci. Herbář je totiž kouzelný a ukrývá v sobě neuvěřitelná...",215,302,"['Portál, dětské', '', 'české, Radomír Socha']"
+n472889976,Vtipy pro děti,99,14,2017,104,české,dětské,Computer Press,,"Cpress Vtipy pro děti
+
+Kniha plná vtipů, které zaručeně pobaví každého čtenáře.
+
+Smích léčí a každý den našeho života, kdy jsme se nezasmáli je ztracený.
+
+Věděli jste, že při...",103,149,"['Computer Press, dětské', '', 'české, CPress']"
+n567663719,Husa Líza - Petr Horáček,92,3,2017,40,Portál,dětské,Petr Horáček</p>,,"Husa Líza by moc chtěla být jiná než ostatní husy. 
+
+ Chtěla by umět klapat zobákem tak silně jako tukan, plavat jako tuleň a skákat tak jako klokan. Ale když se pokusí zařvat...",120,159,"['Portál, dětské', '', 'české, Petr Horáček']"
+n560643208,Hledej Krtka na cestách - Miler Zdeněk,90,5,2017,12,Pikola,dětské,Zdeněk Miler</p>,,Krteček se docela sám vydal do světa. Na cestách se setkává se spoustou kamarádů a užije si s nimi hodně legrace. Pečlivě si prohlédněte obrázky a sami uvidíte. Obrázkové...,142,181,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n535419367,Atlas zvířat celého světa,83,3,2017,96,Pikola,dětské,Zdeněk Šohajek</p>,,"Tato velkoformátová kniha se stane pro čtenáře ve věku 7–11 let průvodcem po světě zvířat, která obývají naši planetu. Typická zvířena jednotlivých světadílů a geografických...",276,353,"['Pikola, dětské', '', 'české, Zdeněk Šohajek']"
+n546641393,Louskáček - Leysenová An,100,6,2017,48,Pikola,dětské,An Leysenová</p>,,Klárka s bratrem Fritzem Vánoce zbožňují. Každoročně jim strýček Drosselmeyer nadělí nějaký zvláštní vánoční dárek. Letos dostane Klárka dřevěného vojáčka. Je to louskáček na...,157,201,"['Pikola, dětské', '', 'české, An Leysenová']"
+n491226227,Co se děje v přírodě - Anne Suess,97,11,2017,10,Pikola,dětské,Anne Suess</p>,,"Na okraji polí, v lese, u rybníka nebo v noci – v této krásné knize najdeš na každé stránce víc než 30 zvířátek. Kde žije netopýr? Jak vypadá rákosník obecný? Kdo najde žábu?...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n560643205,Veseláha o malém Krtkovi - Miler Zdeněk,60,5,2017,32,Pikola,dětské,Zdeněk Miler</p>,,"Zažijte s Krtečkem spoustu zábavy a poznejte s ním svět. Co dělá Krteček přes den, jaká dobrodružství zažívá v přírodě a jaká na báječných výletech po světě? Pečlivě si...",181,232,"['Pikola, dětské', '', 'české, Zdeněk Miler']"
+n541650317,"Podívej, jak je hezky ve městě a na venkově",93,5,2017,24,,dětské,,,"Velké poznávací leporelo pro nejmenší děti. Leporelo obsahuje dvoustránkové přehledné obrázky z města a z venkova plné podnětů, které ukazují, co se děje na ulici, před školou...",142,181,"['Pikola, dětské', '', 'české, Pikola']"
+n491226226,Co se děje po celý rok? - Anne Suess,90,16,2017,10,Pikola,dětské,Anne Suess</p>,,"Knížka podporuje pozorovací schopnosti a podněcuje fantazii, rozvíjí jazyk a rozšiřuje slovní zásobu. Situace z každodenního života napomáhají k lepší orientaci ve světě, který...",126,161,"['Pikola, dětské', '', 'české, Anne Suess']"
+n458730470,První čtení s počítáním,100,1,2017,64,Portál,dětské,Iva Nováková</p>,,"Autorský pracovní sešit je tvořený tematickými dvoustránkami, na kterých si dítě procvičí jednak čtení s porozuměním (krátké vyprávění s následným jednoduchým úkolem, jehož...",127,159,"['Portál, dětské', '', 'české, Iva Nováková']"
+n503026809,Co mají na práci myšky a myšáci - Robin Král,98,4,2017,96,Pikola,dětské,Robin Král</p>,,"Do rukou se vám dostala interaktivní knížka určená především předškolním dětem k rozvíjení jejich řečových schopností. Na velkých obrázcích si můžou hledat, co myšky a myšáci a...",157,201,"['Pikola, dětské', '', 'české, Robin Král']"
+n547897118,"Ztracený princ Margarín - Twain Mark, Stead Philip",0,0,2017,152,Pikola,dětské,Philip Stead</p>,,"Jednou večer, bylo to ve vzdálených 80. letech 19. století, se zrodil pohádkový příběh, který na své objevení čekal více než celé století.. Tehdy, v jednom pařížském hotelu, si...",209,302,"['Pikola, dětské', '', 'české, Mark Twain, Philip Stead']"
+n489596520,"Kniha o přírodě - van Borkulo Nicole, Roebers Geert-Jan",90,2,2017,64,Pikola,dětské,Geert-Jan </p>,,"Nechejte děti dívat se na přírodu jinýma očima!
+
+Každý z nás si pamatuje, s jakým okouzlením sbíral mušle na pláži, žasl nad barvami podzimního listí, obdivoval let motýla a...",237,302,"['Pikola, dětské', '', 'české, Nicole van Borkulo, Geert-Jan']"
+n572212886,"O zvědavém štěňátku - Miler Zdeněk, Hercíková Iva",98,10,2017,72,Pikola,dětské,Hercíková Iva</p>,,"Roztomilé, ale nezkušené štěňátko se vydává na dobrodružnou cestu do okolního světa. Seznamuje se se sluníčkem, s kačerem, s včelkami i se žabkami. Někdy je to veselé, někdy...",157,201,"['Pikola, dětské', '', 'české, Miler Zdeněk, Hercíková Iva']"
+n673197342,Carola Wimmerová Rychlý jako vítr,100,1,2017,160,české,dětské,Carola Wimmerová</p>,,"Rychlý jako vítr Carola Wimmerová
+
+Majka se moc těší na letní prázdniny s táborem, kam má jet se svojí kamarádkou.
+
+Třídní učitel ji ale nechává propadnout a její sen se pomalu...",173,229,"['Computer Press, dětské', '', 'české, Carola Wimmerová']"
+n535419369,Atlas velkých měst celého světa,0,0,2017,96,Pikola,dětské,Šohajek Zdeněk</p>,,"Tato velkoformátová kniha nabízí čtenářům ve věku 7–11 let úchvatné turné po 20 nejkrásnějších, nejvýznamnějších a nejzajímavějších velkých městech světa.
+Seznámí je nejen s...",276,353,"['Pikola, dětské', '', 'české, Šohajek Zdeněk']"
+n567499097,Minecraft - Nejlepší spojovačky - Moore Gareth,100,5,2017,64,české,dětské,Gareth Moore</p>,,"Fandové Minecraftu, radujte se! Nyní se k vám dostává soubor výjimečných spojovaček z kostičkovaného světa, které jinde nenajdete. Dostanete se do nejhlubšího dolu i na...",138,199,"['Computer Press, dětské', '', 'české, Gareth Moore']"
+n652276500,Vlna se blíží - Lauren Tarhisová,0,0,2017,112,české,dětské,Lauren Tarhisová</p>,,"Akční a dobrodružný příběh pro děti, který naučí o dějinách více než leckterá hodina dějepisu.
+
+To neštěstí prožíval celý svět… Pro Bena byla návštěva otcova rodného města po...",117,152,"['Computer Press, dětské', '', 'české, Lauren Tarhisová']"
+n522705312,Hádanky pro školáky,100,5,2017,128,Portál,dětské,Zuzana Pospíšilová</p>,,"Soubor hádanek je určený pro děti školního věku od třetí třídy výše, přičemž obtížnost jednotlivých hádanek postupně stoupá. Cílem knihy je děti poutavým způsobem seznámit s...",218,269,"['Portál, dětské', '', 'české, Zuzana Pospíšilová']"
+n569088272,"Česká říkadla, písničky a pohádky - Milada Motlová",93,3,2017,104,Pikola,dětské,Milada Motlová</p>,,"V barevně ilustrované knížce na děti čekají nejznámější lidová říkadla: třeba Šiju boty, Paci, paci, Vařila myšička kašičku, Byl jeden domeček, Šel Janeček na kopeček, Oženil...",169,201,"['Pikola, dětské', '', 'české, Milada Motlová']"
+n558940732,VELKÝ VYSVĚTLOVAČ - Složité věci popsané jednoduchými slovy - Randall Munroe,80,5,2017,64,Práh,dětské,Randall Munroe</p>,,"Složité věci popsané jednoduchými slovy
+
+Od autora bestselleru Co kdyby
+
+Velký formát, skládačky, nákresy…
+
+Pro děti, mládež i všechny zvídavce
+
+Do rukou se vám dostává kniha,...",272,399,"['Práh, dětské', '', 'české, Randall Munroe']"
+n565760882,Dračí polévka - Ježková Alena,0,0,2017,96,Olympia,dětské,Ježková Alena</p>,,"Příběh o vietnamském chlapci Longovi, který žije dva životy: ve škole mluví česky a jmenuje se Láďa, doma mluví vietnamsky. Long hledá sám sebe. Pomáhá mu v tom děda, který umí...",177,269,"['Olympia, dětské', '', 'české, Ježková Alena']"
+n556695098,Sopka se probouzí - Lauren Tarhisová,100,4,2017,128,české,dětské,Lauren Tarshisová</p>,,"Obyvatele Pompejí, už otřesy půdy pod jejich nohama nijak zvlášť neznepokojují. Jsou přesvědčeni, že uvnitř hory žije obrovské zvíře, které se jednou za čas probouzí vzteklé a...",119,152,"['Computer Press, dětské', '', 'české, Lauren Tarshisová']"
+n475322912,Dubánci - příběhy jednoho roku - Petr Václavek,90,5,2017,120,české,dětské,Slávek Rydval,,"Prohlédněte si ukázkovou kapitolu této úžasné knížky. Před dubem, za dubem nesmí nikdo stát? Ale kdepak, jsou tam přece pohádkoví Dubánci. Víte, že Dubánci skutečně existují?...",170,249,"['Computer Press, dětské', '', 'české, Petr Václavek, Slávek Rydval']"
+n527271405,"Krtek a televize - Miler Zdeněk, Doskočilová Hana",0,0,2017,48,Pikola,dětské,Miler Zdeněk</p>,,Naše předškoláky i prvňáčky určitě pobaví nový příběh Krtečka a jeho kamarádů. Tentokrát v něm důležitou roli hraje televize - přivezl ji šnek ve svém domečku a všem obyvatelům...,135,171,"['Pikola, dětské', '', 'české, Miler Zdeněk']"
+n505848397,Byl jednou jeden domeček,0,0,2017,24,české,dětské,Marcela Konárková</p>,,"Byl jednou jeden domeček / There Once Was a Little...
+Lidová říkanka pro děti v netradičním provedení. Kombinace recyklovaného a barevného papíru vám nabídne nejen vizuální,...",441,490,"['Pop - Pap, dětské', '', 'české, Marcela Konárková']"

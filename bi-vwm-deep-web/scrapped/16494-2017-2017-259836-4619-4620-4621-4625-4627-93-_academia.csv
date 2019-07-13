@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n550844081,Obrana liberálního vzdělávání - Zakaria Fareed,70,2,2017,128,Academia,beletrie,české</p>,,"Politici nejen ve Spojených státech a na Západě, ale například i v Japonsku projevují v posledních letech obavy z toho, že mnoho mladých lidí studuje obory, které jsou, stručně...",128,195,"['Academia, beletrie', '', 'české']"
+n486173428,Opšlstisova nadace - Stanislav Komárek,0,0,2017,140,Academia,beletrie,české</p>,,"Román se odehrává v osmdesátých letech 20. století ve Vídni, Istanbulu a New Yorku. Jeho hrdinou je mladý český turkolog, který odchází do emigrace, aby mohl studovat dějiny...",122,250,"['Academia, beletrie', '', 'české']"

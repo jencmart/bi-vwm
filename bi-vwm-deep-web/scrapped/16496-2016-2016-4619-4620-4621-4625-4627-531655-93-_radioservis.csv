@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n445636018,Rozdělený svět - Michal Stehlík,0,0,2016,296,Radioservis,naučná,české</p>,,"Proč nastal po roce 1945 český „rozvod“ se Západem? Jaký byl život
+za „železnou oponou“? Hrozí nám opět rozdělení světa a nová
+„studená válka“? Stojíme před novým rozkolem...",241,296,"['Radioservis, naučná', '', 'české']"

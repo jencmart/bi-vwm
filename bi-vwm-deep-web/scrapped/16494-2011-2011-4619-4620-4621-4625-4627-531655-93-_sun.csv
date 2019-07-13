@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n23705614,Olivový olej a další oleje,97,3,2011,80,Sun,naučná,české</p>,,"V knize  Olivový olej a další oleje  se dozvíme, že olej nemá v domácnosti zdaleka místo jen v kuchyni, ale uplatní se i při péči o zdraví a tělesnou schránku či při řešení...",62,99,"['Sun, naučná', '', 'české']"
+n24372013,Rostliny v květináčích a dalších nádobách,78,4,2011,104,Sun,naučná,české</p>,,"Rostliny v květináčích nás potěší nejen na zahrádce, ale i v bytě, nebo na balkoně. Existuje mnoho druhů se zajímavými listy, květy, s charakteristickým způsobem růstu....",63,99,"['Sun, naučná', '', 'české']"

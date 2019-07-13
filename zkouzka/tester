@@ -1,0 +1,173 @@
+#!/usr/bin/ruby
+
+class Question
+  def initialize(question)
+    @question = question
+    @answers = Array.new
+    @correct = -1
+  end
+
+  def addAnswer(text, isCorrect)
+    @answers.push(text)
+    if isCorrect
+      @correct = @answers.length - 1
+    end
+  end
+
+  def getCorrect()
+    return @correct
+  end
+
+  def getQuestion()
+    return @question
+  end
+
+  def getAnswers()
+    return @answers
+  end
+end
+def emoji(n)
+  return [n].pack('U*');
+end
+
+if ARGV.count != 1
+  puts "usage: vwm-tester [filename]"
+  abort
+end
+
+questions = Array.new
+
+File.open(ARGV[0]) do |f|
+  inQuestion = false
+  f.each_line do |line|
+    
+    if line.slice(0,2) == "//" || line.length < 2
+      inQuestion = false
+      if questions.last.getCorrect == -1
+        questions.pop
+      end
+        next
+    end
+
+    if inQuestion
+      if line.slice(-3, 2) == "//"
+        questions.last.addAnswer(line.slice(0, line.length - 3), true)
+      else
+        questions.last.addAnswer(line, false)
+      end
+    else
+      if line.slice(-2,1) == ":" || line.slice(-2,1) == "?"
+        inQuestion = true
+        questions.push(Question.new(line))
+        next
+      end
+    end
+    
+  end
+end
+
+failedAnswers=Array.new
+answeredArray=Array.new(questions.length)
+answeredArray.each_index do |j|
+    answeredArray[j]=0
+end
+option = "-"
+answered = 0
+correctly = 0
+random = Random.new
+
+puts "Parsed #{questions.length} questions."
+puts "Test started, enter \"q\" to quit."
+
+while option.strip != "q"
+  questionid = random.rand(questions.length)
+
+  if answeredArray[questionid-1] == 1
+    next
+  end
+
+  answeredArray[questionid-1] = 1
+  answered += 1
+
+  puts "\n[Question (#{questionid}): #{answered}/#{questions.length}]"
+  puts questions[questionid-1].getQuestion
+
+  answers = questions[questionid-1].getAnswers
+  correct = questions[questionid-1].getCorrect
+  
+  answersArray = Array.new(answers.length) {Array.new(2,-1)}
+  
+  no=0
+  answers.each do |x|
+    begin
+      rnd = random.rand(answers.length)
+    end while answersArray[rnd][0] != -1
+    answersArray[rnd][0] = no
+    if no == correct
+      answersArray[rnd][1] = true
+    else
+      answersArray[rnd][1] = false
+    end
+    no+=1
+  end
+  
+  no=0
+  answersArray.each do |x|
+=begin
+    x.each do |cell|
+      print cell;
+    end
+    puts ""
+=end
+    if x[1]
+      correct=no;
+    end
+    no+=1
+  end
+
+  answersArray.each_index do |i|
+    puts " - #{(65 + i).chr}) #{answers[answersArray[i][0]]}"
+  end
+
+  option = $stdin.readline
+
+  if option.length == 0
+    next
+  end
+=begin
+  puts "Zadana volba v prehazene tabulce answersArray: #{option.upcase.strip.ord - 65}"
+  puts "Correct=#{correct}"
+=end
+  print "\n"
+
+  if answersArray[option.upcase.strip.ord - 65][1]
+    correctly += 1
+    print "#{emoji(9989)}  CORRECT!"
+    puts "\t\t#{correctly}/#{answered}, #{((correctly.to_f/answered) * 100).round(2)} %"
+  else
+    print "#{emoji(128308)}  WRONG!"
+    puts "\t\t#{correctly}/#{answered}, #{((correctly.to_f/answered) * 100).round(2)} %"
+    puts "#{(65 + correct).chr}) #{answers[answersArray[correct][0]]}"
+    failedAnswers.push([questions[questionid-1].getQuestion, [answers[answersArray[correct][0]], answers[answersArray[option.upcase.strip.ord - 65][0]]]])
+  end
+
+  if answered >= questions.length
+    puts "\n--------------------------------------------------------------------------------------------"
+    puts "\tFinal score:\t\t#{((correctly.to_f/answered) * 100).round(2)} %"
+    puts "\tCorrect answers:\t#{correctly}/#{answered}"
+    puts "\tFailed answers:\t\t#{(answered-correctly)}/#{answered}"
+    if (correctly+correctly) >= answered
+      puts "\n\tSUCCESS\n"
+    else
+      puts "\n\tFAIL\n"
+    end
+    puts "--------------------------------------------------------------------------------------------"
+    puts "\nFailed answers:\n\n"
+    failedAnswers.each do |cell|
+      puts cell[0];
+      puts "#{emoji(9989)}  #{cell[1][0]}"
+      puts "#{emoji(128308)}  #{cell[1][1]}\n"
+    end
+    break
+  end
+end

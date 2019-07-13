@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n433832081,Saturnin - Zdeněk Antonín Jirotka,100,2,2016,256,Karolinum,beletrie,anglické</p>,,"Slavný humoristický román Zdeňka Jirotky navazuje na tradici českého humoru a autory, jakými byli J. Hašek, K. Čapek nebo K. Poláček, zároveň je zde také patrná inspirace...",209,280,"['Karolinum, beletrie', '', 'anglické']"
+n422281878,God &apos;s Rainbow (Jaroslav Durych),0,0,2016,256,Karolinum,beletrie,anglické</p>,,"Kniha o kolektivní vině, individuálním osudu a pokání. Autor se ptá, jak se stáváme odpovědnými za zločiny, kterých jsme se přímo nedopustili a ani jsme neměli sílu jim...",359,450,"['Karolinum, beletrie', '', 'anglické']"

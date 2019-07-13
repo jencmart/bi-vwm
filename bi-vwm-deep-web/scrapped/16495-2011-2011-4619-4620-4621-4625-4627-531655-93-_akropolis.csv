@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n39002786,Parlament v čase změny - Martin Polášek,0,0,2011,176,Akropolis,naučná,české</p>,,"Kniha představuje v šesti samostatných kapitolách vývoj parlamentních institucí na území českých zemí ve 20. století. Dynamika historických procesů, které česká společnost...",140,179,"['Akropolis, naučná', '', 'české']"
+n52501327,Máchovské rezonance,0,0,2011,214,Akropolis,naučná,české</p>,,"Kongres, pořádaný v pětiletých intervalech z iniciativy Ústavu pro českou literaturu AV ČR, v. v. i., byl tentokrát orientován spíše metodologicky - k zamýšlení se nad...",140,179,"['Akropolis, naučná', '', 'české']"

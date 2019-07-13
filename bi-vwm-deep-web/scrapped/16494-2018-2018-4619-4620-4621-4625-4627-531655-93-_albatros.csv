@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n608746631,Botanicum | Jenny Broomová,96,11,2018,112,Albatros,naučná,české</p>,,"Vítejte v Botanicu, jediném muzeu, které má otevřeno, kdykoliv se vám zachce. Vystavuje ty nejkrásnější, nejexotičtější a nejpodivnější rostliny, které ohromí každého čtenáře....",340,499,"['Albatros, naučná', '', 'české']"

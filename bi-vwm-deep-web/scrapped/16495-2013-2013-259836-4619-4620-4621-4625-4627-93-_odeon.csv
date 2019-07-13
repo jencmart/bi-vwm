@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n124066553,Nemáme na vybranou,0,0,2013,208,Odeon,beletrie,české</p>,,"Nemáme na vybranou kniha od autora Lustig Arnošt. Jeden den příměří izraelsko-arabského konfliktu: na přistávací ploše letiště v Rechaviahu se chystá večírek pilotů, na kopcích...",222,258,"['Odeon, beletrie', '', 'české']"
+n113070133,Dlouhý návrat Andrew Krivak,0,0,2013,176,Odeon,beletrie,české</p>,,"Prolog románu se odehrává na samém konci 19. století v coloradském hornickém městečku, v komunitě slovenských přistěhovalců. Ti, kteří dřinu doma vyměnili za jinou v cizí zemi,...",160,224,"['Odeon, beletrie', '', 'české']"

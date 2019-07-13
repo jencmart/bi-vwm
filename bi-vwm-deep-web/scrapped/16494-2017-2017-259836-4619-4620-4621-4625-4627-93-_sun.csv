@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n466944716,Staré řecké báje a pověsti,95,2,2017,108,Sun,beletrie,české</p>,,"Staré řecké báje a pověsti kniha od autora neuveden. Tato bohatě ilustrovaná kniha obsahuje klasické příběhy z řecké mytologie, které jsou moderně převyprávěné pro děti a...",84,129,"['Sun, beletrie', '', 'české']"
+n557212861,Poslední cesta / Doktor Korzcak a jeho děti - Maurizio A.C. Quarello,0,0,2017,60,Sun,beletrie,české</p>,,"29. listopadu 1940 kráčelo ulicemi Varšavy 170 dětí. Se sevřeným srdcem, ale vztyčenou hlavou opouštěli v čele s doktorem Korczakem svůj krásný sirotčinec na Krochmalné ulici a...",188,375,"['Sun, beletrie', '', 'české']"

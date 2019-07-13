@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n46802164,Titanic,96,2,2012,76,Taschen,naučná,české</p>,,"Velký, pozoruhodný a připravený k cestě na mořské dno - váš vlastní Titanic. 
+
+Těchto 12 archů vám umožní postavit věrný model nejslavnějšího zaoceánského parníku, který kdy...",269,269,"['Taschen, naučná', '', 'české']"

@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n48662531,Peugeot 207,92,13,2012,352,Kopp,naučná,české</p>,,"Kniha patří do řady automobilových příruček nazvané ""Jak na to?"". Příručka popisuje údržbu a opravy automobilů Peugeot 207, 207 SW a 207 CC a je vhodná pro profesionály i...",502,749,"['Kopp, naučná', '', 'české']"

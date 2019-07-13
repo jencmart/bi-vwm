@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n550389024,Oční lékařství - Pavel Rozsíval,0,0,2017,234,Galén,naučná,české</p>,,"Přepracovaná celostátní učebnice očního lékařství se dostává do rukou posluchačů medicíny po deseti letech od prvního vydání. Oční lékařství, podobně jako ostatní medicínské...",1,1,"['Galén, naučná', '', 'české']"
+n478975138,PITVA,97,2,2017,224,Galén,naučná,české</p>,,"Jedno z prvních úsloví, se kterým se setká každý student medicíny, praví: Mrtví učí živé. Medicína v dnešní době využívá mnoho nových technologií, intervenční a zobrazovací...",231,350,"['Galén, naučná', '', 'české']"

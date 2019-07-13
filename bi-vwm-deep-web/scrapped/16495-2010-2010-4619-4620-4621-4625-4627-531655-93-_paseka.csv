@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n13207533,Zmizelá Praha Tramvaje a tramvajové tratě - Pavel Fojtík,100,2,2010,188,Paseka,naučná,české</p>,,"V rámci tematické řady edice Zmizelá Praha vychází nyní první svazek věnovaný pražské hromadné dopravě. Od okamžiku, kdy vyjela koněspřežná tramvaj poprvé do pražských ulic, je...",253,360,"['Paseka, naučná', '', 'české']"
+n18844816,ZMIZELÁ PRAHA TRHY A TRŽIŠTĚ,100,2,2010,236,Paseka,naučná,české</p>,,"Kniha historičky Pavly Státníkové nás zavádí na tržiště a do zmizelých nebo značně proměněných budov tržnic staré Prahy. Ukazuje slovem a obrazem romantickou, každodenní i...",253,360,"['Paseka, naučná', '', 'české']"

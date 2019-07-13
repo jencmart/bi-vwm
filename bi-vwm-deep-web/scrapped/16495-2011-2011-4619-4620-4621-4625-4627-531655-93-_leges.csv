@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n36662236,Právní rádce odsouzeného,100,1,2011,224,Leges,naučná,české</p>,,Publikaci Právní rádce odsouzeného napsal Josef Matoulek a Helena Sejkorová. Praktická příručka přináší cenné rady a informace o průběhu vykonávacího řízení z hlediska...,290,363,"['Leges, naučná', '', 'české']"
+n32879567,Prezident republiky,0,0,2011,224,Leges,naučná,české</p>,,Publikace Prezident republiky se zabývá prezidentem republiky jako vrcholným státním orgánem z právního pohledu. Jde o první monografii o našem prezidentu republiky po knize...,348,376,"['Leges, naučná', '', 'české']"

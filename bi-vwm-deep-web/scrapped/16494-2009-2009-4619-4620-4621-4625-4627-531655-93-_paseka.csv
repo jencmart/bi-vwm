@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n51153710,Slezský šlechtic Felix Lichnovský,0,0,2009,164,Paseka,naučná,české</p>,,"Kníže Felix Lichnovský (1814-1848), příslušník aristokratické rodiny Lichnovských z Voštic z moravsko-slezského pomezí, dědic velkého panství, voják, nadaný žurnalista a...",185,249,"['Paseka, naučná', '', 'české']"
+n5125263,Klatovsko,0,0,2009,64,Paseka,naučná,české</p>,,"Zmizelé Čechy-Klatovsko kniha od autora Martin Kříž. Kniha Martina Kříže přináší svědectví o proměnách města Klatov, nedalekých Janovic nad Úhlavou a Plánic. Text, který je...",203,289,"['Paseka, naučná', '', 'české']"

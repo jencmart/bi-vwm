@@ -1,0 +1,47 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n175227855,O klíči - Pavel Čech,100,3,2014,84,Sun,dětské,Pavel Čech</p>,,"O klíči kniha od autora Pavel Čech. Krásně ilustrovaná autorská kniha pro děti a začínající čtenáře. Poetický příběh o dětské fantasii, kterou může rozjitřit i taková drobnost...",100,269,"['Sun, dětské', '', 'české, Pavel Čech']"
+n227613887,"O prasátku Lojzíkovi. Pozdrav slunci - Pavel Ondrašík, Táňa Ondrašíková - Petrkov",100,1,2014,60,Sun,dětské,Ondrašíkovi Pavel a Táňa</p>,,O prasátku Lojzíkovi - Pozdrav slunci kniha od autora Ondrašíkovi Pavel a Táňa. Nová dobrodružství prasátka s velkým nosem Lojzíka a jeho kamaráda vrabce Čepeřáka. Na svých...,153,239,"['Sun, dětské', '', 'české, Ondrašíkovi Pavel a Táňa']"
+n175227853,O klíči - Pavel Čech,97,6,2014,84,Sun,dětské,Pavel Čech</p>,,"Krásně ilustrovaná autorská kniha pro děti a začínající čtenáře. Poetický příběh o dětské fantasii, kterou může rozjitřit i taková drobnost jako nález starého klíče. Kniha pro...",182,280,"['Sun, dětské', '', 'české, Pavel Čech']"
+n175227856,Dobrodružství pavouka Čendy Pavel Čech,100,1,2014,76,Sun,dětské,Pavel Čech</p>,,V opuštěném domě žije ve starých hodinách pavouk Čenda. Kamarádí se s dřevěnou kukačkou. Za léta strávená ve starém pokoji plném knih se naučil číst. Nejraději má knížku o...,185,280,"['Sun, dětské', '', 'české, Pavel Čech']"
+n175047501,Zvířátka v moři,0,0,2014,20,Sun,dětské,Grez Marcela</p>,,"Tyto knížky jsou určeny pro ty nejmenší čtenáře, kteří díky pestrým a veselým obrázkům poznají zvířátka, čísla, první slůvka nebo i hračky. Knížky jsou veršované, a proto je...",50,79,"['Sun, dětské', '', 'české, Grez Marcela']"
+n174933346,Úkoly pro pilného předškoláčka Počítání,50,1,2014,16,Sun,dětské,Marcela Grez</p>,,"S těmito zábavnými knížkami je učení doslova hrou. Najdete v nich spoustu pěkných procvičování a úkolů, které zkrátí dlouhou chvíli, pobaví a navíc mnohé naučí. Uvnitř kromě...",62,99,"['Sun, dětské', '', 'české, Marcela Grez']"
+n197359743,Úkoly pro pilného předškoláka - Čísla,50,1,2014,16,Sun,dětské,Marcela Grez</p>,,"S těmito zábavnými knížkami je učení
+doslova hrou. Najdeš v nich spoustu
+pěkných procvičování, která ti zkrátí
+dlouhou chvíli, pobaví tě, a navíc tě
+mnohé naučí.
+
+Podtitul: A...",62,99,"['Sun, dětské', '', 'české, Marcela Grez']"
+n171201071,Čísla Veselé procvičování,0,0,2014,32,Sun,dětské,Alexandra Niklíčková</p>,,"V této řadě procvičování si procvičíš psaní, čísla, sčítání a čtení. Všechny
+psací úkoly jsou psány českým klasickým písankovým písmem. Úkoly jsou zábavné, ale hodně se i...",36,59,"['Sun, dětské', '', 'české, Alexandra Niklíčková']"
+n171201072,Čtení Veselé procvičování,0,0,2014,32,Sun,dětské,Alexandra Niklíčková</p>,,"V této řadě procvičování si procvičíš psaní, čísla, sčítání a čtení. Všechny psací úkoly jsou psány českým klasickým písankovým písmem. Úkoly jsou zábavné, ale hodně se i...",36,59,"['Sun, dětské', '', 'české, Alexandra Niklíčková']"
+n173374670,Sčítání - Veselé procvičování,0,0,2014,32,Sun,dětské,Niklíček Ladislav</p>,,"V této řadě procvičování si procvičíš psaní, čísla, sčítání a čtení. Všechny psací úkoly jsou psány českým klasickým písankovým písmem. Úkoly jsou zábavné, ale hodně se i...",38,59,"['Sun, dětské', '', 'české, Niklíček Ladislav']"
+n385094148,Zábavné násobení se samolepkami + Plakát,100,1,2014,16,Sun,dětské,Grez Marcala</p>,,"Chceš umět malou násobilku, jak když bičem mrská? S touhle knížkou se to naučíš, ani nebudeš vědět jak. Kromě spousty samolepek ti při učení pomůže i bezva plakát s malou...",68,99,"['Sun, dětské', '', 'české, Grez Marcala']"
+n202450859,Skládačková knížka Popelka,100,1,2014,12,Sun,dětské,Grez Marcela</p>,,"Knížka ve zjednodušené verzi vypráví klasickou pohádku o Popelce. Na každé dvojstraně je kratičký text doplněný šestidílkovým puzzle, které je opatřeno otvorem pro snazší...",101,159,"['Sun, dětské', '', 'české, Grez Marcela']"
+n218082441,Velká knižní záhada - Pavel Čech,100,1,2014,84,Sun,dětské,Pavel Čech</p>,,"Určitě i vy máte rádi knížky s obrázky. Ale asi ani netušíte, že se postavy z ilustrací přemisťují a někdy i ztrácejí! Ve speciálních laboratořích se vědecké týmy z celého...",253,390,"['Sun, dětské', '', 'české, Pavel Čech']"
+n202450860,Skládačková knížka Sněhurka,0,0,2014,12,Sun,dětské,Grez Marcela</p>,,"Knížka ve zjednodušené verzi vypráví klasickou pohádku o Sněhurce. Na každé dvojstraně je kratičký text doplněný šestidílkovým puzzle, které je opatřeno otvorem pro snazší...",101,159,"['Sun, dětské', '', 'české, Grez Marcela']"
+n202450874,Historické lodě,100,2,2014,30,Sun,dětské,Hana Jovanovičová</p>,,"Naučná knížka pro děti ze série Hledej a objevuj s obrázky historických lodí a korábů. Poznávej a uč se o vorech, korábech, lodích a ostatním, co s loděmi souvisí. Tuto knihu...",76,159,"['Sun, dětské', '', 'české, Hana Jovanovičová']"
+n175047500,Moje hračky,94,3,2014,20,Sun,dětské,Grez Marcela</p>,,"Tyto knížky jsou určeny pro ty nejmenší čtenáře, kteří díky pestrým a veselým obrázkům poznají zvířátka, čísla, první slůvka nebo i hračky. Knížky jsou veršované, a proto je...",68,79,"['Sun, dětské', '', 'české, Grez Marcela']"
+n175047499,Poznáváme čísla,0,0,2014,20,Sun,dětské,Marcela Grez</p>,,"Tyto knížky jsou určeny pro ty nejmenší čtenáře, kteří díky pestrým a veselým obrázkům poznají zvířátka, čísla, první slůvka nebo i hračky. Knížky jsou veršované, a proto je...",54,79,"['Sun, dětské', '', 'české, Marcela Grez']"
+n174933347,Úkoly pro pilného předškoláčka Hlavolamy,0,0,2014,20,Sun,dětské,Marcela Grez</p>,,"S touto zábavnou knížkou je učení doslova hrou. Najdeš v ní spoustu pěkných procvičování, která ti zkrátí dlouhou chvíli, pobaví tě, a navíc tě mnohé naučí.",62,99,"['Sun, dětské', '', 'české, Marcela Grez']"
+n274417156,Hádanky z pole a louky,0,0,2014,12,Sun,dětské,Eduardo Trujillo</p>,,"Jazyk: český
+Počet stran: 12
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství SUN s.r.o.",82,119,"['Sun, dětské', '', 'české, Eduardo Trujillo']"
+n82853316,"Statek - Objevuj, skládej a obkresli",90,1,2014,18,Sun,dětské,Grez Marcela</p>,,"Objevuj úžasný svět kolem sebe s touto báječnou řadou knížek. V každé z nich si sestav osm krásných velkých skládaček a obkresli si dílky ve tvaru věcí, které patří do daného...",175,233,"['Sun, dětské', '', 'české, Grez Marcela']"
+n175047495,Zvířátka ze statku,90,1,2014,20,Sun,dětské,Marcela Grez</p>,,"Tyto knížky jsou určeny pro ty nejmenší čtenáře, kteří díky pestrým a veselým obrázkům poznají zvířátka, čísla, první slůvka nebo i hračky. Knížky jsou veršované, a proto je...",79,79,"['Sun, dětské', '', 'české, Marcela Grez']"
+n197828426,Učíme se hodiny - pěnová kniha,100,1,2014,10,Sun,dětské,Janáčková Zita</p>,,"Zatímco čtenáři sledují dobrodružství zvířecích hrdinů v průběhu celého dne, ukazují si odpovídající čas na hodinách, jejichž pohyblivé ručičky jsou součástí knížky, která ale...",66,189,"['Sun, dětské', '', 'české, Janáčková Zita']"
+n274417158,Hádanky ze zoo,0,0,2014,12,Sun,dětské,Eduardo Trujillo</p>,,"S touto knížkou si vaše děťátko užije spoustu zábavy. Naučí se díky jednoduchým hádankám rozpoznat a pojmenovat zvířátka a součásti jejich
+životního...",80,119,"['Sun, dětské', '', 'české, Eduardo Trujillo']"
+n175047507,Růžový blok úkoly a hry proti nudě,0,0,2014,128,Sun,dětské,Nakladatelství SUN</p>,,"Růžový blok - Úkoly a hry proti nudě kniha od autora neuveden. Tento pracovní sešit je tu právě pro tebe. Najdeš v něm oblíbené úkoly, různé hry a plno samolepek. Samolepky...",61,76,"['Sun, dětské', '', 'české, Nakladatelství SUN']"
+n175047505,Zelený blok úkoly a hry proti nudě,0,0,2014,128,Sun,dětské,Grez Marcela</p>,,"Zelený blok - Úkoly a hry proti nudě kniha od autora neuveden. Tento pracovní sešit je tu právě pro tebe. Najdeš v něm oblíbené úkoly, různé hry a plno samolepek. Samolepky...",61,80,"['Sun, dětské', '', 'české, Grez Marcela']"
+n228559145,Školákův zeměpisný puzzle atlas,0,0,2014,14,Sun,dětské,Karolína Schwarzová</p>,,"Rekordy jednotlivých zemí a kontinentů a skládačky puzzle s mapami jistě vzbudí zájem o zeměpis u každého dítěte.
+
+Rok vydání: 2014
+Vazba: Polstrovaná LUX
+ISBN:...",204,268,"['Sun, dětské', '', 'české, Karolína Schwarzová']"
+n175047498,Zvířátka na louce,100,1,2014,20,Sun,dětské,Marcela Grez</p>,,"Tyto knížky jsou určeny pro ty nejmenší čtenáře, kteří díky pestrým a veselým obrázkům poznají zvířátka, čísla, první slůvka nebo i hračky. Knížky jsou veršované, a proto je...",79,79,"['Sun, dětské', '', 'české, Marcela Grez']"
+n321739940,Auta - Veršovánky se samolepkami,0,0,2014,10,Sun,dětské,české</p>,,S touto knížkou si děti osvojí svá první slůvka a naučí se poznávat a vyhledávat dopravní prostředky.,54,71,"['Sun, dětské', '', 'české']"
+n202450861,Skládačková knížka Bambi,90,1,2014,12,Sun,dětské,Grez Marcela</p>,,"Knížka ve zjednodušené verzi vypráví klasickou pohádku o Bambim. Na každé dvojstraně je kratičký text doplněný šestidílkovým puzzle, které je opatřeno otvorem pro snazší...",119,119,"['Sun, dětské', '', 'české, Grez Marcela']"
+n175047503,První slůvka,80,3,2014,20,Sun,dětské,Marcela Grez</p>,,"Tyto knížky jsou určeny pro ty nejmenší čtenáře, kteří díky pestrým a veselým obrázkům poznají zvířátka, čísla, první slůvka nebo i hračky. Knížky jsou veršované, a proto je...",68,79,"['Sun, dětské', '', 'české, Marcela Grez']"

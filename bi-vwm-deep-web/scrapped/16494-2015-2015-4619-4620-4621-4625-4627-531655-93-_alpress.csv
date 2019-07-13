@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n490369361,Naše svatba,100,1,2015,60,Alpress,naučná,české</p>,,"Budete se vdávat? Tak přesně vám je určena tato luxusní kniha. Pomůže vše naplánovat tak, ať je váš vytoužený den D do posledního puntíku dokonalý, abyste si uchovaly nádherné...",338,499,"['Alpress, naučná', '', 'české']"
+n251083330,Mandaly Energie kruhu,90,2,2015,64,Alpress,naučná,české</p>,,"Mandaly jsou kruhovité omalovánky, které mají mimořádný účinek. Geometrické obrazce jsou zde harmonicky uspořádány a kruhy mají svůj magický střed. Tím uklidňují, přinášejí...",54,116,"['Alpress, naučná', '', 'české']"

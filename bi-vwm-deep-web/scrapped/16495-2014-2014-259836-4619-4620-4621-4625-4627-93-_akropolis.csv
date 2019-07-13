@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n160856633,Tři sestry,0,0,2014,224,Akropolis,beletrie,české</p>,,"Autor : Anton Pavlovič Čechov, Popis : 
+ Čechovovy Tři sestry (1901) byly do češtiny přeloženy devětkrát: poprvé B. Prusíkem v roce 1907, naposledy J. Klusákovou v roce 1987....",95,149,"['Akropolis, beletrie', '', 'české']"
+n176811028,Alchymista Jorge A. Livraga,0,0,2014,174,Akropolis,beletrie,české</p>,,"Strhující děj románu nás provází dobrodružným životem mladého chemika Pabla Simona, člena hermetické lóže, který se uprostřed řádění inkvizice snaží zachránit tisíciletou...",154,219,"['Akropolis, beletrie', '', 'české']"

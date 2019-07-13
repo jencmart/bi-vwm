@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n223464833,Anička múdra hlavička,0,0,2014,70,Vydavateľstvo SSS,dětské,slovenské</p>,,"Autorka zachytáva momenty z každodenného detského života, aby sa dieťa cez známe prostredie a situácie zoznámilo s čítaním a získavalo vzťah ku knihám. Jednoduché príbehy sú...",128,208,"['Vydavateľstvo SSS, dětské', '', 'slovenské']"
+n29676629,Prvé krôčky životom,0,0,2014,72,Vydavateľstvo SSS,dětské,slovenské</p>,,"Začíname samozrejme údajmi o narodení, môžeme uchovať nejaké veci na pamiatku ako pramienok vláskov alebo výstrižky z novín. Nemôžu chýbať fotografie, priania do života, strom...",141,208,"['Vydavateľstvo SSS, dětské', '', 'slovenské']"

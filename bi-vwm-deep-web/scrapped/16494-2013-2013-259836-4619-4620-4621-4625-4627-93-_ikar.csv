@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n103254777,Požehnání - Danielle Steel,100,1,2013,168,Ikar,beletrie,české</p>,,"Amanda Kingstonové je bývalá filmová hvězda, která se na vrcholu své slávy vzdala kariéry – provdala se za konzervativního Mathewa, přivedla na svět dvě, dnes již dospělé,...",229,229,"['Ikar, beletrie', '', 'české']"
+n84829581,Vraždění lazebnic,60,1,2013,168,Ikar,beletrie,české</p>,,"Na dvoře císaře Rudolfa II. na Pražském hradě je sadistickým způsobem zavražděna jedna lazebnice. Podezřelým se stane i císařův levoboček Julius, který se několikrát projevil...",182,229,"['Ikar, beletrie', '', 'české']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n61188204,Materia medica pro homeopatickou praxi - Tinus Smith,0,0,2012,450,Alternativa,naučná,české</p>,,Materia medica pro homeopatickou praxi kniha od autora Smits Tinus. Dílo známého současného holandského lékaře určené pro kontakt s pacientem. Nové poznatky o lécích. Čerpá ze...,737,990,"['Alternativa, naučná', '', 'české']"
+n63860478,Homeopatické klinické repertorium - John Henry Clarke,0,0,2012,382,Alternativa,naučná,české</p>,,"Klasik britské homeopatie (1853 -1931), autor rozsáhlé materie mediky, Slovníku homeopatické materie mediky, nashromáždil za více než padesát let praktikování homeopatie mnoho...",718,1,"['Alternativa, naučná', '', 'české']"

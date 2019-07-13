@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n26364078,Jan Čapek ze Sán - David Papajík,0,0,2011,372,Veduta,naučná,české</p>,,"Kniha o Janu Čapkovi ze Sán (cca 1390-1452) je věnována dramatickým osudům tohoto původně drobného šlechtice ze středních Čech. Nebýt husitských válek, patrně bychom o jeho...",387,387,"['Veduta, naučná', '', 'české']"
+n35874142,"Páni z Rožmberka 1250–1532: Jižní Čechy ve středověku - Robert Šimůnek, Roman Lavička",95,1,2011,356,Veduta,naučná,české</p>,,"Kniha rozčleněná do dvou částí se nesnaží přinést zhuštěný výklad rodových dějin Rožmberků, ale především naznačit jejich kulturněhistorický rámec. První oddíl nazvaný Páni z...",423,470,"['Veduta, naučná', '', 'české']"

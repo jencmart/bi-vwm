@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n259842506,Kočka v rouše vlčím,0,0,2011,160,Moba,beletrie,české</p>,,"Všetečná manhattanská herečka a krásná kočičí chůva Alice Nestleton je znovu povolána do akce. Policisté z New York City ji zapojí do případu, když se ocitnou ve slepé uličce -...",89,141,"['Moba, beletrie', '', 'české']"
+n26634527,Kočka mnoha barev - Lydia Adamson,0,0,2011,160,Moba,beletrie,české</p>,,"Když Alice Nestletonová, příležitostná herečka a milovnice koček, přijme místo vyučující na prestižní Nové škole na Manhattanu, vše nasvědčuje tomu, že stráví příjemné léto...",79,79,"['Moba, beletrie', '', 'české']"

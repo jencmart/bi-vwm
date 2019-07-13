@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n123085889,Superpotraviny,74,7,2013,246,Príroda,naučná,české</p>,,"Superpotraviny je fascinující kniha, která změní váš život. Objevíte neuvěřitelné vlastnosti zeleniny, ovoce, obilovin, luštěnin, bylinek, koření a dalších potravinových...",261,311,"['Príroda, naučná', '', 'české']"

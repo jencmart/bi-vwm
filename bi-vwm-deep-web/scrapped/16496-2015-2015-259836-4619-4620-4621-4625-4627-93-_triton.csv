@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n315558976,V srdci moře - Nathaniel Philbrick,100,1,2015,304,Triton,beletrie,české</p>,,Moby Dick není pouhým výplodem spisovatelské fantazie. Hermana Melvilla inspirovala k napsání románu Bílá velryba skutečná událost: v roce 1821 do velrybářské lodi Essex...,143,299,"['Triton, beletrie', '', 'české']"
+n681197798,Moudrost vědy,0,0,2015,288,Triton,beletrie,české</p>,,"Věda je nepřehlédnutelnou součástí moderního života. Součástí významnou a mocnou, ale i tajemnou a uzavřenou, s vlastním životem pochopitelným jen omezenému okruhu badatelů....",178,279,"['Triton, beletrie', '', 'české']"

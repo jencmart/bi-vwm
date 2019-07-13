@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n22408455,Ladislav Sutnar v textech,70,1,2011,272,Kant,naučná,české</p>,,Ladislav Sutnar v textech kniha od autora Iva Knobloch. Publikace obsahuje původní texty česko-amerického designéra a malíře Ladislava Sutnara i svědectví o něm a jeho práci....,560,755,"['Kant, naučná', '', 'české']"
+n20925040,Scénologie dramatu - Jaroslav Vostrý,0,0,2011,274,Kant,naučná,české</p>,,"Kniha představuje drama jako scénický projekt: Na konkrétních příkladech (Tartuffe, Krejcarová opera, Tři sestry, Šest postav hledá autora, Radúz a Mahulena, Kosmické jaro…...",179,216,"['Kant, naučná', '', 'české']"

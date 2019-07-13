@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n23029234,Návod na používání lidského mozku,20,1,2011,200,Millennium Publishing,naučná,české</p>,,"Renomovaný vědec Gerald Hüther předkládá nejnovější a fascinující poznatky z oblasti neurobiologie do srozumitelné řeči a poukazuje na to, jaký konkrétní prospěch z těchto...",136,279,"['Millennium Publishing, naučná', '', 'české']"

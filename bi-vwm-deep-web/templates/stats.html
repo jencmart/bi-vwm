@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <h3 class="text-muted">Statistics</h3>
+      </div>
+
+      <p id="totalstats"></p>
+      <div>
+        <div class="form-group">
+          <label>How many records should i pull? </label><br>
+          <input type="number" id="BenchMarkIn" class="form-control" value='1000'> <br>
+          <button type="button" class="btn btn-primary" id="BenchMarkBtn">Start benchmark</button>
+        </div>
+        <div>
+          <label>Results:</label><br>
+          <p id="res"></p>
+        </div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-1.12.4.js" type="text/javascript"></script>
+    <script src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $("#BenchMarkBtn").click(function(){
+          query={size:$('#BenchMarkIn').val()}
+          $('#res').text("Computing")
+          $.getJSON('/_benchmark',query, function(data) {
+            $('#res').text("I was able to get "+query.size+" results in: "+Math.round(data.time*100)/100+" seconds.");
+          });
+        });
+        $.getJSON('/_stat', null , function(data){
+            $('#totalstats').text("We have got "+data.count+" rows. There are "+data.total+" rows on knihy.heureka.cz right now. We've got "+Math.round((data.count/data.total)*10000)/100+"% scrapped.");
+        });
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n132683696,Pradědovy pověsti - Lowag Josef,100,3,2013,168,Veduta,beletrie,české</p>,,"Kniha je prvním volným překladem pověstí Josefa Lowaga (1849 - 1911) vydaných v roce 1890.
+ Vedle líčení přírodních krás Jeseníků, které nás uchvátí věrným popisem krajiny, nás...",299,299,"['Veduta, beletrie', '', 'české']"
+n459272523,"Kolotoč - Ivo Štěpánek, Karel Poláček",0,0,2013,152,Veduta,beletrie,české</p>,,"Kniha obsahuje výběr dvacetišesti prozaických povídek z díla Karla Poláčka, čtené v rámci festivalu Město čte knihu v Šumperku. Hlavní téma povídek jsou příběhy a osudy lidí na...",157,240,"['Veduta, beletrie', '', 'české']"

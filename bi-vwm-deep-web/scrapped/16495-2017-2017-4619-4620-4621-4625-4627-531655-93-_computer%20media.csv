@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n459723819,Bradley Jana: A co já s tím? Kniha,100,1,2017,170,Computer Media,naučná,české</p>,,"Velmi aktuální kniha zabývající se tématem integrace, inkluze a desegregace. Autorkou je Jana Bradley, jež působila jako asistentka pedagoga v USA i v ČR. Díky svým dlouholetým...",171,260,"['Computer Media, naučná', '', 'české']"
+n459627482,Kvalita softwaru - Petr Roudenský,0,0,2017,232,Computer Media,naučná,české</p>,,"Informační technologie a telekomunikace dnes zásadně ovlivňují prakticky všechny aspekty života moderní společnosti, stejně jako samotnou globální ekonomiku. Rostoucí integrace...",159,249,"['Computer Media, naučná', '', 'české']"

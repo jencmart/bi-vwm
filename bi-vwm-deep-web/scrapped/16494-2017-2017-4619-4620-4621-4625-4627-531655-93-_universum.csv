@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n457443645,Lobkowiczové - Popel jsem a popel budu,94,4,2017,160,Universum,naučná,české</p>,,"Lobkowiczové jsou jedním z mála původem českých knížecích rodů. O společenský a majetkový vzestup rodu se na počátku 15. století zasloužil Mikuláš zvaný „Chudý“ z Lobkowicz,...",276,349,"['Universum, naučná', '', 'české']"

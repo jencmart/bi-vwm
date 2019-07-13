@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n682525911,Nejstarší listiny Univerzity Karlovy,0,0,2018,72,Karolinum,beletrie,české</p>,,"Autor : Petr Svobodný, Ivan Hlaváček, Jan Royt, Blanka Zilynská, Popis : 
+V roce 670. výročí svého založení získala Univerzita Karlova dva historické dokumenty významné nejen...",149,200,"['Karolinum, beletrie', '', 'české']"
+n705673717,Žánry a průniky literatury faktu,0,0,2018,106,Karolinum,beletrie,české</p>,,"Sborník Žánry a průniky literatury faktu obsahuje příspěvky předních odborníků a teoretiků zabývajících se fenoménem literatury faktu, které byly proneseny na mezinárodní...",134,180,"['Karolinum, beletrie', '', 'české']"

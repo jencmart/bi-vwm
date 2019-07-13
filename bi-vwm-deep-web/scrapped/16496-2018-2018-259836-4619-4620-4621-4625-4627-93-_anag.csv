@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n622756155,Balíček - Sebastian Fitzek,95,1,2018,288,ANAG,beletrie,české</p>,,"Pozor! Otevření na vlastní nebezpečí! Nový psychologický thriller od Sebastiana Fitzeka!
+Pošťák vás poprosí, abyste převzali balík pro souseda. Souseda, jehož jméno jste nikdy...",211,329,"['ANAG, beletrie', '', 'české']"

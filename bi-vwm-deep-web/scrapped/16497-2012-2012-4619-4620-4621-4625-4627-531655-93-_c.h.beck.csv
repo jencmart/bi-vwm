@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n40684897,Zákon o provozu na pozemních komunikacích. Komentář,0,0,2012,410,C.H.Beck,naučná,české</p>,,"Autor : JUDr. Daniela Kovalčiková, JUDr. Jan Štandera,  
+ Hlavním účelem druhého, rozšířeného vydání komentáře je vysvětlit aktuální komplexní právní úpravy provozu na...",695,990,"['C.H.Beck, naučná', '', 'české']"
+n47725699,Odpovědnost za škodu při výkonu veřejné moci. Komentář,100,1,2012,384,C.H.Beck,naučná,české</p>,,"Již třetí vydání komentáře k odpovědnosti za škodu způsobené při výkonu veřejné moci znovu shrnuje vývoj, k němuž v aplikaci tohoto zákona v praxi došlo. Pět let, jež uplynuly...",711,711,"['C.H.Beck, naučná', '', 'české']"

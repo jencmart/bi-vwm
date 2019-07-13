@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n404233894,Jak jsem stopoval letadlo - Stanislav Gálik,95,4,2016,240,BizBooks,beletrie,české</p>,,"Skutečný příběh o neskutečných zážitcích na cestě kolem světa.
+Tato kniha je přesně taková, jaký je svět. Je pravdivá i lživá. Je
+o všem, a přitom je o jednom. Je...",204,299,"['BizBooks, beletrie', '', 'české']"

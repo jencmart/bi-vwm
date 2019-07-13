@@ -1,0 +1,319 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n107290434,Karty Kouzelné mapy - Colette Baron-Reid,89,10,2013,0,Synergie,esoterika,Colette Baron-Reid,české,"Karty Kouzelné mapy jsou ideálním průvodcem na životní cestě. Byly vytvořeny, aby vám pomohly pochopit kouzlo příběhu vašeho života, posílily vás, ukázaly cestu ke svobodě a...",256,387,"['esoterika', '', 'Synergie, Colette Baron-Reid, české']"
+n123270901,Kuchařka při onemocnění dnou,77,17,2013,80,Vyšehrad,kuchařky,Růžena Milatová,české,"Kuchařka při onemocnění dnou
+Tato kuchařka je určená pacientům, kterým byla diagnostikována dna a vysoká hladina kyseliny močové. Dna neboli podagra či lidově pakostnice je...",118,158,"['kuchařky', '', 'Vyšehrad, Růžena Milatová, české']"
+n152435832,Nebe na zemi,0,0,2013,0,,esoterika,Yva Kuličková,české,"Karty jsou obrazovým ztvárněním poselství 33 nových archandělů ze stejnojmenné knihy Jiřiny Slámové. Inspirovala se jimi výtvarnice Yva Kuličková, která je zachytila jako...",189,255,"['esoterika', '', 'Yva Kuličková, české']"
+n92763075,"Doreen Virtue, Radleigh Valentine Andělské tarotové karty",96,32,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tarot je odnepaměti ceněn pro svoji schopnost podávat podrobné a přesné předpovědi.
+
+ Doreen Virtue a Radleigh Valentine vytvořili první balíček tarotových karet, který je...",388,587,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n93283481,"Výživa pro fitness a kulturistiku - Ivan Mach, Jiří Borkovec",83,4,2013,132,Grada,kuchařky,Jiří Borkovec,české,"Kniha je určena jak aktivně sportujícím, tak trenérům, cvičitelům, instruktorům a poradcům ve fitness a kulturistice, aby jim usnadnila orientaci v záležitostech týkajících se...",142,179,"['kuchařky', '', 'Grada, Ivan Mach, Jiří Borkovec, české']"
+n259845245,Moučníky - Edice Apetit Kniha,96,6,2013,160,,kuchařky,redakce časopisu Apetit,české,"Nejnovější přírůstek Edice Apetit kuchařka Moučníky obsahuje víc než 100 receptů na klasické i nové sladkosti pro každý den.
+Kniha o 160 stranách je rozdělená do kapitol:...",223,349,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n76218199,"Požádej a je ti dáno. Krásně ilustrované karty ke stejnojmenné knížce - Jerry Hicks, Ester Hicks",96,2,2013,0,Synergie,esoterika,Jerry Hicks,české,"Požádej a je ti dáno - Inspirační karty kniha od autora Jerry Hicks. Okouzlující karty Esther a Jerryho Hicksových, kteří vám předkládají učení nefyzické entity známé jako...",230,349,"['esoterika', '', 'Synergie, Jerry Hicks, české']"
+n139326574,Sladké a veselé s Ivetou - Iveta Fabešová,90,4,2013,112,Ikar,kuchařky,Fabešová Iveta,české,"Zapalujeme první svíčku na adventním věnci… Zbývá už jen několik týdnů na přípravu tradičního vánočního pečiva a sladkostí. Kdo by se netěšil na stůl plný cukroví, vánočku s...",238,269,"['kuchařky', '', 'Ikar, Fabešová Iveta, české']"
+n259842162,Pomazánky,98,10,2013,152,Ottovo nakladatelstvo,kuchařky,Jaroslav Vašák,české,"Nová ze série Ottových kuchařek přináší na 400 vyzkoušených receptů na chutné pomazánky pro každou příležitost.
+
+ Bohatý fotografický doprovod vám usnadní jejich přípravu a...",118,299,"['kuchařky', '', 'Ottovo nakladatelstvo, Jaroslav Vašák, české']"
+n147285889,Tajemství kroniky Akáše - Edgar Cayce,94,6,2013,142,,esoterika,Edgar Cayce,české,"Už starověcí proroci tvrdili, že všechny naše činy jsou zapsány v tzv. kronice života.
+Knihu života lze přirovnat k vesmírnému superpočítačovému systému.V tomto systému jsou...",111,152,"['esoterika', '', 'Edgar Cayce, české']"
+n145199951,Slané pečení - kuchařka z edice Apetit,89,6,2013,164,,kuchařky,Janáčková Zita,české,"Další přírůstek do úspěšné Edice Apetit obsahuje přes 100 receptů na nejrůznější druhy pečiva (český chleba včetně návodu, jak si doma udělat kvásek), housky, francouzská...",211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n76218198,Andělé lásky. Kniha a 44 karet Doreen Virtue Synergie,97,6,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tyto andělské karty se zabývají vším, co souvisí s láskou. Mají schopnost pomoci neomezenému počtu lidí najednou a jejich pomoc může vyhledat kdokoliv.
+Karty jsou nádherně...",230,349,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n109640898,Mach Ivan: Moje BIO pochoutky Kniha,0,0,2013,108,Grada,kuchařky,Zdeňka Kolláriková,české,"Kniha pro všechny, kteří chtějí vařit zdravě, přináší 50 chutných receptů z tzv. zdravých a BIO potravin. Zajímavé, jednoduché, většinou i rychle realizovatelné, ale chuťově...",78,239,"['kuchařky', '', 'Grada, Ivan Mach, Zdeňka Kolláriková, české']"
+n105763880,Grilování (Edice Apetit),99,6,2013,160,Kateř,kuchařky,redakce časopisu Apetit,české,"Grilování je 12. kuchařka z Edice Apetit a nabízí ty nejlepší nápady (nejen) na gril.
+
+ Ze 130 ověřených receptů si vyberou ti, kteří se chtějí naučit základy grilování, i ti,...",240,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, Kateř, české']"
+n88562422,Drůbež (Edice Apetit),95,4,2013,164,,kuchařky,redakce časopisu Apetit,české,"Kniha o 160 stranách je rozdělená do osmi kapitol: Polévky Pro každý den Kuře v hlavní roli Kachna, krůta a spol. S vůní dálek Chuťovky a saláty Nádivky Přílohy a Servis. Mezi...",211,329,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n461315828,Cukrářská výroba I,100,2,2013,144,,kuchařky,Kadlec F,české,"Zabývá se základy cukrářské výroby a popisuje přípravu a výrobu náplní a polev pro cukrářské výrobky, vady těchto výrobků a jejich příčiny, popř. možnosti a způsoby nápravy....",188,265,"['kuchařky', '', 'Bláha L., Conková V., Kadlec F, české']"
+n105034918,21 DNÍ PERFEKTNÍ KOMUNIKACE S VAŠIMI ANDĚLY,95,6,2013,112,Pragma,esoterika,Doreen Virtue,české,"S anděly může komunikovat každá osoba bez výjimky. Víra, že člověk musí být vyvolený, mimořádně citlivý nebo talentovaný, aby mohl slyšet Boha či anděly, je klamná. 
+ K...",151,151,"['esoterika', '', 'Pragma, Doreen Virtue, české']"
+n110357420,Hvězdy pro duši,100,3,2013,88,Portál,esoterika,Bruno Ferrero,české,"Znovu se setkáváme s laskavými a moudrými příběhy, které známe k mnoha knih turínského salesiána „pro duši“. Celou sbírku uvádí příběh o matce, která v tíživé rodinné situace...",119,149,"['esoterika', '', 'Portál, Bruno Ferrero, české']"
+n113717216,La Cuisine Tchéque,90,2,2013,64,Slovart,kuchařky,Lea Filipová,francouzské,"Česká kuchařka ve francouzštině. Přehledně napsané postupy, velké množství rad a obměn základních receptů, barevné fotografie důležitých fází přípravy i podávání jídel.
+
+Autor:...",64,99,"['kuchařky', '', 'Slovart, Lea Filipová, francouzské']"
+n124364909,Italská kuchyně (Edice Apetit),96,7,2013,160,BURDA PRAHA spol.s r.o.,kuchařky,redakce časopisu Apetit,české,"Mamma mia! aneb To nejlepší od italských matek. Verze ve slovenském jazyce. Časopis Apetit přichází na trh s novou edicí kuchařek, tentokrát zaměřenou na mezinárodní kuchyně....",223,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, české']"
+n105539937,Domácí uzeniny,88,11,2013,144,Grada,kuchařky,Cosima Bellersen Quirini,české,"U uzenin rozhodně platí, že když si je uděláme sami, jsou nejlepší. Jsou totiž podle vaší chuti a navíc přesně víte, z čeho jsou vyrobené, a že jsou kvalitní. V úvodu knihy se...",78,269,"['kuchařky', '', 'Grada, Cosima Bellersen Quirini, české']"
+n145199952,Bon appetit! aneb Lekce francouzské kuchyně (Edice Apetit),95,8,2013,164,,kuchařky,Janáčková Zita,české,Časopis Apetit uvedl na trh novou edici kuchařek zaměřenou na mezinárodní kuchyně. Po kuchařce věnované italské kuchyni je tady další přírůstek - kuchařka plná francouzských...,211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n132963713,Sladká kniha domácích bonbonů,85,3,2013,160,Slovart,kuchařky,Elizabeth LaBauová,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2013
+Vazba / Podoba: Brožovaná s přebalem lesklá
+Sortiment: 
+Nakladatelství: SLOVART, s.r.o. NAKLADATELSTVí",239,424,"['kuchařky', '', 'Slovart, Elizabeth LaBauová, české']"
+n120289227,"Do ráje projdeš peklem 2.. ""Konec předpeklí ráje"" Ivo Wiesner AOS Publishing",95,1,2013,153,,esoterika,Ivo Wiesner,české,"Kumránské svitky, písemné artefakty Essenů, ale i apokryfní dokumenty různých prvotních křesťanských skupin jsou dokladem gigantické manipulace s vědomím lidstva a s...",189,250,"['esoterika', '', 'Ivo Wiesner, české']"
+n70755522,Chutně bez cholesterolu,90,1,2013,128,Ikar,kuchařky,Gerda Pighinová,české,"Chutně bez cholesterolu kniha od autora Pighinová Gerda. Máte zvýšenou hladinu cholesterolu a nevíte, jak s ní bojovat? Cholesterol sám o sobě není příčinou zanesených cév a...",142,189,"['kuchařky', '', 'Ikar, Gerda Pighinová, české']"
+n131875785,Pro mladé a dětem,88,1,2013,56,Pragma,esoterika,Jeho Svatost Dalajlama,české,"Prostřednictvím knihy se nám otevírá možnost ocitnout se na dalajlamově přednášce původně určené jen malé skupině jeho studentů. Všem těm, kteří jsou v mysli stále dětmi,...",49,85,"['esoterika', '', 'Pragma, Jeho Svatost Dalajlama, české']"
+n137314563,Exotické kouzlo kuchyně Malajsie / Exotic Charm of Cuisine of Malaysia - Jaroslav Olša,0,0,2013,144,,kuchařky,Jaroslav Olša,české,U nás malajsijská kuchařka dosud nevyšla. Tato knížka nabízí čtenáři možná první setkání s Malajsií a seznamuje uživatele se zvláštnostmi a exotickými jídly všech částí této...,132,170,"['kuchařky', '', 'Jaroslav Olša, české']"
+n461213900,50 nejzdravějších superpotravin - Brigitte Hamann,0,0,2013,144,,kuchařky,Hamann Brigitte,české,"Když se dobře najíme, cítíme se sytí. Jenže snědli jsme opravdu to, co naše tělo potřebovalo ze všeho nejvíce? Pokud ne, tak vlastně umíráme hlady nad plným talířem, protože...",161,259,"['kuchařky', '', 'Hamann Brigitte, české']"
+n92763092,Poselství zvířecích průvodců - Steven D. Farmer,93,3,2013,112,Synergie,esoterika,Steven D. Farmer,české,"Zvířecí průvodci jsou duchovními pomocníky, kteří vám dokážou poskytnout vedení při hledání odpovědí na jakoukoli otázku ohledně vašeho života. V těchto 44 vykládacích kartách...",230,349,"['esoterika', '', 'Synergie, Steven D. Farmer, české']"
+n125215548,Nápoje 50 snadných receptů,96,3,2013,128,Naše vojsko,kuchařky,Academia Barilla,české,"Jazyk: český
+Počet stran: 128
+Rok vydání: 2013
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: NAŠE VOJSKO-knižní distribuce s.r.o.",148,299,"['kuchařky', '', 'Naše vojsko, Academia Barilla, české']"
+n107290434,Karty Kouzelné mapy - Colette Baron-Reid,89,10,2013,0,Synergie,esoterika,Colette Baron-Reid,české,"Karty Kouzelné mapy jsou ideálním průvodcem na životní cestě. Byly vytvořeny, aby vám pomohly pochopit kouzlo příběhu vašeho života, posílily vás, ukázaly cestu ke svobodě a...",256,387,"['esoterika', '', 'Synergie, Colette Baron-Reid, české']"
+n123270901,Kuchařka při onemocnění dnou,77,17,2013,80,Vyšehrad,kuchařky,Růžena Milatová,české,"Kuchařka při onemocnění dnou
+Tato kuchařka je určená pacientům, kterým byla diagnostikována dna a vysoká hladina kyseliny močové. Dna neboli podagra či lidově pakostnice je...",118,158,"['kuchařky', '', 'Vyšehrad, Růžena Milatová, české']"
+n152435832,Nebe na zemi,0,0,2013,0,,esoterika,Yva Kuličková,české,"Karty jsou obrazovým ztvárněním poselství 33 nových archandělů ze stejnojmenné knihy Jiřiny Slámové. Inspirovala se jimi výtvarnice Yva Kuličková, která je zachytila jako...",189,255,"['esoterika', '', 'Yva Kuličková, české']"
+n92763075,"Doreen Virtue, Radleigh Valentine Andělské tarotové karty",96,32,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tarot je odnepaměti ceněn pro svoji schopnost podávat podrobné a přesné předpovědi.
+
+ Doreen Virtue a Radleigh Valentine vytvořili první balíček tarotových karet, který je...",388,587,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n93283481,"Výživa pro fitness a kulturistiku - Ivan Mach, Jiří Borkovec",83,4,2013,132,Grada,kuchařky,Jiří Borkovec,české,"Kniha je určena jak aktivně sportujícím, tak trenérům, cvičitelům, instruktorům a poradcům ve fitness a kulturistice, aby jim usnadnila orientaci v záležitostech týkajících se...",142,179,"['kuchařky', '', 'Grada, Ivan Mach, Jiří Borkovec, české']"
+n259845245,Moučníky - Edice Apetit Kniha,96,6,2013,160,,kuchařky,redakce časopisu Apetit,české,"Nejnovější přírůstek Edice Apetit kuchařka Moučníky obsahuje víc než 100 receptů na klasické i nové sladkosti pro každý den.
+Kniha o 160 stranách je rozdělená do kapitol:...",223,349,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n76218199,"Požádej a je ti dáno. Krásně ilustrované karty ke stejnojmenné knížce - Jerry Hicks, Ester Hicks",96,2,2013,0,Synergie,esoterika,Jerry Hicks,české,"Požádej a je ti dáno - Inspirační karty kniha od autora Jerry Hicks. Okouzlující karty Esther a Jerryho Hicksových, kteří vám předkládají učení nefyzické entity známé jako...",230,349,"['esoterika', '', 'Synergie, Jerry Hicks, české']"
+n139326574,Sladké a veselé s Ivetou - Iveta Fabešová,90,4,2013,112,Ikar,kuchařky,Fabešová Iveta,české,"Zapalujeme první svíčku na adventním věnci… Zbývá už jen několik týdnů na přípravu tradičního vánočního pečiva a sladkostí. Kdo by se netěšil na stůl plný cukroví, vánočku s...",238,269,"['kuchařky', '', 'Ikar, Fabešová Iveta, české']"
+n259842162,Pomazánky,98,10,2013,152,Ottovo nakladatelstvo,kuchařky,Jaroslav Vašák,české,"Nová ze série Ottových kuchařek přináší na 400 vyzkoušených receptů na chutné pomazánky pro každou příležitost.
+
+ Bohatý fotografický doprovod vám usnadní jejich přípravu a...",118,299,"['kuchařky', '', 'Ottovo nakladatelstvo, Jaroslav Vašák, české']"
+n147285889,Tajemství kroniky Akáše - Edgar Cayce,94,6,2013,142,,esoterika,Edgar Cayce,české,"Už starověcí proroci tvrdili, že všechny naše činy jsou zapsány v tzv. kronice života.
+Knihu života lze přirovnat k vesmírnému superpočítačovému systému.V tomto systému jsou...",111,152,"['esoterika', '', 'Edgar Cayce, české']"
+n145199951,Slané pečení - kuchařka z edice Apetit,89,6,2013,164,,kuchařky,Janáčková Zita,české,"Další přírůstek do úspěšné Edice Apetit obsahuje přes 100 receptů na nejrůznější druhy pečiva (český chleba včetně návodu, jak si doma udělat kvásek), housky, francouzská...",211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n76218198,Andělé lásky. Kniha a 44 karet Doreen Virtue Synergie,97,6,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tyto andělské karty se zabývají vším, co souvisí s láskou. Mají schopnost pomoci neomezenému počtu lidí najednou a jejich pomoc může vyhledat kdokoliv.
+Karty jsou nádherně...",230,349,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n109640898,Mach Ivan: Moje BIO pochoutky Kniha,0,0,2013,108,Grada,kuchařky,Zdeňka Kolláriková,české,"Kniha pro všechny, kteří chtějí vařit zdravě, přináší 50 chutných receptů z tzv. zdravých a BIO potravin. Zajímavé, jednoduché, většinou i rychle realizovatelné, ale chuťově...",78,239,"['kuchařky', '', 'Grada, Ivan Mach, Zdeňka Kolláriková, české']"
+n105763880,Grilování (Edice Apetit),99,6,2013,160,Kateř,kuchařky,redakce časopisu Apetit,české,"Grilování je 12. kuchařka z Edice Apetit a nabízí ty nejlepší nápady (nejen) na gril.
+
+ Ze 130 ověřených receptů si vyberou ti, kteří se chtějí naučit základy grilování, i ti,...",240,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, Kateř, české']"
+n88562422,Drůbež (Edice Apetit),95,4,2013,164,,kuchařky,redakce časopisu Apetit,české,"Kniha o 160 stranách je rozdělená do osmi kapitol: Polévky Pro každý den Kuře v hlavní roli Kachna, krůta a spol. S vůní dálek Chuťovky a saláty Nádivky Přílohy a Servis. Mezi...",211,329,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n461315828,Cukrářská výroba I,100,2,2013,144,,kuchařky,Kadlec F,české,"Zabývá se základy cukrářské výroby a popisuje přípravu a výrobu náplní a polev pro cukrářské výrobky, vady těchto výrobků a jejich příčiny, popř. možnosti a způsoby nápravy....",188,265,"['kuchařky', '', 'Bláha L., Conková V., Kadlec F, české']"
+n105034918,21 DNÍ PERFEKTNÍ KOMUNIKACE S VAŠIMI ANDĚLY,95,6,2013,112,Pragma,esoterika,Doreen Virtue,české,"S anděly může komunikovat každá osoba bez výjimky. Víra, že člověk musí být vyvolený, mimořádně citlivý nebo talentovaný, aby mohl slyšet Boha či anděly, je klamná. 
+ K...",151,151,"['esoterika', '', 'Pragma, Doreen Virtue, české']"
+n110357420,Hvězdy pro duši,100,3,2013,88,Portál,esoterika,Bruno Ferrero,české,"Znovu se setkáváme s laskavými a moudrými příběhy, které známe k mnoha knih turínského salesiána „pro duši“. Celou sbírku uvádí příběh o matce, která v tíživé rodinné situace...",119,149,"['esoterika', '', 'Portál, Bruno Ferrero, české']"
+n113717216,La Cuisine Tchéque,90,2,2013,64,Slovart,kuchařky,Lea Filipová,francouzské,"Česká kuchařka ve francouzštině. Přehledně napsané postupy, velké množství rad a obměn základních receptů, barevné fotografie důležitých fází přípravy i podávání jídel.
+
+Autor:...",64,99,"['kuchařky', '', 'Slovart, Lea Filipová, francouzské']"
+n124364909,Italská kuchyně (Edice Apetit),96,7,2013,160,BURDA PRAHA spol.s r.o.,kuchařky,redakce časopisu Apetit,české,"Mamma mia! aneb To nejlepší od italských matek. Verze ve slovenském jazyce. Časopis Apetit přichází na trh s novou edicí kuchařek, tentokrát zaměřenou na mezinárodní kuchyně....",223,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, české']"
+n105539937,Domácí uzeniny,88,11,2013,144,Grada,kuchařky,Cosima Bellersen Quirini,české,"U uzenin rozhodně platí, že když si je uděláme sami, jsou nejlepší. Jsou totiž podle vaší chuti a navíc přesně víte, z čeho jsou vyrobené, a že jsou kvalitní. V úvodu knihy se...",78,269,"['kuchařky', '', 'Grada, Cosima Bellersen Quirini, české']"
+n145199952,Bon appetit! aneb Lekce francouzské kuchyně (Edice Apetit),95,8,2013,164,,kuchařky,Janáčková Zita,české,Časopis Apetit uvedl na trh novou edici kuchařek zaměřenou na mezinárodní kuchyně. Po kuchařce věnované italské kuchyni je tady další přírůstek - kuchařka plná francouzských...,211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n132963713,Sladká kniha domácích bonbonů,85,3,2013,160,Slovart,kuchařky,Elizabeth LaBauová,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2013
+Vazba / Podoba: Brožovaná s přebalem lesklá
+Sortiment: 
+Nakladatelství: SLOVART, s.r.o. NAKLADATELSTVí",239,424,"['kuchařky', '', 'Slovart, Elizabeth LaBauová, české']"
+n120289227,"Do ráje projdeš peklem 2.. ""Konec předpeklí ráje"" Ivo Wiesner AOS Publishing",95,1,2013,153,,esoterika,Ivo Wiesner,české,"Kumránské svitky, písemné artefakty Essenů, ale i apokryfní dokumenty různých prvotních křesťanských skupin jsou dokladem gigantické manipulace s vědomím lidstva a s...",189,250,"['esoterika', '', 'Ivo Wiesner, české']"
+n70755522,Chutně bez cholesterolu,90,1,2013,128,Ikar,kuchařky,Gerda Pighinová,české,"Chutně bez cholesterolu kniha od autora Pighinová Gerda. Máte zvýšenou hladinu cholesterolu a nevíte, jak s ní bojovat? Cholesterol sám o sobě není příčinou zanesených cév a...",142,189,"['kuchařky', '', 'Ikar, Gerda Pighinová, české']"
+n131875785,Pro mladé a dětem,88,1,2013,56,Pragma,esoterika,Jeho Svatost Dalajlama,české,"Prostřednictvím knihy se nám otevírá možnost ocitnout se na dalajlamově přednášce původně určené jen malé skupině jeho studentů. Všem těm, kteří jsou v mysli stále dětmi,...",49,85,"['esoterika', '', 'Pragma, Jeho Svatost Dalajlama, české']"
+n137314563,Exotické kouzlo kuchyně Malajsie / Exotic Charm of Cuisine of Malaysia - Jaroslav Olša,0,0,2013,144,,kuchařky,Jaroslav Olša,české,U nás malajsijská kuchařka dosud nevyšla. Tato knížka nabízí čtenáři možná první setkání s Malajsií a seznamuje uživatele se zvláštnostmi a exotickými jídly všech částí této...,132,170,"['kuchařky', '', 'Jaroslav Olša, české']"
+n461213900,50 nejzdravějších superpotravin - Brigitte Hamann,0,0,2013,144,,kuchařky,Hamann Brigitte,české,"Když se dobře najíme, cítíme se sytí. Jenže snědli jsme opravdu to, co naše tělo potřebovalo ze všeho nejvíce? Pokud ne, tak vlastně umíráme hlady nad plným talířem, protože...",161,259,"['kuchařky', '', 'Hamann Brigitte, české']"
+n92763092,Poselství zvířecích průvodců - Steven D. Farmer,93,3,2013,112,Synergie,esoterika,Steven D. Farmer,české,"Zvířecí průvodci jsou duchovními pomocníky, kteří vám dokážou poskytnout vedení při hledání odpovědí na jakoukoli otázku ohledně vašeho života. V těchto 44 vykládacích kartách...",230,349,"['esoterika', '', 'Synergie, Steven D. Farmer, české']"
+n125215548,Nápoje 50 snadných receptů,96,3,2013,128,Naše vojsko,kuchařky,Academia Barilla,české,"Jazyk: český
+Počet stran: 128
+Rok vydání: 2013
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: NAŠE VOJSKO-knižní distribuce s.r.o.",148,299,"['kuchařky', '', 'Naše vojsko, Academia Barilla, české']"
+n107290434,Karty Kouzelné mapy - Colette Baron-Reid,89,10,2013,0,Synergie,esoterika,Colette Baron-Reid,české,"Karty Kouzelné mapy jsou ideálním průvodcem na životní cestě. Byly vytvořeny, aby vám pomohly pochopit kouzlo příběhu vašeho života, posílily vás, ukázaly cestu ke svobodě a...",256,387,"['esoterika', '', 'Synergie, Colette Baron-Reid, české']"
+n123270901,Kuchařka při onemocnění dnou,77,17,2013,80,Vyšehrad,kuchařky,Růžena Milatová,české,"Kuchařka při onemocnění dnou
+Tato kuchařka je určená pacientům, kterým byla diagnostikována dna a vysoká hladina kyseliny močové. Dna neboli podagra či lidově pakostnice je...",118,158,"['kuchařky', '', 'Vyšehrad, Růžena Milatová, české']"
+n152435832,Nebe na zemi,0,0,2013,0,,esoterika,Yva Kuličková,české,"Karty jsou obrazovým ztvárněním poselství 33 nových archandělů ze stejnojmenné knihy Jiřiny Slámové. Inspirovala se jimi výtvarnice Yva Kuličková, která je zachytila jako...",189,255,"['esoterika', '', 'Yva Kuličková, české']"
+n92763075,"Doreen Virtue, Radleigh Valentine Andělské tarotové karty",96,32,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tarot je odnepaměti ceněn pro svoji schopnost podávat podrobné a přesné předpovědi.
+
+ Doreen Virtue a Radleigh Valentine vytvořili první balíček tarotových karet, který je...",388,587,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n93283481,"Výživa pro fitness a kulturistiku - Ivan Mach, Jiří Borkovec",83,4,2013,132,Grada,kuchařky,Jiří Borkovec,české,"Kniha je určena jak aktivně sportujícím, tak trenérům, cvičitelům, instruktorům a poradcům ve fitness a kulturistice, aby jim usnadnila orientaci v záležitostech týkajících se...",142,179,"['kuchařky', '', 'Grada, Ivan Mach, Jiří Borkovec, české']"
+n259845245,Moučníky - Edice Apetit Kniha,96,6,2013,160,,kuchařky,redakce časopisu Apetit,české,"Nejnovější přírůstek Edice Apetit kuchařka Moučníky obsahuje víc než 100 receptů na klasické i nové sladkosti pro každý den.
+Kniha o 160 stranách je rozdělená do kapitol:...",223,349,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n76218199,"Požádej a je ti dáno. Krásně ilustrované karty ke stejnojmenné knížce - Jerry Hicks, Ester Hicks",96,2,2013,0,Synergie,esoterika,Jerry Hicks,české,"Požádej a je ti dáno - Inspirační karty kniha od autora Jerry Hicks. Okouzlující karty Esther a Jerryho Hicksových, kteří vám předkládají učení nefyzické entity známé jako...",230,349,"['esoterika', '', 'Synergie, Jerry Hicks, české']"
+n139326574,Sladké a veselé s Ivetou - Iveta Fabešová,90,4,2013,112,Ikar,kuchařky,Fabešová Iveta,české,"Zapalujeme první svíčku na adventním věnci… Zbývá už jen několik týdnů na přípravu tradičního vánočního pečiva a sladkostí. Kdo by se netěšil na stůl plný cukroví, vánočku s...",238,269,"['kuchařky', '', 'Ikar, Fabešová Iveta, české']"
+n259842162,Pomazánky,98,10,2013,152,Ottovo nakladatelstvo,kuchařky,Jaroslav Vašák,české,"Nová ze série Ottových kuchařek přináší na 400 vyzkoušených receptů na chutné pomazánky pro každou příležitost.
+
+ Bohatý fotografický doprovod vám usnadní jejich přípravu a...",118,299,"['kuchařky', '', 'Ottovo nakladatelstvo, Jaroslav Vašák, české']"
+n147285889,Tajemství kroniky Akáše - Edgar Cayce,94,6,2013,142,,esoterika,Edgar Cayce,české,"Už starověcí proroci tvrdili, že všechny naše činy jsou zapsány v tzv. kronice života.
+Knihu života lze přirovnat k vesmírnému superpočítačovému systému.V tomto systému jsou...",111,152,"['esoterika', '', 'Edgar Cayce, české']"
+n145199951,Slané pečení - kuchařka z edice Apetit,89,6,2013,164,,kuchařky,Janáčková Zita,české,"Další přírůstek do úspěšné Edice Apetit obsahuje přes 100 receptů na nejrůznější druhy pečiva (český chleba včetně návodu, jak si doma udělat kvásek), housky, francouzská...",211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n76218198,Andělé lásky. Kniha a 44 karet Doreen Virtue Synergie,97,6,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tyto andělské karty se zabývají vším, co souvisí s láskou. Mají schopnost pomoci neomezenému počtu lidí najednou a jejich pomoc může vyhledat kdokoliv.
+Karty jsou nádherně...",230,349,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n109640898,Mach Ivan: Moje BIO pochoutky Kniha,0,0,2013,108,Grada,kuchařky,Zdeňka Kolláriková,české,"Kniha pro všechny, kteří chtějí vařit zdravě, přináší 50 chutných receptů z tzv. zdravých a BIO potravin. Zajímavé, jednoduché, většinou i rychle realizovatelné, ale chuťově...",78,239,"['kuchařky', '', 'Grada, Ivan Mach, Zdeňka Kolláriková, české']"
+n105763880,Grilování (Edice Apetit),99,6,2013,160,Kateř,kuchařky,redakce časopisu Apetit,české,"Grilování je 12. kuchařka z Edice Apetit a nabízí ty nejlepší nápady (nejen) na gril.
+
+ Ze 130 ověřených receptů si vyberou ti, kteří se chtějí naučit základy grilování, i ti,...",240,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, Kateř, české']"
+n88562422,Drůbež (Edice Apetit),95,4,2013,164,,kuchařky,redakce časopisu Apetit,české,"Kniha o 160 stranách je rozdělená do osmi kapitol: Polévky Pro každý den Kuře v hlavní roli Kachna, krůta a spol. S vůní dálek Chuťovky a saláty Nádivky Přílohy a Servis. Mezi...",211,329,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n461315828,Cukrářská výroba I,100,2,2013,144,,kuchařky,Kadlec F,české,"Zabývá se základy cukrářské výroby a popisuje přípravu a výrobu náplní a polev pro cukrářské výrobky, vady těchto výrobků a jejich příčiny, popř. možnosti a způsoby nápravy....",188,265,"['kuchařky', '', 'Bláha L., Conková V., Kadlec F, české']"
+n105034918,21 DNÍ PERFEKTNÍ KOMUNIKACE S VAŠIMI ANDĚLY,95,6,2013,112,Pragma,esoterika,Doreen Virtue,české,"S anděly může komunikovat každá osoba bez výjimky. Víra, že člověk musí být vyvolený, mimořádně citlivý nebo talentovaný, aby mohl slyšet Boha či anděly, je klamná. 
+ K...",151,151,"['esoterika', '', 'Pragma, Doreen Virtue, české']"
+n110357420,Hvězdy pro duši,100,3,2013,88,Portál,esoterika,Bruno Ferrero,české,"Znovu se setkáváme s laskavými a moudrými příběhy, které známe k mnoha knih turínského salesiána „pro duši“. Celou sbírku uvádí příběh o matce, která v tíživé rodinné situace...",119,149,"['esoterika', '', 'Portál, Bruno Ferrero, české']"
+n113717216,La Cuisine Tchéque,90,2,2013,64,Slovart,kuchařky,Lea Filipová,francouzské,"Česká kuchařka ve francouzštině. Přehledně napsané postupy, velké množství rad a obměn základních receptů, barevné fotografie důležitých fází přípravy i podávání jídel.
+
+Autor:...",64,99,"['kuchařky', '', 'Slovart, Lea Filipová, francouzské']"
+n124364909,Italská kuchyně (Edice Apetit),96,7,2013,160,BURDA PRAHA spol.s r.o.,kuchařky,redakce časopisu Apetit,české,"Mamma mia! aneb To nejlepší od italských matek. Verze ve slovenském jazyce. Časopis Apetit přichází na trh s novou edicí kuchařek, tentokrát zaměřenou na mezinárodní kuchyně....",223,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, české']"
+n105539937,Domácí uzeniny,88,11,2013,144,Grada,kuchařky,Cosima Bellersen Quirini,české,"U uzenin rozhodně platí, že když si je uděláme sami, jsou nejlepší. Jsou totiž podle vaší chuti a navíc přesně víte, z čeho jsou vyrobené, a že jsou kvalitní. V úvodu knihy se...",78,269,"['kuchařky', '', 'Grada, Cosima Bellersen Quirini, české']"
+n145199952,Bon appetit! aneb Lekce francouzské kuchyně (Edice Apetit),95,8,2013,164,,kuchařky,Janáčková Zita,české,Časopis Apetit uvedl na trh novou edici kuchařek zaměřenou na mezinárodní kuchyně. Po kuchařce věnované italské kuchyni je tady další přírůstek - kuchařka plná francouzských...,211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n132963713,Sladká kniha domácích bonbonů,85,3,2013,160,Slovart,kuchařky,Elizabeth LaBauová,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2013
+Vazba / Podoba: Brožovaná s přebalem lesklá
+Sortiment: 
+Nakladatelství: SLOVART, s.r.o. NAKLADATELSTVí",239,424,"['kuchařky', '', 'Slovart, Elizabeth LaBauová, české']"
+n120289227,"Do ráje projdeš peklem 2.. ""Konec předpeklí ráje"" Ivo Wiesner AOS Publishing",95,1,2013,153,,esoterika,Ivo Wiesner,české,"Kumránské svitky, písemné artefakty Essenů, ale i apokryfní dokumenty různých prvotních křesťanských skupin jsou dokladem gigantické manipulace s vědomím lidstva a s...",189,250,"['esoterika', '', 'Ivo Wiesner, české']"
+n70755522,Chutně bez cholesterolu,90,1,2013,128,Ikar,kuchařky,Gerda Pighinová,české,"Chutně bez cholesterolu kniha od autora Pighinová Gerda. Máte zvýšenou hladinu cholesterolu a nevíte, jak s ní bojovat? Cholesterol sám o sobě není příčinou zanesených cév a...",142,189,"['kuchařky', '', 'Ikar, Gerda Pighinová, české']"
+n131875785,Pro mladé a dětem,88,1,2013,56,Pragma,esoterika,Jeho Svatost Dalajlama,české,"Prostřednictvím knihy se nám otevírá možnost ocitnout se na dalajlamově přednášce původně určené jen malé skupině jeho studentů. Všem těm, kteří jsou v mysli stále dětmi,...",49,85,"['esoterika', '', 'Pragma, Jeho Svatost Dalajlama, české']"
+n137314563,Exotické kouzlo kuchyně Malajsie / Exotic Charm of Cuisine of Malaysia - Jaroslav Olša,0,0,2013,144,,kuchařky,Jaroslav Olša,české,U nás malajsijská kuchařka dosud nevyšla. Tato knížka nabízí čtenáři možná první setkání s Malajsií a seznamuje uživatele se zvláštnostmi a exotickými jídly všech částí této...,132,170,"['kuchařky', '', 'Jaroslav Olša, české']"
+n461213900,50 nejzdravějších superpotravin - Brigitte Hamann,0,0,2013,144,,kuchařky,Hamann Brigitte,české,"Když se dobře najíme, cítíme se sytí. Jenže snědli jsme opravdu to, co naše tělo potřebovalo ze všeho nejvíce? Pokud ne, tak vlastně umíráme hlady nad plným talířem, protože...",161,259,"['kuchařky', '', 'Hamann Brigitte, české']"
+n92763092,Poselství zvířecích průvodců - Steven D. Farmer,93,3,2013,112,Synergie,esoterika,Steven D. Farmer,české,"Zvířecí průvodci jsou duchovními pomocníky, kteří vám dokážou poskytnout vedení při hledání odpovědí na jakoukoli otázku ohledně vašeho života. V těchto 44 vykládacích kartách...",230,349,"['esoterika', '', 'Synergie, Steven D. Farmer, české']"
+n125215548,Nápoje 50 snadných receptů,96,3,2013,128,Naše vojsko,kuchařky,Academia Barilla,české,"Jazyk: český
+Počet stran: 128
+Rok vydání: 2013
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: NAŠE VOJSKO-knižní distribuce s.r.o.",148,299,"['kuchařky', '', 'Naše vojsko, Academia Barilla, české']"
+n107290434,Karty Kouzelné mapy - Colette Baron-Reid,89,10,2013,0,Synergie,esoterika,Colette Baron-Reid,české,"Karty Kouzelné mapy jsou ideálním průvodcem na životní cestě. Byly vytvořeny, aby vám pomohly pochopit kouzlo příběhu vašeho života, posílily vás, ukázaly cestu ke svobodě a...",256,387,"['esoterika', '', 'Synergie, Colette Baron-Reid, české']"
+n123270901,Kuchařka při onemocnění dnou,77,17,2013,80,Vyšehrad,kuchařky,Růžena Milatová,české,"Kuchařka při onemocnění dnou
+Tato kuchařka je určená pacientům, kterým byla diagnostikována dna a vysoká hladina kyseliny močové. Dna neboli podagra či lidově pakostnice je...",118,158,"['kuchařky', '', 'Vyšehrad, Růžena Milatová, české']"
+n152435832,Nebe na zemi,0,0,2013,0,,esoterika,Yva Kuličková,české,"Karty jsou obrazovým ztvárněním poselství 33 nových archandělů ze stejnojmenné knihy Jiřiny Slámové. Inspirovala se jimi výtvarnice Yva Kuličková, která je zachytila jako...",189,255,"['esoterika', '', 'Yva Kuličková, české']"
+n92763075,"Doreen Virtue, Radleigh Valentine Andělské tarotové karty",96,32,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tarot je odnepaměti ceněn pro svoji schopnost podávat podrobné a přesné předpovědi.
+
+ Doreen Virtue a Radleigh Valentine vytvořili první balíček tarotových karet, který je...",388,587,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n93283481,"Výživa pro fitness a kulturistiku - Ivan Mach, Jiří Borkovec",83,4,2013,132,Grada,kuchařky,Jiří Borkovec,české,"Kniha je určena jak aktivně sportujícím, tak trenérům, cvičitelům, instruktorům a poradcům ve fitness a kulturistice, aby jim usnadnila orientaci v záležitostech týkajících se...",142,179,"['kuchařky', '', 'Grada, Ivan Mach, Jiří Borkovec, české']"
+n259845245,Moučníky - Edice Apetit Kniha,96,6,2013,160,,kuchařky,redakce časopisu Apetit,české,"Nejnovější přírůstek Edice Apetit kuchařka Moučníky obsahuje víc než 100 receptů na klasické i nové sladkosti pro každý den.
+Kniha o 160 stranách je rozdělená do kapitol:...",223,349,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n76218199,"Požádej a je ti dáno. Krásně ilustrované karty ke stejnojmenné knížce - Jerry Hicks, Ester Hicks",96,2,2013,0,Synergie,esoterika,Jerry Hicks,české,"Požádej a je ti dáno - Inspirační karty kniha od autora Jerry Hicks. Okouzlující karty Esther a Jerryho Hicksových, kteří vám předkládají učení nefyzické entity známé jako...",230,349,"['esoterika', '', 'Synergie, Jerry Hicks, české']"
+n139326574,Sladké a veselé s Ivetou - Iveta Fabešová,90,4,2013,112,Ikar,kuchařky,Fabešová Iveta,české,"Zapalujeme první svíčku na adventním věnci… Zbývá už jen několik týdnů na přípravu tradičního vánočního pečiva a sladkostí. Kdo by se netěšil na stůl plný cukroví, vánočku s...",238,269,"['kuchařky', '', 'Ikar, Fabešová Iveta, české']"
+n259842162,Pomazánky,98,10,2013,152,Ottovo nakladatelstvo,kuchařky,Jaroslav Vašák,české,"Nová ze série Ottových kuchařek přináší na 400 vyzkoušených receptů na chutné pomazánky pro každou příležitost.
+
+ Bohatý fotografický doprovod vám usnadní jejich přípravu a...",118,299,"['kuchařky', '', 'Ottovo nakladatelstvo, Jaroslav Vašák, české']"
+n147285889,Tajemství kroniky Akáše - Edgar Cayce,94,6,2013,142,,esoterika,Edgar Cayce,české,"Už starověcí proroci tvrdili, že všechny naše činy jsou zapsány v tzv. kronice života.
+Knihu života lze přirovnat k vesmírnému superpočítačovému systému.V tomto systému jsou...",111,152,"['esoterika', '', 'Edgar Cayce, české']"
+n145199951,Slané pečení - kuchařka z edice Apetit,89,6,2013,164,,kuchařky,Janáčková Zita,české,"Další přírůstek do úspěšné Edice Apetit obsahuje přes 100 receptů na nejrůznější druhy pečiva (český chleba včetně návodu, jak si doma udělat kvásek), housky, francouzská...",211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n76218198,Andělé lásky. Kniha a 44 karet Doreen Virtue Synergie,97,6,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tyto andělské karty se zabývají vším, co souvisí s láskou. Mají schopnost pomoci neomezenému počtu lidí najednou a jejich pomoc může vyhledat kdokoliv.
+Karty jsou nádherně...",230,349,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n109640898,Mach Ivan: Moje BIO pochoutky Kniha,0,0,2013,108,Grada,kuchařky,Zdeňka Kolláriková,české,"Kniha pro všechny, kteří chtějí vařit zdravě, přináší 50 chutných receptů z tzv. zdravých a BIO potravin. Zajímavé, jednoduché, většinou i rychle realizovatelné, ale chuťově...",78,239,"['kuchařky', '', 'Grada, Ivan Mach, Zdeňka Kolláriková, české']"
+n105763880,Grilování (Edice Apetit),99,6,2013,160,Kateř,kuchařky,redakce časopisu Apetit,české,"Grilování je 12. kuchařka z Edice Apetit a nabízí ty nejlepší nápady (nejen) na gril.
+
+ Ze 130 ověřených receptů si vyberou ti, kteří se chtějí naučit základy grilování, i ti,...",240,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, Kateř, české']"
+n88562422,Drůbež (Edice Apetit),95,4,2013,164,,kuchařky,redakce časopisu Apetit,české,"Kniha o 160 stranách je rozdělená do osmi kapitol: Polévky Pro každý den Kuře v hlavní roli Kachna, krůta a spol. S vůní dálek Chuťovky a saláty Nádivky Přílohy a Servis. Mezi...",211,329,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n461315828,Cukrářská výroba I,100,2,2013,144,,kuchařky,Kadlec F,české,"Zabývá se základy cukrářské výroby a popisuje přípravu a výrobu náplní a polev pro cukrářské výrobky, vady těchto výrobků a jejich příčiny, popř. možnosti a způsoby nápravy....",188,265,"['kuchařky', '', 'Bláha L., Conková V., Kadlec F, české']"
+n105034918,21 DNÍ PERFEKTNÍ KOMUNIKACE S VAŠIMI ANDĚLY,95,6,2013,112,Pragma,esoterika,Doreen Virtue,české,"S anděly může komunikovat každá osoba bez výjimky. Víra, že člověk musí být vyvolený, mimořádně citlivý nebo talentovaný, aby mohl slyšet Boha či anděly, je klamná. 
+ K...",151,151,"['esoterika', '', 'Pragma, Doreen Virtue, české']"
+n110357420,Hvězdy pro duši,100,3,2013,88,Portál,esoterika,Bruno Ferrero,české,"Znovu se setkáváme s laskavými a moudrými příběhy, které známe k mnoha knih turínského salesiána „pro duši“. Celou sbírku uvádí příběh o matce, která v tíživé rodinné situace...",119,149,"['esoterika', '', 'Portál, Bruno Ferrero, české']"
+n113717216,La Cuisine Tchéque,90,2,2013,64,Slovart,kuchařky,Lea Filipová,francouzské,"Česká kuchařka ve francouzštině. Přehledně napsané postupy, velké množství rad a obměn základních receptů, barevné fotografie důležitých fází přípravy i podávání jídel.
+
+Autor:...",64,99,"['kuchařky', '', 'Slovart, Lea Filipová, francouzské']"
+n124364909,Italská kuchyně (Edice Apetit),96,7,2013,160,BURDA PRAHA spol.s r.o.,kuchařky,redakce časopisu Apetit,české,"Mamma mia! aneb To nejlepší od italských matek. Verze ve slovenském jazyce. Časopis Apetit přichází na trh s novou edicí kuchařek, tentokrát zaměřenou na mezinárodní kuchyně....",223,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, české']"
+n105539937,Domácí uzeniny,88,11,2013,144,Grada,kuchařky,Cosima Bellersen Quirini,české,"U uzenin rozhodně platí, že když si je uděláme sami, jsou nejlepší. Jsou totiž podle vaší chuti a navíc přesně víte, z čeho jsou vyrobené, a že jsou kvalitní. V úvodu knihy se...",78,269,"['kuchařky', '', 'Grada, Cosima Bellersen Quirini, české']"
+n145199952,Bon appetit! aneb Lekce francouzské kuchyně (Edice Apetit),95,8,2013,164,,kuchařky,Janáčková Zita,české,Časopis Apetit uvedl na trh novou edici kuchařek zaměřenou na mezinárodní kuchyně. Po kuchařce věnované italské kuchyni je tady další přírůstek - kuchařka plná francouzských...,211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n132963713,Sladká kniha domácích bonbonů,85,3,2013,160,Slovart,kuchařky,Elizabeth LaBauová,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2013
+Vazba / Podoba: Brožovaná s přebalem lesklá
+Sortiment: 
+Nakladatelství: SLOVART, s.r.o. NAKLADATELSTVí",239,424,"['kuchařky', '', 'Slovart, Elizabeth LaBauová, české']"
+n120289227,"Do ráje projdeš peklem 2.. ""Konec předpeklí ráje"" Ivo Wiesner AOS Publishing",95,1,2013,153,,esoterika,Ivo Wiesner,české,"Kumránské svitky, písemné artefakty Essenů, ale i apokryfní dokumenty různých prvotních křesťanských skupin jsou dokladem gigantické manipulace s vědomím lidstva a s...",189,250,"['esoterika', '', 'Ivo Wiesner, české']"
+n70755522,Chutně bez cholesterolu,90,1,2013,128,Ikar,kuchařky,Gerda Pighinová,české,"Chutně bez cholesterolu kniha od autora Pighinová Gerda. Máte zvýšenou hladinu cholesterolu a nevíte, jak s ní bojovat? Cholesterol sám o sobě není příčinou zanesených cév a...",142,189,"['kuchařky', '', 'Ikar, Gerda Pighinová, české']"
+n131875785,Pro mladé a dětem,88,1,2013,56,Pragma,esoterika,Jeho Svatost Dalajlama,české,"Prostřednictvím knihy se nám otevírá možnost ocitnout se na dalajlamově přednášce původně určené jen malé skupině jeho studentů. Všem těm, kteří jsou v mysli stále dětmi,...",49,85,"['esoterika', '', 'Pragma, Jeho Svatost Dalajlama, české']"
+n137314563,Exotické kouzlo kuchyně Malajsie / Exotic Charm of Cuisine of Malaysia - Jaroslav Olša,0,0,2013,144,,kuchařky,Jaroslav Olša,české,U nás malajsijská kuchařka dosud nevyšla. Tato knížka nabízí čtenáři možná první setkání s Malajsií a seznamuje uživatele se zvláštnostmi a exotickými jídly všech částí této...,132,170,"['kuchařky', '', 'Jaroslav Olša, české']"
+n461213900,50 nejzdravějších superpotravin - Brigitte Hamann,0,0,2013,144,,kuchařky,Hamann Brigitte,české,"Když se dobře najíme, cítíme se sytí. Jenže snědli jsme opravdu to, co naše tělo potřebovalo ze všeho nejvíce? Pokud ne, tak vlastně umíráme hlady nad plným talířem, protože...",161,259,"['kuchařky', '', 'Hamann Brigitte, české']"
+n92763092,Poselství zvířecích průvodců - Steven D. Farmer,93,3,2013,112,Synergie,esoterika,Steven D. Farmer,české,"Zvířecí průvodci jsou duchovními pomocníky, kteří vám dokážou poskytnout vedení při hledání odpovědí na jakoukoli otázku ohledně vašeho života. V těchto 44 vykládacích kartách...",230,349,"['esoterika', '', 'Synergie, Steven D. Farmer, české']"
+n125215548,Nápoje 50 snadných receptů,96,3,2013,128,Naše vojsko,kuchařky,Academia Barilla,české,"Jazyk: český
+Počet stran: 128
+Rok vydání: 2013
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: NAŠE VOJSKO-knižní distribuce s.r.o.",148,299,"['kuchařky', '', 'Naše vojsko, Academia Barilla, české']"
+n107290434,Karty Kouzelné mapy - Colette Baron-Reid,89,10,2013,0,Synergie,esoterika,Colette Baron-Reid,české,"Karty Kouzelné mapy jsou ideálním průvodcem na životní cestě. Byly vytvořeny, aby vám pomohly pochopit kouzlo příběhu vašeho života, posílily vás, ukázaly cestu ke svobodě a...",256,387,"['esoterika', '', 'Synergie, Colette Baron-Reid, české']"
+n123270901,Kuchařka při onemocnění dnou,77,17,2013,80,Vyšehrad,kuchařky,Růžena Milatová,české,"Kuchařka při onemocnění dnou
+Tato kuchařka je určená pacientům, kterým byla diagnostikována dna a vysoká hladina kyseliny močové. Dna neboli podagra či lidově pakostnice je...",118,158,"['kuchařky', '', 'Vyšehrad, Růžena Milatová, české']"
+n152435832,Nebe na zemi,0,0,2013,0,,esoterika,Yva Kuličková,české,"Karty jsou obrazovým ztvárněním poselství 33 nových archandělů ze stejnojmenné knihy Jiřiny Slámové. Inspirovala se jimi výtvarnice Yva Kuličková, která je zachytila jako...",189,255,"['esoterika', '', 'Yva Kuličková, české']"
+n92763075,"Doreen Virtue, Radleigh Valentine Andělské tarotové karty",96,32,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tarot je odnepaměti ceněn pro svoji schopnost podávat podrobné a přesné předpovědi.
+
+ Doreen Virtue a Radleigh Valentine vytvořili první balíček tarotových karet, který je...",388,587,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n93283481,"Výživa pro fitness a kulturistiku - Ivan Mach, Jiří Borkovec",83,4,2013,132,Grada,kuchařky,Jiří Borkovec,české,"Kniha je určena jak aktivně sportujícím, tak trenérům, cvičitelům, instruktorům a poradcům ve fitness a kulturistice, aby jim usnadnila orientaci v záležitostech týkajících se...",142,179,"['kuchařky', '', 'Grada, Ivan Mach, Jiří Borkovec, české']"
+n259845245,Moučníky - Edice Apetit Kniha,96,6,2013,160,,kuchařky,redakce časopisu Apetit,české,"Nejnovější přírůstek Edice Apetit kuchařka Moučníky obsahuje víc než 100 receptů na klasické i nové sladkosti pro každý den.
+Kniha o 160 stranách je rozdělená do kapitol:...",223,349,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n76218199,"Požádej a je ti dáno. Krásně ilustrované karty ke stejnojmenné knížce - Jerry Hicks, Ester Hicks",96,2,2013,0,Synergie,esoterika,Jerry Hicks,české,"Požádej a je ti dáno - Inspirační karty kniha od autora Jerry Hicks. Okouzlující karty Esther a Jerryho Hicksových, kteří vám předkládají učení nefyzické entity známé jako...",230,349,"['esoterika', '', 'Synergie, Jerry Hicks, české']"
+n139326574,Sladké a veselé s Ivetou - Iveta Fabešová,90,4,2013,112,Ikar,kuchařky,Fabešová Iveta,české,"Zapalujeme první svíčku na adventním věnci… Zbývá už jen několik týdnů na přípravu tradičního vánočního pečiva a sladkostí. Kdo by se netěšil na stůl plný cukroví, vánočku s...",238,269,"['kuchařky', '', 'Ikar, Fabešová Iveta, české']"
+n259842162,Pomazánky,98,10,2013,152,Ottovo nakladatelstvo,kuchařky,Jaroslav Vašák,české,"Nová ze série Ottových kuchařek přináší na 400 vyzkoušených receptů na chutné pomazánky pro každou příležitost.
+
+ Bohatý fotografický doprovod vám usnadní jejich přípravu a...",118,299,"['kuchařky', '', 'Ottovo nakladatelstvo, Jaroslav Vašák, české']"
+n147285889,Tajemství kroniky Akáše - Edgar Cayce,94,6,2013,142,,esoterika,Edgar Cayce,české,"Už starověcí proroci tvrdili, že všechny naše činy jsou zapsány v tzv. kronice života.
+Knihu života lze přirovnat k vesmírnému superpočítačovému systému.V tomto systému jsou...",111,152,"['esoterika', '', 'Edgar Cayce, české']"
+n145199951,Slané pečení - kuchařka z edice Apetit,89,6,2013,164,,kuchařky,Janáčková Zita,české,"Další přírůstek do úspěšné Edice Apetit obsahuje přes 100 receptů na nejrůznější druhy pečiva (český chleba včetně návodu, jak si doma udělat kvásek), housky, francouzská...",211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n76218198,Andělé lásky. Kniha a 44 karet Doreen Virtue Synergie,97,6,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tyto andělské karty se zabývají vším, co souvisí s láskou. Mají schopnost pomoci neomezenému počtu lidí najednou a jejich pomoc může vyhledat kdokoliv.
+Karty jsou nádherně...",230,349,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n109640898,Mach Ivan: Moje BIO pochoutky Kniha,0,0,2013,108,Grada,kuchařky,Zdeňka Kolláriková,české,"Kniha pro všechny, kteří chtějí vařit zdravě, přináší 50 chutných receptů z tzv. zdravých a BIO potravin. Zajímavé, jednoduché, většinou i rychle realizovatelné, ale chuťově...",78,239,"['kuchařky', '', 'Grada, Ivan Mach, Zdeňka Kolláriková, české']"
+n105763880,Grilování (Edice Apetit),99,6,2013,160,Kateř,kuchařky,redakce časopisu Apetit,české,"Grilování je 12. kuchařka z Edice Apetit a nabízí ty nejlepší nápady (nejen) na gril.
+
+ Ze 130 ověřených receptů si vyberou ti, kteří se chtějí naučit základy grilování, i ti,...",240,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, Kateř, české']"
+n88562422,Drůbež (Edice Apetit),95,4,2013,164,,kuchařky,redakce časopisu Apetit,české,"Kniha o 160 stranách je rozdělená do osmi kapitol: Polévky Pro každý den Kuře v hlavní roli Kachna, krůta a spol. S vůní dálek Chuťovky a saláty Nádivky Přílohy a Servis. Mezi...",211,329,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n461315828,Cukrářská výroba I,100,2,2013,144,,kuchařky,Kadlec F,české,"Zabývá se základy cukrářské výroby a popisuje přípravu a výrobu náplní a polev pro cukrářské výrobky, vady těchto výrobků a jejich příčiny, popř. možnosti a způsoby nápravy....",188,265,"['kuchařky', '', 'Bláha L., Conková V., Kadlec F, české']"
+n105034918,21 DNÍ PERFEKTNÍ KOMUNIKACE S VAŠIMI ANDĚLY,95,6,2013,112,Pragma,esoterika,Doreen Virtue,české,"S anděly může komunikovat každá osoba bez výjimky. Víra, že člověk musí být vyvolený, mimořádně citlivý nebo talentovaný, aby mohl slyšet Boha či anděly, je klamná. 
+ K...",151,151,"['esoterika', '', 'Pragma, Doreen Virtue, české']"
+n110357420,Hvězdy pro duši,100,3,2013,88,Portál,esoterika,Bruno Ferrero,české,"Znovu se setkáváme s laskavými a moudrými příběhy, které známe k mnoha knih turínského salesiána „pro duši“. Celou sbírku uvádí příběh o matce, která v tíživé rodinné situace...",119,149,"['esoterika', '', 'Portál, Bruno Ferrero, české']"
+n113717216,La Cuisine Tchéque,90,2,2013,64,Slovart,kuchařky,Lea Filipová,francouzské,"Česká kuchařka ve francouzštině. Přehledně napsané postupy, velké množství rad a obměn základních receptů, barevné fotografie důležitých fází přípravy i podávání jídel.
+
+Autor:...",64,99,"['kuchařky', '', 'Slovart, Lea Filipová, francouzské']"
+n124364909,Italská kuchyně (Edice Apetit),96,7,2013,160,BURDA PRAHA spol.s r.o.,kuchařky,redakce časopisu Apetit,české,"Mamma mia! aneb To nejlepší od italských matek. Verze ve slovenském jazyce. Časopis Apetit přichází na trh s novou edicí kuchařek, tentokrát zaměřenou na mezinárodní kuchyně....",223,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, české']"
+n105539937,Domácí uzeniny,88,11,2013,144,Grada,kuchařky,Cosima Bellersen Quirini,české,"U uzenin rozhodně platí, že když si je uděláme sami, jsou nejlepší. Jsou totiž podle vaší chuti a navíc přesně víte, z čeho jsou vyrobené, a že jsou kvalitní. V úvodu knihy se...",78,269,"['kuchařky', '', 'Grada, Cosima Bellersen Quirini, české']"
+n145199952,Bon appetit! aneb Lekce francouzské kuchyně (Edice Apetit),95,8,2013,164,,kuchařky,Janáčková Zita,české,Časopis Apetit uvedl na trh novou edici kuchařek zaměřenou na mezinárodní kuchyně. Po kuchařce věnované italské kuchyni je tady další přírůstek - kuchařka plná francouzských...,211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n132963713,Sladká kniha domácích bonbonů,85,3,2013,160,Slovart,kuchařky,Elizabeth LaBauová,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2013
+Vazba / Podoba: Brožovaná s přebalem lesklá
+Sortiment: 
+Nakladatelství: SLOVART, s.r.o. NAKLADATELSTVí",239,424,"['kuchařky', '', 'Slovart, Elizabeth LaBauová, české']"
+n120289227,"Do ráje projdeš peklem 2.. ""Konec předpeklí ráje"" Ivo Wiesner AOS Publishing",95,1,2013,153,,esoterika,Ivo Wiesner,české,"Kumránské svitky, písemné artefakty Essenů, ale i apokryfní dokumenty různých prvotních křesťanských skupin jsou dokladem gigantické manipulace s vědomím lidstva a s...",189,250,"['esoterika', '', 'Ivo Wiesner, české']"
+n70755522,Chutně bez cholesterolu,90,1,2013,128,Ikar,kuchařky,Gerda Pighinová,české,"Chutně bez cholesterolu kniha od autora Pighinová Gerda. Máte zvýšenou hladinu cholesterolu a nevíte, jak s ní bojovat? Cholesterol sám o sobě není příčinou zanesených cév a...",142,189,"['kuchařky', '', 'Ikar, Gerda Pighinová, české']"
+n131875785,Pro mladé a dětem,88,1,2013,56,Pragma,esoterika,Jeho Svatost Dalajlama,české,"Prostřednictvím knihy se nám otevírá možnost ocitnout se na dalajlamově přednášce původně určené jen malé skupině jeho studentů. Všem těm, kteří jsou v mysli stále dětmi,...",49,85,"['esoterika', '', 'Pragma, Jeho Svatost Dalajlama, české']"
+n137314563,Exotické kouzlo kuchyně Malajsie / Exotic Charm of Cuisine of Malaysia - Jaroslav Olša,0,0,2013,144,,kuchařky,Jaroslav Olša,české,U nás malajsijská kuchařka dosud nevyšla. Tato knížka nabízí čtenáři možná první setkání s Malajsií a seznamuje uživatele se zvláštnostmi a exotickými jídly všech částí této...,132,170,"['kuchařky', '', 'Jaroslav Olša, české']"
+n461213900,50 nejzdravějších superpotravin - Brigitte Hamann,0,0,2013,144,,kuchařky,Hamann Brigitte,české,"Když se dobře najíme, cítíme se sytí. Jenže snědli jsme opravdu to, co naše tělo potřebovalo ze všeho nejvíce? Pokud ne, tak vlastně umíráme hlady nad plným talířem, protože...",161,259,"['kuchařky', '', 'Hamann Brigitte, české']"
+n92763092,Poselství zvířecích průvodců - Steven D. Farmer,93,3,2013,112,Synergie,esoterika,Steven D. Farmer,české,"Zvířecí průvodci jsou duchovními pomocníky, kteří vám dokážou poskytnout vedení při hledání odpovědí na jakoukoli otázku ohledně vašeho života. V těchto 44 vykládacích kartách...",230,349,"['esoterika', '', 'Synergie, Steven D. Farmer, české']"
+n125215548,Nápoje 50 snadných receptů,96,3,2013,128,Naše vojsko,kuchařky,Academia Barilla,české,"Jazyk: český
+Počet stran: 128
+Rok vydání: 2013
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: NAŠE VOJSKO-knižní distribuce s.r.o.",148,299,"['kuchařky', '', 'Naše vojsko, Academia Barilla, české']"
+n107290434,Karty Kouzelné mapy - Colette Baron-Reid,89,10,2013,0,Synergie,esoterika,Colette Baron-Reid,české,"Karty Kouzelné mapy jsou ideálním průvodcem na životní cestě. Byly vytvořeny, aby vám pomohly pochopit kouzlo příběhu vašeho života, posílily vás, ukázaly cestu ke svobodě a...",256,387,"['esoterika', '', 'Synergie, Colette Baron-Reid, české']"
+n123270901,Kuchařka při onemocnění dnou,77,17,2013,80,Vyšehrad,kuchařky,Růžena Milatová,české,"Kuchařka při onemocnění dnou
+Tato kuchařka je určená pacientům, kterým byla diagnostikována dna a vysoká hladina kyseliny močové. Dna neboli podagra či lidově pakostnice je...",118,158,"['kuchařky', '', 'Vyšehrad, Růžena Milatová, české']"
+n152435832,Nebe na zemi,0,0,2013,0,,esoterika,Yva Kuličková,české,"Karty jsou obrazovým ztvárněním poselství 33 nových archandělů ze stejnojmenné knihy Jiřiny Slámové. Inspirovala se jimi výtvarnice Yva Kuličková, která je zachytila jako...",189,255,"['esoterika', '', 'Yva Kuličková, české']"
+n92763075,"Doreen Virtue, Radleigh Valentine Andělské tarotové karty",96,32,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tarot je odnepaměti ceněn pro svoji schopnost podávat podrobné a přesné předpovědi.
+
+ Doreen Virtue a Radleigh Valentine vytvořili první balíček tarotových karet, který je...",388,587,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n93283481,"Výživa pro fitness a kulturistiku - Ivan Mach, Jiří Borkovec",83,4,2013,132,Grada,kuchařky,Jiří Borkovec,české,"Kniha je určena jak aktivně sportujícím, tak trenérům, cvičitelům, instruktorům a poradcům ve fitness a kulturistice, aby jim usnadnila orientaci v záležitostech týkajících se...",142,179,"['kuchařky', '', 'Grada, Ivan Mach, Jiří Borkovec, české']"
+n259845245,Moučníky - Edice Apetit Kniha,96,6,2013,160,,kuchařky,redakce časopisu Apetit,české,"Nejnovější přírůstek Edice Apetit kuchařka Moučníky obsahuje víc než 100 receptů na klasické i nové sladkosti pro každý den.
+Kniha o 160 stranách je rozdělená do kapitol:...",223,349,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n76218199,"Požádej a je ti dáno. Krásně ilustrované karty ke stejnojmenné knížce - Jerry Hicks, Ester Hicks",96,2,2013,0,Synergie,esoterika,Jerry Hicks,české,"Požádej a je ti dáno - Inspirační karty kniha od autora Jerry Hicks. Okouzlující karty Esther a Jerryho Hicksových, kteří vám předkládají učení nefyzické entity známé jako...",230,349,"['esoterika', '', 'Synergie, Jerry Hicks, české']"
+n139326574,Sladké a veselé s Ivetou - Iveta Fabešová,90,4,2013,112,Ikar,kuchařky,Fabešová Iveta,české,"Zapalujeme první svíčku na adventním věnci… Zbývá už jen několik týdnů na přípravu tradičního vánočního pečiva a sladkostí. Kdo by se netěšil na stůl plný cukroví, vánočku s...",238,269,"['kuchařky', '', 'Ikar, Fabešová Iveta, české']"
+n259842162,Pomazánky,98,10,2013,152,Ottovo nakladatelstvo,kuchařky,Jaroslav Vašák,české,"Nová ze série Ottových kuchařek přináší na 400 vyzkoušených receptů na chutné pomazánky pro každou příležitost.
+
+ Bohatý fotografický doprovod vám usnadní jejich přípravu a...",118,299,"['kuchařky', '', 'Ottovo nakladatelstvo, Jaroslav Vašák, české']"
+n147285889,Tajemství kroniky Akáše - Edgar Cayce,94,6,2013,142,,esoterika,Edgar Cayce,české,"Už starověcí proroci tvrdili, že všechny naše činy jsou zapsány v tzv. kronice života.
+Knihu života lze přirovnat k vesmírnému superpočítačovému systému.V tomto systému jsou...",111,152,"['esoterika', '', 'Edgar Cayce, české']"
+n145199951,Slané pečení - kuchařka z edice Apetit,89,6,2013,164,,kuchařky,Janáčková Zita,české,"Další přírůstek do úspěšné Edice Apetit obsahuje přes 100 receptů na nejrůznější druhy pečiva (český chleba včetně návodu, jak si doma udělat kvásek), housky, francouzská...",211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n76218198,Andělé lásky. Kniha a 44 karet Doreen Virtue Synergie,97,6,2013,0,Synergie,esoterika,Doreen Virtue,české,"Tyto andělské karty se zabývají vším, co souvisí s láskou. Mají schopnost pomoci neomezenému počtu lidí najednou a jejich pomoc může vyhledat kdokoliv.
+Karty jsou nádherně...",230,349,"['esoterika', '', 'Synergie, Doreen Virtue, české']"
+n109640898,Mach Ivan: Moje BIO pochoutky Kniha,0,0,2013,108,Grada,kuchařky,Zdeňka Kolláriková,české,"Kniha pro všechny, kteří chtějí vařit zdravě, přináší 50 chutných receptů z tzv. zdravých a BIO potravin. Zajímavé, jednoduché, většinou i rychle realizovatelné, ale chuťově...",78,239,"['kuchařky', '', 'Grada, Ivan Mach, Zdeňka Kolláriková, české']"
+n105763880,Grilování (Edice Apetit),99,6,2013,160,Kateř,kuchařky,redakce časopisu Apetit,české,"Grilování je 12. kuchařka z Edice Apetit a nabízí ty nejlepší nápady (nejen) na gril.
+
+ Ze 130 ověřených receptů si vyberou ti, kteří se chtějí naučit základy grilování, i ti,...",240,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, Kateř, české']"
+n88562422,Drůbež (Edice Apetit),95,4,2013,164,,kuchařky,redakce časopisu Apetit,české,"Kniha o 160 stranách je rozdělená do osmi kapitol: Polévky Pro každý den Kuře v hlavní roli Kachna, krůta a spol. S vůní dálek Chuťovky a saláty Nádivky Přílohy a Servis. Mezi...",211,329,"['kuchařky', '', 'redakce časopisu Apetit, české']"
+n461315828,Cukrářská výroba I,100,2,2013,144,,kuchařky,Kadlec F,české,"Zabývá se základy cukrářské výroby a popisuje přípravu a výrobu náplní a polev pro cukrářské výrobky, vady těchto výrobků a jejich příčiny, popř. možnosti a způsoby nápravy....",188,265,"['kuchařky', '', 'Bláha L., Conková V., Kadlec F, české']"
+n105034918,21 DNÍ PERFEKTNÍ KOMUNIKACE S VAŠIMI ANDĚLY,95,6,2013,112,Pragma,esoterika,Doreen Virtue,české,"S anděly může komunikovat každá osoba bez výjimky. Víra, že člověk musí být vyvolený, mimořádně citlivý nebo talentovaný, aby mohl slyšet Boha či anděly, je klamná. 
+ K...",151,151,"['esoterika', '', 'Pragma, Doreen Virtue, české']"
+n110357420,Hvězdy pro duši,100,3,2013,88,Portál,esoterika,Bruno Ferrero,české,"Znovu se setkáváme s laskavými a moudrými příběhy, které známe k mnoha knih turínského salesiána „pro duši“. Celou sbírku uvádí příběh o matce, která v tíživé rodinné situace...",119,149,"['esoterika', '', 'Portál, Bruno Ferrero, české']"
+n113717216,La Cuisine Tchéque,90,2,2013,64,Slovart,kuchařky,Lea Filipová,francouzské,"Česká kuchařka ve francouzštině. Přehledně napsané postupy, velké množství rad a obměn základních receptů, barevné fotografie důležitých fází přípravy i podávání jídel.
+
+Autor:...",64,99,"['kuchařky', '', 'Slovart, Lea Filipová, francouzské']"
+n124364909,Italská kuchyně (Edice Apetit),96,7,2013,160,BURDA PRAHA spol.s r.o.,kuchařky,redakce časopisu Apetit,české,"Mamma mia! aneb To nejlepší od italských matek. Verze ve slovenském jazyce. Časopis Apetit přichází na trh s novou edicí kuchařek, tentokrát zaměřenou na mezinárodní kuchyně....",223,349,"['kuchařky', '', 'BURDA PRAHA spol.s r.o., redakce časopisu Apetit, české']"
+n105539937,Domácí uzeniny,88,11,2013,144,Grada,kuchařky,Cosima Bellersen Quirini,české,"U uzenin rozhodně platí, že když si je uděláme sami, jsou nejlepší. Jsou totiž podle vaší chuti a navíc přesně víte, z čeho jsou vyrobené, a že jsou kvalitní. V úvodu knihy se...",78,269,"['kuchařky', '', 'Grada, Cosima Bellersen Quirini, české']"
+n145199952,Bon appetit! aneb Lekce francouzské kuchyně (Edice Apetit),95,8,2013,164,,kuchařky,Janáčková Zita,české,Časopis Apetit uvedl na trh novou edici kuchařek zaměřenou na mezinárodní kuchyně. Po kuchařce věnované italské kuchyni je tady další přírůstek - kuchařka plná francouzských...,211,329,"['kuchařky', '', 'Janáčková Zita, české']"
+n132963713,Sladká kniha domácích bonbonů,85,3,2013,160,Slovart,kuchařky,Elizabeth LaBauová,české,"Jazyk: český
+Počet stran: 160
+Rok vydání: 2013
+Vazba / Podoba: Brožovaná s přebalem lesklá
+Sortiment: 
+Nakladatelství: SLOVART, s.r.o. NAKLADATELSTVí",239,424,"['kuchařky', '', 'Slovart, Elizabeth LaBauová, české']"
+n120289227,"Do ráje projdeš peklem 2.. ""Konec předpeklí ráje"" Ivo Wiesner AOS Publishing",95,1,2013,153,,esoterika,Ivo Wiesner,české,"Kumránské svitky, písemné artefakty Essenů, ale i apokryfní dokumenty různých prvotních křesťanských skupin jsou dokladem gigantické manipulace s vědomím lidstva a s...",189,250,"['esoterika', '', 'Ivo Wiesner, české']"
+n70755522,Chutně bez cholesterolu,90,1,2013,128,Ikar,kuchařky,Gerda Pighinová,české,"Chutně bez cholesterolu kniha od autora Pighinová Gerda. Máte zvýšenou hladinu cholesterolu a nevíte, jak s ní bojovat? Cholesterol sám o sobě není příčinou zanesených cév a...",142,189,"['kuchařky', '', 'Ikar, Gerda Pighinová, české']"
+n131875785,Pro mladé a dětem,88,1,2013,56,Pragma,esoterika,Jeho Svatost Dalajlama,české,"Prostřednictvím knihy se nám otevírá možnost ocitnout se na dalajlamově přednášce původně určené jen malé skupině jeho studentů. Všem těm, kteří jsou v mysli stále dětmi,...",49,85,"['esoterika', '', 'Pragma, Jeho Svatost Dalajlama, české']"
+n137314563,Exotické kouzlo kuchyně Malajsie / Exotic Charm of Cuisine of Malaysia - Jaroslav Olša,0,0,2013,144,,kuchařky,Jaroslav Olša,české,U nás malajsijská kuchařka dosud nevyšla. Tato knížka nabízí čtenáři možná první setkání s Malajsií a seznamuje uživatele se zvláštnostmi a exotickými jídly všech částí této...,132,170,"['kuchařky', '', 'Jaroslav Olša, české']"
+n461213900,50 nejzdravějších superpotravin - Brigitte Hamann,0,0,2013,144,,kuchařky,Hamann Brigitte,české,"Když se dobře najíme, cítíme se sytí. Jenže snědli jsme opravdu to, co naše tělo potřebovalo ze všeho nejvíce? Pokud ne, tak vlastně umíráme hlady nad plným talířem, protože...",161,259,"['kuchařky', '', 'Hamann Brigitte, české']"
+n92763092,Poselství zvířecích průvodců - Steven D. Farmer,93,3,2013,112,Synergie,esoterika,Steven D. Farmer,české,"Zvířecí průvodci jsou duchovními pomocníky, kteří vám dokážou poskytnout vedení při hledání odpovědí na jakoukoli otázku ohledně vašeho života. V těchto 44 vykládacích kartách...",230,349,"['esoterika', '', 'Synergie, Steven D. Farmer, české']"
+n125215548,Nápoje 50 snadných receptů,96,3,2013,128,Naše vojsko,kuchařky,Academia Barilla,české,"Jazyk: český
+Počet stran: 128
+Rok vydání: 2013
+Vazba / Podoba: Pevná bez přebalu matná
+Sortiment: 
+Nakladatelství: NAŠE VOJSKO-knižní distribuce s.r.o.",148,299,"['kuchařky', '', 'Naše vojsko, Academia Barilla, české']"

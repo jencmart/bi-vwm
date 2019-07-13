@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n232682702,Féerie pro jindy II - Louis Ferdinand Céline,0,0,2015,308,Atlantis,beletrie,české</p>,,"Druhý svazek Célinovy Féerie pro jindy je zdánlivě bez děje, jak se domnívali Célinovi kritici. Popisuje spojenecké bombardování Paříže v noci z 21. na 22. dubna 1944. Záhubu...",255,363,"['Atlantis, beletrie', '', 'české']"
+n273092509,Další tisíce Ludvík Vaculík,100,1,2015,316,Atlantis,beletrie,české</p>,,"Svazkem Další tisíce pokračuje svazek Tisíce slov. Obsahuje autorovy fejetony a texty publikované většinou v samizdatu v letech 1977–1990, kapitoly z dosud nepublikovaného...",201,285,"['Atlantis, beletrie', '', 'české']"

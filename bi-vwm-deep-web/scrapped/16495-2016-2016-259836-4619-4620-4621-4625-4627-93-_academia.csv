@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n395470527,Láska jako cesta k Bohu - Ibn Síná,0,0,2016,192,Academia,beletrie,české</p>,,"Láska jako cesta k Bohu je netradičním výběrem z rozsáhlého díla Ibn Síny, jednoho z nejvýznamnějších středověkých muslimských filozofů. Přináší tři spisy, které stály vždy v...",160,250,"['Academia, beletrie', '', 'české']"
+n384117992,Maqámy - Abú Al-Hamadhání,0,0,2016,198,Academia,beletrie,české</p>,,"Na konci 10. století vznikl zcela nový žánr klasické arabské prózy – maqáma. Vytvořil jej Abú ’l-Fadl Ahmad ibn al-Husajn ibn Jahjá, jemuž se v dějinách arabské literatury...",85,285,"['Academia, beletrie', '', 'české']"

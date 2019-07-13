@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n305595910,Císařský kyrysník – Kovařík Jiří,87,2,2015,320,Akcent,naučná,české</p>,,"Jezdecký důstojník Karl Johann von Grueber strávil čtrnáct let ve válkách s napoleonskou Francií a jako rakouský kyrysník se účastnil bitev u Hohenlinden, Ulmu, Štoků, Aspern i...",223,349,"['Akcent, naučná', '', 'české']"
+n296904383,Caesarovy legie - Římské války 3 – Kovařík Jiří,90,2,2015,424,Akcent,naučná,české</p>,,"Caesarovy legie jsou třetím svazkem projektu o vojenské historii antického Říma, tentokrát věnovaným poměrně krátkému, leč bitvami a klíčovými událostmi nabitému úseku římských...",256,399,"['Akcent, naučná', '', 'české']"

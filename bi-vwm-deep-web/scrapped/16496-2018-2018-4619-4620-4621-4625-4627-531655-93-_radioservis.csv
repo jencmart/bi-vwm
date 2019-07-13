@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n621931471,Milan Pokorný: V hlavní roli rozhlas!,100,1,2018,268,Radioservis,naučná,české</p>,,"Rozhlas jako literární hrdina v dílech vynikajících i zapomenutých představitelů české literatury.
+ V antologii povídek, fejetonů, pohádek, úryvků z románů i divadelních her se...",95,216,"['Radioservis, naučná', '', 'české']"

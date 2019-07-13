@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n148279749,Stanislav Podhrázský - Marie Klimešová,95,1,2013,232,Arbor vitae,beletrie,české</p>,,"Stanislav Podhrázský (1920–1999) byl jako mnozí další v mládí silně ovlivněn surrealismem, zejména pak osobností Mikuláše Medka, záhy však přešel na vysoce autorskou, solitérní...",600,1,"['Arbor vitae, beletrie', '', 'české']"
+n110476425,Zdeněk Dvořák - Hana Rousová,0,0,2013,184,Arbor vitae,beletrie,české</p>,,"Vojtěch Preissig (1873 Světec u Bíliny – 1944 Dachau) patří do okruhu nejvýraznějších českých umělců první poloviny 20. století, mezi něž se zapsal jak svou uměleckou invencí a...",290,891,"['Arbor vitae, beletrie', '', 'české']"

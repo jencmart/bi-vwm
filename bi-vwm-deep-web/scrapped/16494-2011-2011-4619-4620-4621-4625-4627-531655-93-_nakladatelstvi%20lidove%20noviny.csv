@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n25880920,Naše česká věc - Dagmar Hájková,0,0,2011,164,Nakladatelství Lidové noviny,naučná,české</p>,,"Za první světové války se stal běžnou součástí slovníku krajanských komunit pojem ""naše česká věc"". Zjednodušeně se tak nazýval program československého zahraničního odboje,...",122,179,"['Nakladatelství Lidové noviny, naučná', '', 'české']"

@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n33820140,"Možná, že odcházíme",98,2,2011,140,Host,beletrie,české</p>,,"Krátké prózy Jana Balabána se odehrávají v současnosti, ale nestrádají publicisticky sezónní aktuálností; lokalizovány jsou více či méně čitelně do moravsko-slezských končin,...",127,199,"['Host, beletrie', '', 'české']"
+n20366492,Host 2007/5,0,0,2011,104,Host,beletrie,české</p>,,Měsíčník pro literaturu a čtenáře.,69,69,"['Host, beletrie', '', 'české']"
+n25983062,Půlnoční hora - Blas de Roblés Jean-Marie,0,0,2011,134,Host,beletrie,české</p>,,"Brilantní román Půlnoční hora Jeana-Marie Blase de Robles je podivuhodným svědectvím o duchovním hledání a zoufalé touze po vykoupení, které v mnohém připomene nejlepší prózy...",206,229,"['Host, beletrie', '', 'české']"

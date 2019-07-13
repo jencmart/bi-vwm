@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n286752656,Encyklopedie pravěkých pokladů v Čechách,0,0,2013,456,Libri,naučná,české</p>,,"Kniha shrnuje údaje o více než 900 pravěkých a raně středověkých depotech nalezených v Čechách.
+V knize najdete vše od hromadných nálezů kamenných nástrojů z mladší doby...",608,950,"['Libri, naučná', '', 'české']"
+n59463263,"České země v letech 1792–1848. Formování novodobého českého národa ve věku cylindrů, krinolín a nástupu páry Roman Vondra",100,1,2013,400,Libri,naučná,české</p>,,"Kniha pojednává o pro české země klíčovém období závěru 18. a 1. poloviny 19. století, kdy se formoval novodobý český národ a kdy proces tzv. českého národního obrození...",317,490,"['Libri, naučná', '', 'české']"

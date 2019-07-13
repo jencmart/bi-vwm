@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n24929230,Česká republika a dvojí občanství,0,0,2011,116,C.H.Beck,naučná,české</p>,,"Publikace Česká republika a dvojí občanství se zabývá problematikou státního občanství a poskytuje komentář k přehledu osob, které mohou mít legálně dvojí občanství. Co přináší...",306,370,"['C.H.Beck, naučná', '', 'české']"
+n24929229,Právo proti domácímu násilí,0,0,2011,140,C.H.Beck,naučná,české</p>,,"Právo proti domácímu násilí na www.ucebnice.com
+Beckova skripta Právo proti domácímu násilí jsou zpracovaná jako multioborová a interaktivní pomůcka nejen pro posluchače...",219,305,"['C.H.Beck, naučná', '', 'české']"

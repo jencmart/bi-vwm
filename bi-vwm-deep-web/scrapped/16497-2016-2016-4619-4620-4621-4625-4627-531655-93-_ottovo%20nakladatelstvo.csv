@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n350143120,Rok v naší zahradě,83,4,2016,432,Ottovo nakladatelstvo,naučná,české</p>,,"Kniha nabízí čtenáři procházku zahradou během celého roku. V jednotlivých měsících uvádí přehled nejdůležitějších prací, na něž by neměl zapomenout, ukazuje mu krásy, které v...",303,560,"['Ottovo nakladatelstvo, naučná', '', 'české']"

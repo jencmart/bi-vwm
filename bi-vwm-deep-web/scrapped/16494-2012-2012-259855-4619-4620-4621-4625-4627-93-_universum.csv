@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n43648985,První encyklopedie,100,1,2012,160,Universum,dětské,české</p>,,"Příručka pro nejmenší čtenáře a spisovatele. První encyklopedie seznamuje malé čtenáře s mnoha zajímavými fakty ze všech oblastí. Předkládá informace moderním způsobem, díky...",237,237,"['Universum, dětské', '', 'české']"

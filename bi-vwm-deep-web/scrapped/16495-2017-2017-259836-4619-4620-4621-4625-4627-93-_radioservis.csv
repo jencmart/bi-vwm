@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n561074445,Stříbrný vítr,100,1,2017,180,Radioservis,beletrie,české</p>,,"Moderátorku Jitku Novotnou znáte z vysílání Českého rozhlasu a České televize. Je poučenou a zároveň empatickou partnerkou zpovídaných osobností, což jistě přispělo k mimořádné...",131,233,"['Radioservis, beletrie', '', 'české']"
+n482934304,Eseje o poezii a době Karla IV. - Matouš Jaluška,0,0,2017,188,Radioservis,beletrie,české</p>,,"Rok 2016 byl do hloubi prostoupen oslavami 700. výročí narození Karla IV. - krále a císaře, s jehož jménem si často spojujeme představu nebývalého kulturního rozkvětu...",163,197,"['Radioservis, beletrie', '', 'české']"

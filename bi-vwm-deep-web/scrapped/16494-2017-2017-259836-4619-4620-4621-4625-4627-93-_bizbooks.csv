@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n673188333,Se psem mě baví svět – kolektiv autorů,0,0,2017,168,BizBooks,beletrie,české</p>,,"Ahoj, já jsem tvůj pes. 
+ Jsi tady pro mě a pro mé potěšení, hraní a taky abys mě chránil před nepřízní osudu. Ať se ti to líbí nebo ne, jmenuju tě svým kuchařem, řidičem a...",165,299,"['BizBooks, beletrie', '', 'české']"

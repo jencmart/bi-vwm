@@ -1,0 +1,691 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"
+n615702235,Z ničeho nic - Martina Pšeničková,0,0,2018,86,,poezie,Martina Pšeničková,české,"Jako je dvojznačný název poetické sbírky Martiny Pšeničkové, nedá se hledat jednoznačnost ani v textech, které ji tvoří. Nejen že odkazují na řadu klasických děl literárních,...",180,181,"['poezie', '', 'Martina Pšeničková, české']"
+n638670710,Pernambuco - Ivan Wernisch,100,1,2018,162,,poezie,Ivan Wernisch,české,"Pernambuco zní jako zaklínadlo. Země z dávné dětské četby, daleká a znepokojivá. Když se to slovo rozkmitá, zaslechneme třeba Nabucco, trabuko… V kouři doutníku se zjevují...",204,249,"['poezie', '', 'Ivan Wernisch, české']"
+n692447645,Domov jako talíř - Olga Bušková,89,8,2018,105,Olga Bušková,zdraví a životní styl,Olga Bušková,české,"Jiný pohled na problematiku ideálně uspořádaného domova nabízí tato kuchařka, která místo receptů na jídlo nabízí recepty na zařízení domova za využití principů Feng Shui.",263,396,"['zdraví a životní styl', '', 'Olga Bušková, Olga Bušková, české']"
+n734986251,Zdání nehybnosti,0,0,2018,138,Nakladatelství Kmen,poezie,Martin Vodňanský,české,"Autor : Martin Vodňanský, Popis : Sbírka severočeského autora Martina Vodňanského nepotřebuje předmluvu ani doslov. Básník sám svoji poezii ohodnotil, sám se vyznal, sám...",111,151,"['poezie', '', 'Nakladatelství Kmen, Martin Vodňanský, české']"
+n644802430,Bajky barda Beedleho - ilustrované vydání - Rowlingová Joanne Kathleen,99,6,2018,160,Albatros,sci-fi a fantasy,Joanne K. Rowlingová,české,"Sbírka pěti kouzelnických pohádek spjatých se slavnou sérií příběhů čarodějnického učně Harryho Pottera.
+
+Který správný kouzelník by je neznal? Prastaré pohádky, které pro...",348,499,"['sci-fi a fantasy', '', 'Albatros, Joanne K. Rowlingová, české']"
+n682979544,Snívaš sa mi do slov,0,0,2018,144,FemCode,poezie,Valerie H.,slovenské,"Venované všetkým, 
+ ktorí mali v živote niekoho, 
+ koho nespútane a oddane milovali... 
+ pretože len tí najlepšie pochopia významy týchto slov. 
+
+ Snívaš sa mi do slov je...",157,270,"['poezie', '', 'FemCode, Valerie H., slovenské']"
+n688547414,Západo-východní zrcadla - Adam Borzič,0,0,2018,144,Malvern,poezie,Adam Borzič,české,"Ve své čtvrté básnické knize opouští Borzič opulentní imaginativní jazyk i hřmotný subjekt předchozích sbírek a vrací se k dřívějším motivům své tvorby, k historickým básním,...",154,198,"['poezie', '', 'Malvern, Adam Borzič, české']"
+n626131265,Plants vs. Zombies - Nový domov,97,3,2018,88,,sci-fi a fantasy,Andie Tong,české,"Rostliny se stěhují, to ale nezastaví Zombosse a jeho špinavé triky! Skupinka mladých rostlinek se rozhodla přestěhovat z garáže cvoka Dava do jeho obrovského rodinného sídla....",138,180,"['sci-fi a fantasy', '', 'Computer Press, Paul Tobin, Andie Tong, české']"
+n702836201,Kytice - Karel Jaromír Erben,100,1,2018,160,Nakladatelství Glos,poezie,Erben Karel Jaromír,české,"Nejznámější a nejoblíbenější sbírka baladických básní autora Karla Jaromíra Erbena.
+
+Autor: Karel Jaromír Erben
+Rok vydání: 2018
+Vazba: Pevná bez přebalu lesklá
+Počet stran:...",97,149,"['poezie', '', 'Nakladatelství Glos, Erben Karel Jaromír, české']"
+n664274475,Odysseus - Vzpoura mozků 3 - Šorel Václav,86,7,2018,56,XYZ,sci-fi a fantasy,Václav Šorel,české,"Začátek příběhu Vzpoury mozků spadá do let 1977–1979, kdy komiks postupně vycházel v časopise ABC mladých techniků a přírodovědců. V 80. letech pak dvojice Šorel-Kobík navázala...",232,297,"['sci-fi a fantasy', '', 'XYZ, Václav Šorel, české']"
+n637200179,Poštou havraní,94,5,2018,60,,poezie,Malý Radek,české,"Kniha básní Radka Malého na obrazy Pavla Čecha. 
+
+ Pavel Čech je malíř. A hasič. A Indián. A kromě toho taky spisovatel, táta a ještě spoustu dalšího. Ale právě to, že je...",125,189,"['poezie', '', 'Malý Radek, české']"
+n627984624,Inspektor Hopkins zasahuje,0,0,2018,104,Pikola,sci-fi a fantasy,Honza Smolík,české,"Detektivní komiks. 
+Dějiny mohly proběhnout úplně jinak – Karel IV. mohl být otráven, Marco Polo mohl na své cestě do Číny zmizet, a Jan Žižka mohl být poražen hned ve své...",181,229,"['sci-fi a fantasy', '', 'Pikola, Honza Smolík, české']"
+n665217499,Kovové podpatky - Květa Monhartová,0,0,2018,96,,poezie,Květa Monhartová,české,"Jazyk: český
+Počet stran: 96
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: NAVA NAKLADATELSTKÁ A VYDAVATELSKÁ AGENT",89,115,"['poezie', '', 'Květa Monhartová, české']"
+n689355546,"Domáca úloha - Miroslav Válek, Cyprián Majerník (ilustrácie)",0,0,2018,56,Miroslav Válek,poezie,Cyprián Majern,slovenské,Do básnickej zbierky Domáca úloha je zahrnutých dvadsať básní z literárnych začiatkov Miroslava Válka. Ich výber vychádza z objavu neznámych „pútnických“ básní z obdobia 1942 –...,192,261,"['poezie', '', 'Miroslav Válek, Cyprián Majern, slovenské']"
+n645002110,"Život lidí, zvířat, rostlin, včel - Pavel Kolmačka",0,0,2018,156,Triáda,poezie,Pavel Kolmačka,české,"Soubor má stejně jako Kolmačkovy předchozí knížky (Moře, Wittgenstein bije žáka) několik částí (Život těla, Život ve dne v noci, Život nad kráterem, Život na pomezí, Les), jež...",151,224,"['poezie', '', 'Triáda, Pavel Kolmačka, české']"
+n637266160,Herbář k čemusi horšímu,0,0,2018,120,,poezie,Petr Borkovec,české,"Sbírka Herbář k čemusi horšímu je něco mezi atlasem a skládkou. Vychází z nejistého pocitu, že básně se válejí jak pod placatějšími kameny, tak v agresivních i melancholických...",118,161,"['poezie', '', 'Petr Borkovec, české']"
+n652765261,Studánko rubínko + CD - Skácel Jan,100,1,2018,96,Vyšehrad,poezie,Jiřina Rákosníková,české,"Sbírka básniček, říkadel a písniček s půvabnými ilustracemi Jana Kudláčka
+
+Písničky, říkadla, básničky i tradiční hry nás provází jarem od prvních sněženek přes velikonoční...",278,379,"['poezie', '', 'Vyšehrad, Jan Skácel, Jiřina Rákosníková, české']"
+n673189848,Hodina mezi psem a vlkem - Jan Skácel,100,1,2018,64,Vyšehrad,poezie,Jan Skácel,české,"Skácelovy básně ze 60. let 20. století, z nichž některé zhudebnil Hradišťan
+
+Básnická sbírka Hodina mezi psem a vlkem obsahuje Skácelovy básně ze 60. let 20. století, stejně...",143,199,"['poezie', '', 'Vyšehrad, Jan Skácel, české']"
+n653323077,Stopařův průvodce Galaxií 4 - Douglas Adams,100,1,2018,138,Argo,sci-fi a fantasy,Douglas Adams,české,"Všimli byste si, kdyby ze světa zmizel jeden populární živočišný druh? A vadilo by vám to? Arthur Dent se vrací po dlouhém stopu na Zemi, která kupodivu je stále na svém místě...",182,233,"['sci-fi a fantasy', '', 'Argo, Douglas Adams, české']"
+n614339266,"Káťa a Škubánek: Kreslené příběhy - Libuše Koutná, Josef Lamka, Věra Marešová ilustrácie",100,2,2018,128,Albatros,sci-fi a fantasy,Věra Marešová,české,"Káťa a Škubánek - Kreslené příběhy
+
+Oblíbená kniha s dobrodružnými příběhy s nerozlučnými přáteli Káti a Škubánka.
+
+Veselé příběhy holčičky Káti a jejího rozpustilého pejska...",156,229,"['sci-fi a fantasy', '', 'Albatros, Josef Lamka, Věra Marešová, české']"
+n633873287,Čtvrtý mandel sonetů - Miloň Čepelka,0,0,2018,24,,poezie,Miloň Čepelka,české,"Autor : Miloň Čepelka, Popis : Snad je to náhoda, že Čtvrtý mandel sonetů Miloně Čepelky vychází v době, kdy ovocné stromy ztrácejí svou okvětní krásu. Ale existují vůbec...",93,116,"['poezie', '', 'Miloň Čepelka, české']"
+n597461787,Hory jsou daleko ale my jsme tady - Dominik Zezula,100,1,2018,44,,poezie,Dominik Zezula,české,"Knižní debut textaře, zpěváka, kytaristy a performer Dominika Zezuly, bohatě ilustrovaný kresbami Barbory Ivánové dává tušit, že jeho autor umí s textem pracovat. Kniha...",98,123,"['poezie', '', 'Dominik Zezula, české']"
+n684669169,Racek a moře - Lukáš Pavlásek,0,0,2018,96,Vládce všech galaxií,poezie,Lukáš Pavlásek,české,Lukáš Pavlásek se ve své nové knize Racek a moře představí v nečekané poloze romantického básníka a pozorovatele. Na svých cestách za prací komika si fotí svět kolem sebe a...,196,251,"['poezie', '', 'Vládce všech galaxií, Lukáš Pavlásek, české']"
+n636049743,"Aaron Jason - Skalpy 8: Musíte hřešit, abyste byli spaseni",0,0,2018,156,Crew,sci-fi a fantasy,Aaron Jason,české,"Návrat do indiánského pekla a s ním nová várka problémů. Rudá vrána čelí nebezpečné výzvě ze strany indiánských náčelníků, Dash jde po vrahovi své matky a jediný čestný polda v...",291,395,"['sci-fi a fantasy', '', 'Crew, Aaron Jason, české']"
+n704412840,Návštěvy - Svatava Aubrechtová,0,0,2018,72,Triáda,poezie,Svatava Aubrechtová,české,"Jazyk: český
+Počet stran: 72
+Rok vydání: 2018
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Nakladatelství Triáda, s.r.o.",117,163,"['poezie', '', 'Triáda, Svatava Aubrechtová, české']"
+n692920281,Ferrari uprostřed džungle,0,0,2018,104,,poezie,Hobza Štěpán,české,Debutová sbírka Štěpána Hobzy Ferrari v džungli je postmoderní v dobrém slova smyslu a přináší míšení a nárazy všech vrstev poezie. Dochází v ní ke střetu minulého a...,111,122,"['poezie', '', 'Hobza Štěpán, české']"
+n695714416,Tiché lesy - Jiří Brůna,0,0,2018,76,Monika Le Fay,poezie,Jiří Brůna,české,"Jazyk: česky
+Počet stran: 76
+Vazba / Podoba: vázaná
+Nakladatelství: Le Fay Monika
+Rok vydání: 2018",195,278,"['poezie', '', 'Monika Le Fay, Jiří Brůna, české']"
+n605349796,Bart Simpson Prodavač šprťouchlat,0,0,2018,32,Crew,sci-fi a fantasy,Groening Matt,české,"Záhada ztracené třídy!
+
+ Líze bez stopy zmizela její školní třída, a tak se musí přestěhovat do sklepa a posadit se do lavice, která je podle všeho prokletá. Seděl v ní v...",27,39,"['sci-fi a fantasy', '', 'Crew, Groening Matt, české']"
+n622425154,Fantastic Beasts and Where to Find Them: Bendable Bowtruckle,100,1,2018,32,,sci-fi a fantasy,Running,anglické,"Fans of J.K. Rowling's Wizarding World will be enchanted by this life-size collectible--a poseable figure of Pickett, Newt Scamander's Bowtruckle companion in Fantastic Beasts...",143,349,"['sci-fi a fantasy', '', 'Running, anglické']"
+n681203746,Společnost kouzelných jednorožců - Oficiální průvodce - Selwyn E. Phipps,100,2,2018,128,Mladá fronta,sci-fi a fantasy,Selwyn E. Phipps,české,Po staletích utajení vydává legendární Společnost kouzelných jednorožců svůj první oficiální průvodce. Učení milovníci jednorožců sestavili pokladnici jednorožčích znalostí -...,194,299,"['sci-fi a fantasy', '', 'Mladá fronta, Selwyn E. Phipps, české']"

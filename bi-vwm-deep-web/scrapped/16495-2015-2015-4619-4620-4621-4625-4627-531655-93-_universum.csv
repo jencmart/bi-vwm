@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n245321374,Zdokonalte si mozek - Joel Levy,85,3,2015,192,Universum,naučná,české</p>,,"Dohání vás k zoufalství, když se marně snažíte rozpomenout na jména, hesla nebo na to, kde jste nechali klíče? Chcete si vylepšit slovní zásobu, schopnost počítat nebo logické...",39,299,"['Universum, naučná', '', 'české']"
+n250460894,Kdopak by se šmejdů bál? - Světlana Glaserová,100,2,2015,192,Universum,naučná,české</p>,,"Když v roce 2009 manželé Glaserovi prodávali dům, naletěli realitní kanceláři Prolux, vyhlášené tím, že pomocí klamavých obchodních praktik uzavírá s klienty naprosto nemravné...",158,217,"['Universum, naučná', '', 'české']"

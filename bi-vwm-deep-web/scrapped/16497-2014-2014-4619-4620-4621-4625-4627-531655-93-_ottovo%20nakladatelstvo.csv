@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n91627085,Konopí v Česku,100,2,2014,320,Ottovo nakladatelstvo,naučná,české</p>,,Konopí je bylina léčivá i užitková. O jejím nezměrném léčebném potenciálu se dozvídáme již z nejstarších dochovaných lékopisů. I z mnoha dalších písemných dokladů a...,89,299,"['Ottovo nakladatelstvo, naučná', '', 'české']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n508841418,Žltá kniha rozprávok,0,0,2017,96,Rebo,dětské,slovenské</p>,,"Táto knižka v sebe ukrýva štyri rozprávky: Kocúr v čižmách, Škaredé káčatko, Tri malé prasiatka a Palček. Sú vyrozprávané jednoduchým a zrozumiteľným spôsobom, takže im...",76,134,"['Rebo, dětské', '', 'slovenské']"
+n673234543,Zahrajme si pesničky o zvieratkách,0,0,2017,22,Rebo,dětské,slovenské</p>,,"Knižka s klavírčekom obsahuje jednoduchý záznam najkrajších ľudových pesničiek o zvieratkách. Kukulienka, kde si bola, Kohútik jarabý, Medveďku, daj labku, Maličká som, Prší,...",243,337,"['Rebo, dětské', '', 'slovenské']"

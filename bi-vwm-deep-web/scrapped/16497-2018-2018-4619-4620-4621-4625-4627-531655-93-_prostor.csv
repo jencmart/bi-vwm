@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n681283500,Jak umírá demokracie - Steven Levitsky,93,5,2018,336,Prostor,naučná,české</p>,,"Když Donald Trump vyhrál volby, mnozí si položili otázku, o níž si nikdo nemyslel, že si ji budeme klást: Je demokracie v USA v ohrožení? Steven Levitsky a Daniel Ziblatt,...",244,347,"['Prostor, naučná', '', 'české']"
+n646834961,Tajná dohoda - Luke Harding,0,0,2018,320,Prostor,naučná,české</p>,,"Volby ve Spojených státech v listopadu 2016 otřásly americkou i mezinárodní scénou. Jejich výsledek šokoval nejen poraženou Hillary Clintonovou, ale i vítěze voleb Donalda...",244,330,"['Prostor, naučná', '', 'české']"

@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n437220876,Ve vlastních názorech se shodnu s každým - Ivan Kraus,0,0,2016,132,Academia,beletrie,české</p>,,"Knížka krátkých i velmi krátkých textů.
+Autor si v ní během let ověřil, že vyjádřit se stručně stojí nejvíc času. 
+Má dokonce dojem, že leckterý text ani nepsal, spíše se k...",121,225,"['Academia, beletrie', '', 'české']"

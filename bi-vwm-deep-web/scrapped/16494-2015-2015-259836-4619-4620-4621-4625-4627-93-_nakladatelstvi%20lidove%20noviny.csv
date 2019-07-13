@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n525613185,Pohlednice z kavárny Lenka Civade Horňáková,100,1,2015,128,Nakladatelství Lidové noviny,beletrie,české</p>,,"p style=""text-align: justify;"">
+ Další z milých knížek Lenky Horňákové Civade nás tentokrát zavede na terasy kaváren, s výhledem i bez, kde: „Nejste ani venku ani uvnitř, tak...",94,139,"['Nakladatelství Lidové noviny, beletrie', '', 'české']"
+n287716433,Řecká ruleta,93,8,2015,128,Nakladatelství Lidové noviny,beletrie,české</p>,,"Poutavé a poučné čtení o pravých i virtuálních příčinách současné tolik diskutované řecké krize pohledem Češky žijící v Řecku, doplněné věcným pohledem odborníka na ekonomickou...",118,169,"['Nakladatelství Lidové noviny, beletrie', '', 'české']"

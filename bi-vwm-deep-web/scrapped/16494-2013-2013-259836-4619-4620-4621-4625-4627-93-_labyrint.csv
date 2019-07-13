@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n125733756,Velká kniha čůrání - Jakub Plachý,95,19,2013,112,Labyrint,beletrie,české</p>,,"Encyklopedie čůrání pro malé i velké. 
+Unikátní, hravá a naučná knížka kapesního formátu představuje čůrání ze všech stran. Od vysvětlení základních principů močení přes jeho...",93,145,"['Labyrint, beletrie', '', 'české']"
+n105237855,Národní třída,91,2,2013,152,Labyrint,beletrie,české</p>,,"Klub osamělých rváčů. Hlavní hrdina, přezdívaný Vandam, vypráví příběh svých životních soubojů s městem, nedávnou minulostí a rodinnými démony. Drsná a zároveň melancholická...",172,245,"['Labyrint, beletrie', '', 'české']"
+n477052908,Zámek - Jaromír 99,0,0,2013,144,Labyrint,beletrie,české</p>,,"Komiksová adaptace slavného románu. Když je zeměměřič K. zámkem povolán do vesnice, musí se nejprve vypořádat s nepřehlednou hierarchií pomocníků, poslů, úředníků, tajemníků -...",210,299,"['Labyrint, beletrie', '', 'české']"

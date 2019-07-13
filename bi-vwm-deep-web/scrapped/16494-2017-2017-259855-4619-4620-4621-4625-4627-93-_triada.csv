@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n484124024,Povídání o pejskovi a kočičce Josef Čapek,100,9,2017,128,Triáda,dětské,české</p>,,"Jediné úplné, spolehlivé vydání, v grafické úpravě respektující podobu, jak vycházela za autorova života, a v kvalitním polygrafickém provedení s papírovou obálkou.
+Textové...",137,244,"['Triáda, dětské', '', 'české']"
+n617170501,"POVÍDÁNÍ O PEJSKOVI A KOČIČCE MALÁ, BROŽOVANÁ - Čapek Josef",0,0,2017,128,Triáda,dětské,české</p>,,"Levné, ale kvalitní vydání. Zmenšená, cestovní podoba vydání originální verze. Jde o úplné, spolehlivé textové znění, v grafické úpravě respektující podobu, jak vycházela za...",70,97,"['Triáda, dětské', '', 'české']"

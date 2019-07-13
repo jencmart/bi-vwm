@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n24617142,Medvídek Pú Moje první knížka,96,1,2011,40,Egmont,naučná,české</p>,,"V0179709
+Album vzpomínek pro nejmenší a jejich rodiče
+Když se narodí miminko, je každý den něčím neobyčejný. Miminko roste, poznává svět a neustále se kolem něj děje něco...",118,118,"['Egmont, naučná', '', 'české']"

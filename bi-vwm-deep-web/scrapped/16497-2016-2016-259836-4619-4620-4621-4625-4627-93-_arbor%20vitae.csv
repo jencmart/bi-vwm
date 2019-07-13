@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n387162749,Josef Váchal / Kniha vzpomínek - Hana Klínková,93,2,2016,376,Arbor vitae,beletrie,české</p>,,"Josef Váchal / Kniha vzpomínek soustřeďuje fotografie, doklady a archiválie dokumentující život umělce. Z větší části jde o méně známé či dosud nepublikované materiály. Je...",1,1,"['Arbor vitae, beletrie', '', 'české']"

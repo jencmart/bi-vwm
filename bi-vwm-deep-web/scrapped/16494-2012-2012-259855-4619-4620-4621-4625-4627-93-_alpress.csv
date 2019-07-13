@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n49687704,Jezdecká akademie Dokonalý tým,100,1,2012,168,Alpress,dětské,české</p>,,"Při nákupu koní pro akademii objeví Malory hřebečka Tybalta, velmi bázlivého, ustrašeného koně. Je to láska na první pohled a Malory uprosí instruktorku, aby ho koupila. Jenže...",125,205,"['Alpress, dětské', '', 'české']"
+n63427110,Jezdecká akademie,93,2,2012,160,Alpress,dětské,české</p>,,"Honey utíká ke koním, kde alespoň chvílemi zapomíná na trable doma. Před kamarádkami však existenci vážně nemocného bratra tají. Proto žádná nechápe, kolik času a péče věnuje...",69,189,"['Alpress, dětské', '', 'české']"

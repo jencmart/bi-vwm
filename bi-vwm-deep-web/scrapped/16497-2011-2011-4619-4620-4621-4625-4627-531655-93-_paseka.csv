@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n21072771,Shakespeare - životopis - Honan Park,90,2,2011,424,Paseka,naučná,české</p>,,"Mohutný tvůrčí zjev anglického básníka, zdaleka nejhranějšího dramatika všech dob, přitahuje pozornost nejen tvorbou, nýbrž i dlouhou řadou otazníků, které nám klade jeho...",108,499,"['Paseka, naučná', '', 'české']"
+n37667779,Nemocní u moci - David Owen,0,0,2011,414,Paseka,naučná,české</p>,,"Nad některými rozhodnutími politiků zůstává rozum stát. Kniha Davida Owena odhaluje, že mnohé z těchto kroků vyplývají z nemocí, jimiž politik trpí, anebo souvisí s jevem,...",374,449,"['Paseka, naučná', '', 'české']"

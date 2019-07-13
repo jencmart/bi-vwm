@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n30153989,Manželský svár,77,2,2011,128,Motto,naučná,české</p>,,Manželský svár kniha od autora Miroslav Plzák. Většina současných manželství je rozhádána a znesvářena. Párový dialog je totiž náročný. Miroslav Plzák v knize vysvětluje teorii...,68,206,"['Motto, naučná', '', 'české']"
+n20986018,"Othelon, aneb Manuál žárlivosti",88,2,2011,128,Motto,naučná,české</p>,,"Othelon aneb manuál o žárlivosti kniha od autora Miroslav Plzák. Žárlivost je prokletí párového vztahu. Žárlí každý, kdo se zamiluje. Nikdy si totiž nemůžeme být jisti, že se...",171,171,"['Motto, naučná', '', 'české']"

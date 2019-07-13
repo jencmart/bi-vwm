@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n26593174,Zkrocení zlé ženy,100,1,2011,132,Atlantis,beletrie,William Shakespeare</p>,,"Zkrocení zlé ženy je jednou z nejhranějších, ale také nejkontroverznějších her Williama Shakespeara. 
+ Petruchiovo „krocení“ Kateřiny je, jak bylo dobovým zvykem, neobyčejně...",119,160,"['Atlantis, beletrie', '', 'české, William Shakespeare']"
+n20540676,Dráhy (Benoît Duteurtre),0,0,2011,148,Atlantis,beletrie,Benoît Duteurtre</p>,,"Román přináší deník Florence, velmi úspěšné stárnoucí ženy. Pařížská podnikatelka v oblasti PR dělí svůj život mezi velkoměstský pracovní kolotoč a večery u ohně ve venkovském...",145,199,"['Atlantis, beletrie', '', 'české, Benoît Duteurtre']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n127062812,Betonová iluze,75,5,2013,144,Olympia,naučná,české</p>,,"""Betonová iluze"" je unikátní kniha, která na celkem malé ploše jednoznačně a především srozumitelně uvádí na pravou míru svaté téma Československého stálého opevnění z let 1935...",186,299,"['Olympia, naučná', '', 'české']"
+n90327244,Češi na tenisových trůnech,79,0,2013,128,Olympia,naučná,české</p>,,"O Davisův pohár se bojuje už od roku 1900, o Pohár federace od roku 1963 a o Hopmanův pohár od roku 1989. Především první dvě soutěže reprezentačních družstev jsou výkladní...",44,199,"['Olympia, naučná', '', 'české']"

@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n42262541,Zdravý spánek,0,0,2012,160,Slovart,naučná,české</p>,,"Jak na to - Zdravý spánek kniha od autora Idzikowski Chris. Nedocenitelný pomocník pro klidné spaní
+- Přináší spolehlivé a praktické rady odborníka, jak překonat problémy se...",236,299,"['Slovart, naučná', '', 'české']"
+n362856439,Pilates,0,0,2012,128,Slovart,naučná,české</p>,,"Podpořte, posilněte a zlepšete vaše tělesné i duševní zdraví a dodejte tělu energii pomocí snadných 5minutových cvičení. Jednotlivé cviky pilates jsou popsané krok za krokem....",129,199,"['Slovart, naučná', '', 'české']"

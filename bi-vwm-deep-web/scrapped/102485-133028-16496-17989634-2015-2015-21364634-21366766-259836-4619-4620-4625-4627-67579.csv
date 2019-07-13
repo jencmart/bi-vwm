@@ -1,0 +1,9 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n673232018,Trudno byt bogom,0,0,2015,256,ruské,beletrie,EKSMO</p>,,"Возможно, самое известное из произведений братьев Стругацких.
+Один из самых прославленных романов отечественной фантастики.
+Увлекательная, полная драматизма история жизни,...",196,196,"['beletrie', '', 'ruské, EKSMO']"
+n261119115,Kavkazské povídky - Alanka Urtati,0,0,2015,245,,beletrie,ruské</p>,,"Alanka Urtati – ruská spisovatelka, členka Svazu spisovatelů v
+Moskvě a Rusku. Média píší o její práci, že má ""stejnou mocnou
+energii, která podnítila největší zástupce ruské...",445,540,"['beletrie', '', 'ruské']"
+n362985301,Pohádka ze sklepa - v ruskom jazyku - Varvara Islavskaya,0,0,2015,310,,beletrie,ruské</p>,,"Pohádka ze sklepa - román o tajemné lásce, duchách, kteří nemohou najít útěchu a ruší bydlení... Bývalá balerína Arina koupila zvláštní byt. Od tohoto nákupu, se ji pokusí...",312,540,"['beletrie', '', 'ruské']"
+n673220994,V batohu časů v ruskom jazyku - Vladimir Korkin,0,0,2015,270,,beletrie,ruské</p>,,"Kniha obsahuje dvě velké fantastické (sci-fi) povídky: „Pidík Joe a „Ohnivá důha“ Lindy Apis“ a „Spisovatel Vlek Chor, bídák Forsuf a tvrz „Alfa maximum Ef““, a několik...",312,450,"['beletrie', '', 'ruské']"

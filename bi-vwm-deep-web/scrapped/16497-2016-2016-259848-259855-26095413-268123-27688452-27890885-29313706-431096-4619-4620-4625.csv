@@ -1,0 +1,571 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"
+n433433939,After 4: Pouto,91,5,2016,432,,dětské,Anna Todd,české,"Život Tessy a Hardina je plný překvapení. Jejich vztah je osudový, přestože neustále zkoušený další a další překážkou, které se jim staví do cesty. Šokující pravdy o obou...",239,299,"['dětské', '', 'Anna Todd, české']"
+n447980388,"METAFORA, s. r. o. Mystický léčitel - Edgar Cayce naší doby",98,16,2016,440,Metafora,esoterika,William Anthony,české,"Novodobé médium odhaluje tajemství záhadných nemocí.
+ Uzdravte se. Užasnete, jak je to snadné. Funguje to.
+ Jste zmateni rozporuplnými informacemi, kterých se vám dostává od...",267,399,"['esoterika', '', 'Metafora, William Anthony, české']"
+n445970422,Bible dětských pokrmů – Karmel Annabel,82,4,2016,340,ANAG,kuchařky,Annabel Karmel,české,"Kniha obsahuje recepty pro první fázi odstavování, druhou fázi odstavování, pro období devíti až dvanácti měsíců a pro batolata. Nejlepší kuchařka v oblasti dětské stravy. Může...",248,359,"['kuchařky', '', 'ANAG, Annabel Karmel, české']"
+n452508534,"Jídlo na prvním místě - Dallas Hartwig, Melissa Hartwig",94,23,2016,336,,kuchařky,Melissa Hartwi,české,"Všichni víme, že jídlo ovlivňuje kvalitu našeho života – ale jak velkou moc vlastně má? Melissa a Dallas vás přesvědčí, že mimořádnou! Jídlo na prvním místě je přehledný, čtivý...",223,329,"['kuchařky', '', 'Jan Melvil Publishing, Dallas Hartwig, Melissa Hartwi, české']"
+n375554982,Biokuchařka Hanky Zemanové,94,22,2016,336,Smart Press,kuchařky,Hana Zemanová,české,"POPIS
+Po deseti letech byla kniha Biokuchařka Hanky Zemanové kompletně přepracována tak, abyste v ní našli všechny aktuální informace o biopotravinách, ekologickém zemědělství,...",372,760,"['kuchařky', '', 'Smart Press, Hana Zemanová, české']"
+n370219591,P. S. Stále Tě miluju (Jenny Hanová),96,7,2016,320,COOBOO,dětské,Jenny Hanová,české,"Tento titul je dostupný také v kolekci za výhodnou cenu. Lara Jean nečekala, že se doopravdy zamiluje do Petera. Vždyť jen předstírali, že spolu chodí. Ale v jednu chvíli oba...",187,269,"['dětské', '', 'COOBOO, Jenny Hanová, české']"
+n400663469,Země příběhů - Kouzelné přání - Chris Colfer,99,8,2016,344,Fragment,dětské,Chris Colfer,české,"Fragment Země příběhů - Kouzelné přání
+
+První díl celosvětově oblíbeného krásného příběhu ze země pohádek.
+
+Zazvonil zvonec a pohádky je konec… Ale jak to vlastně bylo dál?...",208,299,"['dětské', '', 'Fragment, Chris Colfer, české']"
+n433042536,Pupíky 1-7 (komplet) - Delaf,100,0,2016,360,COOBOO,dětské,Delaf Dubuc,české,Pupíky pohromadě! Jeden z nejprodávanějších francouzských komiksů posledních let a překvapení evropského trhu s komiksy vůbec líčí s nadsázkou příhody tří kamarádek. Jedna z...,557,721,"['dětské', '', 'COOBOO, Delaf Dubuc, české']"
+n370202341,Domácí kuchařka - Magdalena Dobromila Rettigová,74,5,2016,392,Ikar,kuchařky,Magdalena Dobromila Rettigová,české,M. D. Rettigová (1785-1845) se stala vskutku průkopnicí nově pojaté kuchařské literatury začátku 19. století. Přinesla do stravování řadu nových myšlenek a Domácí kuchařka aneb...,197,224,"['kuchařky', '', 'Ikar, Magdalena Dobromila Rettigová, české']"
+n384732872,Uprooted (Naomi Novik),0,0,2016,438,,dětské,Naomi Novik,anglické,"A Dark Enchantment Blights the land. Agnieszka loves her village, set deep in a peaceful valley. But the nearby enchanted forest casts a shadow over her home. Many have been...",175,286,"['dětské', '', 'Naomi Novik, anglické']"
+n432170215,Kváskovanie. Recepty z kvásku (Naty Žúreková Štefková),70,2,2016,345,Daniel,kuchařky,Naty Žúreková Štefková,slovenské,"Kniha plná báječných jedál, ktoré už len pohľadom dokazujú, že kváskovať sa oplatí. Nájdete v nej recepty od odborníčok a aktívnych kváskových pekárok zo Slovenska i z Čiech....",521,816,"['kuchařky', '', 'PLUTOS COMPANY, Naty Žúreková Štefková, Daniel, slovenské']"
+n415151896,Časodějové – Klíč k času,93,3,2016,344,Fragment,dětské,Natalja Ščerba,české,"První díl skvělé série o kouzelnících, kteří umí čarovat s časem.
+Vasilisa žila až donedávna se svojí babičkou a neměla ponětí o tom, že její otec je mocný mág země Eflary....",208,284,"['dětské', '', 'Fragment, Natalja Ščerba, české']"
+n433442333,Half Bad 3: Napůl ztracený,0,0,2016,328,,dětské,Sally Green,české,"Příběh Nathana Byrda vrcholí – je to příběh o nebezpečích, která podstupujeme kvůli lásce.
+
+ Sedmnáctiletý čaroděj Nathan Byrd je u konce s dechem. Zdá se, že Aliance, jejímž...",222,279,"['dětské', '', 'Sally Green, české']"
+n361102953,U konce s dechem,84,1,2016,432,,dětské,Rebecca Donovanová,české,"Emma Thomasová se skrývá. Před vším a před všemi… ale nejvíc před
+sama sebou. Utekla ze svého života, z Weslynu, od Sary, od Evana.
+Žije vlastní verzi univerzitního života -...",50,299,"['dětské', '', 'Rebecca Donovanová, české']"
+n335746107,Rocková hvězda,100,4,2016,328,Baronet,dětské,Kylie Scott,české,"Dovedete si představit, že odjedete oslavit jednadvacáté narozeniny do Las Vegas a probudíte se vedle úžasného, do půli těla vysvlečeného chlapa a na prsteníčku se vám blyští...",251,252,"['dětské', '', 'Baronet, Kylie Scott, české']"
+n375051197,Dcera - Kiera Cass,95,6,2016,320,COOBOO,dětské,Kiera Cass,české,"Cooboo Dcera
+
+Příběh o princezně Eadlyn, která je nucená vybrat si manžela jinak, než by chtěla.
+
+Eadlyn je princezna, která prožívá traumatizující dětství plné popisu jak...",183,269,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n359396992,Alea dívka moře: Volání z hlubin (Tanya Stewner),95,5,2016,320,Fragment,dětské,Tanya Stewnerová,české,"Fragment Alea dívka moře Volání z hlubin
+
+Dobrodružství, výjimečné přátelství a tajemství hlavní hrdinky.
+
+Alea odjakživa miluje vodu. Zároveň z ní má ale velký respekt. Trpí...",170,249,"['dětské', '', 'Fragment, Tanya Stewnerová, české']"
+n383848879,"Seznam mrtvých - Armentrout, Jennifer L. / Lynn J.",0,0,2016,344,Baronet,dětské,Jennifer L. Armentrout,české,"Ella se před pár měsíci rozešla se svým přítelem Gavinem. Na začátku nového školního roku se s kamarádkou Linds rozhodnou, že si poslední rok na střední škole užijí naplno....",53,294,"['dětské', '', 'Baronet, Jennifer L. Armentrout, české']"
+n673188985,Duše zvířat – Rulandová Jeanne,0,0,2016,400,,esoterika,Rulandová Jeanne,české,"Některá zvířata nás provázejí po celý život, jiná nám pomáhají pouze v určitých situacích. Existují zvířata duchovní a zvířata pomocná. Duchovní (silová) zvířata symbolizují...",271,399,"['esoterika', '', 'Rulandová Jeanne, české']"
+n708154653,Jak zlomit dračí srdce Škyťák Šelmovská Štika III. 8,0,0,2016,320,Slovart / BRIO,dětské,Cressida Cowell,české,"V osmém pokračování populární série se Škyťák se musí utkat s Berserkry, splnit Nesplnitelný úkol a zachránit Rybinohu, kterého si strašidelný Netvor málem dá k svačince! A u...",158,249,"['dětské', '', 'Slovart / BRIO, Cressida Cowell, české']"
+n350814630,"Jirka a neprolomitelná šifra - Lucy Hawkingová, Stephen Hawking",98,5,2016,336,Universum,dětské,Stephen Hawking,české,"Začínají se dít velice podivné věci: banky rozdávají peníze, obchodní domy nemůžou účtovat za své zboží, takže lidé dostávají jídlo zadarmo, a letadla se odmítají vznést....",285,359,"['dětské', '', 'Universum, Stephen Hawking, české']"
+n376862445,Živa Životní síla Slovanů - Vladimír Kurovskij,100,1,2016,336,Eugenika,esoterika,Vladimír Kurovskij,české,"Autor vysvětluje podstatu, systém a terminologii spirituality a kosmologie našich slovanských předků. Vypráví, jak se tito dívali na správný, šťastný a zdravý život a jakým...",266,398,"['esoterika', '', 'Eugenika, Vladimír Kurovskij, české']"
+n400499927,Hlaváčková Kristina: Podsvětí - Artefakt Kniha,0,0,2016,352,Grada,dětské,Kristina Hlaváčková,české,Podsvětí - Artefakt - napínavá fantasy s nádechem detektivního příběhu vás nenechá klidnými. Proč se někdo pokouší zabít Sam Barnetovou? Navíc když jsou okolnosti útoků...,78,266,"['dětské', '', 'Grada, Kristina Hlaváčková, české']"
+n400325906,Kuchařka ze Svatojánu: Zdraví z kuchyně - Eva Francová,97,18,2016,360,Motto,kuchařky,Eva Francová,české,"Nová dávka zdravých receptů pro všechny milovníky dobrého jídla.
+Říká se, že ne každou nemoc je možné vyléčit jídlem, ale žádná nemoc se beze změny stravy vyléčit nedá. Pokud...",272,399,"['kuchařky', '', 'Motto, Eva Francová, české']"
+n455312568,Uvnitř mé hlavy - Co když jsem si tě vymyslela? - Zappia Francesca,90,1,2016,368,Eromedia group,dětské,Francesca Zappia,české,"Alex je „divná“, alespoň tak ji vnímá její okolí. Přitom má jen vlasy červené jako kečup a fascinují ji živí humři v nádrži supermarketu, trpí paranoiou, že ji pronásledují...",214,269,"['dětské', '', 'Eromedia group, Francesca Zappia, české']"
+n400535858,Šťastně až navěky - Kiera Cass,87,3,2016,368,COOBOO,dětské,Kiera Cass,české,"Sbírka povídek ze světa Selekce doplněná o bonusové scény, epilog, mapy a ilustrace.
+
+Kniha povídek ze světa Selekce. Než se America přihlásila do Selekce, jiná žena musela...",208,299,"['dětské', '', 'COOBOO, Kiera Cass, české']"
+n366152727,Snář - Dagmar Kludská,88,3,2016,432,Nakladatelství BRÁNA,esoterika,Dagmar Kludská,české,"Známá spisovatelka, kartářka a astroložka opět přichází ke čtenářům v roli vykladačky snů. Svůj úspěšně vydaný a zcela rozebraný Velký snář tentokrát ještě obohatila úvodním...",199,299,"['esoterika', '', 'Nakladatelství BRÁNA, Dagmar Kludská, české']"
+n296898061,U kávy o kávě a kávovinách,95,4,2016,360,Jota,kuchařky,Jozef Augustin,české,"Jediná kniha o kávě, kterou kdy budete potřebovat.
+
+Aktualizované rozšířené vydání jedinečné publikace, která vyšla poprvé před patnácti lety, a stala se biblí nejen mezi...",235,398,"['kuchařky', '', 'Jota, Jozef Augustin, české']"
+n351386373,"Půlnoční koruna - Sarah J. Massová, Sarah J. Maasová",96,7,2016,400,COOBOO,dětské,Sarah J. Maasová,české,Nelítostný boj pokračuje … Druhý díl bestsellerové série Skleněný trůn. Celaena se stala královou bojovnicí a má za úkol pro něj dělat tu nejšpinavější práci. Ovšem sama dobře...,207,299,"['dětské', '', 'COOBOO, Sarah J. Maasová, české']"
+n400325908,Křišťálový meč - Victoria Aveyardová,100,2,2016,416,COOBOO,dětské,Aveyardová Victoria,české,"Druhý díl napínavého světového bestselleru Rudá královna.
+
+Každý může zradit... Nenechte si ujít pokračování Rudé královny! Krev Mare Barrowové je rudá jako většiny obyčejných...",189,333,"['dětské', '', 'COOBOO, Aveyardová Victoria, české']"

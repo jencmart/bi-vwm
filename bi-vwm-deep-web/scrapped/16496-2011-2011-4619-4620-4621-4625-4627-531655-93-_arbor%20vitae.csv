@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n35456839,Václav Radimský - Naděžda Blažíčková-Horová,91,5,2011,292,Arbor vitae,naučná,české</p>,,"Václav Radimský (1867 - 1946) patřil ve své době k výrazným a zajímavým osobnostem nejen české, ale i francouzské krajinomalby. Jako první z českých malířů se nechal ve Francii...",1,1,"['Arbor vitae, naučná', '', 'české']"
+n34693999,Alena Nádvorníková Jan Šulc,0,0,2011,264,Arbor vitae,naučná,české</p>,,"Alena Nádvorníková je historička umění, členka Surrealistické skupiny v Československu. Šíře jejích aktivit je neuvěřitelně široká - věnuje se teoreticko-kritické činnosti,...",677,882,"['Arbor vitae, naučná', '', 'české']"

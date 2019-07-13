@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n488046799,Das Grosse Buch PRAG für kleine Erzähler,0,0,2017,10,německé,dětské,Ella &amp; Max</p>,,"Toto není jen tak nějaká obyčejná obrázková kniha o Praze. Je speciální! Je velká a plná obrázků nejznámějších pražských míst, které znají turisté z celého světa. 
+Najdete v ní...",129,4,"['dětské', '', 'německé, Ella & Max']"
+n673233398,"A tücsök meg a hangyák - Vojtěch Kubašta, Jiří Zdeněk Novák",0,0,2017,16,maďarské,dětské,Albatros</p>,,"A tücsök meg a hangyák, minden idők egyik legsikeresebb leporellója, érkezik a könyvpiacra. Megható történet a gondtalan életet élő tücsökről, aki egész nyáron hegedült, és a...",99,157,"['dětské', '', 'maďarské, Albatros']"
+n415403488,Legende vom Prager Jesulein - Ivana Pecháčková,0,0,2017,48,,dětské,německé</p>,,"Po šest století provází zázračná soška slavného Pražského Jezulátka další a další generace Pražanů i poutníků z celého světa, kteří se přicházejí malému Ježíškovi do Prahy...",158,178,"['dětské', '', 'německé']"

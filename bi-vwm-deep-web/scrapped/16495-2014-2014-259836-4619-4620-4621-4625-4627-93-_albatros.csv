@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n334604179,Robinson Crusoe,100,3,2014,208,Albatros,beletrie,české</p>,,"Slavný román Daniela Defoa býval často považován za knihu pro děti příliš těžkou a nesrozumitelnou. Od jeho vzniku byly napsány mnohé verze pro mládež, v nichž se původní obsah...",223,279,"['Albatros, beletrie', '', 'české']"
+n197727070,Lily a zajatý kouzelník - Holly Webbová,0,0,2014,232,Albatros,beletrie,české</p>,,"Lily a zajatý kouzelník kniha od autora Holly Webbová. Lily a Georgie mají před sebou obtížný úkol. Jejich otec je kvůli tomu, že je čaroděj, ve vězení, ale jen on jim může...",79,199,"['Albatros, beletrie', '', 'české']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n187519175,El Libro Mágico Otto Placht,100,1,2014,312,Torst,naučná,české</p>,,"El Libro Mágico je knihou barvitě vyprávějící o kouzlu života v pralesích peruánské Amazonie a o síle tradice a inspirace, s níž se osudově setkal český malíř Otto Placht...",500,999,"['Torst, naučná', '', 'české']"
+n227201490,Umění a kýč - Tomáš Kulka,100,1,2014,296,Torst,naučná,české</p>,,"Třetí rozšířené vydání studie, která se zabývá dvěma různými tématy. První téma je zcela konkrétní a týká se specifické podstaty kýče. Druhé se vztahuje k všeobecné problematice...",288,288,"['Torst, naučná', '', 'české']"

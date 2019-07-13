@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n37040710,Metahistorie,90,1,2011,450,Host,naučná,české</p>,,"Kniha Metahistorie je zřejmě nejvlivnějším dílem v oblasti metodologie historiografie, přinejmenším v druhé polovině dvacátého století.
+Kniha Metahistorie vyšla poprvé roku...",223,362,"['Host, naučná', '', 'české']"
+n22790219,Naděje a iluze (Jan Mervart),0,0,2011,376,Host,naučná,české</p>,,"V0178730
+Kniha odkrývá komplikované vztahy českých a slovenských komunistických spisovatelů se stranickým establishmentem v letech 1963–1968. Autor se zaměřuje na jednotlivé...",191,310,"['Host, naučná', '', 'české']"

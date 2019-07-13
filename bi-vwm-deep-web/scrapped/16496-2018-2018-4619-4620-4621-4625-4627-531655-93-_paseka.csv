@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n673197565,David Perlmutter Moučný mozek,100,1,2018,304,Paseka,naučná,české</p>,,"Návod na plné duševní i fyzické zdraví
+
+Perlmutterova metoda zaměřená především na snížení rizika mozkových onemocnění si umí poradit zároveň s nadváhou, cukrovkou, depresí,...",189,256,"['Paseka, naučná', '', 'české']"

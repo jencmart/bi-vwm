@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n3050239,Revmatologie - Karel Pavelka,0,0,2010,178,Galén,naučná,české</p>,,"Druhé vydání úspěšné stručné a moderní revmatologické příručky je koncipováno s ohledem na lékaře a studenty lékařských fakult, kteří potřebují nové a přehledně utříděné...",163,250,"['Galén, naučná', '', 'české']"
+n21054482,CHRONICKÁ MYELOIDNÍ LEUKEMIE,0,0,2010,234,Galén,naučná,české</p>,,Monografie Chronická myeloidní leukémie kolektivu předních českých klinických hematologů a vědeckých pracovníků vedených docentem Edgarem Faberem přichází z pohledu čtenářské...,349,500,"['Galén, naučná', '', 'české']"

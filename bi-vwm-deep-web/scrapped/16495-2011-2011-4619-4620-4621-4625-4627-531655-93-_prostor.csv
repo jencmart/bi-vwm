@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n42997141,Šoa,93,2,2011,232,Prostor,naučná,české</p>,,"Kniha s předmluvou Simone de Beauvoir je přepisem rozhovorů, které vedl autor ve svém dokumentárním filmu z roku 1985 Shoah. Spisovatel a režisér dokumentarista Claude Lanzmann...",197,280,"['Prostor, naučná', '', 'české']"
+n42991103,Bez viny a bez trestu Jean Améry,0,0,2011,192,Prostor,naučná,české</p>,,Soubor esejů Jeana Améryho (1912-1978) se vrací do období druhé světové války a let následujících a zachycuje autorovu klíčovou zkušenost - zážitky židovského vězně...,197,290,"['Prostor, naučná', '', 'české']"

@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n1067204,Zrcadlo zenu - Sosan Tesa,0,0,2007,144,DharmaGaia,naučná,české</p>,,"Mistr Sosan (1520-1604), vůdčí osobnost korejského buddhismu v
+království Čoson, po sobě zanechal útlou, leč pozoruhodnou knihu
+Zrcadlo zenu (1564). Shrnuje zde v 86 krátkých...",197,197,"['DharmaGaia, naučná', '', 'české']"

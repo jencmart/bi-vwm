@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n362990028,Svět je jinak,0,0,2015,270,Zdeněk Svoboda,naučná,české</p>,,"Člověk si od nepaměti klade otázku jak vznikl a odkud vlastně pochází. Odpovědí jsou mu různá zkreslovaná vysvětlení, podle toho zda mají svůj základ v Bibli nebo ve smyšlených...",169,259,"['Zdeněk Svoboda, naučná', '', 'české']"

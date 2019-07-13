@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n42180029,Ottova encyklopedie Zbroj,93,1,2012,296,Ottovo nakladatelstvo,naučná,české</p>,,"Publikace Ottova encyklopedie Zbroj podává ucelený přehled vývoje ochranné zbroje od nejstarších dob až do 20. století. Autory jsou Petr Klučina a Pavol Pevný.
+
+ Zachycuje...",238,719,"['Ottovo nakladatelstvo, naučná', '', 'české']"

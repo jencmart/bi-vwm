@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n631059080,"Chara šo pán, da? - Karel Vaněk",0,0,2013,366,Dauphin,beletrie,české</p>,,"Deník z fronty, který zdaleka nemapuje pouze válečné události, od autora známého především pokračováním Osudů dobrého vojáka Švejka. Vaněk nekompromisně popisuje c.a k....",260,313,"['Dauphin, beletrie', '', 'české']"
+n109345096,"Charašo pán, da? - Karel Vaněk",90,1,2013,366,Dauphin,beletrie,české</p>,,"Zápisky z ruského zajetí, které dosud nemohly vyjít jinak, než autorovým vlastním nákladem, naposledy v třicátých letech minulého století. Pravda o českých zajatcích v Rusku,...",246,313,"['Dauphin, beletrie', '', 'české']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n40730728,S Theodorem o hieroglyfech,90,2,2011,250,Volvox Globator,naučná,české</p>,,"S Theodorem po hieroglyfech. 
+Kniha, která vám umožní číst egyptské hieroglyfy, poznat nejčastější gramatické jevy a porozumět staroegyptskému myšlení, je zarámována do příbehu...",300,300,"['Volvox Globator, naučná', '', 'české']"

@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n570003019,Jak číst současné umění - Michael Wilson,0,0,2017,392,KNIHA ZLÍN,naučná,české</p>,,"Působivý a nově pojatý pohled na tvorbu současných umělců, jehož prostřednictvím autor zkoumá proměnlivý a často zarážející svět umění jednadvacátého století.
+
+Provokativní,...",348,499,"['KNIHA ZLÍN, naučná', '', 'české']"
+n469732199,Nová Odysea Patrick Kingsley,90,1,2017,340,KNIHA ZLÍN,naučná,české</p>,,"Příběh evropské uprchlické krize. Evropa čelí vlně migrace, jakou nepoznala od konce druhé světové války, a jako všechno nepoznané, i tato situace vyvolává protichůdné názory a...",187,339,"['KNIHA ZLÍN, naučná', '', 'české']"

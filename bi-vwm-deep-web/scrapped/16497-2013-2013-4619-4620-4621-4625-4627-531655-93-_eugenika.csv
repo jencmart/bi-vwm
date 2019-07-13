@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n131357270,Theta léčení - Vianna Stibal,90,4,2013,336,Eugenika,naučná,české</p>,,"Theta léčení
+Theta léčení je hlavně samoléčebná metoda. Autorka se s pomocí této léčebné techniky sama vyléčila z rakoviny. Poté začala tuto techniku používat při sezeních se...",233,378,"['Eugenika, naučná', '', 'české']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n102294265,Havran - Lou Reed,0,0,2013,189,Kniha Zlín,naučná,české</p>,,"Autor : Lou Reed, Popis : 
+ V roce 2001 se legendární rocker Lou Reed ponořil do pochmurného světa jednoho ze svých duchovních předchůdců, Edgara Allena Poea, aby posléze...",87,229,"['Kniha Zlín, naučná', '', 'české']"

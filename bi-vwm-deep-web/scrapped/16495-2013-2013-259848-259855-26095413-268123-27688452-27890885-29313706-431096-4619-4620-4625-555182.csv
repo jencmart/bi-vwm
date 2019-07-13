@@ -1,0 +1,496 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n120309209,Osho Zen Tarot - Osho,95,43,2013,200,Synergie,esoterika,Osho,české,"Úžasné zenové karty míří přímo k jádru problému a s naprostou přesností odhalují pověstné jádro pudla. Skvělé karty pro každého, kdo si přeje poznat Pravdu v celé její...",388,587,"['esoterika', '', 'Synergie, Osho, české']"
+n129564635,Bdělost - Anthony De Mello,91,10,2013,224,Cesta,esoterika,Anthony De Mello,české,"Bdělost kniha od autora Anthony de Mello. Probouzet lidi a odhalovat jim pravdu o jejich vlastní velikosti – to je cíl, který si Anthony de Mello kladl při své práci s lidmi, a...",137,218,"['esoterika', '', 'Cesta, Anthony De Mello, české']"
+n108844982,Malý miliardář - David Walliams,96,11,2013,236,Argo,dětské,David Walliams,české,"Autor : David Walliams, Popis : 
+ Joe je boháč, přesně řečeno nejbohatší dvanáctiletý kluk v celé Británii. Má všechno, nač si vzpomene: vůz formule 1, kino, pět set párů...",167,566,"['dětské', '', 'Argo, David Walliams, české']"
+n127732017,Můj nový! vlastní deník malého Poseroutky,94,33,2013,192,COOBOO,dětské,Jeff Kinney,české,"Cooboo Můj nový vlastní deník malého poseroutky
+
+Deník pro všechny fanoušky malého poseroutky.
+
+Slavné zápisky Grega Heffleyho jsou podkladem pro deník, do kterého si mohou...",138,199,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n99356525,Ostrov v Ptačí ulici - Uri Orlev,90,5,2013,184,Práh,dětské,Orlev Uri,české,"Kniha získala Zlatou stuhu 2014 v kategorii beletrie pro mládež za překlad.
+
+Knížku přeložila Lenka Bukovská.
+
+ 
+
+Jako Robinson Crusoe na opuštěném ostrově přežívá židovský...",204,299,"['dětské', '', 'Práh, Orlev Uri, české']"
+n124066566,Musela jsem zemřít. Má cesta od rakoviny k opravdovému uzdravení,94,59,2013,208,Knižní klub,esoterika,Anita Moorjani,české,"Životní příběh Anity, napsaný čtivě a upřímně v knize Musela jsem zemřít, se okamžitě stal bestsellerem a autorka Anita Moorjani dnes patří mezi významné osobnosti, nadšeně...",239,299,"['esoterika', '', 'Knižní klub, Anita Moorjani, české']"
+n151103737,Tichý dech - Trachta Jan,91,13,2013,214,Paseka,cestopisy,Jan Trachta,české,"Kniha přináší unikátní svědectví mladého českého lékaře o tom, jak zachraňoval životy v krizových oblastech afrického Konga a na Haiti, kam odletěl s dalšími lékaři jen několik...",200,269,"['cestopisy', '', 'Paseka, Jan Trachta, české']"
+n92420065,Heidi děvčátko z hor,98,5,2013,174,,dětské,Johana Spyriová,české,"Jmenuje se Heidi. Maminku s tatínkem už nemá. Zato má Petra, Kláru, ale hlavně dědečka Konráda. Její příběh začal právě u něj, v chaloupce vysoko ve švýcarských Alpách. Vypráví...",139,149,"['dětské', '', 'Johana Spyriová, české']"
+n94512203,Deník malého poseroutky Páté kolo u vozu,95,40,2013,224,COOBOO,dětské,Jeff Kinney,české,"Deník malého poseroutky 7 Páté kolo u vozu
+
+Sedmý díl dětské knihy, která je pokračováním deníku Grega Heffleyeho.
+
+Greg i jeho spolužáci se chystají na školní Valentýnský...",156,229,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n106614732,Devatero pohádek Čapek Karel,85,9,2013,216,Triáda,dětské,Karel Čapek,české,"Devatero  pohádek a ještě jedna od Josefa Čapka jako přívažek (poprvé vyšlo roku  1931) patří mezi nejoblíbenější klasické české pohádkové knihy. Pohádky o  psech, kočkách,...",137,219,"['dětské', '', 'Triáda, Karel Čapek, české']"
+n408857725,Dokážu to!,100,1,2013,189,Synergie,esoterika,Louise L. Hay,české,"Luise L. Hay, světově uznávaná autorka knihy Miluj svůj život, pro vás vytvořila kalendář se silnými afirmacemi, který můžete používat každý den, rok co rok. Afirmace jsou...",250,349,"['esoterika', '', 'Synergie, Louise L. Hay, české']"
+n715016945,S trochou nostalgie aneb jak se vařilo a jedlo za císaře pána,0,0,2013,208,,kuchařky,Miroslava Kuntzmannová,české,Tato kuchařská kniha zachycuje a popisuje receptury kuchyní zemí bývalého c. a k. Rakousko-Uherska. V dnešní hektické době může být takovéto zastavení a ohlédnutí do minula jen...,433,501,"['kuchařky', '', 'Miroslava Kuntzmannová, české']"
+n87382413,Čerstvé ovocné a zeleninové šťavy,82,2,2013,200,,kuchařky,Norman W. Walker,slovenské,"V této praktické knize jsou popsány účinky a důležité látky čerstvých ovocných i zeleninových šťáv. Dnes se šťávy sice pijí téměř v každé domácnosti, bohužel jsou to ale ve...",159,241,"['kuchařky', '', 'Norman W. Walker, slovenské']"
+n102280682,Kluk v sukních - David Walliams,90,3,2013,200,Argo,dětské,David Walliams,české,"Perfektní čtení pro děti nejen na prázdniny. Zábavný a poučný příběh, od kterého se zaručeně neodtrhnete. Denis vášnivě miluje fotbal, stejně jako jeho táta a brácha. Jeho...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n632316319,"Mayes, Edward - Vaříme s toskánským sluncem",100,1,2013,224,Paseka,kuchařky,Frances Mayes,české,"Autorka bestselleru Pod toskánským sluncem a dalších knih inspirovaných pobyty v milovaném Toskánsku se po dvaceti letech od chvíle, kdy se ujala opuštěné usedlosti nedaleko...",74,102,"['kuchařky', '', 'Paseka, Edward Mayes, Frances Mayes, české']"
+n73697887,Deník malé blondýnky Znova ve škole,93,3,2013,170,,dětské,Anna Urbanová,české,"Volné pokračování prvního úspěšného Deníku malé blondýnky - O prázdninách.
+
+
+
+ Tentokrát se čtenář setká s hlavní hrdinkou a jejími kamarádkami ve škole. Šárka se vtipnou...",38,179,"['dětské', '', 'Ottovo nakladatelstvo, Jiří Urban, Anna Urbanová, české']"
+n99984746,Jednota se životem - Eckhart Tolle,98,3,2013,176,,esoterika,Eckhart Tolle,české,"Buchanan v knize popisuje zánik Západu. Příčinu vidí ve ztrátě jeho hodnot, především potom ve ztrátě židovské a křesťanské víry. Vinu za to dává idejím čtyř myslitelů,...",194,344,"['esoterika', '', 'Eckhart Tolle, české']"
+n127732029,Ájurvédská kuchařka,98,1,2013,214,Fontána,kuchařky,Vinod Verma,české,"Ájurvédská kuchařka není pouze souborem osvědčených receptů, ale zasvěceným pohledem do jedné z nejstarších stravovacích kultur světa. Tradiční indická kuchyně je vyhlášená svou...",277,278,"['kuchařky', '', 'Fontána, Vinod Verma, české']"
+n259845795,Durrell Gerald: Mluvící balík Kniha,99,8,2013,200,Knižní klub,dětské,Gerald Durrell,české,"Penelopka uviděla, jak z jedné skupiny keřů vystřelilo nějaké malé zvířátko a vrazilo mezi další keře. Ale seběhlo se to tak rychle, že vůbec nepoznala, co je to za zvíře, a...",222,279,"['dětské', '', 'Knižní klub, Gerald Durrell, české']"
+n29653408,Boříkovy lapálie,92,10,2013,192,Albatros,dětské,Steklač Vojtěch,české,"Albatros Boříkovy lapálie
+
+Nestárnoucí příběhy školáka Boříka a jeho parťáků z Holešovic jsou určeny malým školákům.
+
+Lumpárny, kterých jsou kluci účastni se odehrávají jak ve...",149,219,"['dětské', '', 'Albatros, Steklač Vojtěch, české']"
+n104174143,TOP tituly | Minulými životy k uzdravení,94,7,2013,208,Metafora,esoterika,Brian L. Weiss,české,Řešení řady problémů se skrývá v minulosti. Mnohdy vzdálené stovky nebo i tisíce let. V některém z našich minulých životů. Objevte je i vy. S touhle knihou najdete cestu...,135,199,"['esoterika', '', 'Metafora, Brian L. Weiss, české']"
+n105312965,Alenčina dobrodružství v říši divů a za zrcadlem Lewis Carroll,84,2,2013,188,Argo,dětské,Lewis Carroll,české,"Souborné vydání dvou světově proslulých příběhů Alenčina dobrodružství v říši divů a Za zrcadlem a co tam Alenka našla. První z obou knih vyšla v roce 1865, druhá o sedm let...",245,348,"['dětské', '', 'Argo, Lewis Carroll, české']"
+n459942219,Kniha říkanek,100,2,2013,184,,dětské,Behenský Petr,české,"324 říkanek a ilustrací v osmi kapitolách Vrána a vlk Nakrákala vrána vlku že mu zajíc čouhá z krku: „Je to pravda, na mou duši vždyť mu vidím obě uši!“ Tygr jede na rande Jede...",99,355,"['dětské', '', 'Behenský Petr, české']"
+n98087993,František,94,0,2013,176,Portál,esoterika,Simon Biallowons,české,"Odstoupení Svatého otce Benedikta XVI. bylo na konci února 2013 prvotřídní senzací, protože se tak stalo poprvé po sedmi stech letech.
+
+Nástupcem Benedikta XVI. se stal...",80,212,"['esoterika', '', 'Portál, Simon Biallowons, české']"
+n111090481,Dárce Lois Lowryová,87,6,2013,208,Argo,dětské,Lois Lowryová,české,"Představte si, že svět kolem vás je jako podle šablony, existuje jen jedna univerzální barva, jeden typ nábytku, všichni mají stejný střih vlasů, stejné oblečení. Má to své...",174,248,"['dětské', '', 'Argo, Lois Lowryová, české']"
+n87652188,Ostrov pokladů,97,2,2013,176,Knižní klub,dětské,Robert Louis Stevenson,české,"Nesmrtelný příběh o dobrodružství malého Jima Hawkinse a jeho druhů, kteří se vydali najít proslulý poklad krvežíznivého pirátského kapitána, vychází v klasickém překladu a...",223,279,"['dětské', '', 'Knižní klub, Robert Louis Stevenson, české']"
+n137377759,Winx Charmix - Encyklomagie,94,11,2013,216,COOBOO,dětské,Lukáš Mathé,české,"Tato Encyklomagie je jedním z našich nejúspěšnějších kouzel. Obsahuje úplně všechno, co byste o našem světě chtěli vědět. Ponořte se do čtení a odhalte naše tajemství,...",212,249,"['dětské', '', 'COOBOO, Lukáš Mathé, české']"
+n132329790,Krajiny domova - Václav Cílek,92,10,2013,224,Albatros,dětské,Václav Cílek,české,"Na krajinné bohatství Čech a Moravy můžeme být právem hrdí. Dokážeme si je však představit, anebo známe je natolik dobře, abychom mohli dětem charakterizovat či popsat...",349,349,"['dětské', '', 'Albatros, Václav Cílek, české']"
+n97896184,Vaříme z přírody - Blanka Jarošíková,90,1,2013,224,Eminent,kuchařky,Blanka Jarošíková,české,"Vaříme z přírody kniha od autora Blanka Jarošíková. Procházíme krajinou a vnímáme úžasnou harmonii. Všechno je jako v pohádkovém zámku, uspořádané a připravené pro hosta, který...",202,299,"['kuchařky', '', 'Eminent, Blanka Jarošíková, české']"
+n113219347,Radikální zhmotnění - Colin Tipping,0,0,2013,194,Eugenika,esoterika,Colin C. Tipping,české,"Jak si v životě vytvořit to, co chceme.  Tato praktická kniha plná důležitých upozornění vám ukáže, jak ve svém životě zhmotnit to, co nám přinese naplnění, a také jak vyřešit...",156,238,"['esoterika', '', 'Eugenika, Colin C. Tipping, české']"
+n120309209,Osho Zen Tarot - Osho,95,43,2013,200,Synergie,esoterika,Osho,české,"Úžasné zenové karty míří přímo k jádru problému a s naprostou přesností odhalují pověstné jádro pudla. Skvělé karty pro každého, kdo si přeje poznat Pravdu v celé její...",388,587,"['esoterika', '', 'Synergie, Osho, české']"
+n129564635,Bdělost - Anthony De Mello,91,10,2013,224,Cesta,esoterika,Anthony De Mello,české,"Bdělost kniha od autora Anthony de Mello. Probouzet lidi a odhalovat jim pravdu o jejich vlastní velikosti – to je cíl, který si Anthony de Mello kladl při své práci s lidmi, a...",137,218,"['esoterika', '', 'Cesta, Anthony De Mello, české']"
+n108844982,Malý miliardář - David Walliams,96,11,2013,236,Argo,dětské,David Walliams,české,"Autor : David Walliams, Popis : 
+ Joe je boháč, přesně řečeno nejbohatší dvanáctiletý kluk v celé Británii. Má všechno, nač si vzpomene: vůz formule 1, kino, pět set párů...",167,566,"['dětské', '', 'Argo, David Walliams, české']"
+n127732017,Můj nový! vlastní deník malého Poseroutky,94,33,2013,192,COOBOO,dětské,Jeff Kinney,české,"Cooboo Můj nový vlastní deník malého poseroutky
+
+Deník pro všechny fanoušky malého poseroutky.
+
+Slavné zápisky Grega Heffleyho jsou podkladem pro deník, do kterého si mohou...",138,199,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n99356525,Ostrov v Ptačí ulici - Uri Orlev,90,5,2013,184,Práh,dětské,Orlev Uri,české,"Kniha získala Zlatou stuhu 2014 v kategorii beletrie pro mládež za překlad.
+
+Knížku přeložila Lenka Bukovská.
+
+ 
+
+Jako Robinson Crusoe na opuštěném ostrově přežívá židovský...",204,299,"['dětské', '', 'Práh, Orlev Uri, české']"
+n124066566,Musela jsem zemřít. Má cesta od rakoviny k opravdovému uzdravení,94,59,2013,208,Knižní klub,esoterika,Anita Moorjani,české,"Životní příběh Anity, napsaný čtivě a upřímně v knize Musela jsem zemřít, se okamžitě stal bestsellerem a autorka Anita Moorjani dnes patří mezi významné osobnosti, nadšeně...",239,299,"['esoterika', '', 'Knižní klub, Anita Moorjani, české']"
+n151103737,Tichý dech - Trachta Jan,91,13,2013,214,Paseka,cestopisy,Jan Trachta,české,"Kniha přináší unikátní svědectví mladého českého lékaře o tom, jak zachraňoval životy v krizových oblastech afrického Konga a na Haiti, kam odletěl s dalšími lékaři jen několik...",200,269,"['cestopisy', '', 'Paseka, Jan Trachta, české']"
+n92420065,Heidi děvčátko z hor,98,5,2013,174,,dětské,Johana Spyriová,české,"Jmenuje se Heidi. Maminku s tatínkem už nemá. Zato má Petra, Kláru, ale hlavně dědečka Konráda. Její příběh začal právě u něj, v chaloupce vysoko ve švýcarských Alpách. Vypráví...",139,149,"['dětské', '', 'Johana Spyriová, české']"
+n94512203,Deník malého poseroutky Páté kolo u vozu,95,40,2013,224,COOBOO,dětské,Jeff Kinney,české,"Deník malého poseroutky 7 Páté kolo u vozu
+
+Sedmý díl dětské knihy, která je pokračováním deníku Grega Heffleyeho.
+
+Greg i jeho spolužáci se chystají na školní Valentýnský...",156,229,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n106614732,Devatero pohádek Čapek Karel,85,9,2013,216,Triáda,dětské,Karel Čapek,české,"Devatero  pohádek a ještě jedna od Josefa Čapka jako přívažek (poprvé vyšlo roku  1931) patří mezi nejoblíbenější klasické české pohádkové knihy. Pohádky o  psech, kočkách,...",137,219,"['dětské', '', 'Triáda, Karel Čapek, české']"
+n408857725,Dokážu to!,100,1,2013,189,Synergie,esoterika,Louise L. Hay,české,"Luise L. Hay, světově uznávaná autorka knihy Miluj svůj život, pro vás vytvořila kalendář se silnými afirmacemi, který můžete používat každý den, rok co rok. Afirmace jsou...",250,349,"['esoterika', '', 'Synergie, Louise L. Hay, české']"
+n715016945,S trochou nostalgie aneb jak se vařilo a jedlo za císaře pána,0,0,2013,208,,kuchařky,Miroslava Kuntzmannová,české,Tato kuchařská kniha zachycuje a popisuje receptury kuchyní zemí bývalého c. a k. Rakousko-Uherska. V dnešní hektické době může být takovéto zastavení a ohlédnutí do minula jen...,433,501,"['kuchařky', '', 'Miroslava Kuntzmannová, české']"
+n87382413,Čerstvé ovocné a zeleninové šťavy,82,2,2013,200,,kuchařky,Norman W. Walker,slovenské,"V této praktické knize jsou popsány účinky a důležité látky čerstvých ovocných i zeleninových šťáv. Dnes se šťávy sice pijí téměř v každé domácnosti, bohužel jsou to ale ve...",159,241,"['kuchařky', '', 'Norman W. Walker, slovenské']"
+n102280682,Kluk v sukních - David Walliams,90,3,2013,200,Argo,dětské,David Walliams,české,"Perfektní čtení pro děti nejen na prázdniny. Zábavný a poučný příběh, od kterého se zaručeně neodtrhnete. Denis vášnivě miluje fotbal, stejně jako jeho táta a brácha. Jeho...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n632316319,"Mayes, Edward - Vaříme s toskánským sluncem",100,1,2013,224,Paseka,kuchařky,Frances Mayes,české,"Autorka bestselleru Pod toskánským sluncem a dalších knih inspirovaných pobyty v milovaném Toskánsku se po dvaceti letech od chvíle, kdy se ujala opuštěné usedlosti nedaleko...",74,102,"['kuchařky', '', 'Paseka, Edward Mayes, Frances Mayes, české']"
+n73697887,Deník malé blondýnky Znova ve škole,93,3,2013,170,,dětské,Anna Urbanová,české,"Volné pokračování prvního úspěšného Deníku malé blondýnky - O prázdninách.
+
+
+
+ Tentokrát se čtenář setká s hlavní hrdinkou a jejími kamarádkami ve škole. Šárka se vtipnou...",38,179,"['dětské', '', 'Ottovo nakladatelstvo, Jiří Urban, Anna Urbanová, české']"
+n99984746,Jednota se životem - Eckhart Tolle,98,3,2013,176,,esoterika,Eckhart Tolle,české,"Buchanan v knize popisuje zánik Západu. Příčinu vidí ve ztrátě jeho hodnot, především potom ve ztrátě židovské a křesťanské víry. Vinu za to dává idejím čtyř myslitelů,...",194,344,"['esoterika', '', 'Eckhart Tolle, české']"
+n127732029,Ájurvédská kuchařka,98,1,2013,214,Fontána,kuchařky,Vinod Verma,české,"Ájurvédská kuchařka není pouze souborem osvědčených receptů, ale zasvěceným pohledem do jedné z nejstarších stravovacích kultur světa. Tradiční indická kuchyně je vyhlášená svou...",277,278,"['kuchařky', '', 'Fontána, Vinod Verma, české']"
+n259845795,Durrell Gerald: Mluvící balík Kniha,99,8,2013,200,Knižní klub,dětské,Gerald Durrell,české,"Penelopka uviděla, jak z jedné skupiny keřů vystřelilo nějaké malé zvířátko a vrazilo mezi další keře. Ale seběhlo se to tak rychle, že vůbec nepoznala, co je to za zvíře, a...",222,279,"['dětské', '', 'Knižní klub, Gerald Durrell, české']"
+n29653408,Boříkovy lapálie,92,10,2013,192,Albatros,dětské,Steklač Vojtěch,české,"Albatros Boříkovy lapálie
+
+Nestárnoucí příběhy školáka Boříka a jeho parťáků z Holešovic jsou určeny malým školákům.
+
+Lumpárny, kterých jsou kluci účastni se odehrávají jak ve...",149,219,"['dětské', '', 'Albatros, Steklač Vojtěch, české']"
+n104174143,TOP tituly | Minulými životy k uzdravení,94,7,2013,208,Metafora,esoterika,Brian L. Weiss,české,Řešení řady problémů se skrývá v minulosti. Mnohdy vzdálené stovky nebo i tisíce let. V některém z našich minulých životů. Objevte je i vy. S touhle knihou najdete cestu...,135,199,"['esoterika', '', 'Metafora, Brian L. Weiss, české']"
+n105312965,Alenčina dobrodružství v říši divů a za zrcadlem Lewis Carroll,84,2,2013,188,Argo,dětské,Lewis Carroll,české,"Souborné vydání dvou světově proslulých příběhů Alenčina dobrodružství v říši divů a Za zrcadlem a co tam Alenka našla. První z obou knih vyšla v roce 1865, druhá o sedm let...",245,348,"['dětské', '', 'Argo, Lewis Carroll, české']"
+n459942219,Kniha říkanek,100,2,2013,184,,dětské,Behenský Petr,české,"324 říkanek a ilustrací v osmi kapitolách Vrána a vlk Nakrákala vrána vlku že mu zajíc čouhá z krku: „Je to pravda, na mou duši vždyť mu vidím obě uši!“ Tygr jede na rande Jede...",99,355,"['dětské', '', 'Behenský Petr, české']"
+n98087993,František,94,0,2013,176,Portál,esoterika,Simon Biallowons,české,"Odstoupení Svatého otce Benedikta XVI. bylo na konci února 2013 prvotřídní senzací, protože se tak stalo poprvé po sedmi stech letech.
+
+Nástupcem Benedikta XVI. se stal...",80,212,"['esoterika', '', 'Portál, Simon Biallowons, české']"
+n111090481,Dárce Lois Lowryová,87,6,2013,208,Argo,dětské,Lois Lowryová,české,"Představte si, že svět kolem vás je jako podle šablony, existuje jen jedna univerzální barva, jeden typ nábytku, všichni mají stejný střih vlasů, stejné oblečení. Má to své...",174,248,"['dětské', '', 'Argo, Lois Lowryová, české']"
+n87652188,Ostrov pokladů,97,2,2013,176,Knižní klub,dětské,Robert Louis Stevenson,české,"Nesmrtelný příběh o dobrodružství malého Jima Hawkinse a jeho druhů, kteří se vydali najít proslulý poklad krvežíznivého pirátského kapitána, vychází v klasickém překladu a...",223,279,"['dětské', '', 'Knižní klub, Robert Louis Stevenson, české']"
+n137377759,Winx Charmix - Encyklomagie,94,11,2013,216,COOBOO,dětské,Lukáš Mathé,české,"Tato Encyklomagie je jedním z našich nejúspěšnějších kouzel. Obsahuje úplně všechno, co byste o našem světě chtěli vědět. Ponořte se do čtení a odhalte naše tajemství,...",212,249,"['dětské', '', 'COOBOO, Lukáš Mathé, české']"
+n132329790,Krajiny domova - Václav Cílek,92,10,2013,224,Albatros,dětské,Václav Cílek,české,"Na krajinné bohatství Čech a Moravy můžeme být právem hrdí. Dokážeme si je však představit, anebo známe je natolik dobře, abychom mohli dětem charakterizovat či popsat...",349,349,"['dětské', '', 'Albatros, Václav Cílek, české']"
+n97896184,Vaříme z přírody - Blanka Jarošíková,90,1,2013,224,Eminent,kuchařky,Blanka Jarošíková,české,"Vaříme z přírody kniha od autora Blanka Jarošíková. Procházíme krajinou a vnímáme úžasnou harmonii. Všechno je jako v pohádkovém zámku, uspořádané a připravené pro hosta, který...",202,299,"['kuchařky', '', 'Eminent, Blanka Jarošíková, české']"
+n113219347,Radikální zhmotnění - Colin Tipping,0,0,2013,194,Eugenika,esoterika,Colin C. Tipping,české,"Jak si v životě vytvořit to, co chceme.  Tato praktická kniha plná důležitých upozornění vám ukáže, jak ve svém životě zhmotnit to, co nám přinese naplnění, a také jak vyřešit...",156,238,"['esoterika', '', 'Eugenika, Colin C. Tipping, české']"
+n120309209,Osho Zen Tarot - Osho,95,43,2013,200,Synergie,esoterika,Osho,české,"Úžasné zenové karty míří přímo k jádru problému a s naprostou přesností odhalují pověstné jádro pudla. Skvělé karty pro každého, kdo si přeje poznat Pravdu v celé její...",388,587,"['esoterika', '', 'Synergie, Osho, české']"
+n129564635,Bdělost - Anthony De Mello,91,10,2013,224,Cesta,esoterika,Anthony De Mello,české,"Bdělost kniha od autora Anthony de Mello. Probouzet lidi a odhalovat jim pravdu o jejich vlastní velikosti – to je cíl, který si Anthony de Mello kladl při své práci s lidmi, a...",137,218,"['esoterika', '', 'Cesta, Anthony De Mello, české']"
+n108844982,Malý miliardář - David Walliams,96,11,2013,236,Argo,dětské,David Walliams,české,"Autor : David Walliams, Popis : 
+ Joe je boháč, přesně řečeno nejbohatší dvanáctiletý kluk v celé Británii. Má všechno, nač si vzpomene: vůz formule 1, kino, pět set párů...",167,566,"['dětské', '', 'Argo, David Walliams, české']"
+n127732017,Můj nový! vlastní deník malého Poseroutky,94,33,2013,192,COOBOO,dětské,Jeff Kinney,české,"Cooboo Můj nový vlastní deník malého poseroutky
+
+Deník pro všechny fanoušky malého poseroutky.
+
+Slavné zápisky Grega Heffleyho jsou podkladem pro deník, do kterého si mohou...",138,199,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n99356525,Ostrov v Ptačí ulici - Uri Orlev,90,5,2013,184,Práh,dětské,Orlev Uri,české,"Kniha získala Zlatou stuhu 2014 v kategorii beletrie pro mládež za překlad.
+
+Knížku přeložila Lenka Bukovská.
+
+ 
+
+Jako Robinson Crusoe na opuštěném ostrově přežívá židovský...",204,299,"['dětské', '', 'Práh, Orlev Uri, české']"
+n124066566,Musela jsem zemřít. Má cesta od rakoviny k opravdovému uzdravení,94,59,2013,208,Knižní klub,esoterika,Anita Moorjani,české,"Životní příběh Anity, napsaný čtivě a upřímně v knize Musela jsem zemřít, se okamžitě stal bestsellerem a autorka Anita Moorjani dnes patří mezi významné osobnosti, nadšeně...",239,299,"['esoterika', '', 'Knižní klub, Anita Moorjani, české']"
+n151103737,Tichý dech - Trachta Jan,91,13,2013,214,Paseka,cestopisy,Jan Trachta,české,"Kniha přináší unikátní svědectví mladého českého lékaře o tom, jak zachraňoval životy v krizových oblastech afrického Konga a na Haiti, kam odletěl s dalšími lékaři jen několik...",200,269,"['cestopisy', '', 'Paseka, Jan Trachta, české']"
+n92420065,Heidi děvčátko z hor,98,5,2013,174,,dětské,Johana Spyriová,české,"Jmenuje se Heidi. Maminku s tatínkem už nemá. Zato má Petra, Kláru, ale hlavně dědečka Konráda. Její příběh začal právě u něj, v chaloupce vysoko ve švýcarských Alpách. Vypráví...",139,149,"['dětské', '', 'Johana Spyriová, české']"
+n94512203,Deník malého poseroutky Páté kolo u vozu,95,40,2013,224,COOBOO,dětské,Jeff Kinney,české,"Deník malého poseroutky 7 Páté kolo u vozu
+
+Sedmý díl dětské knihy, která je pokračováním deníku Grega Heffleyeho.
+
+Greg i jeho spolužáci se chystají na školní Valentýnský...",156,229,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n106614732,Devatero pohádek Čapek Karel,85,9,2013,216,Triáda,dětské,Karel Čapek,české,"Devatero  pohádek a ještě jedna od Josefa Čapka jako přívažek (poprvé vyšlo roku  1931) patří mezi nejoblíbenější klasické české pohádkové knihy. Pohádky o  psech, kočkách,...",137,219,"['dětské', '', 'Triáda, Karel Čapek, české']"
+n408857725,Dokážu to!,100,1,2013,189,Synergie,esoterika,Louise L. Hay,české,"Luise L. Hay, světově uznávaná autorka knihy Miluj svůj život, pro vás vytvořila kalendář se silnými afirmacemi, který můžete používat každý den, rok co rok. Afirmace jsou...",250,349,"['esoterika', '', 'Synergie, Louise L. Hay, české']"
+n715016945,S trochou nostalgie aneb jak se vařilo a jedlo za císaře pána,0,0,2013,208,,kuchařky,Miroslava Kuntzmannová,české,Tato kuchařská kniha zachycuje a popisuje receptury kuchyní zemí bývalého c. a k. Rakousko-Uherska. V dnešní hektické době může být takovéto zastavení a ohlédnutí do minula jen...,433,501,"['kuchařky', '', 'Miroslava Kuntzmannová, české']"
+n87382413,Čerstvé ovocné a zeleninové šťavy,82,2,2013,200,,kuchařky,Norman W. Walker,slovenské,"V této praktické knize jsou popsány účinky a důležité látky čerstvých ovocných i zeleninových šťáv. Dnes se šťávy sice pijí téměř v každé domácnosti, bohužel jsou to ale ve...",159,241,"['kuchařky', '', 'Norman W. Walker, slovenské']"
+n102280682,Kluk v sukních - David Walliams,90,3,2013,200,Argo,dětské,David Walliams,české,"Perfektní čtení pro děti nejen na prázdniny. Zábavný a poučný příběh, od kterého se zaručeně neodtrhnete. Denis vášnivě miluje fotbal, stejně jako jeho táta a brácha. Jeho...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n632316319,"Mayes, Edward - Vaříme s toskánským sluncem",100,1,2013,224,Paseka,kuchařky,Frances Mayes,české,"Autorka bestselleru Pod toskánským sluncem a dalších knih inspirovaných pobyty v milovaném Toskánsku se po dvaceti letech od chvíle, kdy se ujala opuštěné usedlosti nedaleko...",74,102,"['kuchařky', '', 'Paseka, Edward Mayes, Frances Mayes, české']"
+n73697887,Deník malé blondýnky Znova ve škole,93,3,2013,170,,dětské,Anna Urbanová,české,"Volné pokračování prvního úspěšného Deníku malé blondýnky - O prázdninách.
+
+
+
+ Tentokrát se čtenář setká s hlavní hrdinkou a jejími kamarádkami ve škole. Šárka se vtipnou...",38,179,"['dětské', '', 'Ottovo nakladatelstvo, Jiří Urban, Anna Urbanová, české']"
+n99984746,Jednota se životem - Eckhart Tolle,98,3,2013,176,,esoterika,Eckhart Tolle,české,"Buchanan v knize popisuje zánik Západu. Příčinu vidí ve ztrátě jeho hodnot, především potom ve ztrátě židovské a křesťanské víry. Vinu za to dává idejím čtyř myslitelů,...",194,344,"['esoterika', '', 'Eckhart Tolle, české']"
+n127732029,Ájurvédská kuchařka,98,1,2013,214,Fontána,kuchařky,Vinod Verma,české,"Ájurvédská kuchařka není pouze souborem osvědčených receptů, ale zasvěceným pohledem do jedné z nejstarších stravovacích kultur světa. Tradiční indická kuchyně je vyhlášená svou...",277,278,"['kuchařky', '', 'Fontána, Vinod Verma, české']"
+n259845795,Durrell Gerald: Mluvící balík Kniha,99,8,2013,200,Knižní klub,dětské,Gerald Durrell,české,"Penelopka uviděla, jak z jedné skupiny keřů vystřelilo nějaké malé zvířátko a vrazilo mezi další keře. Ale seběhlo se to tak rychle, že vůbec nepoznala, co je to za zvíře, a...",222,279,"['dětské', '', 'Knižní klub, Gerald Durrell, české']"
+n29653408,Boříkovy lapálie,92,10,2013,192,Albatros,dětské,Steklač Vojtěch,české,"Albatros Boříkovy lapálie
+
+Nestárnoucí příběhy školáka Boříka a jeho parťáků z Holešovic jsou určeny malým školákům.
+
+Lumpárny, kterých jsou kluci účastni se odehrávají jak ve...",149,219,"['dětské', '', 'Albatros, Steklač Vojtěch, české']"
+n104174143,TOP tituly | Minulými životy k uzdravení,94,7,2013,208,Metafora,esoterika,Brian L. Weiss,české,Řešení řady problémů se skrývá v minulosti. Mnohdy vzdálené stovky nebo i tisíce let. V některém z našich minulých životů. Objevte je i vy. S touhle knihou najdete cestu...,135,199,"['esoterika', '', 'Metafora, Brian L. Weiss, české']"
+n105312965,Alenčina dobrodružství v říši divů a za zrcadlem Lewis Carroll,84,2,2013,188,Argo,dětské,Lewis Carroll,české,"Souborné vydání dvou světově proslulých příběhů Alenčina dobrodružství v říši divů a Za zrcadlem a co tam Alenka našla. První z obou knih vyšla v roce 1865, druhá o sedm let...",245,348,"['dětské', '', 'Argo, Lewis Carroll, české']"
+n459942219,Kniha říkanek,100,2,2013,184,,dětské,Behenský Petr,české,"324 říkanek a ilustrací v osmi kapitolách Vrána a vlk Nakrákala vrána vlku že mu zajíc čouhá z krku: „Je to pravda, na mou duši vždyť mu vidím obě uši!“ Tygr jede na rande Jede...",99,355,"['dětské', '', 'Behenský Petr, české']"
+n98087993,František,94,0,2013,176,Portál,esoterika,Simon Biallowons,české,"Odstoupení Svatého otce Benedikta XVI. bylo na konci února 2013 prvotřídní senzací, protože se tak stalo poprvé po sedmi stech letech.
+
+Nástupcem Benedikta XVI. se stal...",80,212,"['esoterika', '', 'Portál, Simon Biallowons, české']"
+n111090481,Dárce Lois Lowryová,87,6,2013,208,Argo,dětské,Lois Lowryová,české,"Představte si, že svět kolem vás je jako podle šablony, existuje jen jedna univerzální barva, jeden typ nábytku, všichni mají stejný střih vlasů, stejné oblečení. Má to své...",174,248,"['dětské', '', 'Argo, Lois Lowryová, české']"
+n87652188,Ostrov pokladů,97,2,2013,176,Knižní klub,dětské,Robert Louis Stevenson,české,"Nesmrtelný příběh o dobrodružství malého Jima Hawkinse a jeho druhů, kteří se vydali najít proslulý poklad krvežíznivého pirátského kapitána, vychází v klasickém překladu a...",223,279,"['dětské', '', 'Knižní klub, Robert Louis Stevenson, české']"
+n137377759,Winx Charmix - Encyklomagie,94,11,2013,216,COOBOO,dětské,Lukáš Mathé,české,"Tato Encyklomagie je jedním z našich nejúspěšnějších kouzel. Obsahuje úplně všechno, co byste o našem světě chtěli vědět. Ponořte se do čtení a odhalte naše tajemství,...",212,249,"['dětské', '', 'COOBOO, Lukáš Mathé, české']"
+n132329790,Krajiny domova - Václav Cílek,92,10,2013,224,Albatros,dětské,Václav Cílek,české,"Na krajinné bohatství Čech a Moravy můžeme být právem hrdí. Dokážeme si je však představit, anebo známe je natolik dobře, abychom mohli dětem charakterizovat či popsat...",349,349,"['dětské', '', 'Albatros, Václav Cílek, české']"
+n97896184,Vaříme z přírody - Blanka Jarošíková,90,1,2013,224,Eminent,kuchařky,Blanka Jarošíková,české,"Vaříme z přírody kniha od autora Blanka Jarošíková. Procházíme krajinou a vnímáme úžasnou harmonii. Všechno je jako v pohádkovém zámku, uspořádané a připravené pro hosta, který...",202,299,"['kuchařky', '', 'Eminent, Blanka Jarošíková, české']"
+n113219347,Radikální zhmotnění - Colin Tipping,0,0,2013,194,Eugenika,esoterika,Colin C. Tipping,české,"Jak si v životě vytvořit to, co chceme.  Tato praktická kniha plná důležitých upozornění vám ukáže, jak ve svém životě zhmotnit to, co nám přinese naplnění, a také jak vyřešit...",156,238,"['esoterika', '', 'Eugenika, Colin C. Tipping, české']"
+n120309209,Osho Zen Tarot - Osho,95,43,2013,200,Synergie,esoterika,Osho,české,"Úžasné zenové karty míří přímo k jádru problému a s naprostou přesností odhalují pověstné jádro pudla. Skvělé karty pro každého, kdo si přeje poznat Pravdu v celé její...",388,587,"['esoterika', '', 'Synergie, Osho, české']"
+n129564635,Bdělost - Anthony De Mello,91,10,2013,224,Cesta,esoterika,Anthony De Mello,české,"Bdělost kniha od autora Anthony de Mello. Probouzet lidi a odhalovat jim pravdu o jejich vlastní velikosti – to je cíl, který si Anthony de Mello kladl při své práci s lidmi, a...",137,218,"['esoterika', '', 'Cesta, Anthony De Mello, české']"
+n108844982,Malý miliardář - David Walliams,96,11,2013,236,Argo,dětské,David Walliams,české,"Autor : David Walliams, Popis : 
+ Joe je boháč, přesně řečeno nejbohatší dvanáctiletý kluk v celé Británii. Má všechno, nač si vzpomene: vůz formule 1, kino, pět set párů...",167,566,"['dětské', '', 'Argo, David Walliams, české']"
+n127732017,Můj nový! vlastní deník malého Poseroutky,94,33,2013,192,COOBOO,dětské,Jeff Kinney,české,"Cooboo Můj nový vlastní deník malého poseroutky
+
+Deník pro všechny fanoušky malého poseroutky.
+
+Slavné zápisky Grega Heffleyho jsou podkladem pro deník, do kterého si mohou...",138,199,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n99356525,Ostrov v Ptačí ulici - Uri Orlev,90,5,2013,184,Práh,dětské,Orlev Uri,české,"Kniha získala Zlatou stuhu 2014 v kategorii beletrie pro mládež za překlad.
+
+Knížku přeložila Lenka Bukovská.
+
+ 
+
+Jako Robinson Crusoe na opuštěném ostrově přežívá židovský...",204,299,"['dětské', '', 'Práh, Orlev Uri, české']"
+n124066566,Musela jsem zemřít. Má cesta od rakoviny k opravdovému uzdravení,94,59,2013,208,Knižní klub,esoterika,Anita Moorjani,české,"Životní příběh Anity, napsaný čtivě a upřímně v knize Musela jsem zemřít, se okamžitě stal bestsellerem a autorka Anita Moorjani dnes patří mezi významné osobnosti, nadšeně...",239,299,"['esoterika', '', 'Knižní klub, Anita Moorjani, české']"
+n151103737,Tichý dech - Trachta Jan,91,13,2013,214,Paseka,cestopisy,Jan Trachta,české,"Kniha přináší unikátní svědectví mladého českého lékaře o tom, jak zachraňoval životy v krizových oblastech afrického Konga a na Haiti, kam odletěl s dalšími lékaři jen několik...",200,269,"['cestopisy', '', 'Paseka, Jan Trachta, české']"
+n92420065,Heidi děvčátko z hor,98,5,2013,174,,dětské,Johana Spyriová,české,"Jmenuje se Heidi. Maminku s tatínkem už nemá. Zato má Petra, Kláru, ale hlavně dědečka Konráda. Její příběh začal právě u něj, v chaloupce vysoko ve švýcarských Alpách. Vypráví...",139,149,"['dětské', '', 'Johana Spyriová, české']"
+n94512203,Deník malého poseroutky Páté kolo u vozu,95,40,2013,224,COOBOO,dětské,Jeff Kinney,české,"Deník malého poseroutky 7 Páté kolo u vozu
+
+Sedmý díl dětské knihy, která je pokračováním deníku Grega Heffleyeho.
+
+Greg i jeho spolužáci se chystají na školní Valentýnský...",156,229,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n106614732,Devatero pohádek Čapek Karel,85,9,2013,216,Triáda,dětské,Karel Čapek,české,"Devatero  pohádek a ještě jedna od Josefa Čapka jako přívažek (poprvé vyšlo roku  1931) patří mezi nejoblíbenější klasické české pohádkové knihy. Pohádky o  psech, kočkách,...",137,219,"['dětské', '', 'Triáda, Karel Čapek, české']"
+n408857725,Dokážu to!,100,1,2013,189,Synergie,esoterika,Louise L. Hay,české,"Luise L. Hay, světově uznávaná autorka knihy Miluj svůj život, pro vás vytvořila kalendář se silnými afirmacemi, který můžete používat každý den, rok co rok. Afirmace jsou...",250,349,"['esoterika', '', 'Synergie, Louise L. Hay, české']"
+n715016945,S trochou nostalgie aneb jak se vařilo a jedlo za císaře pána,0,0,2013,208,,kuchařky,Miroslava Kuntzmannová,české,Tato kuchařská kniha zachycuje a popisuje receptury kuchyní zemí bývalého c. a k. Rakousko-Uherska. V dnešní hektické době může být takovéto zastavení a ohlédnutí do minula jen...,433,501,"['kuchařky', '', 'Miroslava Kuntzmannová, české']"
+n87382413,Čerstvé ovocné a zeleninové šťavy,82,2,2013,200,,kuchařky,Norman W. Walker,slovenské,"V této praktické knize jsou popsány účinky a důležité látky čerstvých ovocných i zeleninových šťáv. Dnes se šťávy sice pijí téměř v každé domácnosti, bohužel jsou to ale ve...",159,241,"['kuchařky', '', 'Norman W. Walker, slovenské']"
+n102280682,Kluk v sukních - David Walliams,90,3,2013,200,Argo,dětské,David Walliams,české,"Perfektní čtení pro děti nejen na prázdniny. Zábavný a poučný příběh, od kterého se zaručeně neodtrhnete. Denis vášnivě miluje fotbal, stejně jako jeho táta a brácha. Jeho...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n632316319,"Mayes, Edward - Vaříme s toskánským sluncem",100,1,2013,224,Paseka,kuchařky,Frances Mayes,české,"Autorka bestselleru Pod toskánským sluncem a dalších knih inspirovaných pobyty v milovaném Toskánsku se po dvaceti letech od chvíle, kdy se ujala opuštěné usedlosti nedaleko...",74,102,"['kuchařky', '', 'Paseka, Edward Mayes, Frances Mayes, české']"
+n73697887,Deník malé blondýnky Znova ve škole,93,3,2013,170,,dětské,Anna Urbanová,české,"Volné pokračování prvního úspěšného Deníku malé blondýnky - O prázdninách.
+
+
+
+ Tentokrát se čtenář setká s hlavní hrdinkou a jejími kamarádkami ve škole. Šárka se vtipnou...",38,179,"['dětské', '', 'Ottovo nakladatelstvo, Jiří Urban, Anna Urbanová, české']"
+n99984746,Jednota se životem - Eckhart Tolle,98,3,2013,176,,esoterika,Eckhart Tolle,české,"Buchanan v knize popisuje zánik Západu. Příčinu vidí ve ztrátě jeho hodnot, především potom ve ztrátě židovské a křesťanské víry. Vinu za to dává idejím čtyř myslitelů,...",194,344,"['esoterika', '', 'Eckhart Tolle, české']"
+n127732029,Ájurvédská kuchařka,98,1,2013,214,Fontána,kuchařky,Vinod Verma,české,"Ájurvédská kuchařka není pouze souborem osvědčených receptů, ale zasvěceným pohledem do jedné z nejstarších stravovacích kultur světa. Tradiční indická kuchyně je vyhlášená svou...",277,278,"['kuchařky', '', 'Fontána, Vinod Verma, české']"
+n259845795,Durrell Gerald: Mluvící balík Kniha,99,8,2013,200,Knižní klub,dětské,Gerald Durrell,české,"Penelopka uviděla, jak z jedné skupiny keřů vystřelilo nějaké malé zvířátko a vrazilo mezi další keře. Ale seběhlo se to tak rychle, že vůbec nepoznala, co je to za zvíře, a...",222,279,"['dětské', '', 'Knižní klub, Gerald Durrell, české']"
+n29653408,Boříkovy lapálie,92,10,2013,192,Albatros,dětské,Steklač Vojtěch,české,"Albatros Boříkovy lapálie
+
+Nestárnoucí příběhy školáka Boříka a jeho parťáků z Holešovic jsou určeny malým školákům.
+
+Lumpárny, kterých jsou kluci účastni se odehrávají jak ve...",149,219,"['dětské', '', 'Albatros, Steklač Vojtěch, české']"
+n104174143,TOP tituly | Minulými životy k uzdravení,94,7,2013,208,Metafora,esoterika,Brian L. Weiss,české,Řešení řady problémů se skrývá v minulosti. Mnohdy vzdálené stovky nebo i tisíce let. V některém z našich minulých životů. Objevte je i vy. S touhle knihou najdete cestu...,135,199,"['esoterika', '', 'Metafora, Brian L. Weiss, české']"
+n105312965,Alenčina dobrodružství v říši divů a za zrcadlem Lewis Carroll,84,2,2013,188,Argo,dětské,Lewis Carroll,české,"Souborné vydání dvou světově proslulých příběhů Alenčina dobrodružství v říši divů a Za zrcadlem a co tam Alenka našla. První z obou knih vyšla v roce 1865, druhá o sedm let...",245,348,"['dětské', '', 'Argo, Lewis Carroll, české']"
+n459942219,Kniha říkanek,100,2,2013,184,,dětské,Behenský Petr,české,"324 říkanek a ilustrací v osmi kapitolách Vrána a vlk Nakrákala vrána vlku že mu zajíc čouhá z krku: „Je to pravda, na mou duši vždyť mu vidím obě uši!“ Tygr jede na rande Jede...",99,355,"['dětské', '', 'Behenský Petr, české']"
+n98087993,František,94,0,2013,176,Portál,esoterika,Simon Biallowons,české,"Odstoupení Svatého otce Benedikta XVI. bylo na konci února 2013 prvotřídní senzací, protože se tak stalo poprvé po sedmi stech letech.
+
+Nástupcem Benedikta XVI. se stal...",80,212,"['esoterika', '', 'Portál, Simon Biallowons, české']"
+n111090481,Dárce Lois Lowryová,87,6,2013,208,Argo,dětské,Lois Lowryová,české,"Představte si, že svět kolem vás je jako podle šablony, existuje jen jedna univerzální barva, jeden typ nábytku, všichni mají stejný střih vlasů, stejné oblečení. Má to své...",174,248,"['dětské', '', 'Argo, Lois Lowryová, české']"
+n87652188,Ostrov pokladů,97,2,2013,176,Knižní klub,dětské,Robert Louis Stevenson,české,"Nesmrtelný příběh o dobrodružství malého Jima Hawkinse a jeho druhů, kteří se vydali najít proslulý poklad krvežíznivého pirátského kapitána, vychází v klasickém překladu a...",223,279,"['dětské', '', 'Knižní klub, Robert Louis Stevenson, české']"
+n137377759,Winx Charmix - Encyklomagie,94,11,2013,216,COOBOO,dětské,Lukáš Mathé,české,"Tato Encyklomagie je jedním z našich nejúspěšnějších kouzel. Obsahuje úplně všechno, co byste o našem světě chtěli vědět. Ponořte se do čtení a odhalte naše tajemství,...",212,249,"['dětské', '', 'COOBOO, Lukáš Mathé, české']"
+n132329790,Krajiny domova - Václav Cílek,92,10,2013,224,Albatros,dětské,Václav Cílek,české,"Na krajinné bohatství Čech a Moravy můžeme být právem hrdí. Dokážeme si je však představit, anebo známe je natolik dobře, abychom mohli dětem charakterizovat či popsat...",349,349,"['dětské', '', 'Albatros, Václav Cílek, české']"
+n97896184,Vaříme z přírody - Blanka Jarošíková,90,1,2013,224,Eminent,kuchařky,Blanka Jarošíková,české,"Vaříme z přírody kniha od autora Blanka Jarošíková. Procházíme krajinou a vnímáme úžasnou harmonii. Všechno je jako v pohádkovém zámku, uspořádané a připravené pro hosta, který...",202,299,"['kuchařky', '', 'Eminent, Blanka Jarošíková, české']"
+n113219347,Radikální zhmotnění - Colin Tipping,0,0,2013,194,Eugenika,esoterika,Colin C. Tipping,české,"Jak si v životě vytvořit to, co chceme.  Tato praktická kniha plná důležitých upozornění vám ukáže, jak ve svém životě zhmotnit to, co nám přinese naplnění, a také jak vyřešit...",156,238,"['esoterika', '', 'Eugenika, Colin C. Tipping, české']"
+n120309209,Osho Zen Tarot - Osho,95,43,2013,200,Synergie,esoterika,Osho,české,"Úžasné zenové karty míří přímo k jádru problému a s naprostou přesností odhalují pověstné jádro pudla. Skvělé karty pro každého, kdo si přeje poznat Pravdu v celé její...",388,587,"['esoterika', '', 'Synergie, Osho, české']"
+n129564635,Bdělost - Anthony De Mello,91,10,2013,224,Cesta,esoterika,Anthony De Mello,české,"Bdělost kniha od autora Anthony de Mello. Probouzet lidi a odhalovat jim pravdu o jejich vlastní velikosti – to je cíl, který si Anthony de Mello kladl při své práci s lidmi, a...",137,218,"['esoterika', '', 'Cesta, Anthony De Mello, české']"
+n108844982,Malý miliardář - David Walliams,96,11,2013,236,Argo,dětské,David Walliams,české,"Autor : David Walliams, Popis : 
+ Joe je boháč, přesně řečeno nejbohatší dvanáctiletý kluk v celé Británii. Má všechno, nač si vzpomene: vůz formule 1, kino, pět set párů...",167,566,"['dětské', '', 'Argo, David Walliams, české']"
+n127732017,Můj nový! vlastní deník malého Poseroutky,94,33,2013,192,COOBOO,dětské,Jeff Kinney,české,"Cooboo Můj nový vlastní deník malého poseroutky
+
+Deník pro všechny fanoušky malého poseroutky.
+
+Slavné zápisky Grega Heffleyho jsou podkladem pro deník, do kterého si mohou...",138,199,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n99356525,Ostrov v Ptačí ulici - Uri Orlev,90,5,2013,184,Práh,dětské,Orlev Uri,české,"Kniha získala Zlatou stuhu 2014 v kategorii beletrie pro mládež za překlad.
+
+Knížku přeložila Lenka Bukovská.
+
+ 
+
+Jako Robinson Crusoe na opuštěném ostrově přežívá židovský...",204,299,"['dětské', '', 'Práh, Orlev Uri, české']"
+n124066566,Musela jsem zemřít. Má cesta od rakoviny k opravdovému uzdravení,94,59,2013,208,Knižní klub,esoterika,Anita Moorjani,české,"Životní příběh Anity, napsaný čtivě a upřímně v knize Musela jsem zemřít, se okamžitě stal bestsellerem a autorka Anita Moorjani dnes patří mezi významné osobnosti, nadšeně...",239,299,"['esoterika', '', 'Knižní klub, Anita Moorjani, české']"
+n151103737,Tichý dech - Trachta Jan,91,13,2013,214,Paseka,cestopisy,Jan Trachta,české,"Kniha přináší unikátní svědectví mladého českého lékaře o tom, jak zachraňoval životy v krizových oblastech afrického Konga a na Haiti, kam odletěl s dalšími lékaři jen několik...",200,269,"['cestopisy', '', 'Paseka, Jan Trachta, české']"
+n92420065,Heidi děvčátko z hor,98,5,2013,174,,dětské,Johana Spyriová,české,"Jmenuje se Heidi. Maminku s tatínkem už nemá. Zato má Petra, Kláru, ale hlavně dědečka Konráda. Její příběh začal právě u něj, v chaloupce vysoko ve švýcarských Alpách. Vypráví...",139,149,"['dětské', '', 'Johana Spyriová, české']"
+n94512203,Deník malého poseroutky Páté kolo u vozu,95,40,2013,224,COOBOO,dětské,Jeff Kinney,české,"Deník malého poseroutky 7 Páté kolo u vozu
+
+Sedmý díl dětské knihy, která je pokračováním deníku Grega Heffleyeho.
+
+Greg i jeho spolužáci se chystají na školní Valentýnský...",156,229,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n106614732,Devatero pohádek Čapek Karel,85,9,2013,216,Triáda,dětské,Karel Čapek,české,"Devatero  pohádek a ještě jedna od Josefa Čapka jako přívažek (poprvé vyšlo roku  1931) patří mezi nejoblíbenější klasické české pohádkové knihy. Pohádky o  psech, kočkách,...",137,219,"['dětské', '', 'Triáda, Karel Čapek, české']"
+n408857725,Dokážu to!,100,1,2013,189,Synergie,esoterika,Louise L. Hay,české,"Luise L. Hay, světově uznávaná autorka knihy Miluj svůj život, pro vás vytvořila kalendář se silnými afirmacemi, který můžete používat každý den, rok co rok. Afirmace jsou...",250,349,"['esoterika', '', 'Synergie, Louise L. Hay, české']"
+n715016945,S trochou nostalgie aneb jak se vařilo a jedlo za císaře pána,0,0,2013,208,,kuchařky,Miroslava Kuntzmannová,české,Tato kuchařská kniha zachycuje a popisuje receptury kuchyní zemí bývalého c. a k. Rakousko-Uherska. V dnešní hektické době může být takovéto zastavení a ohlédnutí do minula jen...,433,501,"['kuchařky', '', 'Miroslava Kuntzmannová, české']"
+n87382413,Čerstvé ovocné a zeleninové šťavy,82,2,2013,200,,kuchařky,Norman W. Walker,slovenské,"V této praktické knize jsou popsány účinky a důležité látky čerstvých ovocných i zeleninových šťáv. Dnes se šťávy sice pijí téměř v každé domácnosti, bohužel jsou to ale ve...",159,241,"['kuchařky', '', 'Norman W. Walker, slovenské']"
+n102280682,Kluk v sukních - David Walliams,90,3,2013,200,Argo,dětské,David Walliams,české,"Perfektní čtení pro děti nejen na prázdniny. Zábavný a poučný příběh, od kterého se zaručeně neodtrhnete. Denis vášnivě miluje fotbal, stejně jako jeho táta a brácha. Jeho...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n632316319,"Mayes, Edward - Vaříme s toskánským sluncem",100,1,2013,224,Paseka,kuchařky,Frances Mayes,české,"Autorka bestselleru Pod toskánským sluncem a dalších knih inspirovaných pobyty v milovaném Toskánsku se po dvaceti letech od chvíle, kdy se ujala opuštěné usedlosti nedaleko...",74,102,"['kuchařky', '', 'Paseka, Edward Mayes, Frances Mayes, české']"
+n73697887,Deník malé blondýnky Znova ve škole,93,3,2013,170,,dětské,Anna Urbanová,české,"Volné pokračování prvního úspěšného Deníku malé blondýnky - O prázdninách.
+
+
+
+ Tentokrát se čtenář setká s hlavní hrdinkou a jejími kamarádkami ve škole. Šárka se vtipnou...",38,179,"['dětské', '', 'Ottovo nakladatelstvo, Jiří Urban, Anna Urbanová, české']"
+n99984746,Jednota se životem - Eckhart Tolle,98,3,2013,176,,esoterika,Eckhart Tolle,české,"Buchanan v knize popisuje zánik Západu. Příčinu vidí ve ztrátě jeho hodnot, především potom ve ztrátě židovské a křesťanské víry. Vinu za to dává idejím čtyř myslitelů,...",194,344,"['esoterika', '', 'Eckhart Tolle, české']"
+n127732029,Ájurvédská kuchařka,98,1,2013,214,Fontána,kuchařky,Vinod Verma,české,"Ájurvédská kuchařka není pouze souborem osvědčených receptů, ale zasvěceným pohledem do jedné z nejstarších stravovacích kultur světa. Tradiční indická kuchyně je vyhlášená svou...",277,278,"['kuchařky', '', 'Fontána, Vinod Verma, české']"
+n259845795,Durrell Gerald: Mluvící balík Kniha,99,8,2013,200,Knižní klub,dětské,Gerald Durrell,české,"Penelopka uviděla, jak z jedné skupiny keřů vystřelilo nějaké malé zvířátko a vrazilo mezi další keře. Ale seběhlo se to tak rychle, že vůbec nepoznala, co je to za zvíře, a...",222,279,"['dětské', '', 'Knižní klub, Gerald Durrell, české']"
+n29653408,Boříkovy lapálie,92,10,2013,192,Albatros,dětské,Steklač Vojtěch,české,"Albatros Boříkovy lapálie
+
+Nestárnoucí příběhy školáka Boříka a jeho parťáků z Holešovic jsou určeny malým školákům.
+
+Lumpárny, kterých jsou kluci účastni se odehrávají jak ve...",149,219,"['dětské', '', 'Albatros, Steklač Vojtěch, české']"
+n104174143,TOP tituly | Minulými životy k uzdravení,94,7,2013,208,Metafora,esoterika,Brian L. Weiss,české,Řešení řady problémů se skrývá v minulosti. Mnohdy vzdálené stovky nebo i tisíce let. V některém z našich minulých životů. Objevte je i vy. S touhle knihou najdete cestu...,135,199,"['esoterika', '', 'Metafora, Brian L. Weiss, české']"
+n105312965,Alenčina dobrodružství v říši divů a za zrcadlem Lewis Carroll,84,2,2013,188,Argo,dětské,Lewis Carroll,české,"Souborné vydání dvou světově proslulých příběhů Alenčina dobrodružství v říši divů a Za zrcadlem a co tam Alenka našla. První z obou knih vyšla v roce 1865, druhá o sedm let...",245,348,"['dětské', '', 'Argo, Lewis Carroll, české']"
+n459942219,Kniha říkanek,100,2,2013,184,,dětské,Behenský Petr,české,"324 říkanek a ilustrací v osmi kapitolách Vrána a vlk Nakrákala vrána vlku že mu zajíc čouhá z krku: „Je to pravda, na mou duši vždyť mu vidím obě uši!“ Tygr jede na rande Jede...",99,355,"['dětské', '', 'Behenský Petr, české']"
+n98087993,František,94,0,2013,176,Portál,esoterika,Simon Biallowons,české,"Odstoupení Svatého otce Benedikta XVI. bylo na konci února 2013 prvotřídní senzací, protože se tak stalo poprvé po sedmi stech letech.
+
+Nástupcem Benedikta XVI. se stal...",80,212,"['esoterika', '', 'Portál, Simon Biallowons, české']"
+n111090481,Dárce Lois Lowryová,87,6,2013,208,Argo,dětské,Lois Lowryová,české,"Představte si, že svět kolem vás je jako podle šablony, existuje jen jedna univerzální barva, jeden typ nábytku, všichni mají stejný střih vlasů, stejné oblečení. Má to své...",174,248,"['dětské', '', 'Argo, Lois Lowryová, české']"
+n87652188,Ostrov pokladů,97,2,2013,176,Knižní klub,dětské,Robert Louis Stevenson,české,"Nesmrtelný příběh o dobrodružství malého Jima Hawkinse a jeho druhů, kteří se vydali najít proslulý poklad krvežíznivého pirátského kapitána, vychází v klasickém překladu a...",223,279,"['dětské', '', 'Knižní klub, Robert Louis Stevenson, české']"
+n137377759,Winx Charmix - Encyklomagie,94,11,2013,216,COOBOO,dětské,Lukáš Mathé,české,"Tato Encyklomagie je jedním z našich nejúspěšnějších kouzel. Obsahuje úplně všechno, co byste o našem světě chtěli vědět. Ponořte se do čtení a odhalte naše tajemství,...",212,249,"['dětské', '', 'COOBOO, Lukáš Mathé, české']"
+n132329790,Krajiny domova - Václav Cílek,92,10,2013,224,Albatros,dětské,Václav Cílek,české,"Na krajinné bohatství Čech a Moravy můžeme být právem hrdí. Dokážeme si je však představit, anebo známe je natolik dobře, abychom mohli dětem charakterizovat či popsat...",349,349,"['dětské', '', 'Albatros, Václav Cílek, české']"
+n97896184,Vaříme z přírody - Blanka Jarošíková,90,1,2013,224,Eminent,kuchařky,Blanka Jarošíková,české,"Vaříme z přírody kniha od autora Blanka Jarošíková. Procházíme krajinou a vnímáme úžasnou harmonii. Všechno je jako v pohádkovém zámku, uspořádané a připravené pro hosta, který...",202,299,"['kuchařky', '', 'Eminent, Blanka Jarošíková, české']"
+n113219347,Radikální zhmotnění - Colin Tipping,0,0,2013,194,Eugenika,esoterika,Colin C. Tipping,české,"Jak si v životě vytvořit to, co chceme.  Tato praktická kniha plná důležitých upozornění vám ukáže, jak ve svém životě zhmotnit to, co nám přinese naplnění, a také jak vyřešit...",156,238,"['esoterika', '', 'Eugenika, Colin C. Tipping, české']"
+n120309209,Osho Zen Tarot - Osho,95,43,2013,200,Synergie,esoterika,Osho,české,"Úžasné zenové karty míří přímo k jádru problému a s naprostou přesností odhalují pověstné jádro pudla. Skvělé karty pro každého, kdo si přeje poznat Pravdu v celé její...",388,587,"['esoterika', '', 'Synergie, Osho, české']"
+n129564635,Bdělost - Anthony De Mello,91,10,2013,224,Cesta,esoterika,Anthony De Mello,české,"Bdělost kniha od autora Anthony de Mello. Probouzet lidi a odhalovat jim pravdu o jejich vlastní velikosti – to je cíl, který si Anthony de Mello kladl při své práci s lidmi, a...",137,218,"['esoterika', '', 'Cesta, Anthony De Mello, české']"
+n108844982,Malý miliardář - David Walliams,96,11,2013,236,Argo,dětské,David Walliams,české,"Autor : David Walliams, Popis : 
+ Joe je boháč, přesně řečeno nejbohatší dvanáctiletý kluk v celé Británii. Má všechno, nač si vzpomene: vůz formule 1, kino, pět set párů...",167,566,"['dětské', '', 'Argo, David Walliams, české']"
+n127732017,Můj nový! vlastní deník malého Poseroutky,94,33,2013,192,COOBOO,dětské,Jeff Kinney,české,"Cooboo Můj nový vlastní deník malého poseroutky
+
+Deník pro všechny fanoušky malého poseroutky.
+
+Slavné zápisky Grega Heffleyho jsou podkladem pro deník, do kterého si mohou...",138,199,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n99356525,Ostrov v Ptačí ulici - Uri Orlev,90,5,2013,184,Práh,dětské,Orlev Uri,české,"Kniha získala Zlatou stuhu 2014 v kategorii beletrie pro mládež za překlad.
+
+Knížku přeložila Lenka Bukovská.
+
+ 
+
+Jako Robinson Crusoe na opuštěném ostrově přežívá židovský...",204,299,"['dětské', '', 'Práh, Orlev Uri, české']"
+n124066566,Musela jsem zemřít. Má cesta od rakoviny k opravdovému uzdravení,94,59,2013,208,Knižní klub,esoterika,Anita Moorjani,české,"Životní příběh Anity, napsaný čtivě a upřímně v knize Musela jsem zemřít, se okamžitě stal bestsellerem a autorka Anita Moorjani dnes patří mezi významné osobnosti, nadšeně...",239,299,"['esoterika', '', 'Knižní klub, Anita Moorjani, české']"
+n151103737,Tichý dech - Trachta Jan,91,13,2013,214,Paseka,cestopisy,Jan Trachta,české,"Kniha přináší unikátní svědectví mladého českého lékaře o tom, jak zachraňoval životy v krizových oblastech afrického Konga a na Haiti, kam odletěl s dalšími lékaři jen několik...",200,269,"['cestopisy', '', 'Paseka, Jan Trachta, české']"
+n92420065,Heidi děvčátko z hor,98,5,2013,174,,dětské,Johana Spyriová,české,"Jmenuje se Heidi. Maminku s tatínkem už nemá. Zato má Petra, Kláru, ale hlavně dědečka Konráda. Její příběh začal právě u něj, v chaloupce vysoko ve švýcarských Alpách. Vypráví...",139,149,"['dětské', '', 'Johana Spyriová, české']"
+n94512203,Deník malého poseroutky Páté kolo u vozu,95,40,2013,224,COOBOO,dětské,Jeff Kinney,české,"Deník malého poseroutky 7 Páté kolo u vozu
+
+Sedmý díl dětské knihy, která je pokračováním deníku Grega Heffleyeho.
+
+Greg i jeho spolužáci se chystají na školní Valentýnský...",156,229,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n106614732,Devatero pohádek Čapek Karel,85,9,2013,216,Triáda,dětské,Karel Čapek,české,"Devatero  pohádek a ještě jedna od Josefa Čapka jako přívažek (poprvé vyšlo roku  1931) patří mezi nejoblíbenější klasické české pohádkové knihy. Pohádky o  psech, kočkách,...",137,219,"['dětské', '', 'Triáda, Karel Čapek, české']"
+n408857725,Dokážu to!,100,1,2013,189,Synergie,esoterika,Louise L. Hay,české,"Luise L. Hay, světově uznávaná autorka knihy Miluj svůj život, pro vás vytvořila kalendář se silnými afirmacemi, který můžete používat každý den, rok co rok. Afirmace jsou...",250,349,"['esoterika', '', 'Synergie, Louise L. Hay, české']"
+n715016945,S trochou nostalgie aneb jak se vařilo a jedlo za císaře pána,0,0,2013,208,,kuchařky,Miroslava Kuntzmannová,české,Tato kuchařská kniha zachycuje a popisuje receptury kuchyní zemí bývalého c. a k. Rakousko-Uherska. V dnešní hektické době může být takovéto zastavení a ohlédnutí do minula jen...,433,501,"['kuchařky', '', 'Miroslava Kuntzmannová, české']"
+n87382413,Čerstvé ovocné a zeleninové šťavy,82,2,2013,200,,kuchařky,Norman W. Walker,slovenské,"V této praktické knize jsou popsány účinky a důležité látky čerstvých ovocných i zeleninových šťáv. Dnes se šťávy sice pijí téměř v každé domácnosti, bohužel jsou to ale ve...",159,241,"['kuchařky', '', 'Norman W. Walker, slovenské']"
+n102280682,Kluk v sukních - David Walliams,90,3,2013,200,Argo,dětské,David Walliams,české,"Perfektní čtení pro děti nejen na prázdniny. Zábavný a poučný příběh, od kterého se zaručeně neodtrhnete. Denis vášnivě miluje fotbal, stejně jako jeho táta a brácha. Jeho...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n632316319,"Mayes, Edward - Vaříme s toskánským sluncem",100,1,2013,224,Paseka,kuchařky,Frances Mayes,české,"Autorka bestselleru Pod toskánským sluncem a dalších knih inspirovaných pobyty v milovaném Toskánsku se po dvaceti letech od chvíle, kdy se ujala opuštěné usedlosti nedaleko...",74,102,"['kuchařky', '', 'Paseka, Edward Mayes, Frances Mayes, české']"
+n73697887,Deník malé blondýnky Znova ve škole,93,3,2013,170,,dětské,Anna Urbanová,české,"Volné pokračování prvního úspěšného Deníku malé blondýnky - O prázdninách.
+
+
+
+ Tentokrát se čtenář setká s hlavní hrdinkou a jejími kamarádkami ve škole. Šárka se vtipnou...",38,179,"['dětské', '', 'Ottovo nakladatelstvo, Jiří Urban, Anna Urbanová, české']"
+n99984746,Jednota se životem - Eckhart Tolle,98,3,2013,176,,esoterika,Eckhart Tolle,české,"Buchanan v knize popisuje zánik Západu. Příčinu vidí ve ztrátě jeho hodnot, především potom ve ztrátě židovské a křesťanské víry. Vinu za to dává idejím čtyř myslitelů,...",194,344,"['esoterika', '', 'Eckhart Tolle, české']"
+n127732029,Ájurvédská kuchařka,98,1,2013,214,Fontána,kuchařky,Vinod Verma,české,"Ájurvédská kuchařka není pouze souborem osvědčených receptů, ale zasvěceným pohledem do jedné z nejstarších stravovacích kultur světa. Tradiční indická kuchyně je vyhlášená svou...",277,278,"['kuchařky', '', 'Fontána, Vinod Verma, české']"
+n259845795,Durrell Gerald: Mluvící balík Kniha,99,8,2013,200,Knižní klub,dětské,Gerald Durrell,české,"Penelopka uviděla, jak z jedné skupiny keřů vystřelilo nějaké malé zvířátko a vrazilo mezi další keře. Ale seběhlo se to tak rychle, že vůbec nepoznala, co je to za zvíře, a...",222,279,"['dětské', '', 'Knižní klub, Gerald Durrell, české']"
+n29653408,Boříkovy lapálie,92,10,2013,192,Albatros,dětské,Steklač Vojtěch,české,"Albatros Boříkovy lapálie
+
+Nestárnoucí příběhy školáka Boříka a jeho parťáků z Holešovic jsou určeny malým školákům.
+
+Lumpárny, kterých jsou kluci účastni se odehrávají jak ve...",149,219,"['dětské', '', 'Albatros, Steklač Vojtěch, české']"
+n104174143,TOP tituly | Minulými životy k uzdravení,94,7,2013,208,Metafora,esoterika,Brian L. Weiss,české,Řešení řady problémů se skrývá v minulosti. Mnohdy vzdálené stovky nebo i tisíce let. V některém z našich minulých životů. Objevte je i vy. S touhle knihou najdete cestu...,135,199,"['esoterika', '', 'Metafora, Brian L. Weiss, české']"
+n105312965,Alenčina dobrodružství v říši divů a za zrcadlem Lewis Carroll,84,2,2013,188,Argo,dětské,Lewis Carroll,české,"Souborné vydání dvou světově proslulých příběhů Alenčina dobrodružství v říši divů a Za zrcadlem a co tam Alenka našla. První z obou knih vyšla v roce 1865, druhá o sedm let...",245,348,"['dětské', '', 'Argo, Lewis Carroll, české']"
+n459942219,Kniha říkanek,100,2,2013,184,,dětské,Behenský Petr,české,"324 říkanek a ilustrací v osmi kapitolách Vrána a vlk Nakrákala vrána vlku že mu zajíc čouhá z krku: „Je to pravda, na mou duši vždyť mu vidím obě uši!“ Tygr jede na rande Jede...",99,355,"['dětské', '', 'Behenský Petr, české']"
+n98087993,František,94,0,2013,176,Portál,esoterika,Simon Biallowons,české,"Odstoupení Svatého otce Benedikta XVI. bylo na konci února 2013 prvotřídní senzací, protože se tak stalo poprvé po sedmi stech letech.
+
+Nástupcem Benedikta XVI. se stal...",80,212,"['esoterika', '', 'Portál, Simon Biallowons, české']"
+n111090481,Dárce Lois Lowryová,87,6,2013,208,Argo,dětské,Lois Lowryová,české,"Představte si, že svět kolem vás je jako podle šablony, existuje jen jedna univerzální barva, jeden typ nábytku, všichni mají stejný střih vlasů, stejné oblečení. Má to své...",174,248,"['dětské', '', 'Argo, Lois Lowryová, české']"
+n87652188,Ostrov pokladů,97,2,2013,176,Knižní klub,dětské,Robert Louis Stevenson,české,"Nesmrtelný příběh o dobrodružství malého Jima Hawkinse a jeho druhů, kteří se vydali najít proslulý poklad krvežíznivého pirátského kapitána, vychází v klasickém překladu a...",223,279,"['dětské', '', 'Knižní klub, Robert Louis Stevenson, české']"
+n137377759,Winx Charmix - Encyklomagie,94,11,2013,216,COOBOO,dětské,Lukáš Mathé,české,"Tato Encyklomagie je jedním z našich nejúspěšnějších kouzel. Obsahuje úplně všechno, co byste o našem světě chtěli vědět. Ponořte se do čtení a odhalte naše tajemství,...",212,249,"['dětské', '', 'COOBOO, Lukáš Mathé, české']"
+n132329790,Krajiny domova - Václav Cílek,92,10,2013,224,Albatros,dětské,Václav Cílek,české,"Na krajinné bohatství Čech a Moravy můžeme být právem hrdí. Dokážeme si je však představit, anebo známe je natolik dobře, abychom mohli dětem charakterizovat či popsat...",349,349,"['dětské', '', 'Albatros, Václav Cílek, české']"
+n97896184,Vaříme z přírody - Blanka Jarošíková,90,1,2013,224,Eminent,kuchařky,Blanka Jarošíková,české,"Vaříme z přírody kniha od autora Blanka Jarošíková. Procházíme krajinou a vnímáme úžasnou harmonii. Všechno je jako v pohádkovém zámku, uspořádané a připravené pro hosta, který...",202,299,"['kuchařky', '', 'Eminent, Blanka Jarošíková, české']"
+n113219347,Radikální zhmotnění - Colin Tipping,0,0,2013,194,Eugenika,esoterika,Colin C. Tipping,české,"Jak si v životě vytvořit to, co chceme.  Tato praktická kniha plná důležitých upozornění vám ukáže, jak ve svém životě zhmotnit to, co nám přinese naplnění, a také jak vyřešit...",156,238,"['esoterika', '', 'Eugenika, Colin C. Tipping, české']"
+n120309209,Osho Zen Tarot - Osho,95,43,2013,200,Synergie,esoterika,Osho,české,"Úžasné zenové karty míří přímo k jádru problému a s naprostou přesností odhalují pověstné jádro pudla. Skvělé karty pro každého, kdo si přeje poznat Pravdu v celé její...",388,587,"['esoterika', '', 'Synergie, Osho, české']"
+n129564635,Bdělost - Anthony De Mello,91,10,2013,224,Cesta,esoterika,Anthony De Mello,české,"Bdělost kniha od autora Anthony de Mello. Probouzet lidi a odhalovat jim pravdu o jejich vlastní velikosti – to je cíl, který si Anthony de Mello kladl při své práci s lidmi, a...",137,218,"['esoterika', '', 'Cesta, Anthony De Mello, české']"
+n108844982,Malý miliardář - David Walliams,96,11,2013,236,Argo,dětské,David Walliams,české,"Autor : David Walliams, Popis : 
+ Joe je boháč, přesně řečeno nejbohatší dvanáctiletý kluk v celé Británii. Má všechno, nač si vzpomene: vůz formule 1, kino, pět set párů...",167,566,"['dětské', '', 'Argo, David Walliams, české']"
+n127732017,Můj nový! vlastní deník malého Poseroutky,94,33,2013,192,COOBOO,dětské,Jeff Kinney,české,"Cooboo Můj nový vlastní deník malého poseroutky
+
+Deník pro všechny fanoušky malého poseroutky.
+
+Slavné zápisky Grega Heffleyho jsou podkladem pro deník, do kterého si mohou...",138,199,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n99356525,Ostrov v Ptačí ulici - Uri Orlev,90,5,2013,184,Práh,dětské,Orlev Uri,české,"Kniha získala Zlatou stuhu 2014 v kategorii beletrie pro mládež za překlad.
+
+Knížku přeložila Lenka Bukovská.
+
+ 
+
+Jako Robinson Crusoe na opuštěném ostrově přežívá židovský...",204,299,"['dětské', '', 'Práh, Orlev Uri, české']"
+n124066566,Musela jsem zemřít. Má cesta od rakoviny k opravdovému uzdravení,94,59,2013,208,Knižní klub,esoterika,Anita Moorjani,české,"Životní příběh Anity, napsaný čtivě a upřímně v knize Musela jsem zemřít, se okamžitě stal bestsellerem a autorka Anita Moorjani dnes patří mezi významné osobnosti, nadšeně...",239,299,"['esoterika', '', 'Knižní klub, Anita Moorjani, české']"
+n151103737,Tichý dech - Trachta Jan,91,13,2013,214,Paseka,cestopisy,Jan Trachta,české,"Kniha přináší unikátní svědectví mladého českého lékaře o tom, jak zachraňoval životy v krizových oblastech afrického Konga a na Haiti, kam odletěl s dalšími lékaři jen několik...",200,269,"['cestopisy', '', 'Paseka, Jan Trachta, české']"
+n92420065,Heidi děvčátko z hor,98,5,2013,174,,dětské,Johana Spyriová,české,"Jmenuje se Heidi. Maminku s tatínkem už nemá. Zato má Petra, Kláru, ale hlavně dědečka Konráda. Její příběh začal právě u něj, v chaloupce vysoko ve švýcarských Alpách. Vypráví...",139,149,"['dětské', '', 'Johana Spyriová, české']"
+n94512203,Deník malého poseroutky Páté kolo u vozu,95,40,2013,224,COOBOO,dětské,Jeff Kinney,české,"Deník malého poseroutky 7 Páté kolo u vozu
+
+Sedmý díl dětské knihy, která je pokračováním deníku Grega Heffleyeho.
+
+Greg i jeho spolužáci se chystají na školní Valentýnský...",156,229,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n106614732,Devatero pohádek Čapek Karel,85,9,2013,216,Triáda,dětské,Karel Čapek,české,"Devatero  pohádek a ještě jedna od Josefa Čapka jako přívažek (poprvé vyšlo roku  1931) patří mezi nejoblíbenější klasické české pohádkové knihy. Pohádky o  psech, kočkách,...",137,219,"['dětské', '', 'Triáda, Karel Čapek, české']"
+n408857725,Dokážu to!,100,1,2013,189,Synergie,esoterika,Louise L. Hay,české,"Luise L. Hay, světově uznávaná autorka knihy Miluj svůj život, pro vás vytvořila kalendář se silnými afirmacemi, který můžete používat každý den, rok co rok. Afirmace jsou...",250,349,"['esoterika', '', 'Synergie, Louise L. Hay, české']"
+n715016945,S trochou nostalgie aneb jak se vařilo a jedlo za císaře pána,0,0,2013,208,,kuchařky,Miroslava Kuntzmannová,české,Tato kuchařská kniha zachycuje a popisuje receptury kuchyní zemí bývalého c. a k. Rakousko-Uherska. V dnešní hektické době může být takovéto zastavení a ohlédnutí do minula jen...,433,501,"['kuchařky', '', 'Miroslava Kuntzmannová, české']"
+n87382413,Čerstvé ovocné a zeleninové šťavy,82,2,2013,200,,kuchařky,Norman W. Walker,slovenské,"V této praktické knize jsou popsány účinky a důležité látky čerstvých ovocných i zeleninových šťáv. Dnes se šťávy sice pijí téměř v každé domácnosti, bohužel jsou to ale ve...",159,241,"['kuchařky', '', 'Norman W. Walker, slovenské']"
+n102280682,Kluk v sukních - David Walliams,90,3,2013,200,Argo,dětské,David Walliams,české,"Perfektní čtení pro děti nejen na prázdniny. Zábavný a poučný příběh, od kterého se zaručeně neodtrhnete. Denis vášnivě miluje fotbal, stejně jako jeho táta a brácha. Jeho...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n632316319,"Mayes, Edward - Vaříme s toskánským sluncem",100,1,2013,224,Paseka,kuchařky,Frances Mayes,české,"Autorka bestselleru Pod toskánským sluncem a dalších knih inspirovaných pobyty v milovaném Toskánsku se po dvaceti letech od chvíle, kdy se ujala opuštěné usedlosti nedaleko...",74,102,"['kuchařky', '', 'Paseka, Edward Mayes, Frances Mayes, české']"
+n73697887,Deník malé blondýnky Znova ve škole,93,3,2013,170,,dětské,Anna Urbanová,české,"Volné pokračování prvního úspěšného Deníku malé blondýnky - O prázdninách.
+
+
+
+ Tentokrát se čtenář setká s hlavní hrdinkou a jejími kamarádkami ve škole. Šárka se vtipnou...",38,179,"['dětské', '', 'Ottovo nakladatelstvo, Jiří Urban, Anna Urbanová, české']"
+n99984746,Jednota se životem - Eckhart Tolle,98,3,2013,176,,esoterika,Eckhart Tolle,české,"Buchanan v knize popisuje zánik Západu. Příčinu vidí ve ztrátě jeho hodnot, především potom ve ztrátě židovské a křesťanské víry. Vinu za to dává idejím čtyř myslitelů,...",194,344,"['esoterika', '', 'Eckhart Tolle, české']"
+n127732029,Ájurvédská kuchařka,98,1,2013,214,Fontána,kuchařky,Vinod Verma,české,"Ájurvédská kuchařka není pouze souborem osvědčených receptů, ale zasvěceným pohledem do jedné z nejstarších stravovacích kultur světa. Tradiční indická kuchyně je vyhlášená svou...",277,278,"['kuchařky', '', 'Fontána, Vinod Verma, české']"
+n259845795,Durrell Gerald: Mluvící balík Kniha,99,8,2013,200,Knižní klub,dětské,Gerald Durrell,české,"Penelopka uviděla, jak z jedné skupiny keřů vystřelilo nějaké malé zvířátko a vrazilo mezi další keře. Ale seběhlo se to tak rychle, že vůbec nepoznala, co je to za zvíře, a...",222,279,"['dětské', '', 'Knižní klub, Gerald Durrell, české']"
+n29653408,Boříkovy lapálie,92,10,2013,192,Albatros,dětské,Steklač Vojtěch,české,"Albatros Boříkovy lapálie
+
+Nestárnoucí příběhy školáka Boříka a jeho parťáků z Holešovic jsou určeny malým školákům.
+
+Lumpárny, kterých jsou kluci účastni se odehrávají jak ve...",149,219,"['dětské', '', 'Albatros, Steklač Vojtěch, české']"
+n104174143,TOP tituly | Minulými životy k uzdravení,94,7,2013,208,Metafora,esoterika,Brian L. Weiss,české,Řešení řady problémů se skrývá v minulosti. Mnohdy vzdálené stovky nebo i tisíce let. V některém z našich minulých životů. Objevte je i vy. S touhle knihou najdete cestu...,135,199,"['esoterika', '', 'Metafora, Brian L. Weiss, české']"
+n105312965,Alenčina dobrodružství v říši divů a za zrcadlem Lewis Carroll,84,2,2013,188,Argo,dětské,Lewis Carroll,české,"Souborné vydání dvou světově proslulých příběhů Alenčina dobrodružství v říši divů a Za zrcadlem a co tam Alenka našla. První z obou knih vyšla v roce 1865, druhá o sedm let...",245,348,"['dětské', '', 'Argo, Lewis Carroll, české']"
+n459942219,Kniha říkanek,100,2,2013,184,,dětské,Behenský Petr,české,"324 říkanek a ilustrací v osmi kapitolách Vrána a vlk Nakrákala vrána vlku že mu zajíc čouhá z krku: „Je to pravda, na mou duši vždyť mu vidím obě uši!“ Tygr jede na rande Jede...",99,355,"['dětské', '', 'Behenský Petr, české']"
+n98087993,František,94,0,2013,176,Portál,esoterika,Simon Biallowons,české,"Odstoupení Svatého otce Benedikta XVI. bylo na konci února 2013 prvotřídní senzací, protože se tak stalo poprvé po sedmi stech letech.
+
+Nástupcem Benedikta XVI. se stal...",80,212,"['esoterika', '', 'Portál, Simon Biallowons, české']"
+n111090481,Dárce Lois Lowryová,87,6,2013,208,Argo,dětské,Lois Lowryová,české,"Představte si, že svět kolem vás je jako podle šablony, existuje jen jedna univerzální barva, jeden typ nábytku, všichni mají stejný střih vlasů, stejné oblečení. Má to své...",174,248,"['dětské', '', 'Argo, Lois Lowryová, české']"
+n87652188,Ostrov pokladů,97,2,2013,176,Knižní klub,dětské,Robert Louis Stevenson,české,"Nesmrtelný příběh o dobrodružství malého Jima Hawkinse a jeho druhů, kteří se vydali najít proslulý poklad krvežíznivého pirátského kapitána, vychází v klasickém překladu a...",223,279,"['dětské', '', 'Knižní klub, Robert Louis Stevenson, české']"
+n137377759,Winx Charmix - Encyklomagie,94,11,2013,216,COOBOO,dětské,Lukáš Mathé,české,"Tato Encyklomagie je jedním z našich nejúspěšnějších kouzel. Obsahuje úplně všechno, co byste o našem světě chtěli vědět. Ponořte se do čtení a odhalte naše tajemství,...",212,249,"['dětské', '', 'COOBOO, Lukáš Mathé, české']"
+n132329790,Krajiny domova - Václav Cílek,92,10,2013,224,Albatros,dětské,Václav Cílek,české,"Na krajinné bohatství Čech a Moravy můžeme být právem hrdí. Dokážeme si je však představit, anebo známe je natolik dobře, abychom mohli dětem charakterizovat či popsat...",349,349,"['dětské', '', 'Albatros, Václav Cílek, české']"
+n97896184,Vaříme z přírody - Blanka Jarošíková,90,1,2013,224,Eminent,kuchařky,Blanka Jarošíková,české,"Vaříme z přírody kniha od autora Blanka Jarošíková. Procházíme krajinou a vnímáme úžasnou harmonii. Všechno je jako v pohádkovém zámku, uspořádané a připravené pro hosta, který...",202,299,"['kuchařky', '', 'Eminent, Blanka Jarošíková, české']"
+n113219347,Radikální zhmotnění - Colin Tipping,0,0,2013,194,Eugenika,esoterika,Colin C. Tipping,české,"Jak si v životě vytvořit to, co chceme.  Tato praktická kniha plná důležitých upozornění vám ukáže, jak ve svém životě zhmotnit to, co nám přinese naplnění, a také jak vyřešit...",156,238,"['esoterika', '', 'Eugenika, Colin C. Tipping, české']"
+n120309209,Osho Zen Tarot - Osho,95,43,2013,200,Synergie,esoterika,Osho,české,"Úžasné zenové karty míří přímo k jádru problému a s naprostou přesností odhalují pověstné jádro pudla. Skvělé karty pro každého, kdo si přeje poznat Pravdu v celé její...",388,587,"['esoterika', '', 'Synergie, Osho, české']"
+n129564635,Bdělost - Anthony De Mello,91,10,2013,224,Cesta,esoterika,Anthony De Mello,české,"Bdělost kniha od autora Anthony de Mello. Probouzet lidi a odhalovat jim pravdu o jejich vlastní velikosti – to je cíl, který si Anthony de Mello kladl při své práci s lidmi, a...",137,218,"['esoterika', '', 'Cesta, Anthony De Mello, české']"
+n108844982,Malý miliardář - David Walliams,96,11,2013,236,Argo,dětské,David Walliams,české,"Autor : David Walliams, Popis : 
+ Joe je boháč, přesně řečeno nejbohatší dvanáctiletý kluk v celé Británii. Má všechno, nač si vzpomene: vůz formule 1, kino, pět set párů...",167,566,"['dětské', '', 'Argo, David Walliams, české']"
+n127732017,Můj nový! vlastní deník malého Poseroutky,94,33,2013,192,COOBOO,dětské,Jeff Kinney,české,"Cooboo Můj nový vlastní deník malého poseroutky
+
+Deník pro všechny fanoušky malého poseroutky.
+
+Slavné zápisky Grega Heffleyho jsou podkladem pro deník, do kterého si mohou...",138,199,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n99356525,Ostrov v Ptačí ulici - Uri Orlev,90,5,2013,184,Práh,dětské,Orlev Uri,české,"Kniha získala Zlatou stuhu 2014 v kategorii beletrie pro mládež za překlad.
+
+Knížku přeložila Lenka Bukovská.
+
+ 
+
+Jako Robinson Crusoe na opuštěném ostrově přežívá židovský...",204,299,"['dětské', '', 'Práh, Orlev Uri, české']"
+n124066566,Musela jsem zemřít. Má cesta od rakoviny k opravdovému uzdravení,94,59,2013,208,Knižní klub,esoterika,Anita Moorjani,české,"Životní příběh Anity, napsaný čtivě a upřímně v knize Musela jsem zemřít, se okamžitě stal bestsellerem a autorka Anita Moorjani dnes patří mezi významné osobnosti, nadšeně...",239,299,"['esoterika', '', 'Knižní klub, Anita Moorjani, české']"
+n151103737,Tichý dech - Trachta Jan,91,13,2013,214,Paseka,cestopisy,Jan Trachta,české,"Kniha přináší unikátní svědectví mladého českého lékaře o tom, jak zachraňoval životy v krizových oblastech afrického Konga a na Haiti, kam odletěl s dalšími lékaři jen několik...",200,269,"['cestopisy', '', 'Paseka, Jan Trachta, české']"
+n92420065,Heidi děvčátko z hor,98,5,2013,174,,dětské,Johana Spyriová,české,"Jmenuje se Heidi. Maminku s tatínkem už nemá. Zato má Petra, Kláru, ale hlavně dědečka Konráda. Její příběh začal právě u něj, v chaloupce vysoko ve švýcarských Alpách. Vypráví...",139,149,"['dětské', '', 'Johana Spyriová, české']"
+n94512203,Deník malého poseroutky Páté kolo u vozu,95,40,2013,224,COOBOO,dětské,Jeff Kinney,české,"Deník malého poseroutky 7 Páté kolo u vozu
+
+Sedmý díl dětské knihy, která je pokračováním deníku Grega Heffleyeho.
+
+Greg i jeho spolužáci se chystají na školní Valentýnský...",156,229,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n106614732,Devatero pohádek Čapek Karel,85,9,2013,216,Triáda,dětské,Karel Čapek,české,"Devatero  pohádek a ještě jedna od Josefa Čapka jako přívažek (poprvé vyšlo roku  1931) patří mezi nejoblíbenější klasické české pohádkové knihy. Pohádky o  psech, kočkách,...",137,219,"['dětské', '', 'Triáda, Karel Čapek, české']"
+n408857725,Dokážu to!,100,1,2013,189,Synergie,esoterika,Louise L. Hay,české,"Luise L. Hay, světově uznávaná autorka knihy Miluj svůj život, pro vás vytvořila kalendář se silnými afirmacemi, který můžete používat každý den, rok co rok. Afirmace jsou...",250,349,"['esoterika', '', 'Synergie, Louise L. Hay, české']"
+n715016945,S trochou nostalgie aneb jak se vařilo a jedlo za císaře pána,0,0,2013,208,,kuchařky,Miroslava Kuntzmannová,české,Tato kuchařská kniha zachycuje a popisuje receptury kuchyní zemí bývalého c. a k. Rakousko-Uherska. V dnešní hektické době může být takovéto zastavení a ohlédnutí do minula jen...,433,501,"['kuchařky', '', 'Miroslava Kuntzmannová, české']"
+n87382413,Čerstvé ovocné a zeleninové šťavy,82,2,2013,200,,kuchařky,Norman W. Walker,slovenské,"V této praktické knize jsou popsány účinky a důležité látky čerstvých ovocných i zeleninových šťáv. Dnes se šťávy sice pijí téměř v každé domácnosti, bohužel jsou to ale ve...",159,241,"['kuchařky', '', 'Norman W. Walker, slovenské']"
+n102280682,Kluk v sukních - David Walliams,90,3,2013,200,Argo,dětské,David Walliams,české,"Perfektní čtení pro děti nejen na prázdniny. Zábavný a poučný příběh, od kterého se zaručeně neodtrhnete. Denis vášnivě miluje fotbal, stejně jako jeho táta a brácha. Jeho...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n632316319,"Mayes, Edward - Vaříme s toskánským sluncem",100,1,2013,224,Paseka,kuchařky,Frances Mayes,české,"Autorka bestselleru Pod toskánským sluncem a dalších knih inspirovaných pobyty v milovaném Toskánsku se po dvaceti letech od chvíle, kdy se ujala opuštěné usedlosti nedaleko...",74,102,"['kuchařky', '', 'Paseka, Edward Mayes, Frances Mayes, české']"
+n73697887,Deník malé blondýnky Znova ve škole,93,3,2013,170,,dětské,Anna Urbanová,české,"Volné pokračování prvního úspěšného Deníku malé blondýnky - O prázdninách.
+
+
+
+ Tentokrát se čtenář setká s hlavní hrdinkou a jejími kamarádkami ve škole. Šárka se vtipnou...",38,179,"['dětské', '', 'Ottovo nakladatelstvo, Jiří Urban, Anna Urbanová, české']"
+n99984746,Jednota se životem - Eckhart Tolle,98,3,2013,176,,esoterika,Eckhart Tolle,české,"Buchanan v knize popisuje zánik Západu. Příčinu vidí ve ztrátě jeho hodnot, především potom ve ztrátě židovské a křesťanské víry. Vinu za to dává idejím čtyř myslitelů,...",194,344,"['esoterika', '', 'Eckhart Tolle, české']"
+n127732029,Ájurvédská kuchařka,98,1,2013,214,Fontána,kuchařky,Vinod Verma,české,"Ájurvédská kuchařka není pouze souborem osvědčených receptů, ale zasvěceným pohledem do jedné z nejstarších stravovacích kultur světa. Tradiční indická kuchyně je vyhlášená svou...",277,278,"['kuchařky', '', 'Fontána, Vinod Verma, české']"
+n259845795,Durrell Gerald: Mluvící balík Kniha,99,8,2013,200,Knižní klub,dětské,Gerald Durrell,české,"Penelopka uviděla, jak z jedné skupiny keřů vystřelilo nějaké malé zvířátko a vrazilo mezi další keře. Ale seběhlo se to tak rychle, že vůbec nepoznala, co je to za zvíře, a...",222,279,"['dětské', '', 'Knižní klub, Gerald Durrell, české']"
+n29653408,Boříkovy lapálie,92,10,2013,192,Albatros,dětské,Steklač Vojtěch,české,"Albatros Boříkovy lapálie
+
+Nestárnoucí příběhy školáka Boříka a jeho parťáků z Holešovic jsou určeny malým školákům.
+
+Lumpárny, kterých jsou kluci účastni se odehrávají jak ve...",149,219,"['dětské', '', 'Albatros, Steklač Vojtěch, české']"
+n104174143,TOP tituly | Minulými životy k uzdravení,94,7,2013,208,Metafora,esoterika,Brian L. Weiss,české,Řešení řady problémů se skrývá v minulosti. Mnohdy vzdálené stovky nebo i tisíce let. V některém z našich minulých životů. Objevte je i vy. S touhle knihou najdete cestu...,135,199,"['esoterika', '', 'Metafora, Brian L. Weiss, české']"
+n105312965,Alenčina dobrodružství v říši divů a za zrcadlem Lewis Carroll,84,2,2013,188,Argo,dětské,Lewis Carroll,české,"Souborné vydání dvou světově proslulých příběhů Alenčina dobrodružství v říši divů a Za zrcadlem a co tam Alenka našla. První z obou knih vyšla v roce 1865, druhá o sedm let...",245,348,"['dětské', '', 'Argo, Lewis Carroll, české']"
+n459942219,Kniha říkanek,100,2,2013,184,,dětské,Behenský Petr,české,"324 říkanek a ilustrací v osmi kapitolách Vrána a vlk Nakrákala vrána vlku že mu zajíc čouhá z krku: „Je to pravda, na mou duši vždyť mu vidím obě uši!“ Tygr jede na rande Jede...",99,355,"['dětské', '', 'Behenský Petr, české']"
+n98087993,František,94,0,2013,176,Portál,esoterika,Simon Biallowons,české,"Odstoupení Svatého otce Benedikta XVI. bylo na konci února 2013 prvotřídní senzací, protože se tak stalo poprvé po sedmi stech letech.
+
+Nástupcem Benedikta XVI. se stal...",80,212,"['esoterika', '', 'Portál, Simon Biallowons, české']"
+n111090481,Dárce Lois Lowryová,87,6,2013,208,Argo,dětské,Lois Lowryová,české,"Představte si, že svět kolem vás je jako podle šablony, existuje jen jedna univerzální barva, jeden typ nábytku, všichni mají stejný střih vlasů, stejné oblečení. Má to své...",174,248,"['dětské', '', 'Argo, Lois Lowryová, české']"
+n87652188,Ostrov pokladů,97,2,2013,176,Knižní klub,dětské,Robert Louis Stevenson,české,"Nesmrtelný příběh o dobrodružství malého Jima Hawkinse a jeho druhů, kteří se vydali najít proslulý poklad krvežíznivého pirátského kapitána, vychází v klasickém překladu a...",223,279,"['dětské', '', 'Knižní klub, Robert Louis Stevenson, české']"
+n137377759,Winx Charmix - Encyklomagie,94,11,2013,216,COOBOO,dětské,Lukáš Mathé,české,"Tato Encyklomagie je jedním z našich nejúspěšnějších kouzel. Obsahuje úplně všechno, co byste o našem světě chtěli vědět. Ponořte se do čtení a odhalte naše tajemství,...",212,249,"['dětské', '', 'COOBOO, Lukáš Mathé, české']"
+n132329790,Krajiny domova - Václav Cílek,92,10,2013,224,Albatros,dětské,Václav Cílek,české,"Na krajinné bohatství Čech a Moravy můžeme být právem hrdí. Dokážeme si je však představit, anebo známe je natolik dobře, abychom mohli dětem charakterizovat či popsat...",349,349,"['dětské', '', 'Albatros, Václav Cílek, české']"
+n97896184,Vaříme z přírody - Blanka Jarošíková,90,1,2013,224,Eminent,kuchařky,Blanka Jarošíková,české,"Vaříme z přírody kniha od autora Blanka Jarošíková. Procházíme krajinou a vnímáme úžasnou harmonii. Všechno je jako v pohádkovém zámku, uspořádané a připravené pro hosta, který...",202,299,"['kuchařky', '', 'Eminent, Blanka Jarošíková, české']"
+n113219347,Radikální zhmotnění - Colin Tipping,0,0,2013,194,Eugenika,esoterika,Colin C. Tipping,české,"Jak si v životě vytvořit to, co chceme.  Tato praktická kniha plná důležitých upozornění vám ukáže, jak ve svém životě zhmotnit to, co nám přinese naplnění, a také jak vyřešit...",156,238,"['esoterika', '', 'Eugenika, Colin C. Tipping, české']"
+n120309209,Osho Zen Tarot - Osho,95,43,2013,200,Synergie,esoterika,Osho,české,"Úžasné zenové karty míří přímo k jádru problému a s naprostou přesností odhalují pověstné jádro pudla. Skvělé karty pro každého, kdo si přeje poznat Pravdu v celé její...",388,587,"['esoterika', '', 'Synergie, Osho, české']"
+n129564635,Bdělost - Anthony De Mello,91,10,2013,224,Cesta,esoterika,Anthony De Mello,české,"Bdělost kniha od autora Anthony de Mello. Probouzet lidi a odhalovat jim pravdu o jejich vlastní velikosti – to je cíl, který si Anthony de Mello kladl při své práci s lidmi, a...",137,218,"['esoterika', '', 'Cesta, Anthony De Mello, české']"
+n108844982,Malý miliardář - David Walliams,96,11,2013,236,Argo,dětské,David Walliams,české,"Autor : David Walliams, Popis : 
+ Joe je boháč, přesně řečeno nejbohatší dvanáctiletý kluk v celé Británii. Má všechno, nač si vzpomene: vůz formule 1, kino, pět set párů...",167,566,"['dětské', '', 'Argo, David Walliams, české']"
+n127732017,Můj nový! vlastní deník malého Poseroutky,94,33,2013,192,COOBOO,dětské,Jeff Kinney,české,"Cooboo Můj nový vlastní deník malého poseroutky
+
+Deník pro všechny fanoušky malého poseroutky.
+
+Slavné zápisky Grega Heffleyho jsou podkladem pro deník, do kterého si mohou...",138,199,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n99356525,Ostrov v Ptačí ulici - Uri Orlev,90,5,2013,184,Práh,dětské,Orlev Uri,české,"Kniha získala Zlatou stuhu 2014 v kategorii beletrie pro mládež za překlad.
+
+Knížku přeložila Lenka Bukovská.
+
+ 
+
+Jako Robinson Crusoe na opuštěném ostrově přežívá židovský...",204,299,"['dětské', '', 'Práh, Orlev Uri, české']"
+n124066566,Musela jsem zemřít. Má cesta od rakoviny k opravdovému uzdravení,94,59,2013,208,Knižní klub,esoterika,Anita Moorjani,české,"Životní příběh Anity, napsaný čtivě a upřímně v knize Musela jsem zemřít, se okamžitě stal bestsellerem a autorka Anita Moorjani dnes patří mezi významné osobnosti, nadšeně...",239,299,"['esoterika', '', 'Knižní klub, Anita Moorjani, české']"
+n151103737,Tichý dech - Trachta Jan,91,13,2013,214,Paseka,cestopisy,Jan Trachta,české,"Kniha přináší unikátní svědectví mladého českého lékaře o tom, jak zachraňoval životy v krizových oblastech afrického Konga a na Haiti, kam odletěl s dalšími lékaři jen několik...",200,269,"['cestopisy', '', 'Paseka, Jan Trachta, české']"
+n92420065,Heidi děvčátko z hor,98,5,2013,174,,dětské,Johana Spyriová,české,"Jmenuje se Heidi. Maminku s tatínkem už nemá. Zato má Petra, Kláru, ale hlavně dědečka Konráda. Její příběh začal právě u něj, v chaloupce vysoko ve švýcarských Alpách. Vypráví...",139,149,"['dětské', '', 'Johana Spyriová, české']"
+n94512203,Deník malého poseroutky Páté kolo u vozu,95,40,2013,224,COOBOO,dětské,Jeff Kinney,české,"Deník malého poseroutky 7 Páté kolo u vozu
+
+Sedmý díl dětské knihy, která je pokračováním deníku Grega Heffleyeho.
+
+Greg i jeho spolužáci se chystají na školní Valentýnský...",156,229,"['dětské', '', 'COOBOO, Jeff Kinney, české']"
+n106614732,Devatero pohádek Čapek Karel,85,9,2013,216,Triáda,dětské,Karel Čapek,české,"Devatero  pohádek a ještě jedna od Josefa Čapka jako přívažek (poprvé vyšlo roku  1931) patří mezi nejoblíbenější klasické české pohádkové knihy. Pohádky o  psech, kočkách,...",137,219,"['dětské', '', 'Triáda, Karel Čapek, české']"
+n408857725,Dokážu to!,100,1,2013,189,Synergie,esoterika,Louise L. Hay,české,"Luise L. Hay, světově uznávaná autorka knihy Miluj svůj život, pro vás vytvořila kalendář se silnými afirmacemi, který můžete používat každý den, rok co rok. Afirmace jsou...",250,349,"['esoterika', '', 'Synergie, Louise L. Hay, české']"
+n715016945,S trochou nostalgie aneb jak se vařilo a jedlo za císaře pána,0,0,2013,208,,kuchařky,Miroslava Kuntzmannová,české,Tato kuchařská kniha zachycuje a popisuje receptury kuchyní zemí bývalého c. a k. Rakousko-Uherska. V dnešní hektické době může být takovéto zastavení a ohlédnutí do minula jen...,433,501,"['kuchařky', '', 'Miroslava Kuntzmannová, české']"
+n87382413,Čerstvé ovocné a zeleninové šťavy,82,2,2013,200,,kuchařky,Norman W. Walker,slovenské,"V této praktické knize jsou popsány účinky a důležité látky čerstvých ovocných i zeleninových šťáv. Dnes se šťávy sice pijí téměř v každé domácnosti, bohužel jsou to ale ve...",159,241,"['kuchařky', '', 'Norman W. Walker, slovenské']"
+n102280682,Kluk v sukních - David Walliams,90,3,2013,200,Argo,dětské,David Walliams,české,"Perfektní čtení pro děti nejen na prázdniny. Zábavný a poučný příběh, od kterého se zaručeně neodtrhnete. Denis vášnivě miluje fotbal, stejně jako jeho táta a brácha. Jeho...",167,238,"['dětské', '', 'Argo, David Walliams, české']"
+n632316319,"Mayes, Edward - Vaříme s toskánským sluncem",100,1,2013,224,Paseka,kuchařky,Frances Mayes,české,"Autorka bestselleru Pod toskánským sluncem a dalších knih inspirovaných pobyty v milovaném Toskánsku se po dvaceti letech od chvíle, kdy se ujala opuštěné usedlosti nedaleko...",74,102,"['kuchařky', '', 'Paseka, Edward Mayes, Frances Mayes, české']"
+n73697887,Deník malé blondýnky Znova ve škole,93,3,2013,170,,dětské,Anna Urbanová,české,"Volné pokračování prvního úspěšného Deníku malé blondýnky - O prázdninách.
+
+
+
+ Tentokrát se čtenář setká s hlavní hrdinkou a jejími kamarádkami ve škole. Šárka se vtipnou...",38,179,"['dětské', '', 'Ottovo nakladatelstvo, Jiří Urban, Anna Urbanová, české']"
+n99984746,Jednota se životem - Eckhart Tolle,98,3,2013,176,,esoterika,Eckhart Tolle,české,"Buchanan v knize popisuje zánik Západu. Příčinu vidí ve ztrátě jeho hodnot, především potom ve ztrátě židovské a křesťanské víry. Vinu za to dává idejím čtyř myslitelů,...",194,344,"['esoterika', '', 'Eckhart Tolle, české']"
+n127732029,Ájurvédská kuchařka,98,1,2013,214,Fontána,kuchařky,Vinod Verma,české,"Ájurvédská kuchařka není pouze souborem osvědčených receptů, ale zasvěceným pohledem do jedné z nejstarších stravovacích kultur světa. Tradiční indická kuchyně je vyhlášená svou...",277,278,"['kuchařky', '', 'Fontána, Vinod Verma, české']"
+n259845795,Durrell Gerald: Mluvící balík Kniha,99,8,2013,200,Knižní klub,dětské,Gerald Durrell,české,"Penelopka uviděla, jak z jedné skupiny keřů vystřelilo nějaké malé zvířátko a vrazilo mezi další keře. Ale seběhlo se to tak rychle, že vůbec nepoznala, co je to za zvíře, a...",222,279,"['dětské', '', 'Knižní klub, Gerald Durrell, české']"
+n29653408,Boříkovy lapálie,92,10,2013,192,Albatros,dětské,Steklač Vojtěch,české,"Albatros Boříkovy lapálie
+
+Nestárnoucí příběhy školáka Boříka a jeho parťáků z Holešovic jsou určeny malým školákům.
+
+Lumpárny, kterých jsou kluci účastni se odehrávají jak ve...",149,219,"['dětské', '', 'Albatros, Steklač Vojtěch, české']"
+n104174143,TOP tituly | Minulými životy k uzdravení,94,7,2013,208,Metafora,esoterika,Brian L. Weiss,české,Řešení řady problémů se skrývá v minulosti. Mnohdy vzdálené stovky nebo i tisíce let. V některém z našich minulých životů. Objevte je i vy. S touhle knihou najdete cestu...,135,199,"['esoterika', '', 'Metafora, Brian L. Weiss, české']"
+n105312965,Alenčina dobrodružství v říši divů a za zrcadlem Lewis Carroll,84,2,2013,188,Argo,dětské,Lewis Carroll,české,"Souborné vydání dvou světově proslulých příběhů Alenčina dobrodružství v říši divů a Za zrcadlem a co tam Alenka našla. První z obou knih vyšla v roce 1865, druhá o sedm let...",245,348,"['dětské', '', 'Argo, Lewis Carroll, české']"
+n459942219,Kniha říkanek,100,2,2013,184,,dětské,Behenský Petr,české,"324 říkanek a ilustrací v osmi kapitolách Vrána a vlk Nakrákala vrána vlku že mu zajíc čouhá z krku: „Je to pravda, na mou duši vždyť mu vidím obě uši!“ Tygr jede na rande Jede...",99,355,"['dětské', '', 'Behenský Petr, české']"
+n98087993,František,94,0,2013,176,Portál,esoterika,Simon Biallowons,české,"Odstoupení Svatého otce Benedikta XVI. bylo na konci února 2013 prvotřídní senzací, protože se tak stalo poprvé po sedmi stech letech.
+
+Nástupcem Benedikta XVI. se stal...",80,212,"['esoterika', '', 'Portál, Simon Biallowons, české']"
+n111090481,Dárce Lois Lowryová,87,6,2013,208,Argo,dětské,Lois Lowryová,české,"Představte si, že svět kolem vás je jako podle šablony, existuje jen jedna univerzální barva, jeden typ nábytku, všichni mají stejný střih vlasů, stejné oblečení. Má to své...",174,248,"['dětské', '', 'Argo, Lois Lowryová, české']"
+n87652188,Ostrov pokladů,97,2,2013,176,Knižní klub,dětské,Robert Louis Stevenson,české,"Nesmrtelný příběh o dobrodružství malého Jima Hawkinse a jeho druhů, kteří se vydali najít proslulý poklad krvežíznivého pirátského kapitána, vychází v klasickém překladu a...",223,279,"['dětské', '', 'Knižní klub, Robert Louis Stevenson, české']"
+n137377759,Winx Charmix - Encyklomagie,94,11,2013,216,COOBOO,dětské,Lukáš Mathé,české,"Tato Encyklomagie je jedním z našich nejúspěšnějších kouzel. Obsahuje úplně všechno, co byste o našem světě chtěli vědět. Ponořte se do čtení a odhalte naše tajemství,...",212,249,"['dětské', '', 'COOBOO, Lukáš Mathé, české']"
+n132329790,Krajiny domova - Václav Cílek,92,10,2013,224,Albatros,dětské,Václav Cílek,české,"Na krajinné bohatství Čech a Moravy můžeme být právem hrdí. Dokážeme si je však představit, anebo známe je natolik dobře, abychom mohli dětem charakterizovat či popsat...",349,349,"['dětské', '', 'Albatros, Václav Cílek, české']"
+n97896184,Vaříme z přírody - Blanka Jarošíková,90,1,2013,224,Eminent,kuchařky,Blanka Jarošíková,české,"Vaříme z přírody kniha od autora Blanka Jarošíková. Procházíme krajinou a vnímáme úžasnou harmonii. Všechno je jako v pohádkovém zámku, uspořádané a připravené pro hosta, který...",202,299,"['kuchařky', '', 'Eminent, Blanka Jarošíková, české']"
+n113219347,Radikální zhmotnění - Colin Tipping,0,0,2013,194,Eugenika,esoterika,Colin C. Tipping,české,"Jak si v životě vytvořit to, co chceme.  Tato praktická kniha plná důležitých upozornění vám ukáže, jak ve svém životě zhmotnit to, co nám přinese naplnění, a také jak vyřešit...",156,238,"['esoterika', '', 'Eugenika, Colin C. Tipping, české']"

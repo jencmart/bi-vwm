@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n327570396,Hra o nežádoucí - Zdeněk Řehák,100,1,2015,208,Epocha,beletrie,české</p>,,"Nikdo už neví, jak a proč Hra vznikla. Vlastně ani to, že vůbec existuje.
+Lidé ve Městě žijí svým obvyklým životem. Pracují, baví se, milují, rodí se a umírají. Jejich život...",114,179,"['Epocha, beletrie', '', 'české']"
+n344718335,Vpád od Owerlordu - Mark Cheverton,93,2,2015,176,Epocha,beletrie,české</p>,,"Malý kluk, který si nechá říkat Gameknight, miluje počítačovou hru Minecraft víc než cokoliv na světě. A neméně rád vítězí; ať to stojí, co to stojí.  A když věci nejdou, jak...",159,179,"['Epocha, beletrie', '', 'české']"

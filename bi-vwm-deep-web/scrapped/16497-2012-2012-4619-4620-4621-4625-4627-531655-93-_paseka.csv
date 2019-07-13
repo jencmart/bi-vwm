@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n55042565,Skrytá realita - Brian Greene,98,4,2012,360,Paseka,naučná,české</p>,,"Je náš vesmír jediný? Takovou otázku pokládá ve své nejobsáhlejší a nejsrozumitelnější knize autor bestsellerů Elegantní vesmír a Struktura vesmíru Brian Greene.
+
+	Bývaly doby,...",317,450,"['Paseka, naučná', '', 'české']"
+n40591020,Formování českého židovstva - Hillel J. Kieval,0,0,2012,400,Paseka,naučná,české</p>,,"Společnost a kultura v českých zemích procházely na přelomu 19. století proměnami, jež navždy změnily podobu českého Židovstva. Následkem vyostřeného etnického nacionalismu,...",314,314,"['Paseka, naučná', '', 'české']"

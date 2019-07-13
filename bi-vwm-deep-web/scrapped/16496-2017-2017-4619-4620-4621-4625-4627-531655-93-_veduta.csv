@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n556370075,Historické toulky Šumperskem - Polách Drahomír,100,3,2017,240,Veduta,naučná,české</p>,,"Kniha obsahuje na čtyřicet méně známých historických zajímavostí napříč staletími ze Šumperska, tedy oblasti, která v polovině 19. století územně zahrnovala okresy Šumperk,...",200,280,"['Veduta, naučná', '', 'české']"
+n562231999,"Nezbytná, osvobozující, pomlouvaná - Dana Musilová",0,0,2017,304,Veduta,naučná,české</p>,,"Kniha představuje formy a proměny ženské práce v 19. a 20. století. Přibližuje dobové diskuse a reflektování ženské práce, její vývoj a determinaci genderem, třídou,...",267,379,"['Veduta, naučná', '', 'české']"

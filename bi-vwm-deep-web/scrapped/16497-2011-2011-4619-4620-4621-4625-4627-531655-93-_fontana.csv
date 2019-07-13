@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n51171258,Čtyři knihy o józe,97,2,2011,344,Fontána,naučná,české</p>,,"Autor : Svámí Vivékánanda, Popis : 
+ Pokud bychom hledali skutečného nestora moderní jógy, pak se jím bez dlouhého pátrání stane Svámí Vivékánanda – indický mystik, myslitel a...",223,348,"['Fontána, naučná', '', 'české']"
+n363074232,Tchaj-ťi - Bruce Frantzis,0,0,2011,340,Fontána,naučná,české</p>,,Tchai - ti pomáhá miliónům lidí všech věkových kategoríí převzít kontrolu nad svým zdravím a bojovat se stresem. Toto je vyčerpávající průvodce určený k pochopení významu tchai...,262,378,"['Fontána, naučná', '', 'české']"

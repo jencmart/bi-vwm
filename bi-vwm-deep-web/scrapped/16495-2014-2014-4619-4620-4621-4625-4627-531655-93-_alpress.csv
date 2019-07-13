@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n161783562,Magické kyvadlo - jak účinně dosáhnout svých cílů,100,2,2014,232,Alpress,naučná,české</p>,,"Richard Webster. Váháte, nemůžete se rozhodnout, stále něco hledáte, tápete v životě? Nevíte, co je pro vás lepší, řešíte vztah, finance nebo své zdraví? Pomocí magického...",167,249,"['Alpress, naučná', '', 'české']"
+n207934204,Jak umírá král - hrdinové a zbabělci v českých dějinách,0,0,2014,200,Alpress,naučná,české</p>,,"Jak umírá král - hrdinové a zbabělci v českých dějinách
+Ne všichni čeští panovníci zemřeli hrdinskou smrti jako Přemysl Otakar II. nebo Jan Lucemburský. Někteří skonali docela...",129,224,"['Alpress, naučná', '', 'české']"

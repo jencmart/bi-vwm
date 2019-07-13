@@ -1,0 +1,229 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n31638998,Zen a hotovo - Leo Babauta,91,11,2010,128,české,naučná,Leo Babauta</p>,,"Babauta rozvíjí ty nejlepší triky a vytváří tak unikátně komprimovaný celek. Knihu přečtete za dva večery, ale může změnit celý váš život.
+
+Dozvíte se:
+
+- Deset klíčových...",121,188,"['Jan Melvil Publishing, naučná', '', 'české, Leo Babauta']"
+n51144048,Veřejné zdravotnictví a výchova ke zdraví,93,2,2010,112,české,naučná,Kolektiv autorů</p>,,"Učebnice seznamuje žáky se systémem zdravotní péče, s významnými zdravotnickými organizacemi, s právní úpravou zdravotní péče, s aktuálními otázkami ve zdravotnictví. Dále se...",96,140,"['Fortuna Print, naučná', '', 'české, Kolektiv autorů']"
+n467906505,Psychologie pro SŠ - Zdeněk Helus,0,0,2010,120,české,naučná,Helus Zdeněk</p>,,"Učebnice poskytuje hlubší poznatky z psychologie. Umožňuje lépe porozumět duševnímu životu člověka, jeho zákonitostem a lépe poznávat sama sebe i druhé. Pomáhá k přípravě...",97,119,"['Fortuna Print, naučná', '', 'české, Helus Zdeněk']"
+n37722831,Imaginace jako prostor setkání s nevědomím,85,3,2010,166,Portál,naučná,Verena Kastová</p>,,"Využití představivosti při terapii i sebepoznání. Imaginace je zdrojem našich přirozených tvůrčích sil. Má však zároveň uzdravující vliv na lidskou duši, pokud během ní dojde k...",212,219,"['Portál, naučná', '', 'české, Verena Kastová']"
+n616339086,MALOVÁNÍ NA OBLIČEJ,0,0,2010,88,české,naučná,Anna Kočová</p>,,"V této publikaci naleznete mnoho inspirativních projektů, díky kterým zjistíte, že malování na obličej - neboli Facepainting - je skvělá zábava. 
+
+Staňte se vy, vaše děti či...",82,197,"['Computer Press, naučná', '', 'české, Monika Brýdová, Anna Kočová']"
+n16410058,"Základy filosofie, etiky - Základy společenských věd III. - Adamová Lenka",93,1,2010,152,české,naučná,Adamová Lenka</p>,,Trojdílná učebnice pro gymnázia a další střední školy seznamuje studenty se základy vybraných společenských věd důležitých pro jejich osobní orientaci ve společnosti i pro...,113,155,"['Fortuna Print, naučná', '', 'české, Adamová Lenka']"
+n454364331,VBA Excel v příkladech - Lenka Forstová,90,1,2010,120,české,naučná,Forstová Lenka</p>,,"Kniha vznikla jako sbírka příkladů, jež jsou doplněné o krátký a nenáročný vyklad. Text sbírky je určen čtenáři, který je poměrně dobře obeznámen s principy práce v Excelu a už...",163,240,"['Computer Media, naučná', '', 'české, Forstová Lenka']"
+n19413118,Wabi Sabi -- Domov v harmonii - Simon G. Brown,100,2,2010,128,české,naučná,Simon G. Brown</p>,,"Vytvořte si domov, ve kterém se budete cítit vyrovnaní a plní energie. Wabi sabi je tradičně vnímáno jako způsob nahlížení na umění, předměty a domácí interiéry. Jeho principy...",126,349,"['Computer Press, naučná', '', 'české, Simon G. Brown']"
+n2146453,Náměty pro školní družinu - Balková Krista,91,4,2010,152,Portál,naučná,Krista Balková</p>,,"Konkrétní činnosti v 10 tematických projektech 
+Ve školní družině se dítě zdokonaluje v sociálních dovednostech důležitých pro život. Učí se zde žít a spolupracovat s...",165,207,"['Portál, naučná', '', 'české, Krista Balková']"
+n2154336,Úvod do neštěstí - Watzlawick Paul,86,4,2010,96,Portál,naučná,Paul Watzlawick</p>,,"Kultovní kniha amerického psychologa rakouského původu značné části čtenářů ukáže, v kolika disciplínách aspiruje na nešťastníka a jak se v nich zdokonalit. Metody jsou to...",148,172,"['Portál, naučná', '', 'české, Paul Watzlawick']"
+n456722653,Balet nás baví - První o baletu pro děti i rodiče - Novotná Anna,100,1,2010,144,Práh,naučná,Anna Novotná</p>,,"První kniha o baletu pro děti i rodiče. Ve spolupráci s Národním divadlem. 20 nejznámějších světových baletů. Završení úspěšné trilogie, která dostala řadu ocenění včetně Ceny...",374,455,"['Práh, naučná', '', 'české, Anna Novotná']"
+n19413130,Deníček našeho štěňátka Ivana Auingerová,88,10,2010,48,české,naučná,Auingerová Ivana</p>,,"Máte nové štěňátko nebo se práve chystáte si je pořídit? Pak tato kniha je právě pro vás! Do Deníčku si můžete vlepovat fotky s nejhezčími a nejveselejšími zážitky, zapisovat...",59,249,"['Computer Press, naučná', '', 'české, Auingerová Ivana']"
+n51154833,I rodiče by měli dělat chyby,74,3,2010,112,Portál,naučná,Jiřina Prekopová</p>,,Známá psycholožka a rodinná terapeutka se už po několik desetiletí zabývá výchovnými problémy a rodinnou psychoterapií. V této knize shrnuje svou celoživotní praxi a poznání....,133,167,"['Portál, naučná', '', 'české, Jiřina Prekopová']"
+n18739287,Jak naučit dvojčata spát - Weissbluth Marc,93,2,2010,128,české,naučná,Marc Weissbluth</p>,,"JSTE ŠŤASTNÍ RODIČE DVOJČÁTEK NEBO VÍCERČÁTEK? A zoufale toužíte po tom se konečně zase vyspat?
+
+ Tato kniha vás naučí, jak doslova synchronizovat spánek vašich dětí, aby...",33,171,"['Computer Press, naučná', '', 'české, Marc Weissbluth']"
+n16227330,"Psychologie - Občanský a společenskovědní základ - Doležalová Ladislava, Vlková Marie",0,0,2010,72,české,naučná,Doležalová Ladis</p>,,"Učebnice psychologie komplexně pokrývá učivo předmětu psychologie na středních školách. Zabývá se psychickými procesy, psychologií poznání, psychologií osobnosti, vývojovou...",150,220,"['Computer Media, naučná', '', 'české, Vlková Marie, Doležalová Ladis']"
+n21816338,Finanční analýza pro střední a vyšší hotelové školy - Králová Irena,0,0,2010,128,české,naučná,Irena Králová</p>,,Finanční analýza pro střední a vyšší hotelové školy kniha od autora Králová Irena. Tento díl ucelené řady učebnic vysvětluje podstatu a význam finančního řízení hotelového...,108,149,"['Fortuna Print, naučná', '', 'české, Irena Králová']"
+n22858367,Hudební výchova pro gymnázia 2 - 2CD,0,0,2010,0,české,naučná,Charalambidis Alexandros</p>,,"Učebnice je druhou částí dvoudílného kompletu, jenž vychází z aktuálních osnov gymnázií. V promyšlené struktuře se věnuje vývoji hudby, nabízí náměty k činnostem s uplatněním...",259,259,"['SPN - pedagogické nakladatelst, naučná', '', 'české, Charalambidis Alexandros']"
+n19172703,Vzdělávání v mateřské škole -- Školní a třídní vzdělávací program - Eva Svobodová,92,2,2010,168,Portál,naučná,Eva Svobodová</p>,,"Školní a třídní vzdělávací program.
+Kniha je určená učitelkám a ředitelkám mateřských škol a studentům středních pedagogických škol, VOŠ a VŠ.
+Objasňuje principy RVP PV jako...",191,239,"['Portál, naučná', '', 'české, Eva Svobodová']"
+n51421123,Slovník základních pojmů z psychologie,89,0,2010,80,české,naučná,Gillernová Ilona</p>,,"Jde o oborový slovník, který si klade za cíl seznámit především studenty středních škol s nejdůležitějšími termíny dané odbornosti.",62,89,"['Fortuna Print, naučná', '', 'české, Gillernová Ilona']"
+n6614814,Miluj svůj život - 2DVD - Louise L. Hay,100,3,2010,0,Pragma,naučná,Louise L. Hay</p>,,"Tento inspirující film natočený podle knihy Miluj svůj život je uváděn samotnou autorkou Louise L. Hay. Film odhaluje Louisin fascinující osobní příběh a ukazuje, jak se...",229,290,"['Pragma, naučná', '', 'české, Louise L. Hay']"
+n12282038,"Na kopce, hory, ba i velehory H@anýsek, Jan; Pastrňák, Cliff",0,0,2010,110,Olympia,naučná,Pastrňák Cliff</p>,,"Formát: 13x20 cm
+Počet stran: 122
+Vazba: brožovaná
+
+Humorně laděné vyprávění je určeno všem zájemcům toužícím poznat zákulisí horolezectví, činnosti, při níž se člověk dotkne...",30,51,"['Olympia, naučná', '', 'české, Hanýsek Jan, Pastrňák Cliff']"
+n12521288,"Účinné poradenství při teparii koktavosti, Při teparii koktavosti",0,0,2010,112,Portál,naučná,Jane Fraser</p>,,Kolektiv klinických logopedů shrnuje nejnovější poznatky z oblasti terapie koktavosti (balbuties). V jednotlivých kapitolách je věnována pozornost rodičům koktajících dětí i...,164,205,"['Portál, naučná', '', 'české, Jane Fraser']"
+n16248875,Strmá stěna smrti - Pointe du Hoc: Útok na pevnost Evropa - Tesař René J.,0,0,2010,128,Epocha,naučná,René J. Tesař</p>,,"V předvečer spojenecké invaze do Normandie v červnu 1944 pozval generál Omar Bradley, velitel 1. U.S. Army, velitele 2. praporu Ranger podplukovníka Jamese E. Ruddera na...",88,139,"['Epocha, naučná', '', 'české, René J. Tesař']"
+n459941553,Jak funguje letecká záchranka,0,0,2010,96,české,naučná,Martin Adámek</p>,,"Autor: Martin Adámek
+Počet stran: 96
+Vazba: vázaná
+Rozměr: 17 x 24 cm
+
+Podívejme se společně do zákulisí Letecké záchranné služby (LZS). Dozvíte se:
+ - jak je činnost LZS...",204,269,"['Computer Press, naučná', '', 'české, Martin Adámek']"
+n14331772,Komunikace s lidmi s postižením - Josef Slowík,90,1,2010,160,Portál,naučná,Josef Slowík</p>,,"Dát se do řeči s cizím člověkem není pro každého jednoduchou samozřejmostí, ovšem dát se do řeči s člověkem s handicapem nebývá jednoduché pro většinu lidí. Tato kniha by měla...",259,259,"['Portál, naučná', '', 'české, Josef Slowík']"
+n459941557,Hrátky s textilem,0,0,2010,96,české,naučná,Monika Brýdová</p>,,"Autor: Monika Brýdová Vydavatel: Computer Press Vazba: pevná Rozměr: 167 x 225 mm 96 stran. Buďte originální, buďte sví! Chcete obohatit svůj šatník originálními oděvy či...",180,249,"['Computer Press, naučná', '', 'české, Monika Brýdová']"
+n49970769,Větrné mlýny,85,1,2010,112,Olympia,naučná,Hoňková Iva</p>,,"Větrné mlýny se řadí mezi nejstarší technická zařízení. Typické jsou především pro Nizozemí, ale spoustu těchto ojedinělých staveb najdeme i v České republice. Každý mlýn má...",102,149,"['Olympia, naučná', '', 'české, Hoňková Iva']"
+n16399383,Rodinné svátky o století zpátky -- aneb Oslavy a rituály v české domácnosti - Kamila Skopová,90,1,2010,96,Akropolis,naučná,Kamila Skopová</p>,,"Rodinnými svátky o století zpátky uzavírá autorka řadu útlých knížek, jejichž titul má vždy dovětek „...o století zpátky“. Předchozí publikace přiblížily čtenáři vánoční a...",80,130,"['Akropolis, naučná', '', 'české, Kamila Skopová']"
+n16758792,Facebook -- Jednoduše - Dominik Dědiček,90,1,2010,128,české,naučná,Dominik Dědiček</p>,,"Účet na Facebooku má dnes většina Čechů, kteří aktivně pracují s Internetem. Chcete být také při tom, aby vám nic podstatného z tohoto samostatného vesmíru uvnitř Internetu...",57,154,"['Computer Press, naučná', '', 'české, Dominik Dědiček']"
+n535687,"Evropské jazykové portfolio, pro žáky a žákyně ve věku 11-15 let v České republice",0,0,2010,34,české,naučná,Perclová Radka</p>,,"- Evropské jazykové portfolio je určeno žákům ve věku 11–15 let. 
+
+- Má být dokladem skutečných jazykových dovedností žáků. 
+
+- Obsahuje tři části: 
+
+- jazykový pas (pro...",141,195,"['Fortuna Print, naučná', '', 'české, Perclová Radka']"
+n31638998,Zen a hotovo - Leo Babauta,91,11,2010,128,české,naučná,Leo Babauta</p>,,"Babauta rozvíjí ty nejlepší triky a vytváří tak unikátně komprimovaný celek. Knihu přečtete za dva večery, ale může změnit celý váš život.
+
+Dozvíte se:
+
+- Deset klíčových...",121,188,"['Jan Melvil Publishing, naučná', '', 'české, Leo Babauta']"
+n51144048,Veřejné zdravotnictví a výchova ke zdraví,93,2,2010,112,české,naučná,Kolektiv autorů</p>,,"Učebnice seznamuje žáky se systémem zdravotní péče, s významnými zdravotnickými organizacemi, s právní úpravou zdravotní péče, s aktuálními otázkami ve zdravotnictví. Dále se...",96,140,"['Fortuna Print, naučná', '', 'české, Kolektiv autorů']"
+n467906505,Psychologie pro SŠ - Zdeněk Helus,0,0,2010,120,české,naučná,Helus Zdeněk</p>,,"Učebnice poskytuje hlubší poznatky z psychologie. Umožňuje lépe porozumět duševnímu životu člověka, jeho zákonitostem a lépe poznávat sama sebe i druhé. Pomáhá k přípravě...",97,119,"['Fortuna Print, naučná', '', 'české, Helus Zdeněk']"
+n37722831,Imaginace jako prostor setkání s nevědomím,85,3,2010,166,Portál,naučná,Verena Kastová</p>,,"Využití představivosti při terapii i sebepoznání. Imaginace je zdrojem našich přirozených tvůrčích sil. Má však zároveň uzdravující vliv na lidskou duši, pokud během ní dojde k...",212,219,"['Portál, naučná', '', 'české, Verena Kastová']"
+n616339086,MALOVÁNÍ NA OBLIČEJ,0,0,2010,88,české,naučná,Anna Kočová</p>,,"V této publikaci naleznete mnoho inspirativních projektů, díky kterým zjistíte, že malování na obličej - neboli Facepainting - je skvělá zábava. 
+
+Staňte se vy, vaše děti či...",82,197,"['Computer Press, naučná', '', 'české, Monika Brýdová, Anna Kočová']"
+n16410058,"Základy filosofie, etiky - Základy společenských věd III. - Adamová Lenka",93,1,2010,152,české,naučná,Adamová Lenka</p>,,Trojdílná učebnice pro gymnázia a další střední školy seznamuje studenty se základy vybraných společenských věd důležitých pro jejich osobní orientaci ve společnosti i pro...,113,155,"['Fortuna Print, naučná', '', 'české, Adamová Lenka']"
+n454364331,VBA Excel v příkladech - Lenka Forstová,90,1,2010,120,české,naučná,Forstová Lenka</p>,,"Kniha vznikla jako sbírka příkladů, jež jsou doplněné o krátký a nenáročný vyklad. Text sbírky je určen čtenáři, který je poměrně dobře obeznámen s principy práce v Excelu a už...",163,240,"['Computer Media, naučná', '', 'české, Forstová Lenka']"
+n19413118,Wabi Sabi -- Domov v harmonii - Simon G. Brown,100,2,2010,128,české,naučná,Simon G. Brown</p>,,"Vytvořte si domov, ve kterém se budete cítit vyrovnaní a plní energie. Wabi sabi je tradičně vnímáno jako způsob nahlížení na umění, předměty a domácí interiéry. Jeho principy...",126,349,"['Computer Press, naučná', '', 'české, Simon G. Brown']"
+n2146453,Náměty pro školní družinu - Balková Krista,91,4,2010,152,Portál,naučná,Krista Balková</p>,,"Konkrétní činnosti v 10 tematických projektech 
+Ve školní družině se dítě zdokonaluje v sociálních dovednostech důležitých pro život. Učí se zde žít a spolupracovat s...",165,207,"['Portál, naučná', '', 'české, Krista Balková']"
+n2154336,Úvod do neštěstí - Watzlawick Paul,86,4,2010,96,Portál,naučná,Paul Watzlawick</p>,,"Kultovní kniha amerického psychologa rakouského původu značné části čtenářů ukáže, v kolika disciplínách aspiruje na nešťastníka a jak se v nich zdokonalit. Metody jsou to...",148,172,"['Portál, naučná', '', 'české, Paul Watzlawick']"
+n456722653,Balet nás baví - První o baletu pro děti i rodiče - Novotná Anna,100,1,2010,144,Práh,naučná,Anna Novotná</p>,,"První kniha o baletu pro děti i rodiče. Ve spolupráci s Národním divadlem. 20 nejznámějších světových baletů. Završení úspěšné trilogie, která dostala řadu ocenění včetně Ceny...",374,455,"['Práh, naučná', '', 'české, Anna Novotná']"
+n19413130,Deníček našeho štěňátka Ivana Auingerová,88,10,2010,48,české,naučná,Auingerová Ivana</p>,,"Máte nové štěňátko nebo se práve chystáte si je pořídit? Pak tato kniha je právě pro vás! Do Deníčku si můžete vlepovat fotky s nejhezčími a nejveselejšími zážitky, zapisovat...",59,249,"['Computer Press, naučná', '', 'české, Auingerová Ivana']"
+n51154833,I rodiče by měli dělat chyby,74,3,2010,112,Portál,naučná,Jiřina Prekopová</p>,,Známá psycholožka a rodinná terapeutka se už po několik desetiletí zabývá výchovnými problémy a rodinnou psychoterapií. V této knize shrnuje svou celoživotní praxi a poznání....,133,167,"['Portál, naučná', '', 'české, Jiřina Prekopová']"
+n18739287,Jak naučit dvojčata spát - Weissbluth Marc,93,2,2010,128,české,naučná,Marc Weissbluth</p>,,"JSTE ŠŤASTNÍ RODIČE DVOJČÁTEK NEBO VÍCERČÁTEK? A zoufale toužíte po tom se konečně zase vyspat?
+
+ Tato kniha vás naučí, jak doslova synchronizovat spánek vašich dětí, aby...",33,171,"['Computer Press, naučná', '', 'české, Marc Weissbluth']"
+n16227330,"Psychologie - Občanský a společenskovědní základ - Doležalová Ladislava, Vlková Marie",0,0,2010,72,české,naučná,Doležalová Ladis</p>,,"Učebnice psychologie komplexně pokrývá učivo předmětu psychologie na středních školách. Zabývá se psychickými procesy, psychologií poznání, psychologií osobnosti, vývojovou...",150,220,"['Computer Media, naučná', '', 'české, Vlková Marie, Doležalová Ladis']"
+n21816338,Finanční analýza pro střední a vyšší hotelové školy - Králová Irena,0,0,2010,128,české,naučná,Irena Králová</p>,,Finanční analýza pro střední a vyšší hotelové školy kniha od autora Králová Irena. Tento díl ucelené řady učebnic vysvětluje podstatu a význam finančního řízení hotelového...,108,149,"['Fortuna Print, naučná', '', 'české, Irena Králová']"
+n22858367,Hudební výchova pro gymnázia 2 - 2CD,0,0,2010,0,české,naučná,Charalambidis Alexandros</p>,,"Učebnice je druhou částí dvoudílného kompletu, jenž vychází z aktuálních osnov gymnázií. V promyšlené struktuře se věnuje vývoji hudby, nabízí náměty k činnostem s uplatněním...",259,259,"['SPN - pedagogické nakladatelst, naučná', '', 'české, Charalambidis Alexandros']"
+n19172703,Vzdělávání v mateřské škole -- Školní a třídní vzdělávací program - Eva Svobodová,92,2,2010,168,Portál,naučná,Eva Svobodová</p>,,"Školní a třídní vzdělávací program.
+Kniha je určená učitelkám a ředitelkám mateřských škol a studentům středních pedagogických škol, VOŠ a VŠ.
+Objasňuje principy RVP PV jako...",191,239,"['Portál, naučná', '', 'české, Eva Svobodová']"
+n51421123,Slovník základních pojmů z psychologie,89,0,2010,80,české,naučná,Gillernová Ilona</p>,,"Jde o oborový slovník, který si klade za cíl seznámit především studenty středních škol s nejdůležitějšími termíny dané odbornosti.",62,89,"['Fortuna Print, naučná', '', 'české, Gillernová Ilona']"
+n6614814,Miluj svůj život - 2DVD - Louise L. Hay,100,3,2010,0,Pragma,naučná,Louise L. Hay</p>,,"Tento inspirující film natočený podle knihy Miluj svůj život je uváděn samotnou autorkou Louise L. Hay. Film odhaluje Louisin fascinující osobní příběh a ukazuje, jak se...",229,290,"['Pragma, naučná', '', 'české, Louise L. Hay']"
+n12282038,"Na kopce, hory, ba i velehory H@anýsek, Jan; Pastrňák, Cliff",0,0,2010,110,Olympia,naučná,Pastrňák Cliff</p>,,"Formát: 13x20 cm
+Počet stran: 122
+Vazba: brožovaná
+
+Humorně laděné vyprávění je určeno všem zájemcům toužícím poznat zákulisí horolezectví, činnosti, při níž se člověk dotkne...",30,51,"['Olympia, naučná', '', 'české, Hanýsek Jan, Pastrňák Cliff']"
+n12521288,"Účinné poradenství při teparii koktavosti, Při teparii koktavosti",0,0,2010,112,Portál,naučná,Jane Fraser</p>,,Kolektiv klinických logopedů shrnuje nejnovější poznatky z oblasti terapie koktavosti (balbuties). V jednotlivých kapitolách je věnována pozornost rodičům koktajících dětí i...,164,205,"['Portál, naučná', '', 'české, Jane Fraser']"
+n16248875,Strmá stěna smrti - Pointe du Hoc: Útok na pevnost Evropa - Tesař René J.,0,0,2010,128,Epocha,naučná,René J. Tesař</p>,,"V předvečer spojenecké invaze do Normandie v červnu 1944 pozval generál Omar Bradley, velitel 1. U.S. Army, velitele 2. praporu Ranger podplukovníka Jamese E. Ruddera na...",88,139,"['Epocha, naučná', '', 'české, René J. Tesař']"
+n459941553,Jak funguje letecká záchranka,0,0,2010,96,české,naučná,Martin Adámek</p>,,"Autor: Martin Adámek
+Počet stran: 96
+Vazba: vázaná
+Rozměr: 17 x 24 cm
+
+Podívejme se společně do zákulisí Letecké záchranné služby (LZS). Dozvíte se:
+ - jak je činnost LZS...",204,269,"['Computer Press, naučná', '', 'české, Martin Adámek']"
+n14331772,Komunikace s lidmi s postižením - Josef Slowík,90,1,2010,160,Portál,naučná,Josef Slowík</p>,,"Dát se do řeči s cizím člověkem není pro každého jednoduchou samozřejmostí, ovšem dát se do řeči s člověkem s handicapem nebývá jednoduché pro většinu lidí. Tato kniha by měla...",259,259,"['Portál, naučná', '', 'české, Josef Slowík']"
+n459941557,Hrátky s textilem,0,0,2010,96,české,naučná,Monika Brýdová</p>,,"Autor: Monika Brýdová Vydavatel: Computer Press Vazba: pevná Rozměr: 167 x 225 mm 96 stran. Buďte originální, buďte sví! Chcete obohatit svůj šatník originálními oděvy či...",180,249,"['Computer Press, naučná', '', 'české, Monika Brýdová']"
+n49970769,Větrné mlýny,85,1,2010,112,Olympia,naučná,Hoňková Iva</p>,,"Větrné mlýny se řadí mezi nejstarší technická zařízení. Typické jsou především pro Nizozemí, ale spoustu těchto ojedinělých staveb najdeme i v České republice. Každý mlýn má...",102,149,"['Olympia, naučná', '', 'české, Hoňková Iva']"
+n16399383,Rodinné svátky o století zpátky -- aneb Oslavy a rituály v české domácnosti - Kamila Skopová,90,1,2010,96,Akropolis,naučná,Kamila Skopová</p>,,"Rodinnými svátky o století zpátky uzavírá autorka řadu útlých knížek, jejichž titul má vždy dovětek „...o století zpátky“. Předchozí publikace přiblížily čtenáři vánoční a...",80,130,"['Akropolis, naučná', '', 'české, Kamila Skopová']"
+n16758792,Facebook -- Jednoduše - Dominik Dědiček,90,1,2010,128,české,naučná,Dominik Dědiček</p>,,"Účet na Facebooku má dnes většina Čechů, kteří aktivně pracují s Internetem. Chcete být také při tom, aby vám nic podstatného z tohoto samostatného vesmíru uvnitř Internetu...",57,154,"['Computer Press, naučná', '', 'české, Dominik Dědiček']"
+n535687,"Evropské jazykové portfolio, pro žáky a žákyně ve věku 11-15 let v České republice",0,0,2010,34,české,naučná,Perclová Radka</p>,,"- Evropské jazykové portfolio je určeno žákům ve věku 11–15 let. 
+
+- Má být dokladem skutečných jazykových dovedností žáků. 
+
+- Obsahuje tři části: 
+
+- jazykový pas (pro...",141,195,"['Fortuna Print, naučná', '', 'české, Perclová Radka']"
+n31638998,Zen a hotovo - Leo Babauta,91,11,2010,128,české,naučná,Leo Babauta</p>,,"Babauta rozvíjí ty nejlepší triky a vytváří tak unikátně komprimovaný celek. Knihu přečtete za dva večery, ale může změnit celý váš život.
+
+Dozvíte se:
+
+- Deset klíčových...",121,188,"['Jan Melvil Publishing, naučná', '', 'české, Leo Babauta']"
+n51144048,Veřejné zdravotnictví a výchova ke zdraví,93,2,2010,112,české,naučná,Kolektiv autorů</p>,,"Učebnice seznamuje žáky se systémem zdravotní péče, s významnými zdravotnickými organizacemi, s právní úpravou zdravotní péče, s aktuálními otázkami ve zdravotnictví. Dále se...",96,140,"['Fortuna Print, naučná', '', 'české, Kolektiv autorů']"
+n467906505,Psychologie pro SŠ - Zdeněk Helus,0,0,2010,120,české,naučná,Helus Zdeněk</p>,,"Učebnice poskytuje hlubší poznatky z psychologie. Umožňuje lépe porozumět duševnímu životu člověka, jeho zákonitostem a lépe poznávat sama sebe i druhé. Pomáhá k přípravě...",97,119,"['Fortuna Print, naučná', '', 'české, Helus Zdeněk']"
+n37722831,Imaginace jako prostor setkání s nevědomím,85,3,2010,166,Portál,naučná,Verena Kastová</p>,,"Využití představivosti při terapii i sebepoznání. Imaginace je zdrojem našich přirozených tvůrčích sil. Má však zároveň uzdravující vliv na lidskou duši, pokud během ní dojde k...",212,219,"['Portál, naučná', '', 'české, Verena Kastová']"
+n616339086,MALOVÁNÍ NA OBLIČEJ,0,0,2010,88,české,naučná,Anna Kočová</p>,,"V této publikaci naleznete mnoho inspirativních projektů, díky kterým zjistíte, že malování na obličej - neboli Facepainting - je skvělá zábava. 
+
+Staňte se vy, vaše děti či...",82,197,"['Computer Press, naučná', '', 'české, Monika Brýdová, Anna Kočová']"
+n16410058,"Základy filosofie, etiky - Základy společenských věd III. - Adamová Lenka",93,1,2010,152,české,naučná,Adamová Lenka</p>,,Trojdílná učebnice pro gymnázia a další střední školy seznamuje studenty se základy vybraných společenských věd důležitých pro jejich osobní orientaci ve společnosti i pro...,113,155,"['Fortuna Print, naučná', '', 'české, Adamová Lenka']"
+n454364331,VBA Excel v příkladech - Lenka Forstová,90,1,2010,120,české,naučná,Forstová Lenka</p>,,"Kniha vznikla jako sbírka příkladů, jež jsou doplněné o krátký a nenáročný vyklad. Text sbírky je určen čtenáři, který je poměrně dobře obeznámen s principy práce v Excelu a už...",163,240,"['Computer Media, naučná', '', 'české, Forstová Lenka']"
+n19413118,Wabi Sabi -- Domov v harmonii - Simon G. Brown,100,2,2010,128,české,naučná,Simon G. Brown</p>,,"Vytvořte si domov, ve kterém se budete cítit vyrovnaní a plní energie. Wabi sabi je tradičně vnímáno jako způsob nahlížení na umění, předměty a domácí interiéry. Jeho principy...",126,349,"['Computer Press, naučná', '', 'české, Simon G. Brown']"
+n2146453,Náměty pro školní družinu - Balková Krista,91,4,2010,152,Portál,naučná,Krista Balková</p>,,"Konkrétní činnosti v 10 tematických projektech 
+Ve školní družině se dítě zdokonaluje v sociálních dovednostech důležitých pro život. Učí se zde žít a spolupracovat s...",165,207,"['Portál, naučná', '', 'české, Krista Balková']"
+n2154336,Úvod do neštěstí - Watzlawick Paul,86,4,2010,96,Portál,naučná,Paul Watzlawick</p>,,"Kultovní kniha amerického psychologa rakouského původu značné části čtenářů ukáže, v kolika disciplínách aspiruje na nešťastníka a jak se v nich zdokonalit. Metody jsou to...",148,172,"['Portál, naučná', '', 'české, Paul Watzlawick']"
+n456722653,Balet nás baví - První o baletu pro děti i rodiče - Novotná Anna,100,1,2010,144,Práh,naučná,Anna Novotná</p>,,"První kniha o baletu pro děti i rodiče. Ve spolupráci s Národním divadlem. 20 nejznámějších světových baletů. Završení úspěšné trilogie, která dostala řadu ocenění včetně Ceny...",374,455,"['Práh, naučná', '', 'české, Anna Novotná']"
+n19413130,Deníček našeho štěňátka Ivana Auingerová,88,10,2010,48,české,naučná,Auingerová Ivana</p>,,"Máte nové štěňátko nebo se práve chystáte si je pořídit? Pak tato kniha je právě pro vás! Do Deníčku si můžete vlepovat fotky s nejhezčími a nejveselejšími zážitky, zapisovat...",59,249,"['Computer Press, naučná', '', 'české, Auingerová Ivana']"
+n51154833,I rodiče by měli dělat chyby,74,3,2010,112,Portál,naučná,Jiřina Prekopová</p>,,Známá psycholožka a rodinná terapeutka se už po několik desetiletí zabývá výchovnými problémy a rodinnou psychoterapií. V této knize shrnuje svou celoživotní praxi a poznání....,133,167,"['Portál, naučná', '', 'české, Jiřina Prekopová']"
+n18739287,Jak naučit dvojčata spát - Weissbluth Marc,93,2,2010,128,české,naučná,Marc Weissbluth</p>,,"JSTE ŠŤASTNÍ RODIČE DVOJČÁTEK NEBO VÍCERČÁTEK? A zoufale toužíte po tom se konečně zase vyspat?
+
+ Tato kniha vás naučí, jak doslova synchronizovat spánek vašich dětí, aby...",33,171,"['Computer Press, naučná', '', 'české, Marc Weissbluth']"
+n16227330,"Psychologie - Občanský a společenskovědní základ - Doležalová Ladislava, Vlková Marie",0,0,2010,72,české,naučná,Doležalová Ladis</p>,,"Učebnice psychologie komplexně pokrývá učivo předmětu psychologie na středních školách. Zabývá se psychickými procesy, psychologií poznání, psychologií osobnosti, vývojovou...",150,220,"['Computer Media, naučná', '', 'české, Vlková Marie, Doležalová Ladis']"
+n21816338,Finanční analýza pro střední a vyšší hotelové školy - Králová Irena,0,0,2010,128,české,naučná,Irena Králová</p>,,Finanční analýza pro střední a vyšší hotelové školy kniha od autora Králová Irena. Tento díl ucelené řady učebnic vysvětluje podstatu a význam finančního řízení hotelového...,108,149,"['Fortuna Print, naučná', '', 'české, Irena Králová']"
+n22858367,Hudební výchova pro gymnázia 2 - 2CD,0,0,2010,0,české,naučná,Charalambidis Alexandros</p>,,"Učebnice je druhou částí dvoudílného kompletu, jenž vychází z aktuálních osnov gymnázií. V promyšlené struktuře se věnuje vývoji hudby, nabízí náměty k činnostem s uplatněním...",259,259,"['SPN - pedagogické nakladatelst, naučná', '', 'české, Charalambidis Alexandros']"
+n19172703,Vzdělávání v mateřské škole -- Školní a třídní vzdělávací program - Eva Svobodová,92,2,2010,168,Portál,naučná,Eva Svobodová</p>,,"Školní a třídní vzdělávací program.
+Kniha je určená učitelkám a ředitelkám mateřských škol a studentům středních pedagogických škol, VOŠ a VŠ.
+Objasňuje principy RVP PV jako...",191,239,"['Portál, naučná', '', 'české, Eva Svobodová']"
+n51421123,Slovník základních pojmů z psychologie,89,0,2010,80,české,naučná,Gillernová Ilona</p>,,"Jde o oborový slovník, který si klade za cíl seznámit především studenty středních škol s nejdůležitějšími termíny dané odbornosti.",62,89,"['Fortuna Print, naučná', '', 'české, Gillernová Ilona']"
+n6614814,Miluj svůj život - 2DVD - Louise L. Hay,100,3,2010,0,Pragma,naučná,Louise L. Hay</p>,,"Tento inspirující film natočený podle knihy Miluj svůj život je uváděn samotnou autorkou Louise L. Hay. Film odhaluje Louisin fascinující osobní příběh a ukazuje, jak se...",229,290,"['Pragma, naučná', '', 'české, Louise L. Hay']"
+n12282038,"Na kopce, hory, ba i velehory H@anýsek, Jan; Pastrňák, Cliff",0,0,2010,110,Olympia,naučná,Pastrňák Cliff</p>,,"Formát: 13x20 cm
+Počet stran: 122
+Vazba: brožovaná
+
+Humorně laděné vyprávění je určeno všem zájemcům toužícím poznat zákulisí horolezectví, činnosti, při níž se člověk dotkne...",30,51,"['Olympia, naučná', '', 'české, Hanýsek Jan, Pastrňák Cliff']"
+n12521288,"Účinné poradenství při teparii koktavosti, Při teparii koktavosti",0,0,2010,112,Portál,naučná,Jane Fraser</p>,,Kolektiv klinických logopedů shrnuje nejnovější poznatky z oblasti terapie koktavosti (balbuties). V jednotlivých kapitolách je věnována pozornost rodičům koktajících dětí i...,164,205,"['Portál, naučná', '', 'české, Jane Fraser']"
+n16248875,Strmá stěna smrti - Pointe du Hoc: Útok na pevnost Evropa - Tesař René J.,0,0,2010,128,Epocha,naučná,René J. Tesař</p>,,"V předvečer spojenecké invaze do Normandie v červnu 1944 pozval generál Omar Bradley, velitel 1. U.S. Army, velitele 2. praporu Ranger podplukovníka Jamese E. Ruddera na...",88,139,"['Epocha, naučná', '', 'české, René J. Tesař']"
+n459941553,Jak funguje letecká záchranka,0,0,2010,96,české,naučná,Martin Adámek</p>,,"Autor: Martin Adámek
+Počet stran: 96
+Vazba: vázaná
+Rozměr: 17 x 24 cm
+
+Podívejme se společně do zákulisí Letecké záchranné služby (LZS). Dozvíte se:
+ - jak je činnost LZS...",204,269,"['Computer Press, naučná', '', 'české, Martin Adámek']"
+n14331772,Komunikace s lidmi s postižením - Josef Slowík,90,1,2010,160,Portál,naučná,Josef Slowík</p>,,"Dát se do řeči s cizím člověkem není pro každého jednoduchou samozřejmostí, ovšem dát se do řeči s člověkem s handicapem nebývá jednoduché pro většinu lidí. Tato kniha by měla...",259,259,"['Portál, naučná', '', 'české, Josef Slowík']"
+n459941557,Hrátky s textilem,0,0,2010,96,české,naučná,Monika Brýdová</p>,,"Autor: Monika Brýdová Vydavatel: Computer Press Vazba: pevná Rozměr: 167 x 225 mm 96 stran. Buďte originální, buďte sví! Chcete obohatit svůj šatník originálními oděvy či...",180,249,"['Computer Press, naučná', '', 'české, Monika Brýdová']"
+n49970769,Větrné mlýny,85,1,2010,112,Olympia,naučná,Hoňková Iva</p>,,"Větrné mlýny se řadí mezi nejstarší technická zařízení. Typické jsou především pro Nizozemí, ale spoustu těchto ojedinělých staveb najdeme i v České republice. Každý mlýn má...",102,149,"['Olympia, naučná', '', 'české, Hoňková Iva']"
+n16399383,Rodinné svátky o století zpátky -- aneb Oslavy a rituály v české domácnosti - Kamila Skopová,90,1,2010,96,Akropolis,naučná,Kamila Skopová</p>,,"Rodinnými svátky o století zpátky uzavírá autorka řadu útlých knížek, jejichž titul má vždy dovětek „...o století zpátky“. Předchozí publikace přiblížily čtenáři vánoční a...",80,130,"['Akropolis, naučná', '', 'české, Kamila Skopová']"
+n16758792,Facebook -- Jednoduše - Dominik Dědiček,90,1,2010,128,české,naučná,Dominik Dědiček</p>,,"Účet na Facebooku má dnes většina Čechů, kteří aktivně pracují s Internetem. Chcete být také při tom, aby vám nic podstatného z tohoto samostatného vesmíru uvnitř Internetu...",57,154,"['Computer Press, naučná', '', 'české, Dominik Dědiček']"
+n535687,"Evropské jazykové portfolio, pro žáky a žákyně ve věku 11-15 let v České republice",0,0,2010,34,české,naučná,Perclová Radka</p>,,"- Evropské jazykové portfolio je určeno žákům ve věku 11–15 let. 
+
+- Má být dokladem skutečných jazykových dovedností žáků. 
+
+- Obsahuje tři části: 
+
+- jazykový pas (pro...",141,195,"['Fortuna Print, naučná', '', 'české, Perclová Radka']"
+n31638998,Zen a hotovo - Leo Babauta,91,11,2010,128,české,naučná,Leo Babauta</p>,,"Babauta rozvíjí ty nejlepší triky a vytváří tak unikátně komprimovaný celek. Knihu přečtete za dva večery, ale může změnit celý váš život.
+
+Dozvíte se:
+
+- Deset klíčových...",121,188,"['Jan Melvil Publishing, naučná', '', 'české, Leo Babauta']"
+n51144048,Veřejné zdravotnictví a výchova ke zdraví,93,2,2010,112,české,naučná,Kolektiv autorů</p>,,"Učebnice seznamuje žáky se systémem zdravotní péče, s významnými zdravotnickými organizacemi, s právní úpravou zdravotní péče, s aktuálními otázkami ve zdravotnictví. Dále se...",96,140,"['Fortuna Print, naučná', '', 'české, Kolektiv autorů']"
+n467906505,Psychologie pro SŠ - Zdeněk Helus,0,0,2010,120,české,naučná,Helus Zdeněk</p>,,"Učebnice poskytuje hlubší poznatky z psychologie. Umožňuje lépe porozumět duševnímu životu člověka, jeho zákonitostem a lépe poznávat sama sebe i druhé. Pomáhá k přípravě...",97,119,"['Fortuna Print, naučná', '', 'české, Helus Zdeněk']"
+n37722831,Imaginace jako prostor setkání s nevědomím,85,3,2010,166,Portál,naučná,Verena Kastová</p>,,"Využití představivosti při terapii i sebepoznání. Imaginace je zdrojem našich přirozených tvůrčích sil. Má však zároveň uzdravující vliv na lidskou duši, pokud během ní dojde k...",212,219,"['Portál, naučná', '', 'české, Verena Kastová']"
+n616339086,MALOVÁNÍ NA OBLIČEJ,0,0,2010,88,české,naučná,Anna Kočová</p>,,"V této publikaci naleznete mnoho inspirativních projektů, díky kterým zjistíte, že malování na obličej - neboli Facepainting - je skvělá zábava. 
+
+Staňte se vy, vaše děti či...",82,197,"['Computer Press, naučná', '', 'české, Monika Brýdová, Anna Kočová']"
+n16410058,"Základy filosofie, etiky - Základy společenských věd III. - Adamová Lenka",93,1,2010,152,české,naučná,Adamová Lenka</p>,,Trojdílná učebnice pro gymnázia a další střední školy seznamuje studenty se základy vybraných společenských věd důležitých pro jejich osobní orientaci ve společnosti i pro...,113,155,"['Fortuna Print, naučná', '', 'české, Adamová Lenka']"
+n454364331,VBA Excel v příkladech - Lenka Forstová,90,1,2010,120,české,naučná,Forstová Lenka</p>,,"Kniha vznikla jako sbírka příkladů, jež jsou doplněné o krátký a nenáročný vyklad. Text sbírky je určen čtenáři, který je poměrně dobře obeznámen s principy práce v Excelu a už...",163,240,"['Computer Media, naučná', '', 'české, Forstová Lenka']"
+n19413118,Wabi Sabi -- Domov v harmonii - Simon G. Brown,100,2,2010,128,české,naučná,Simon G. Brown</p>,,"Vytvořte si domov, ve kterém se budete cítit vyrovnaní a plní energie. Wabi sabi je tradičně vnímáno jako způsob nahlížení na umění, předměty a domácí interiéry. Jeho principy...",126,349,"['Computer Press, naučná', '', 'české, Simon G. Brown']"
+n2146453,Náměty pro školní družinu - Balková Krista,91,4,2010,152,Portál,naučná,Krista Balková</p>,,"Konkrétní činnosti v 10 tematických projektech 
+Ve školní družině se dítě zdokonaluje v sociálních dovednostech důležitých pro život. Učí se zde žít a spolupracovat s...",165,207,"['Portál, naučná', '', 'české, Krista Balková']"
+n2154336,Úvod do neštěstí - Watzlawick Paul,86,4,2010,96,Portál,naučná,Paul Watzlawick</p>,,"Kultovní kniha amerického psychologa rakouského původu značné části čtenářů ukáže, v kolika disciplínách aspiruje na nešťastníka a jak se v nich zdokonalit. Metody jsou to...",148,172,"['Portál, naučná', '', 'české, Paul Watzlawick']"
+n456722653,Balet nás baví - První o baletu pro děti i rodiče - Novotná Anna,100,1,2010,144,Práh,naučná,Anna Novotná</p>,,"První kniha o baletu pro děti i rodiče. Ve spolupráci s Národním divadlem. 20 nejznámějších světových baletů. Završení úspěšné trilogie, která dostala řadu ocenění včetně Ceny...",374,455,"['Práh, naučná', '', 'české, Anna Novotná']"
+n19413130,Deníček našeho štěňátka Ivana Auingerová,88,10,2010,48,české,naučná,Auingerová Ivana</p>,,"Máte nové štěňátko nebo se práve chystáte si je pořídit? Pak tato kniha je právě pro vás! Do Deníčku si můžete vlepovat fotky s nejhezčími a nejveselejšími zážitky, zapisovat...",59,249,"['Computer Press, naučná', '', 'české, Auingerová Ivana']"
+n51154833,I rodiče by měli dělat chyby,74,3,2010,112,Portál,naučná,Jiřina Prekopová</p>,,Známá psycholožka a rodinná terapeutka se už po několik desetiletí zabývá výchovnými problémy a rodinnou psychoterapií. V této knize shrnuje svou celoživotní praxi a poznání....,133,167,"['Portál, naučná', '', 'české, Jiřina Prekopová']"
+n18739287,Jak naučit dvojčata spát - Weissbluth Marc,93,2,2010,128,české,naučná,Marc Weissbluth</p>,,"JSTE ŠŤASTNÍ RODIČE DVOJČÁTEK NEBO VÍCERČÁTEK? A zoufale toužíte po tom se konečně zase vyspat?
+
+ Tato kniha vás naučí, jak doslova synchronizovat spánek vašich dětí, aby...",33,171,"['Computer Press, naučná', '', 'české, Marc Weissbluth']"
+n16227330,"Psychologie - Občanský a společenskovědní základ - Doležalová Ladislava, Vlková Marie",0,0,2010,72,české,naučná,Doležalová Ladis</p>,,"Učebnice psychologie komplexně pokrývá učivo předmětu psychologie na středních školách. Zabývá se psychickými procesy, psychologií poznání, psychologií osobnosti, vývojovou...",150,220,"['Computer Media, naučná', '', 'české, Vlková Marie, Doležalová Ladis']"
+n21816338,Finanční analýza pro střední a vyšší hotelové školy - Králová Irena,0,0,2010,128,české,naučná,Irena Králová</p>,,Finanční analýza pro střední a vyšší hotelové školy kniha od autora Králová Irena. Tento díl ucelené řady učebnic vysvětluje podstatu a význam finančního řízení hotelového...,108,149,"['Fortuna Print, naučná', '', 'české, Irena Králová']"
+n22858367,Hudební výchova pro gymnázia 2 - 2CD,0,0,2010,0,české,naučná,Charalambidis Alexandros</p>,,"Učebnice je druhou částí dvoudílného kompletu, jenž vychází z aktuálních osnov gymnázií. V promyšlené struktuře se věnuje vývoji hudby, nabízí náměty k činnostem s uplatněním...",259,259,"['SPN - pedagogické nakladatelst, naučná', '', 'české, Charalambidis Alexandros']"
+n19172703,Vzdělávání v mateřské škole -- Školní a třídní vzdělávací program - Eva Svobodová,92,2,2010,168,Portál,naučná,Eva Svobodová</p>,,"Školní a třídní vzdělávací program.
+Kniha je určená učitelkám a ředitelkám mateřských škol a studentům středních pedagogických škol, VOŠ a VŠ.
+Objasňuje principy RVP PV jako...",191,239,"['Portál, naučná', '', 'české, Eva Svobodová']"
+n51421123,Slovník základních pojmů z psychologie,89,0,2010,80,české,naučná,Gillernová Ilona</p>,,"Jde o oborový slovník, který si klade za cíl seznámit především studenty středních škol s nejdůležitějšími termíny dané odbornosti.",62,89,"['Fortuna Print, naučná', '', 'české, Gillernová Ilona']"
+n6614814,Miluj svůj život - 2DVD - Louise L. Hay,100,3,2010,0,Pragma,naučná,Louise L. Hay</p>,,"Tento inspirující film natočený podle knihy Miluj svůj život je uváděn samotnou autorkou Louise L. Hay. Film odhaluje Louisin fascinující osobní příběh a ukazuje, jak se...",229,290,"['Pragma, naučná', '', 'české, Louise L. Hay']"
+n12282038,"Na kopce, hory, ba i velehory H@anýsek, Jan; Pastrňák, Cliff",0,0,2010,110,Olympia,naučná,Pastrňák Cliff</p>,,"Formát: 13x20 cm
+Počet stran: 122
+Vazba: brožovaná
+
+Humorně laděné vyprávění je určeno všem zájemcům toužícím poznat zákulisí horolezectví, činnosti, při níž se člověk dotkne...",30,51,"['Olympia, naučná', '', 'české, Hanýsek Jan, Pastrňák Cliff']"
+n12521288,"Účinné poradenství při teparii koktavosti, Při teparii koktavosti",0,0,2010,112,Portál,naučná,Jane Fraser</p>,,Kolektiv klinických logopedů shrnuje nejnovější poznatky z oblasti terapie koktavosti (balbuties). V jednotlivých kapitolách je věnována pozornost rodičům koktajících dětí i...,164,205,"['Portál, naučná', '', 'české, Jane Fraser']"
+n16248875,Strmá stěna smrti - Pointe du Hoc: Útok na pevnost Evropa - Tesař René J.,0,0,2010,128,Epocha,naučná,René J. Tesař</p>,,"V předvečer spojenecké invaze do Normandie v červnu 1944 pozval generál Omar Bradley, velitel 1. U.S. Army, velitele 2. praporu Ranger podplukovníka Jamese E. Ruddera na...",88,139,"['Epocha, naučná', '', 'české, René J. Tesař']"
+n459941553,Jak funguje letecká záchranka,0,0,2010,96,české,naučná,Martin Adámek</p>,,"Autor: Martin Adámek
+Počet stran: 96
+Vazba: vázaná
+Rozměr: 17 x 24 cm
+
+Podívejme se společně do zákulisí Letecké záchranné služby (LZS). Dozvíte se:
+ - jak je činnost LZS...",204,269,"['Computer Press, naučná', '', 'české, Martin Adámek']"
+n14331772,Komunikace s lidmi s postižením - Josef Slowík,90,1,2010,160,Portál,naučná,Josef Slowík</p>,,"Dát se do řeči s cizím člověkem není pro každého jednoduchou samozřejmostí, ovšem dát se do řeči s člověkem s handicapem nebývá jednoduché pro většinu lidí. Tato kniha by měla...",259,259,"['Portál, naučná', '', 'české, Josef Slowík']"
+n459941557,Hrátky s textilem,0,0,2010,96,české,naučná,Monika Brýdová</p>,,"Autor: Monika Brýdová Vydavatel: Computer Press Vazba: pevná Rozměr: 167 x 225 mm 96 stran. Buďte originální, buďte sví! Chcete obohatit svůj šatník originálními oděvy či...",180,249,"['Computer Press, naučná', '', 'české, Monika Brýdová']"
+n49970769,Větrné mlýny,85,1,2010,112,Olympia,naučná,Hoňková Iva</p>,,"Větrné mlýny se řadí mezi nejstarší technická zařízení. Typické jsou především pro Nizozemí, ale spoustu těchto ojedinělých staveb najdeme i v České republice. Každý mlýn má...",102,149,"['Olympia, naučná', '', 'české, Hoňková Iva']"
+n16399383,Rodinné svátky o století zpátky -- aneb Oslavy a rituály v české domácnosti - Kamila Skopová,90,1,2010,96,Akropolis,naučná,Kamila Skopová</p>,,"Rodinnými svátky o století zpátky uzavírá autorka řadu útlých knížek, jejichž titul má vždy dovětek „...o století zpátky“. Předchozí publikace přiblížily čtenáři vánoční a...",80,130,"['Akropolis, naučná', '', 'české, Kamila Skopová']"
+n16758792,Facebook -- Jednoduše - Dominik Dědiček,90,1,2010,128,české,naučná,Dominik Dědiček</p>,,"Účet na Facebooku má dnes většina Čechů, kteří aktivně pracují s Internetem. Chcete být také při tom, aby vám nic podstatného z tohoto samostatného vesmíru uvnitř Internetu...",57,154,"['Computer Press, naučná', '', 'české, Dominik Dědiček']"
+n535687,"Evropské jazykové portfolio, pro žáky a žákyně ve věku 11-15 let v České republice",0,0,2010,34,české,naučná,Perclová Radka</p>,,"- Evropské jazykové portfolio je určeno žákům ve věku 11–15 let. 
+
+- Má být dokladem skutečných jazykových dovedností žáků. 
+
+- Obsahuje tři části: 
+
+- jazykový pas (pro...",141,195,"['Fortuna Print, naučná', '', 'české, Perclová Radka']"

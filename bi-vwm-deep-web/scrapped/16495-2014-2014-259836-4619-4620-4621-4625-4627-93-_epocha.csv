@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n180262270,Bílý klaun Sbírka fejetonů a jiných krátkých textů,0,0,2014,208,Epocha,beletrie,české</p>,,"Bílý klaun je sbírka fejetonů a jiných krátkých textů, z nichž mnohé spisovatelka Lenka Procházková publikovala v novinách a časopisech.
+ Některé texty však vycházejí v tištěné...",123,199,"['Epocha, beletrie', '', 'české']"

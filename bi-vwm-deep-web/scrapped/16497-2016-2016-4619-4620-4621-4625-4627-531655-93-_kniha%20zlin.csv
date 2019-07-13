@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n380065836,Faktor Churchill - Boris Johnson,93,8,2016,452,KNIHA ZLÍN,naučná,české</p>,,"U příležitosti padesátého výročí Churchillova úmrtí se Boris
+John­son rozhodl prozkoumat, z jakých kořenů povstal „faktor
+Churchill“, a odkud se vzala osobitá genialita jedné...",370,422,"['KNIHA ZLÍN, naučná', '', 'české']"
+n352767012,B jako Bauhaus,100,1,2016,400,KNIHA ZLÍN,naučná,české</p>,,"Tato kniha není slovník, ačkoli se z ní dozvíte informace o všem od autenticity až po zipy. Není to ani autobiografie, třebaže předkládá zevrubný a vysoce osobní odborný názor...",269,359,"['KNIHA ZLÍN, naučná', '', 'české']"

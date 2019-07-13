@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n236367509,Der Leuchtende Stein Pauličková Danica,0,0,2014,54,,dětské,německé</p>,,Der Leuchtende Stein kniha od autora Pauličková Danica.,141,258,"['dětské', '', 'německé']"
+n491164229,10 krumlovských pohádek/německy,100,1,2014,64,,dětské,německé</p>,,"Jedinečné originální pohádky z českokrumlovského prostředí. 10 originálních pohádkových příběhů, které se možná staly, ale možná také nestaly, kdysi, v dávných dobách ve městě...",129,199,"['dětské', '', 'německé']"

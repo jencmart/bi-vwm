@@ -1,0 +1,532 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n22930212,Dechové techniky,80,1,2003,120,Fontána,naučná,Markus Schirner,české,"Markus Schirner/ Fontána, vázaná, 120 stran.
+Dechová cvičení Východu i Západu
+Skrze dech jsme spojeni s tímto světem. Vědomé zacházení s naším  dechem ovlivňuje jemněhmotnou...",153,238,"['naučná', '', 'Fontána, Markus Schirner, české']"
+n51026492,Šiatsu - Aljoscha A. Schwarz,90,2,2003,113,Alternativa,naučná,Ronald P. Schweppe,české,"Šiatsu kniha od autora Ronald P. Schweppe. Přední němečtí znalci alternativní léčby a spirituality uvádějí do tajemství japonské masáže, založené na principu akupresury. Název...",74,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n365054,"Kytara určeno též pro samouky, Škola hry na kytaru - Základní kurz",88,10,2003,116,Svojtka&amp;Co.,naučná,Stanislav Barek,české,"Tato škola hry na kytaru je určena pro začátečníky i pokročilé a je vhodná jak pro žáky hudebních škol, tak i pro samouky. V první části získáte základní informace o ladění,...",98,159,"['naučná', '', 'Svojtka&Co., Stanislav Barek, české']"
+n238782793,Hraničáři od Adamovy hory,100,2,2003,168,Vaňourek Martin,naučná,Vaňourek Martin,české,"Hraničáři od Adamovy hory kniha od autora Stehlík Eduard, Vaňourek Martin. Hraničáři od Adamovy hory 
+
+Kniha obsahuje vzpomínky takřka dvou desítek mužů, které ve druhé...",396,405,"['naučná', '', 'Vaňourek Martin, Vaňourek Martin, české']"
+n18430680,Dějiny českých zemí (Petr Čornej; Jiří Pokorný),0,0,2003,134,Práh,naučná,Petr Čornej,japonské,Dějiny českých zemí (japonsky) kniha od autora Petr Čornej. Známý český historik a popularizátor historie vybral a poutavě napsal nejzajímavější příběhy z české historie od...,197,212,"['naučná', '', 'Práh, Petr Čornej, japonské']"
+n555787,Duchovní probuzení Edgar Cayce,95,1,2003,116,,esoterika,Edgar Cayce,české,"Jazyk: český
+Počet stran: 116
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",78,129,"['esoterika', '', 'Edgar Cayce, české']"
+n465084597,Duchovní léčení,0,0,2003,140,,naučná,Catherine Ponderová,české,"Jazyk: český
+Počet stran: 140
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",91,149,"['naučná', '', 'Catherine Ponderová, české']"
+n20383833,"Smyslové vnímání - metody reedukace specifických poruch - Žáčková,Jucovičová",0,0,2003,68,Nakladatelstvi D+ H,naučná,Drahomíra Jucovičová,české,"Metody reedukace specifických poruch učení.
+Rozvíjení smyslového vnímání v předškolním věku je významným předpokladem pro úspěšné zvládání školního učiva. U dětí ohrožených...",62,76,"['naučná', '', 'Nakladatelstvi D+ H, Drahomíra Jucovičová, české']"
+n364465,Celostní management Porvazník Ján,0,0,2003,0,Ikar,naučná,Ján Porvazník,české,"Pilíře kompetence v řízení
+
+Celostně zpracované množství poznatků o managemente:
+- kořeny, vznik, vývoj a předmět managementu
+- systémové poznávání a využívání objektů
+-...",471,474,"['naučná', '', 'Ikar, Ján Porvazník, české']"
+n459936064,"Cunningham Scott, Harrington David: VÝROBA MAGICKÝCH PŘEDMĚTŮ",100,1,2003,166,Fontána,esoterika,Cunningham Scott,české,"Scott Cunningham, David Harrington/ Fontána, vázaná, 165 stran.
+Podívejte se na své ruce. Vnímejte je jako zázračné prostředky moci. Vnímejte energii, která proudí skrze vše,...",166,238,"['esoterika', '', 'Fontána, Cunningham Scott, české']"
+n439408287,Genetika pro gymnázia: pro gymnázia - Šmarda Jan,0,0,2003,144,Fortuna Print,naučná,Jan Šmarda,české,"Nejen ti, kteří budou studovat na přírodovědeckých nebo lékařských fakultách, ale všichni vzdělaní středoškoláci se budou stále častěji setkávat s pojmy z genetiky. V souladu s...",129,159,"['naučná', '', 'Fortuna Print, Jan Šmarda, české']"
+n13924530,Nacionalismus - Ernest Gellner,80,1,2003,134,,naučná,Ernest Gellner,české,"Nacionalismus je nejen názvem první ze dvou posmrtně vydaných prací Ernesta Gellnera, je to především téma, které jej provázelo po celý aktivní život. Gellner pocházel z...",165,198,"['naučná', '', 'Ernest Gellner, české']"
+n22603342,MATLAB pro začátečníky,95,2,2003,151,Doňar Bohuslav,naučná,Zaplatílek Kar,české,"Kniha pro každého, kdo potřebuje rychle a s co nejmenší námahou pochopit základy práce s programovým systémem MATLAB. Systém je určen pro ty, kdo potřebují na počítači řešit...",154,199,"['naučná', '', 'Doňar Bohuslav, Zaplatílek Kar, české']"
+n25001686,Poslové světla,90,2,2003,64,Pragma,esoterika,Neale Donald Walsch,české,Kniha od autora světového bestselleru Hovory s Bohem! Veškeré pojmy v knize Hovory s Bohem krouží kolem jednoho ústředního tématu. Smyslem života je znovu stvořit vaše Já. Tato...,96,128,"['esoterika', '', 'Pragma, Neale Donald Walsch, české']"
+n376955,"Láska, vztahy a přátelství - Čtyři dohody - toltécká láska (Ruiz Don Miguel)",92,8,2003,156,Pragma,naučná,Don Miguel Ruiz,české,"Toltécká tradice říká, že k naší pravé povaze nás vede štěstí, svoboda a láska.
+Prvním krokem je vědomí. Chceme-li najít svobodu, musíme si uvědomit, čím opravdu jsme. Nemůžeme...",143,180,"['naučná', '', 'Pragma, Don Miguel Ruiz, české']"
+n25198845,"Feldenkrais - škola do kapsy -- cvičení pro zdraví - Schweppe Ronald P., Schwarz Aljoscha A.",95,1,2003,118,Alternativa,naučná,Ronald P. Schweppe,české,"Feldenkraisova metoda jednoduchých cviků přináší uvědomění o pochodech v těle i mysli a je schopna zvýšit zdraví a harmonii. Je celosvětově rozšířená. Cvičení jsou jednoduchá,...",75,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n455311500,Uniformy německé armády za 2. sv. války - Krawczyk Wade,95,2,2003,126,Naše vojsko,naučná,Krawczyk Wade,české,Jádrem této celobarevné publikace jsou fotografie zachovaných uniforem německé armády na živých modelech z dosud zveřejněných soukromých sbírek s kompletní autentickou polní...,148,419,"['naučná', '', 'Naše vojsko, Krawczyk Wade, české']"
+n2159574,"ZMIZELÁ PRAHA DODATKY 2. HISTORICKÁ PŘEDMĚSTÍ, PRAVÝ BŘEH",100,1,2003,128,Paseka,naučná,Kateřina Bečková,české,"Historická předměstí a okraje města - pravý břeh Vltavy 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a...",161,229,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n422189800,Zmizelá Praha-dodatky I.-historický střed města: Historický stred mesta - Bečková Kateřina,0,0,2003,152,Paseka,naučná,Kateřina Bečková,české,"Historický střed města 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a technickými, ale i uměleckými...",161,206,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n376941,Lidská tragikomedie - Ladislav Klíma,98,2,2003,104,,naučná,Ladislav Klíma,české,Lidská tragikomedie kniha od autora Ladislav Klíma. Divadelní hra excentrického českého filosofa a spisovatele.,99,138,"['naučná', '', 'Ladislav Klíma, české']"
+n22106417,Reiki Techniky dr.Hayashiho,100,1,2003,111,Fontána,naučná,Arjava Petter F. Yamaguchi T.,české,"Dr. Hajashi byl nejznámějším žákem praotce reiki dr. Mikaa Usuiho. Hayashi razil svůj vlastní styl a byl učitelem Hawayo Takataové, která přinesla techniky reiki na Západ. Na...",174,231,"['naučná', '', 'Fontána, Arjava Petter F. Yamaguchi T. , české']"
+n554612,"Vyrábíme dárky s malými dětmi -- Náměty a nápady pro děti od 3 do 8 let - Stephanie R. Mueller, Ann E. Wheeler",0,0,2003,166,Portál,naučná,Mueller Stephanie R.,české,"Výroba dárků je oblíbená činnost v mateřských školách.
+Děti se snaží pracovat co nejlépe, jsou na své výrobky pyšné a učí se prožívat radost z dávání. Při tvorbě dárku mohou...",169,251,"['naučná', '', 'Portál, Mueller Stephanie R., české']"
+n2301820,Afghánistán stručná historie států Jan Marek,95,2,2003,120,Libri,naučná,Jan Marek,české,"Přední znalec problematiky tohoto regionu, orientalista doc. J. Marek se ujal vylíčení pohnutých dějin této hornaté země, která vždy žárlivě střežila svou samostatnost od dob...",50,100,"['naučná', '', 'Libri, Jan Marek, české']"
+n432439,Dopisy a dokumenty Nicolas Poussin,0,0,2003,144,Arbor vitae,naučná,Nicolas Poussin,české,"Nicolas Poussin (1594–1665) patří svým dílem k vrcholům světového malířství, současník filozofa Descartese a dramatika Corneille vtiskl, stejně jako oni, znamení celé epoše,...",141,190,"['naučná', '', 'Arbor vitae, Nicolas Poussin, české']"
+n2327439,"Fotografie vidí povrch -- La photographie reflete L'aspect des choses - Funke Jaromír, Sutnar Ladislav",0,0,2003,60,Torst,naučná,Ladislav Sutnar,české,Fotografie vidí povrch kniha od autora Ladislav Sutnar. Fotoreprint jedinečné fotografické publikace nakladatelství Družstevní práce z roku 1935 přináší všem zájemcům o českou...,50,284,"['naučná', '', 'Torst, Ladislav Sutnar, české']"
+n46154239,Andělé života a smrti,0,0,2003,116,Fontána,esoterika,Liselotte Baertz,české,"Lisolette Baertz/ Fontána, brožovaná, 116 stran, ISBN 80-7336-067-5
+Duchovní průvodci životem a smrtí
+Lisolette Baerzová patří k nejzkušenějším terapeutkám a učitelkám...",169,238,"['esoterika', '', 'Fontána, Liselotte Baertz, české']"
+n392740,Já to auto zvládnu,95,1,2003,118,Kopp,naučná,Jiří Jakub Kubeček,české,"Chcete své auto opravdu zvládnout? Máte zájem o zkušenosti nabyté provozem osobního auta? Přivítáte rádce, který vám pomůže v různých obtížných situacích a těžkostech s autem?...",63,95,"['naučná', '', 'Kopp, Jiří Jakub Kubeček, české']"
+n51028272,Otto Gutfreund,93,3,2003,50,Kant,naučná,Adrian Dean,české,"Zpřístupnění sochařského díla Otto Gutfreunda z období expresionismu, kubismu (1911-4 )a poválečného období ze sbírky Jana a Medy Mládkových v Museu Kampa.",80,167,"['naučná', '', 'Kant, Adrian Dean, české']"
+n2962399,Prostředky bez účelu -- Poznámky o politice - Agamben Giorgio,0,0,2003,112,,naučná,Giorgio Agamben,české,Eseje obsažené v této knize jsou originálním zamyšlením nad stavem současného politického života a radikální kritikou vyprázdněných kategorií současné politiky. Giorgio Agamben...,89,165,"['naučná', '', 'Giorgio Agamben, české']"
+n90030455,"AFTER THE QUAKE MURAKAMI, H.",0,0,2003,144,,naučná,Haruki Murakami,anglické,"The economy was booming. People had more money than they knew what to do with. And then the earthquake struck. For the characters in After the Quake, the Kobe earthquake is an...",208,277,"['naučná', '', 'Haruki Murakami, anglické']"
+n22930212,Dechové techniky,80,1,2003,120,Fontána,naučná,Markus Schirner,české,"Markus Schirner/ Fontána, vázaná, 120 stran.
+Dechová cvičení Východu i Západu
+Skrze dech jsme spojeni s tímto světem. Vědomé zacházení s naším  dechem ovlivňuje jemněhmotnou...",153,238,"['naučná', '', 'Fontána, Markus Schirner, české']"
+n51026492,Šiatsu - Aljoscha A. Schwarz,90,2,2003,113,Alternativa,naučná,Ronald P. Schweppe,české,"Šiatsu kniha od autora Ronald P. Schweppe. Přední němečtí znalci alternativní léčby a spirituality uvádějí do tajemství japonské masáže, založené na principu akupresury. Název...",74,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n365054,"Kytara určeno též pro samouky, Škola hry na kytaru - Základní kurz",88,10,2003,116,Svojtka&amp;Co.,naučná,Stanislav Barek,české,"Tato škola hry na kytaru je určena pro začátečníky i pokročilé a je vhodná jak pro žáky hudebních škol, tak i pro samouky. V první části získáte základní informace o ladění,...",98,159,"['naučná', '', 'Svojtka&Co., Stanislav Barek, české']"
+n238782793,Hraničáři od Adamovy hory,100,2,2003,168,Vaňourek Martin,naučná,Vaňourek Martin,české,"Hraničáři od Adamovy hory kniha od autora Stehlík Eduard, Vaňourek Martin. Hraničáři od Adamovy hory 
+
+Kniha obsahuje vzpomínky takřka dvou desítek mužů, které ve druhé...",396,405,"['naučná', '', 'Vaňourek Martin, Vaňourek Martin, české']"
+n18430680,Dějiny českých zemí (Petr Čornej; Jiří Pokorný),0,0,2003,134,Práh,naučná,Petr Čornej,japonské,Dějiny českých zemí (japonsky) kniha od autora Petr Čornej. Známý český historik a popularizátor historie vybral a poutavě napsal nejzajímavější příběhy z české historie od...,197,212,"['naučná', '', 'Práh, Petr Čornej, japonské']"
+n555787,Duchovní probuzení Edgar Cayce,95,1,2003,116,,esoterika,Edgar Cayce,české,"Jazyk: český
+Počet stran: 116
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",78,129,"['esoterika', '', 'Edgar Cayce, české']"
+n465084597,Duchovní léčení,0,0,2003,140,,naučná,Catherine Ponderová,české,"Jazyk: český
+Počet stran: 140
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",91,149,"['naučná', '', 'Catherine Ponderová, české']"
+n20383833,"Smyslové vnímání - metody reedukace specifických poruch - Žáčková,Jucovičová",0,0,2003,68,Nakladatelstvi D+ H,naučná,Drahomíra Jucovičová,české,"Metody reedukace specifických poruch učení.
+Rozvíjení smyslového vnímání v předškolním věku je významným předpokladem pro úspěšné zvládání školního učiva. U dětí ohrožených...",62,76,"['naučná', '', 'Nakladatelstvi D+ H, Drahomíra Jucovičová, české']"
+n364465,Celostní management Porvazník Ján,0,0,2003,0,Ikar,naučná,Ján Porvazník,české,"Pilíře kompetence v řízení
+
+Celostně zpracované množství poznatků o managemente:
+- kořeny, vznik, vývoj a předmět managementu
+- systémové poznávání a využívání objektů
+-...",471,474,"['naučná', '', 'Ikar, Ján Porvazník, české']"
+n459936064,"Cunningham Scott, Harrington David: VÝROBA MAGICKÝCH PŘEDMĚTŮ",100,1,2003,166,Fontána,esoterika,Cunningham Scott,české,"Scott Cunningham, David Harrington/ Fontána, vázaná, 165 stran.
+Podívejte se na své ruce. Vnímejte je jako zázračné prostředky moci. Vnímejte energii, která proudí skrze vše,...",166,238,"['esoterika', '', 'Fontána, Cunningham Scott, české']"
+n439408287,Genetika pro gymnázia: pro gymnázia - Šmarda Jan,0,0,2003,144,Fortuna Print,naučná,Jan Šmarda,české,"Nejen ti, kteří budou studovat na přírodovědeckých nebo lékařských fakultách, ale všichni vzdělaní středoškoláci se budou stále častěji setkávat s pojmy z genetiky. V souladu s...",129,159,"['naučná', '', 'Fortuna Print, Jan Šmarda, české']"
+n13924530,Nacionalismus - Ernest Gellner,80,1,2003,134,,naučná,Ernest Gellner,české,"Nacionalismus je nejen názvem první ze dvou posmrtně vydaných prací Ernesta Gellnera, je to především téma, které jej provázelo po celý aktivní život. Gellner pocházel z...",165,198,"['naučná', '', 'Ernest Gellner, české']"
+n22603342,MATLAB pro začátečníky,95,2,2003,151,Doňar Bohuslav,naučná,Zaplatílek Kar,české,"Kniha pro každého, kdo potřebuje rychle a s co nejmenší námahou pochopit základy práce s programovým systémem MATLAB. Systém je určen pro ty, kdo potřebují na počítači řešit...",154,199,"['naučná', '', 'Doňar Bohuslav, Zaplatílek Kar, české']"
+n25001686,Poslové světla,90,2,2003,64,Pragma,esoterika,Neale Donald Walsch,české,Kniha od autora světového bestselleru Hovory s Bohem! Veškeré pojmy v knize Hovory s Bohem krouží kolem jednoho ústředního tématu. Smyslem života je znovu stvořit vaše Já. Tato...,96,128,"['esoterika', '', 'Pragma, Neale Donald Walsch, české']"
+n376955,"Láska, vztahy a přátelství - Čtyři dohody - toltécká láska (Ruiz Don Miguel)",92,8,2003,156,Pragma,naučná,Don Miguel Ruiz,české,"Toltécká tradice říká, že k naší pravé povaze nás vede štěstí, svoboda a láska.
+Prvním krokem je vědomí. Chceme-li najít svobodu, musíme si uvědomit, čím opravdu jsme. Nemůžeme...",143,180,"['naučná', '', 'Pragma, Don Miguel Ruiz, české']"
+n25198845,"Feldenkrais - škola do kapsy -- cvičení pro zdraví - Schweppe Ronald P., Schwarz Aljoscha A.",95,1,2003,118,Alternativa,naučná,Ronald P. Schweppe,české,"Feldenkraisova metoda jednoduchých cviků přináší uvědomění o pochodech v těle i mysli a je schopna zvýšit zdraví a harmonii. Je celosvětově rozšířená. Cvičení jsou jednoduchá,...",75,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n455311500,Uniformy německé armády za 2. sv. války - Krawczyk Wade,95,2,2003,126,Naše vojsko,naučná,Krawczyk Wade,české,Jádrem této celobarevné publikace jsou fotografie zachovaných uniforem německé armády na živých modelech z dosud zveřejněných soukromých sbírek s kompletní autentickou polní...,148,419,"['naučná', '', 'Naše vojsko, Krawczyk Wade, české']"
+n2159574,"ZMIZELÁ PRAHA DODATKY 2. HISTORICKÁ PŘEDMĚSTÍ, PRAVÝ BŘEH",100,1,2003,128,Paseka,naučná,Kateřina Bečková,české,"Historická předměstí a okraje města - pravý břeh Vltavy 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a...",161,229,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n422189800,Zmizelá Praha-dodatky I.-historický střed města: Historický stred mesta - Bečková Kateřina,0,0,2003,152,Paseka,naučná,Kateřina Bečková,české,"Historický střed města 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a technickými, ale i uměleckými...",161,206,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n376941,Lidská tragikomedie - Ladislav Klíma,98,2,2003,104,,naučná,Ladislav Klíma,české,Lidská tragikomedie kniha od autora Ladislav Klíma. Divadelní hra excentrického českého filosofa a spisovatele.,99,138,"['naučná', '', 'Ladislav Klíma, české']"
+n22106417,Reiki Techniky dr.Hayashiho,100,1,2003,111,Fontána,naučná,Arjava Petter F. Yamaguchi T.,české,"Dr. Hajashi byl nejznámějším žákem praotce reiki dr. Mikaa Usuiho. Hayashi razil svůj vlastní styl a byl učitelem Hawayo Takataové, která přinesla techniky reiki na Západ. Na...",174,231,"['naučná', '', 'Fontána, Arjava Petter F. Yamaguchi T. , české']"
+n554612,"Vyrábíme dárky s malými dětmi -- Náměty a nápady pro děti od 3 do 8 let - Stephanie R. Mueller, Ann E. Wheeler",0,0,2003,166,Portál,naučná,Mueller Stephanie R.,české,"Výroba dárků je oblíbená činnost v mateřských školách.
+Děti se snaží pracovat co nejlépe, jsou na své výrobky pyšné a učí se prožívat radost z dávání. Při tvorbě dárku mohou...",169,251,"['naučná', '', 'Portál, Mueller Stephanie R., české']"
+n2301820,Afghánistán stručná historie států Jan Marek,95,2,2003,120,Libri,naučná,Jan Marek,české,"Přední znalec problematiky tohoto regionu, orientalista doc. J. Marek se ujal vylíčení pohnutých dějin této hornaté země, která vždy žárlivě střežila svou samostatnost od dob...",50,100,"['naučná', '', 'Libri, Jan Marek, české']"
+n432439,Dopisy a dokumenty Nicolas Poussin,0,0,2003,144,Arbor vitae,naučná,Nicolas Poussin,české,"Nicolas Poussin (1594–1665) patří svým dílem k vrcholům světového malířství, současník filozofa Descartese a dramatika Corneille vtiskl, stejně jako oni, znamení celé epoše,...",141,190,"['naučná', '', 'Arbor vitae, Nicolas Poussin, české']"
+n2327439,"Fotografie vidí povrch -- La photographie reflete L'aspect des choses - Funke Jaromír, Sutnar Ladislav",0,0,2003,60,Torst,naučná,Ladislav Sutnar,české,Fotografie vidí povrch kniha od autora Ladislav Sutnar. Fotoreprint jedinečné fotografické publikace nakladatelství Družstevní práce z roku 1935 přináší všem zájemcům o českou...,50,284,"['naučná', '', 'Torst, Ladislav Sutnar, české']"
+n46154239,Andělé života a smrti,0,0,2003,116,Fontána,esoterika,Liselotte Baertz,české,"Lisolette Baertz/ Fontána, brožovaná, 116 stran, ISBN 80-7336-067-5
+Duchovní průvodci životem a smrtí
+Lisolette Baerzová patří k nejzkušenějším terapeutkám a učitelkám...",169,238,"['esoterika', '', 'Fontána, Liselotte Baertz, české']"
+n392740,Já to auto zvládnu,95,1,2003,118,Kopp,naučná,Jiří Jakub Kubeček,české,"Chcete své auto opravdu zvládnout? Máte zájem o zkušenosti nabyté provozem osobního auta? Přivítáte rádce, který vám pomůže v různých obtížných situacích a těžkostech s autem?...",63,95,"['naučná', '', 'Kopp, Jiří Jakub Kubeček, české']"
+n51028272,Otto Gutfreund,93,3,2003,50,Kant,naučná,Adrian Dean,české,"Zpřístupnění sochařského díla Otto Gutfreunda z období expresionismu, kubismu (1911-4 )a poválečného období ze sbírky Jana a Medy Mládkových v Museu Kampa.",80,167,"['naučná', '', 'Kant, Adrian Dean, české']"
+n2962399,Prostředky bez účelu -- Poznámky o politice - Agamben Giorgio,0,0,2003,112,,naučná,Giorgio Agamben,české,Eseje obsažené v této knize jsou originálním zamyšlením nad stavem současného politického života a radikální kritikou vyprázdněných kategorií současné politiky. Giorgio Agamben...,89,165,"['naučná', '', 'Giorgio Agamben, české']"
+n90030455,"AFTER THE QUAKE MURAKAMI, H.",0,0,2003,144,,naučná,Haruki Murakami,anglické,"The economy was booming. People had more money than they knew what to do with. And then the earthquake struck. For the characters in After the Quake, the Kobe earthquake is an...",208,277,"['naučná', '', 'Haruki Murakami, anglické']"
+n22930212,Dechové techniky,80,1,2003,120,Fontána,naučná,Markus Schirner,české,"Markus Schirner/ Fontána, vázaná, 120 stran.
+Dechová cvičení Východu i Západu
+Skrze dech jsme spojeni s tímto světem. Vědomé zacházení s naším  dechem ovlivňuje jemněhmotnou...",153,238,"['naučná', '', 'Fontána, Markus Schirner, české']"
+n51026492,Šiatsu - Aljoscha A. Schwarz,90,2,2003,113,Alternativa,naučná,Ronald P. Schweppe,české,"Šiatsu kniha od autora Ronald P. Schweppe. Přední němečtí znalci alternativní léčby a spirituality uvádějí do tajemství japonské masáže, založené na principu akupresury. Název...",74,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n365054,"Kytara určeno též pro samouky, Škola hry na kytaru - Základní kurz",88,10,2003,116,Svojtka&amp;Co.,naučná,Stanislav Barek,české,"Tato škola hry na kytaru je určena pro začátečníky i pokročilé a je vhodná jak pro žáky hudebních škol, tak i pro samouky. V první části získáte základní informace o ladění,...",98,159,"['naučná', '', 'Svojtka&Co., Stanislav Barek, české']"
+n238782793,Hraničáři od Adamovy hory,100,2,2003,168,Vaňourek Martin,naučná,Vaňourek Martin,české,"Hraničáři od Adamovy hory kniha od autora Stehlík Eduard, Vaňourek Martin. Hraničáři od Adamovy hory 
+
+Kniha obsahuje vzpomínky takřka dvou desítek mužů, které ve druhé...",396,405,"['naučná', '', 'Vaňourek Martin, Vaňourek Martin, české']"
+n18430680,Dějiny českých zemí (Petr Čornej; Jiří Pokorný),0,0,2003,134,Práh,naučná,Petr Čornej,japonské,Dějiny českých zemí (japonsky) kniha od autora Petr Čornej. Známý český historik a popularizátor historie vybral a poutavě napsal nejzajímavější příběhy z české historie od...,197,212,"['naučná', '', 'Práh, Petr Čornej, japonské']"
+n555787,Duchovní probuzení Edgar Cayce,95,1,2003,116,,esoterika,Edgar Cayce,české,"Jazyk: český
+Počet stran: 116
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",78,129,"['esoterika', '', 'Edgar Cayce, české']"
+n465084597,Duchovní léčení,0,0,2003,140,,naučná,Catherine Ponderová,české,"Jazyk: český
+Počet stran: 140
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",91,149,"['naučná', '', 'Catherine Ponderová, české']"
+n20383833,"Smyslové vnímání - metody reedukace specifických poruch - Žáčková,Jucovičová",0,0,2003,68,Nakladatelstvi D+ H,naučná,Drahomíra Jucovičová,české,"Metody reedukace specifických poruch učení.
+Rozvíjení smyslového vnímání v předškolním věku je významným předpokladem pro úspěšné zvládání školního učiva. U dětí ohrožených...",62,76,"['naučná', '', 'Nakladatelstvi D+ H, Drahomíra Jucovičová, české']"
+n364465,Celostní management Porvazník Ján,0,0,2003,0,Ikar,naučná,Ján Porvazník,české,"Pilíře kompetence v řízení
+
+Celostně zpracované množství poznatků o managemente:
+- kořeny, vznik, vývoj a předmět managementu
+- systémové poznávání a využívání objektů
+-...",471,474,"['naučná', '', 'Ikar, Ján Porvazník, české']"
+n459936064,"Cunningham Scott, Harrington David: VÝROBA MAGICKÝCH PŘEDMĚTŮ",100,1,2003,166,Fontána,esoterika,Cunningham Scott,české,"Scott Cunningham, David Harrington/ Fontána, vázaná, 165 stran.
+Podívejte se na své ruce. Vnímejte je jako zázračné prostředky moci. Vnímejte energii, která proudí skrze vše,...",166,238,"['esoterika', '', 'Fontána, Cunningham Scott, české']"
+n439408287,Genetika pro gymnázia: pro gymnázia - Šmarda Jan,0,0,2003,144,Fortuna Print,naučná,Jan Šmarda,české,"Nejen ti, kteří budou studovat na přírodovědeckých nebo lékařských fakultách, ale všichni vzdělaní středoškoláci se budou stále častěji setkávat s pojmy z genetiky. V souladu s...",129,159,"['naučná', '', 'Fortuna Print, Jan Šmarda, české']"
+n13924530,Nacionalismus - Ernest Gellner,80,1,2003,134,,naučná,Ernest Gellner,české,"Nacionalismus je nejen názvem první ze dvou posmrtně vydaných prací Ernesta Gellnera, je to především téma, které jej provázelo po celý aktivní život. Gellner pocházel z...",165,198,"['naučná', '', 'Ernest Gellner, české']"
+n22603342,MATLAB pro začátečníky,95,2,2003,151,Doňar Bohuslav,naučná,Zaplatílek Kar,české,"Kniha pro každého, kdo potřebuje rychle a s co nejmenší námahou pochopit základy práce s programovým systémem MATLAB. Systém je určen pro ty, kdo potřebují na počítači řešit...",154,199,"['naučná', '', 'Doňar Bohuslav, Zaplatílek Kar, české']"
+n25001686,Poslové světla,90,2,2003,64,Pragma,esoterika,Neale Donald Walsch,české,Kniha od autora světového bestselleru Hovory s Bohem! Veškeré pojmy v knize Hovory s Bohem krouží kolem jednoho ústředního tématu. Smyslem života je znovu stvořit vaše Já. Tato...,96,128,"['esoterika', '', 'Pragma, Neale Donald Walsch, české']"
+n376955,"Láska, vztahy a přátelství - Čtyři dohody - toltécká láska (Ruiz Don Miguel)",92,8,2003,156,Pragma,naučná,Don Miguel Ruiz,české,"Toltécká tradice říká, že k naší pravé povaze nás vede štěstí, svoboda a láska.
+Prvním krokem je vědomí. Chceme-li najít svobodu, musíme si uvědomit, čím opravdu jsme. Nemůžeme...",143,180,"['naučná', '', 'Pragma, Don Miguel Ruiz, české']"
+n25198845,"Feldenkrais - škola do kapsy -- cvičení pro zdraví - Schweppe Ronald P., Schwarz Aljoscha A.",95,1,2003,118,Alternativa,naučná,Ronald P. Schweppe,české,"Feldenkraisova metoda jednoduchých cviků přináší uvědomění o pochodech v těle i mysli a je schopna zvýšit zdraví a harmonii. Je celosvětově rozšířená. Cvičení jsou jednoduchá,...",75,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n455311500,Uniformy německé armády za 2. sv. války - Krawczyk Wade,95,2,2003,126,Naše vojsko,naučná,Krawczyk Wade,české,Jádrem této celobarevné publikace jsou fotografie zachovaných uniforem německé armády na živých modelech z dosud zveřejněných soukromých sbírek s kompletní autentickou polní...,148,419,"['naučná', '', 'Naše vojsko, Krawczyk Wade, české']"
+n2159574,"ZMIZELÁ PRAHA DODATKY 2. HISTORICKÁ PŘEDMĚSTÍ, PRAVÝ BŘEH",100,1,2003,128,Paseka,naučná,Kateřina Bečková,české,"Historická předměstí a okraje města - pravý břeh Vltavy 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a...",161,229,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n422189800,Zmizelá Praha-dodatky I.-historický střed města: Historický stred mesta - Bečková Kateřina,0,0,2003,152,Paseka,naučná,Kateřina Bečková,české,"Historický střed města 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a technickými, ale i uměleckými...",161,206,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n376941,Lidská tragikomedie - Ladislav Klíma,98,2,2003,104,,naučná,Ladislav Klíma,české,Lidská tragikomedie kniha od autora Ladislav Klíma. Divadelní hra excentrického českého filosofa a spisovatele.,99,138,"['naučná', '', 'Ladislav Klíma, české']"
+n22106417,Reiki Techniky dr.Hayashiho,100,1,2003,111,Fontána,naučná,Arjava Petter F. Yamaguchi T.,české,"Dr. Hajashi byl nejznámějším žákem praotce reiki dr. Mikaa Usuiho. Hayashi razil svůj vlastní styl a byl učitelem Hawayo Takataové, která přinesla techniky reiki na Západ. Na...",174,231,"['naučná', '', 'Fontána, Arjava Petter F. Yamaguchi T. , české']"
+n554612,"Vyrábíme dárky s malými dětmi -- Náměty a nápady pro děti od 3 do 8 let - Stephanie R. Mueller, Ann E. Wheeler",0,0,2003,166,Portál,naučná,Mueller Stephanie R.,české,"Výroba dárků je oblíbená činnost v mateřských školách.
+Děti se snaží pracovat co nejlépe, jsou na své výrobky pyšné a učí se prožívat radost z dávání. Při tvorbě dárku mohou...",169,251,"['naučná', '', 'Portál, Mueller Stephanie R., české']"
+n2301820,Afghánistán stručná historie států Jan Marek,95,2,2003,120,Libri,naučná,Jan Marek,české,"Přední znalec problematiky tohoto regionu, orientalista doc. J. Marek se ujal vylíčení pohnutých dějin této hornaté země, která vždy žárlivě střežila svou samostatnost od dob...",50,100,"['naučná', '', 'Libri, Jan Marek, české']"
+n432439,Dopisy a dokumenty Nicolas Poussin,0,0,2003,144,Arbor vitae,naučná,Nicolas Poussin,české,"Nicolas Poussin (1594–1665) patří svým dílem k vrcholům světového malířství, současník filozofa Descartese a dramatika Corneille vtiskl, stejně jako oni, znamení celé epoše,...",141,190,"['naučná', '', 'Arbor vitae, Nicolas Poussin, české']"
+n2327439,"Fotografie vidí povrch -- La photographie reflete L'aspect des choses - Funke Jaromír, Sutnar Ladislav",0,0,2003,60,Torst,naučná,Ladislav Sutnar,české,Fotografie vidí povrch kniha od autora Ladislav Sutnar. Fotoreprint jedinečné fotografické publikace nakladatelství Družstevní práce z roku 1935 přináší všem zájemcům o českou...,50,284,"['naučná', '', 'Torst, Ladislav Sutnar, české']"
+n46154239,Andělé života a smrti,0,0,2003,116,Fontána,esoterika,Liselotte Baertz,české,"Lisolette Baertz/ Fontána, brožovaná, 116 stran, ISBN 80-7336-067-5
+Duchovní průvodci životem a smrtí
+Lisolette Baerzová patří k nejzkušenějším terapeutkám a učitelkám...",169,238,"['esoterika', '', 'Fontána, Liselotte Baertz, české']"
+n392740,Já to auto zvládnu,95,1,2003,118,Kopp,naučná,Jiří Jakub Kubeček,české,"Chcete své auto opravdu zvládnout? Máte zájem o zkušenosti nabyté provozem osobního auta? Přivítáte rádce, který vám pomůže v různých obtížných situacích a těžkostech s autem?...",63,95,"['naučná', '', 'Kopp, Jiří Jakub Kubeček, české']"
+n51028272,Otto Gutfreund,93,3,2003,50,Kant,naučná,Adrian Dean,české,"Zpřístupnění sochařského díla Otto Gutfreunda z období expresionismu, kubismu (1911-4 )a poválečného období ze sbírky Jana a Medy Mládkových v Museu Kampa.",80,167,"['naučná', '', 'Kant, Adrian Dean, české']"
+n2962399,Prostředky bez účelu -- Poznámky o politice - Agamben Giorgio,0,0,2003,112,,naučná,Giorgio Agamben,české,Eseje obsažené v této knize jsou originálním zamyšlením nad stavem současného politického života a radikální kritikou vyprázdněných kategorií současné politiky. Giorgio Agamben...,89,165,"['naučná', '', 'Giorgio Agamben, české']"
+n90030455,"AFTER THE QUAKE MURAKAMI, H.",0,0,2003,144,,naučná,Haruki Murakami,anglické,"The economy was booming. People had more money than they knew what to do with. And then the earthquake struck. For the characters in After the Quake, the Kobe earthquake is an...",208,277,"['naučná', '', 'Haruki Murakami, anglické']"
+n22930212,Dechové techniky,80,1,2003,120,Fontána,naučná,Markus Schirner,české,"Markus Schirner/ Fontána, vázaná, 120 stran.
+Dechová cvičení Východu i Západu
+Skrze dech jsme spojeni s tímto světem. Vědomé zacházení s naším  dechem ovlivňuje jemněhmotnou...",153,238,"['naučná', '', 'Fontána, Markus Schirner, české']"
+n51026492,Šiatsu - Aljoscha A. Schwarz,90,2,2003,113,Alternativa,naučná,Ronald P. Schweppe,české,"Šiatsu kniha od autora Ronald P. Schweppe. Přední němečtí znalci alternativní léčby a spirituality uvádějí do tajemství japonské masáže, založené na principu akupresury. Název...",74,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n365054,"Kytara určeno též pro samouky, Škola hry na kytaru - Základní kurz",88,10,2003,116,Svojtka&amp;Co.,naučná,Stanislav Barek,české,"Tato škola hry na kytaru je určena pro začátečníky i pokročilé a je vhodná jak pro žáky hudebních škol, tak i pro samouky. V první části získáte základní informace o ladění,...",98,159,"['naučná', '', 'Svojtka&Co., Stanislav Barek, české']"
+n238782793,Hraničáři od Adamovy hory,100,2,2003,168,Vaňourek Martin,naučná,Vaňourek Martin,české,"Hraničáři od Adamovy hory kniha od autora Stehlík Eduard, Vaňourek Martin. Hraničáři od Adamovy hory 
+
+Kniha obsahuje vzpomínky takřka dvou desítek mužů, které ve druhé...",396,405,"['naučná', '', 'Vaňourek Martin, Vaňourek Martin, české']"
+n18430680,Dějiny českých zemí (Petr Čornej; Jiří Pokorný),0,0,2003,134,Práh,naučná,Petr Čornej,japonské,Dějiny českých zemí (japonsky) kniha od autora Petr Čornej. Známý český historik a popularizátor historie vybral a poutavě napsal nejzajímavější příběhy z české historie od...,197,212,"['naučná', '', 'Práh, Petr Čornej, japonské']"
+n555787,Duchovní probuzení Edgar Cayce,95,1,2003,116,,esoterika,Edgar Cayce,české,"Jazyk: český
+Počet stran: 116
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",78,129,"['esoterika', '', 'Edgar Cayce, české']"
+n465084597,Duchovní léčení,0,0,2003,140,,naučná,Catherine Ponderová,české,"Jazyk: český
+Počet stran: 140
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",91,149,"['naučná', '', 'Catherine Ponderová, české']"
+n20383833,"Smyslové vnímání - metody reedukace specifických poruch - Žáčková,Jucovičová",0,0,2003,68,Nakladatelstvi D+ H,naučná,Drahomíra Jucovičová,české,"Metody reedukace specifických poruch učení.
+Rozvíjení smyslového vnímání v předškolním věku je významným předpokladem pro úspěšné zvládání školního učiva. U dětí ohrožených...",62,76,"['naučná', '', 'Nakladatelstvi D+ H, Drahomíra Jucovičová, české']"
+n364465,Celostní management Porvazník Ján,0,0,2003,0,Ikar,naučná,Ján Porvazník,české,"Pilíře kompetence v řízení
+
+Celostně zpracované množství poznatků o managemente:
+- kořeny, vznik, vývoj a předmět managementu
+- systémové poznávání a využívání objektů
+-...",471,474,"['naučná', '', 'Ikar, Ján Porvazník, české']"
+n459936064,"Cunningham Scott, Harrington David: VÝROBA MAGICKÝCH PŘEDMĚTŮ",100,1,2003,166,Fontána,esoterika,Cunningham Scott,české,"Scott Cunningham, David Harrington/ Fontána, vázaná, 165 stran.
+Podívejte se na své ruce. Vnímejte je jako zázračné prostředky moci. Vnímejte energii, která proudí skrze vše,...",166,238,"['esoterika', '', 'Fontána, Cunningham Scott, české']"
+n439408287,Genetika pro gymnázia: pro gymnázia - Šmarda Jan,0,0,2003,144,Fortuna Print,naučná,Jan Šmarda,české,"Nejen ti, kteří budou studovat na přírodovědeckých nebo lékařských fakultách, ale všichni vzdělaní středoškoláci se budou stále častěji setkávat s pojmy z genetiky. V souladu s...",129,159,"['naučná', '', 'Fortuna Print, Jan Šmarda, české']"
+n13924530,Nacionalismus - Ernest Gellner,80,1,2003,134,,naučná,Ernest Gellner,české,"Nacionalismus je nejen názvem první ze dvou posmrtně vydaných prací Ernesta Gellnera, je to především téma, které jej provázelo po celý aktivní život. Gellner pocházel z...",165,198,"['naučná', '', 'Ernest Gellner, české']"
+n22603342,MATLAB pro začátečníky,95,2,2003,151,Doňar Bohuslav,naučná,Zaplatílek Kar,české,"Kniha pro každého, kdo potřebuje rychle a s co nejmenší námahou pochopit základy práce s programovým systémem MATLAB. Systém je určen pro ty, kdo potřebují na počítači řešit...",154,199,"['naučná', '', 'Doňar Bohuslav, Zaplatílek Kar, české']"
+n25001686,Poslové světla,90,2,2003,64,Pragma,esoterika,Neale Donald Walsch,české,Kniha od autora světového bestselleru Hovory s Bohem! Veškeré pojmy v knize Hovory s Bohem krouží kolem jednoho ústředního tématu. Smyslem života je znovu stvořit vaše Já. Tato...,96,128,"['esoterika', '', 'Pragma, Neale Donald Walsch, české']"
+n376955,"Láska, vztahy a přátelství - Čtyři dohody - toltécká láska (Ruiz Don Miguel)",92,8,2003,156,Pragma,naučná,Don Miguel Ruiz,české,"Toltécká tradice říká, že k naší pravé povaze nás vede štěstí, svoboda a láska.
+Prvním krokem je vědomí. Chceme-li najít svobodu, musíme si uvědomit, čím opravdu jsme. Nemůžeme...",143,180,"['naučná', '', 'Pragma, Don Miguel Ruiz, české']"
+n25198845,"Feldenkrais - škola do kapsy -- cvičení pro zdraví - Schweppe Ronald P., Schwarz Aljoscha A.",95,1,2003,118,Alternativa,naučná,Ronald P. Schweppe,české,"Feldenkraisova metoda jednoduchých cviků přináší uvědomění o pochodech v těle i mysli a je schopna zvýšit zdraví a harmonii. Je celosvětově rozšířená. Cvičení jsou jednoduchá,...",75,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n455311500,Uniformy německé armády za 2. sv. války - Krawczyk Wade,95,2,2003,126,Naše vojsko,naučná,Krawczyk Wade,české,Jádrem této celobarevné publikace jsou fotografie zachovaných uniforem německé armády na živých modelech z dosud zveřejněných soukromých sbírek s kompletní autentickou polní...,148,419,"['naučná', '', 'Naše vojsko, Krawczyk Wade, české']"
+n2159574,"ZMIZELÁ PRAHA DODATKY 2. HISTORICKÁ PŘEDMĚSTÍ, PRAVÝ BŘEH",100,1,2003,128,Paseka,naučná,Kateřina Bečková,české,"Historická předměstí a okraje města - pravý břeh Vltavy 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a...",161,229,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n422189800,Zmizelá Praha-dodatky I.-historický střed města: Historický stred mesta - Bečková Kateřina,0,0,2003,152,Paseka,naučná,Kateřina Bečková,české,"Historický střed města 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a technickými, ale i uměleckými...",161,206,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n376941,Lidská tragikomedie - Ladislav Klíma,98,2,2003,104,,naučná,Ladislav Klíma,české,Lidská tragikomedie kniha od autora Ladislav Klíma. Divadelní hra excentrického českého filosofa a spisovatele.,99,138,"['naučná', '', 'Ladislav Klíma, české']"
+n22106417,Reiki Techniky dr.Hayashiho,100,1,2003,111,Fontána,naučná,Arjava Petter F. Yamaguchi T.,české,"Dr. Hajashi byl nejznámějším žákem praotce reiki dr. Mikaa Usuiho. Hayashi razil svůj vlastní styl a byl učitelem Hawayo Takataové, která přinesla techniky reiki na Západ. Na...",174,231,"['naučná', '', 'Fontána, Arjava Petter F. Yamaguchi T. , české']"
+n554612,"Vyrábíme dárky s malými dětmi -- Náměty a nápady pro děti od 3 do 8 let - Stephanie R. Mueller, Ann E. Wheeler",0,0,2003,166,Portál,naučná,Mueller Stephanie R.,české,"Výroba dárků je oblíbená činnost v mateřských školách.
+Děti se snaží pracovat co nejlépe, jsou na své výrobky pyšné a učí se prožívat radost z dávání. Při tvorbě dárku mohou...",169,251,"['naučná', '', 'Portál, Mueller Stephanie R., české']"
+n2301820,Afghánistán stručná historie států Jan Marek,95,2,2003,120,Libri,naučná,Jan Marek,české,"Přední znalec problematiky tohoto regionu, orientalista doc. J. Marek se ujal vylíčení pohnutých dějin této hornaté země, která vždy žárlivě střežila svou samostatnost od dob...",50,100,"['naučná', '', 'Libri, Jan Marek, české']"
+n432439,Dopisy a dokumenty Nicolas Poussin,0,0,2003,144,Arbor vitae,naučná,Nicolas Poussin,české,"Nicolas Poussin (1594–1665) patří svým dílem k vrcholům světového malířství, současník filozofa Descartese a dramatika Corneille vtiskl, stejně jako oni, znamení celé epoše,...",141,190,"['naučná', '', 'Arbor vitae, Nicolas Poussin, české']"
+n2327439,"Fotografie vidí povrch -- La photographie reflete L'aspect des choses - Funke Jaromír, Sutnar Ladislav",0,0,2003,60,Torst,naučná,Ladislav Sutnar,české,Fotografie vidí povrch kniha od autora Ladislav Sutnar. Fotoreprint jedinečné fotografické publikace nakladatelství Družstevní práce z roku 1935 přináší všem zájemcům o českou...,50,284,"['naučná', '', 'Torst, Ladislav Sutnar, české']"
+n46154239,Andělé života a smrti,0,0,2003,116,Fontána,esoterika,Liselotte Baertz,české,"Lisolette Baertz/ Fontána, brožovaná, 116 stran, ISBN 80-7336-067-5
+Duchovní průvodci životem a smrtí
+Lisolette Baerzová patří k nejzkušenějším terapeutkám a učitelkám...",169,238,"['esoterika', '', 'Fontána, Liselotte Baertz, české']"
+n392740,Já to auto zvládnu,95,1,2003,118,Kopp,naučná,Jiří Jakub Kubeček,české,"Chcete své auto opravdu zvládnout? Máte zájem o zkušenosti nabyté provozem osobního auta? Přivítáte rádce, který vám pomůže v různých obtížných situacích a těžkostech s autem?...",63,95,"['naučná', '', 'Kopp, Jiří Jakub Kubeček, české']"
+n51028272,Otto Gutfreund,93,3,2003,50,Kant,naučná,Adrian Dean,české,"Zpřístupnění sochařského díla Otto Gutfreunda z období expresionismu, kubismu (1911-4 )a poválečného období ze sbírky Jana a Medy Mládkových v Museu Kampa.",80,167,"['naučná', '', 'Kant, Adrian Dean, české']"
+n2962399,Prostředky bez účelu -- Poznámky o politice - Agamben Giorgio,0,0,2003,112,,naučná,Giorgio Agamben,české,Eseje obsažené v této knize jsou originálním zamyšlením nad stavem současného politického života a radikální kritikou vyprázdněných kategorií současné politiky. Giorgio Agamben...,89,165,"['naučná', '', 'Giorgio Agamben, české']"
+n90030455,"AFTER THE QUAKE MURAKAMI, H.",0,0,2003,144,,naučná,Haruki Murakami,anglické,"The economy was booming. People had more money than they knew what to do with. And then the earthquake struck. For the characters in After the Quake, the Kobe earthquake is an...",208,277,"['naučná', '', 'Haruki Murakami, anglické']"
+n22930212,Dechové techniky,80,1,2003,120,Fontána,naučná,Markus Schirner,české,"Markus Schirner/ Fontána, vázaná, 120 stran.
+Dechová cvičení Východu i Západu
+Skrze dech jsme spojeni s tímto světem. Vědomé zacházení s naším  dechem ovlivňuje jemněhmotnou...",153,238,"['naučná', '', 'Fontána, Markus Schirner, české']"
+n51026492,Šiatsu - Aljoscha A. Schwarz,90,2,2003,113,Alternativa,naučná,Ronald P. Schweppe,české,"Šiatsu kniha od autora Ronald P. Schweppe. Přední němečtí znalci alternativní léčby a spirituality uvádějí do tajemství japonské masáže, založené na principu akupresury. Název...",74,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n365054,"Kytara určeno též pro samouky, Škola hry na kytaru - Základní kurz",88,10,2003,116,Svojtka&amp;Co.,naučná,Stanislav Barek,české,"Tato škola hry na kytaru je určena pro začátečníky i pokročilé a je vhodná jak pro žáky hudebních škol, tak i pro samouky. V první části získáte základní informace o ladění,...",98,159,"['naučná', '', 'Svojtka&Co., Stanislav Barek, české']"
+n238782793,Hraničáři od Adamovy hory,100,2,2003,168,Vaňourek Martin,naučná,Vaňourek Martin,české,"Hraničáři od Adamovy hory kniha od autora Stehlík Eduard, Vaňourek Martin. Hraničáři od Adamovy hory 
+
+Kniha obsahuje vzpomínky takřka dvou desítek mužů, které ve druhé...",396,405,"['naučná', '', 'Vaňourek Martin, Vaňourek Martin, české']"
+n18430680,Dějiny českých zemí (Petr Čornej; Jiří Pokorný),0,0,2003,134,Práh,naučná,Petr Čornej,japonské,Dějiny českých zemí (japonsky) kniha od autora Petr Čornej. Známý český historik a popularizátor historie vybral a poutavě napsal nejzajímavější příběhy z české historie od...,197,212,"['naučná', '', 'Práh, Petr Čornej, japonské']"
+n555787,Duchovní probuzení Edgar Cayce,95,1,2003,116,,esoterika,Edgar Cayce,české,"Jazyk: český
+Počet stran: 116
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",78,129,"['esoterika', '', 'Edgar Cayce, české']"
+n465084597,Duchovní léčení,0,0,2003,140,,naučná,Catherine Ponderová,české,"Jazyk: český
+Počet stran: 140
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",91,149,"['naučná', '', 'Catherine Ponderová, české']"
+n20383833,"Smyslové vnímání - metody reedukace specifických poruch - Žáčková,Jucovičová",0,0,2003,68,Nakladatelstvi D+ H,naučná,Drahomíra Jucovičová,české,"Metody reedukace specifických poruch učení.
+Rozvíjení smyslového vnímání v předškolním věku je významným předpokladem pro úspěšné zvládání školního učiva. U dětí ohrožených...",62,76,"['naučná', '', 'Nakladatelstvi D+ H, Drahomíra Jucovičová, české']"
+n364465,Celostní management Porvazník Ján,0,0,2003,0,Ikar,naučná,Ján Porvazník,české,"Pilíře kompetence v řízení
+
+Celostně zpracované množství poznatků o managemente:
+- kořeny, vznik, vývoj a předmět managementu
+- systémové poznávání a využívání objektů
+-...",471,474,"['naučná', '', 'Ikar, Ján Porvazník, české']"
+n459936064,"Cunningham Scott, Harrington David: VÝROBA MAGICKÝCH PŘEDMĚTŮ",100,1,2003,166,Fontána,esoterika,Cunningham Scott,české,"Scott Cunningham, David Harrington/ Fontána, vázaná, 165 stran.
+Podívejte se na své ruce. Vnímejte je jako zázračné prostředky moci. Vnímejte energii, která proudí skrze vše,...",166,238,"['esoterika', '', 'Fontána, Cunningham Scott, české']"
+n439408287,Genetika pro gymnázia: pro gymnázia - Šmarda Jan,0,0,2003,144,Fortuna Print,naučná,Jan Šmarda,české,"Nejen ti, kteří budou studovat na přírodovědeckých nebo lékařských fakultách, ale všichni vzdělaní středoškoláci se budou stále častěji setkávat s pojmy z genetiky. V souladu s...",129,159,"['naučná', '', 'Fortuna Print, Jan Šmarda, české']"
+n13924530,Nacionalismus - Ernest Gellner,80,1,2003,134,,naučná,Ernest Gellner,české,"Nacionalismus je nejen názvem první ze dvou posmrtně vydaných prací Ernesta Gellnera, je to především téma, které jej provázelo po celý aktivní život. Gellner pocházel z...",165,198,"['naučná', '', 'Ernest Gellner, české']"
+n22603342,MATLAB pro začátečníky,95,2,2003,151,Doňar Bohuslav,naučná,Zaplatílek Kar,české,"Kniha pro každého, kdo potřebuje rychle a s co nejmenší námahou pochopit základy práce s programovým systémem MATLAB. Systém je určen pro ty, kdo potřebují na počítači řešit...",154,199,"['naučná', '', 'Doňar Bohuslav, Zaplatílek Kar, české']"
+n25001686,Poslové světla,90,2,2003,64,Pragma,esoterika,Neale Donald Walsch,české,Kniha od autora světového bestselleru Hovory s Bohem! Veškeré pojmy v knize Hovory s Bohem krouží kolem jednoho ústředního tématu. Smyslem života je znovu stvořit vaše Já. Tato...,96,128,"['esoterika', '', 'Pragma, Neale Donald Walsch, české']"
+n376955,"Láska, vztahy a přátelství - Čtyři dohody - toltécká láska (Ruiz Don Miguel)",92,8,2003,156,Pragma,naučná,Don Miguel Ruiz,české,"Toltécká tradice říká, že k naší pravé povaze nás vede štěstí, svoboda a láska.
+Prvním krokem je vědomí. Chceme-li najít svobodu, musíme si uvědomit, čím opravdu jsme. Nemůžeme...",143,180,"['naučná', '', 'Pragma, Don Miguel Ruiz, české']"
+n25198845,"Feldenkrais - škola do kapsy -- cvičení pro zdraví - Schweppe Ronald P., Schwarz Aljoscha A.",95,1,2003,118,Alternativa,naučná,Ronald P. Schweppe,české,"Feldenkraisova metoda jednoduchých cviků přináší uvědomění o pochodech v těle i mysli a je schopna zvýšit zdraví a harmonii. Je celosvětově rozšířená. Cvičení jsou jednoduchá,...",75,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n455311500,Uniformy německé armády za 2. sv. války - Krawczyk Wade,95,2,2003,126,Naše vojsko,naučná,Krawczyk Wade,české,Jádrem této celobarevné publikace jsou fotografie zachovaných uniforem německé armády na živých modelech z dosud zveřejněných soukromých sbírek s kompletní autentickou polní...,148,419,"['naučná', '', 'Naše vojsko, Krawczyk Wade, české']"
+n2159574,"ZMIZELÁ PRAHA DODATKY 2. HISTORICKÁ PŘEDMĚSTÍ, PRAVÝ BŘEH",100,1,2003,128,Paseka,naučná,Kateřina Bečková,české,"Historická předměstí a okraje města - pravý břeh Vltavy 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a...",161,229,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n422189800,Zmizelá Praha-dodatky I.-historický střed města: Historický stred mesta - Bečková Kateřina,0,0,2003,152,Paseka,naučná,Kateřina Bečková,české,"Historický střed města 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a technickými, ale i uměleckými...",161,206,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n376941,Lidská tragikomedie - Ladislav Klíma,98,2,2003,104,,naučná,Ladislav Klíma,české,Lidská tragikomedie kniha od autora Ladislav Klíma. Divadelní hra excentrického českého filosofa a spisovatele.,99,138,"['naučná', '', 'Ladislav Klíma, české']"
+n22106417,Reiki Techniky dr.Hayashiho,100,1,2003,111,Fontána,naučná,Arjava Petter F. Yamaguchi T.,české,"Dr. Hajashi byl nejznámějším žákem praotce reiki dr. Mikaa Usuiho. Hayashi razil svůj vlastní styl a byl učitelem Hawayo Takataové, která přinesla techniky reiki na Západ. Na...",174,231,"['naučná', '', 'Fontána, Arjava Petter F. Yamaguchi T. , české']"
+n554612,"Vyrábíme dárky s malými dětmi -- Náměty a nápady pro děti od 3 do 8 let - Stephanie R. Mueller, Ann E. Wheeler",0,0,2003,166,Portál,naučná,Mueller Stephanie R.,české,"Výroba dárků je oblíbená činnost v mateřských školách.
+Děti se snaží pracovat co nejlépe, jsou na své výrobky pyšné a učí se prožívat radost z dávání. Při tvorbě dárku mohou...",169,251,"['naučná', '', 'Portál, Mueller Stephanie R., české']"
+n2301820,Afghánistán stručná historie států Jan Marek,95,2,2003,120,Libri,naučná,Jan Marek,české,"Přední znalec problematiky tohoto regionu, orientalista doc. J. Marek se ujal vylíčení pohnutých dějin této hornaté země, která vždy žárlivě střežila svou samostatnost od dob...",50,100,"['naučná', '', 'Libri, Jan Marek, české']"
+n432439,Dopisy a dokumenty Nicolas Poussin,0,0,2003,144,Arbor vitae,naučná,Nicolas Poussin,české,"Nicolas Poussin (1594–1665) patří svým dílem k vrcholům světového malířství, současník filozofa Descartese a dramatika Corneille vtiskl, stejně jako oni, znamení celé epoše,...",141,190,"['naučná', '', 'Arbor vitae, Nicolas Poussin, české']"
+n2327439,"Fotografie vidí povrch -- La photographie reflete L'aspect des choses - Funke Jaromír, Sutnar Ladislav",0,0,2003,60,Torst,naučná,Ladislav Sutnar,české,Fotografie vidí povrch kniha od autora Ladislav Sutnar. Fotoreprint jedinečné fotografické publikace nakladatelství Družstevní práce z roku 1935 přináší všem zájemcům o českou...,50,284,"['naučná', '', 'Torst, Ladislav Sutnar, české']"
+n46154239,Andělé života a smrti,0,0,2003,116,Fontána,esoterika,Liselotte Baertz,české,"Lisolette Baertz/ Fontána, brožovaná, 116 stran, ISBN 80-7336-067-5
+Duchovní průvodci životem a smrtí
+Lisolette Baerzová patří k nejzkušenějším terapeutkám a učitelkám...",169,238,"['esoterika', '', 'Fontána, Liselotte Baertz, české']"
+n392740,Já to auto zvládnu,95,1,2003,118,Kopp,naučná,Jiří Jakub Kubeček,české,"Chcete své auto opravdu zvládnout? Máte zájem o zkušenosti nabyté provozem osobního auta? Přivítáte rádce, který vám pomůže v různých obtížných situacích a těžkostech s autem?...",63,95,"['naučná', '', 'Kopp, Jiří Jakub Kubeček, české']"
+n51028272,Otto Gutfreund,93,3,2003,50,Kant,naučná,Adrian Dean,české,"Zpřístupnění sochařského díla Otto Gutfreunda z období expresionismu, kubismu (1911-4 )a poválečného období ze sbírky Jana a Medy Mládkových v Museu Kampa.",80,167,"['naučná', '', 'Kant, Adrian Dean, české']"
+n2962399,Prostředky bez účelu -- Poznámky o politice - Agamben Giorgio,0,0,2003,112,,naučná,Giorgio Agamben,české,Eseje obsažené v této knize jsou originálním zamyšlením nad stavem současného politického života a radikální kritikou vyprázdněných kategorií současné politiky. Giorgio Agamben...,89,165,"['naučná', '', 'Giorgio Agamben, české']"
+n90030455,"AFTER THE QUAKE MURAKAMI, H.",0,0,2003,144,,naučná,Haruki Murakami,anglické,"The economy was booming. People had more money than they knew what to do with. And then the earthquake struck. For the characters in After the Quake, the Kobe earthquake is an...",208,277,"['naučná', '', 'Haruki Murakami, anglické']"
+n22930212,Dechové techniky,80,1,2003,120,Fontána,naučná,Markus Schirner,české,"Markus Schirner/ Fontána, vázaná, 120 stran.
+Dechová cvičení Východu i Západu
+Skrze dech jsme spojeni s tímto světem. Vědomé zacházení s naším  dechem ovlivňuje jemněhmotnou...",153,238,"['naučná', '', 'Fontána, Markus Schirner, české']"
+n51026492,Šiatsu - Aljoscha A. Schwarz,90,2,2003,113,Alternativa,naučná,Ronald P. Schweppe,české,"Šiatsu kniha od autora Ronald P. Schweppe. Přední němečtí znalci alternativní léčby a spirituality uvádějí do tajemství japonské masáže, založené na principu akupresury. Název...",74,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n365054,"Kytara určeno též pro samouky, Škola hry na kytaru - Základní kurz",88,10,2003,116,Svojtka&amp;Co.,naučná,Stanislav Barek,české,"Tato škola hry na kytaru je určena pro začátečníky i pokročilé a je vhodná jak pro žáky hudebních škol, tak i pro samouky. V první části získáte základní informace o ladění,...",98,159,"['naučná', '', 'Svojtka&Co., Stanislav Barek, české']"
+n238782793,Hraničáři od Adamovy hory,100,2,2003,168,Vaňourek Martin,naučná,Vaňourek Martin,české,"Hraničáři od Adamovy hory kniha od autora Stehlík Eduard, Vaňourek Martin. Hraničáři od Adamovy hory 
+
+Kniha obsahuje vzpomínky takřka dvou desítek mužů, které ve druhé...",396,405,"['naučná', '', 'Vaňourek Martin, Vaňourek Martin, české']"
+n18430680,Dějiny českých zemí (Petr Čornej; Jiří Pokorný),0,0,2003,134,Práh,naučná,Petr Čornej,japonské,Dějiny českých zemí (japonsky) kniha od autora Petr Čornej. Známý český historik a popularizátor historie vybral a poutavě napsal nejzajímavější příběhy z české historie od...,197,212,"['naučná', '', 'Práh, Petr Čornej, japonské']"
+n555787,Duchovní probuzení Edgar Cayce,95,1,2003,116,,esoterika,Edgar Cayce,české,"Jazyk: český
+Počet stran: 116
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",78,129,"['esoterika', '', 'Edgar Cayce, české']"
+n465084597,Duchovní léčení,0,0,2003,140,,naučná,Catherine Ponderová,české,"Jazyk: český
+Počet stran: 140
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",91,149,"['naučná', '', 'Catherine Ponderová, české']"
+n20383833,"Smyslové vnímání - metody reedukace specifických poruch - Žáčková,Jucovičová",0,0,2003,68,Nakladatelstvi D+ H,naučná,Drahomíra Jucovičová,české,"Metody reedukace specifických poruch učení.
+Rozvíjení smyslového vnímání v předškolním věku je významným předpokladem pro úspěšné zvládání školního učiva. U dětí ohrožených...",62,76,"['naučná', '', 'Nakladatelstvi D+ H, Drahomíra Jucovičová, české']"
+n364465,Celostní management Porvazník Ján,0,0,2003,0,Ikar,naučná,Ján Porvazník,české,"Pilíře kompetence v řízení
+
+Celostně zpracované množství poznatků o managemente:
+- kořeny, vznik, vývoj a předmět managementu
+- systémové poznávání a využívání objektů
+-...",471,474,"['naučná', '', 'Ikar, Ján Porvazník, české']"
+n459936064,"Cunningham Scott, Harrington David: VÝROBA MAGICKÝCH PŘEDMĚTŮ",100,1,2003,166,Fontána,esoterika,Cunningham Scott,české,"Scott Cunningham, David Harrington/ Fontána, vázaná, 165 stran.
+Podívejte se na své ruce. Vnímejte je jako zázračné prostředky moci. Vnímejte energii, která proudí skrze vše,...",166,238,"['esoterika', '', 'Fontána, Cunningham Scott, české']"
+n439408287,Genetika pro gymnázia: pro gymnázia - Šmarda Jan,0,0,2003,144,Fortuna Print,naučná,Jan Šmarda,české,"Nejen ti, kteří budou studovat na přírodovědeckých nebo lékařských fakultách, ale všichni vzdělaní středoškoláci se budou stále častěji setkávat s pojmy z genetiky. V souladu s...",129,159,"['naučná', '', 'Fortuna Print, Jan Šmarda, české']"
+n13924530,Nacionalismus - Ernest Gellner,80,1,2003,134,,naučná,Ernest Gellner,české,"Nacionalismus je nejen názvem první ze dvou posmrtně vydaných prací Ernesta Gellnera, je to především téma, které jej provázelo po celý aktivní život. Gellner pocházel z...",165,198,"['naučná', '', 'Ernest Gellner, české']"
+n22603342,MATLAB pro začátečníky,95,2,2003,151,Doňar Bohuslav,naučná,Zaplatílek Kar,české,"Kniha pro každého, kdo potřebuje rychle a s co nejmenší námahou pochopit základy práce s programovým systémem MATLAB. Systém je určen pro ty, kdo potřebují na počítači řešit...",154,199,"['naučná', '', 'Doňar Bohuslav, Zaplatílek Kar, české']"
+n25001686,Poslové světla,90,2,2003,64,Pragma,esoterika,Neale Donald Walsch,české,Kniha od autora světového bestselleru Hovory s Bohem! Veškeré pojmy v knize Hovory s Bohem krouží kolem jednoho ústředního tématu. Smyslem života je znovu stvořit vaše Já. Tato...,96,128,"['esoterika', '', 'Pragma, Neale Donald Walsch, české']"
+n376955,"Láska, vztahy a přátelství - Čtyři dohody - toltécká láska (Ruiz Don Miguel)",92,8,2003,156,Pragma,naučná,Don Miguel Ruiz,české,"Toltécká tradice říká, že k naší pravé povaze nás vede štěstí, svoboda a láska.
+Prvním krokem je vědomí. Chceme-li najít svobodu, musíme si uvědomit, čím opravdu jsme. Nemůžeme...",143,180,"['naučná', '', 'Pragma, Don Miguel Ruiz, české']"
+n25198845,"Feldenkrais - škola do kapsy -- cvičení pro zdraví - Schweppe Ronald P., Schwarz Aljoscha A.",95,1,2003,118,Alternativa,naučná,Ronald P. Schweppe,české,"Feldenkraisova metoda jednoduchých cviků přináší uvědomění o pochodech v těle i mysli a je schopna zvýšit zdraví a harmonii. Je celosvětově rozšířená. Cvičení jsou jednoduchá,...",75,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n455311500,Uniformy německé armády za 2. sv. války - Krawczyk Wade,95,2,2003,126,Naše vojsko,naučná,Krawczyk Wade,české,Jádrem této celobarevné publikace jsou fotografie zachovaných uniforem německé armády na živých modelech z dosud zveřejněných soukromých sbírek s kompletní autentickou polní...,148,419,"['naučná', '', 'Naše vojsko, Krawczyk Wade, české']"
+n2159574,"ZMIZELÁ PRAHA DODATKY 2. HISTORICKÁ PŘEDMĚSTÍ, PRAVÝ BŘEH",100,1,2003,128,Paseka,naučná,Kateřina Bečková,české,"Historická předměstí a okraje města - pravý břeh Vltavy 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a...",161,229,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n422189800,Zmizelá Praha-dodatky I.-historický střed města: Historický stred mesta - Bečková Kateřina,0,0,2003,152,Paseka,naučná,Kateřina Bečková,české,"Historický střed města 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a technickými, ale i uměleckými...",161,206,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n376941,Lidská tragikomedie - Ladislav Klíma,98,2,2003,104,,naučná,Ladislav Klíma,české,Lidská tragikomedie kniha od autora Ladislav Klíma. Divadelní hra excentrického českého filosofa a spisovatele.,99,138,"['naučná', '', 'Ladislav Klíma, české']"
+n22106417,Reiki Techniky dr.Hayashiho,100,1,2003,111,Fontána,naučná,Arjava Petter F. Yamaguchi T.,české,"Dr. Hajashi byl nejznámějším žákem praotce reiki dr. Mikaa Usuiho. Hayashi razil svůj vlastní styl a byl učitelem Hawayo Takataové, která přinesla techniky reiki na Západ. Na...",174,231,"['naučná', '', 'Fontána, Arjava Petter F. Yamaguchi T. , české']"
+n554612,"Vyrábíme dárky s malými dětmi -- Náměty a nápady pro děti od 3 do 8 let - Stephanie R. Mueller, Ann E. Wheeler",0,0,2003,166,Portál,naučná,Mueller Stephanie R.,české,"Výroba dárků je oblíbená činnost v mateřských školách.
+Děti se snaží pracovat co nejlépe, jsou na své výrobky pyšné a učí se prožívat radost z dávání. Při tvorbě dárku mohou...",169,251,"['naučná', '', 'Portál, Mueller Stephanie R., české']"
+n2301820,Afghánistán stručná historie států Jan Marek,95,2,2003,120,Libri,naučná,Jan Marek,české,"Přední znalec problematiky tohoto regionu, orientalista doc. J. Marek se ujal vylíčení pohnutých dějin této hornaté země, která vždy žárlivě střežila svou samostatnost od dob...",50,100,"['naučná', '', 'Libri, Jan Marek, české']"
+n432439,Dopisy a dokumenty Nicolas Poussin,0,0,2003,144,Arbor vitae,naučná,Nicolas Poussin,české,"Nicolas Poussin (1594–1665) patří svým dílem k vrcholům světového malířství, současník filozofa Descartese a dramatika Corneille vtiskl, stejně jako oni, znamení celé epoše,...",141,190,"['naučná', '', 'Arbor vitae, Nicolas Poussin, české']"
+n2327439,"Fotografie vidí povrch -- La photographie reflete L'aspect des choses - Funke Jaromír, Sutnar Ladislav",0,0,2003,60,Torst,naučná,Ladislav Sutnar,české,Fotografie vidí povrch kniha od autora Ladislav Sutnar. Fotoreprint jedinečné fotografické publikace nakladatelství Družstevní práce z roku 1935 přináší všem zájemcům o českou...,50,284,"['naučná', '', 'Torst, Ladislav Sutnar, české']"
+n46154239,Andělé života a smrti,0,0,2003,116,Fontána,esoterika,Liselotte Baertz,české,"Lisolette Baertz/ Fontána, brožovaná, 116 stran, ISBN 80-7336-067-5
+Duchovní průvodci životem a smrtí
+Lisolette Baerzová patří k nejzkušenějším terapeutkám a učitelkám...",169,238,"['esoterika', '', 'Fontána, Liselotte Baertz, české']"
+n392740,Já to auto zvládnu,95,1,2003,118,Kopp,naučná,Jiří Jakub Kubeček,české,"Chcete své auto opravdu zvládnout? Máte zájem o zkušenosti nabyté provozem osobního auta? Přivítáte rádce, který vám pomůže v různých obtížných situacích a těžkostech s autem?...",63,95,"['naučná', '', 'Kopp, Jiří Jakub Kubeček, české']"
+n51028272,Otto Gutfreund,93,3,2003,50,Kant,naučná,Adrian Dean,české,"Zpřístupnění sochařského díla Otto Gutfreunda z období expresionismu, kubismu (1911-4 )a poválečného období ze sbírky Jana a Medy Mládkových v Museu Kampa.",80,167,"['naučná', '', 'Kant, Adrian Dean, české']"
+n2962399,Prostředky bez účelu -- Poznámky o politice - Agamben Giorgio,0,0,2003,112,,naučná,Giorgio Agamben,české,Eseje obsažené v této knize jsou originálním zamyšlením nad stavem současného politického života a radikální kritikou vyprázdněných kategorií současné politiky. Giorgio Agamben...,89,165,"['naučná', '', 'Giorgio Agamben, české']"
+n90030455,"AFTER THE QUAKE MURAKAMI, H.",0,0,2003,144,,naučná,Haruki Murakami,anglické,"The economy was booming. People had more money than they knew what to do with. And then the earthquake struck. For the characters in After the Quake, the Kobe earthquake is an...",208,277,"['naučná', '', 'Haruki Murakami, anglické']"
+n22930212,Dechové techniky,80,1,2003,120,Fontána,naučná,Markus Schirner,české,"Markus Schirner/ Fontána, vázaná, 120 stran.
+Dechová cvičení Východu i Západu
+Skrze dech jsme spojeni s tímto světem. Vědomé zacházení s naším  dechem ovlivňuje jemněhmotnou...",153,238,"['naučná', '', 'Fontána, Markus Schirner, české']"
+n51026492,Šiatsu - Aljoscha A. Schwarz,90,2,2003,113,Alternativa,naučná,Ronald P. Schweppe,české,"Šiatsu kniha od autora Ronald P. Schweppe. Přední němečtí znalci alternativní léčby a spirituality uvádějí do tajemství japonské masáže, založené na principu akupresury. Název...",74,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n365054,"Kytara určeno též pro samouky, Škola hry na kytaru - Základní kurz",88,10,2003,116,Svojtka&amp;Co.,naučná,Stanislav Barek,české,"Tato škola hry na kytaru je určena pro začátečníky i pokročilé a je vhodná jak pro žáky hudebních škol, tak i pro samouky. V první části získáte základní informace o ladění,...",98,159,"['naučná', '', 'Svojtka&Co., Stanislav Barek, české']"
+n238782793,Hraničáři od Adamovy hory,100,2,2003,168,Vaňourek Martin,naučná,Vaňourek Martin,české,"Hraničáři od Adamovy hory kniha od autora Stehlík Eduard, Vaňourek Martin. Hraničáři od Adamovy hory 
+
+Kniha obsahuje vzpomínky takřka dvou desítek mužů, které ve druhé...",396,405,"['naučná', '', 'Vaňourek Martin, Vaňourek Martin, české']"
+n18430680,Dějiny českých zemí (Petr Čornej; Jiří Pokorný),0,0,2003,134,Práh,naučná,Petr Čornej,japonské,Dějiny českých zemí (japonsky) kniha od autora Petr Čornej. Známý český historik a popularizátor historie vybral a poutavě napsal nejzajímavější příběhy z české historie od...,197,212,"['naučná', '', 'Práh, Petr Čornej, japonské']"
+n555787,Duchovní probuzení Edgar Cayce,95,1,2003,116,,esoterika,Edgar Cayce,české,"Jazyk: český
+Počet stran: 116
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",78,129,"['esoterika', '', 'Edgar Cayce, české']"
+n465084597,Duchovní léčení,0,0,2003,140,,naučná,Catherine Ponderová,české,"Jazyk: český
+Počet stran: 140
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",91,149,"['naučná', '', 'Catherine Ponderová, české']"
+n20383833,"Smyslové vnímání - metody reedukace specifických poruch - Žáčková,Jucovičová",0,0,2003,68,Nakladatelstvi D+ H,naučná,Drahomíra Jucovičová,české,"Metody reedukace specifických poruch učení.
+Rozvíjení smyslového vnímání v předškolním věku je významným předpokladem pro úspěšné zvládání školního učiva. U dětí ohrožených...",62,76,"['naučná', '', 'Nakladatelstvi D+ H, Drahomíra Jucovičová, české']"
+n364465,Celostní management Porvazník Ján,0,0,2003,0,Ikar,naučná,Ján Porvazník,české,"Pilíře kompetence v řízení
+
+Celostně zpracované množství poznatků o managemente:
+- kořeny, vznik, vývoj a předmět managementu
+- systémové poznávání a využívání objektů
+-...",471,474,"['naučná', '', 'Ikar, Ján Porvazník, české']"
+n459936064,"Cunningham Scott, Harrington David: VÝROBA MAGICKÝCH PŘEDMĚTŮ",100,1,2003,166,Fontána,esoterika,Cunningham Scott,české,"Scott Cunningham, David Harrington/ Fontána, vázaná, 165 stran.
+Podívejte se na své ruce. Vnímejte je jako zázračné prostředky moci. Vnímejte energii, která proudí skrze vše,...",166,238,"['esoterika', '', 'Fontána, Cunningham Scott, české']"
+n439408287,Genetika pro gymnázia: pro gymnázia - Šmarda Jan,0,0,2003,144,Fortuna Print,naučná,Jan Šmarda,české,"Nejen ti, kteří budou studovat na přírodovědeckých nebo lékařských fakultách, ale všichni vzdělaní středoškoláci se budou stále častěji setkávat s pojmy z genetiky. V souladu s...",129,159,"['naučná', '', 'Fortuna Print, Jan Šmarda, české']"
+n13924530,Nacionalismus - Ernest Gellner,80,1,2003,134,,naučná,Ernest Gellner,české,"Nacionalismus je nejen názvem první ze dvou posmrtně vydaných prací Ernesta Gellnera, je to především téma, které jej provázelo po celý aktivní život. Gellner pocházel z...",165,198,"['naučná', '', 'Ernest Gellner, české']"
+n22603342,MATLAB pro začátečníky,95,2,2003,151,Doňar Bohuslav,naučná,Zaplatílek Kar,české,"Kniha pro každého, kdo potřebuje rychle a s co nejmenší námahou pochopit základy práce s programovým systémem MATLAB. Systém je určen pro ty, kdo potřebují na počítači řešit...",154,199,"['naučná', '', 'Doňar Bohuslav, Zaplatílek Kar, české']"
+n25001686,Poslové světla,90,2,2003,64,Pragma,esoterika,Neale Donald Walsch,české,Kniha od autora světového bestselleru Hovory s Bohem! Veškeré pojmy v knize Hovory s Bohem krouží kolem jednoho ústředního tématu. Smyslem života je znovu stvořit vaše Já. Tato...,96,128,"['esoterika', '', 'Pragma, Neale Donald Walsch, české']"
+n376955,"Láska, vztahy a přátelství - Čtyři dohody - toltécká láska (Ruiz Don Miguel)",92,8,2003,156,Pragma,naučná,Don Miguel Ruiz,české,"Toltécká tradice říká, že k naší pravé povaze nás vede štěstí, svoboda a láska.
+Prvním krokem je vědomí. Chceme-li najít svobodu, musíme si uvědomit, čím opravdu jsme. Nemůžeme...",143,180,"['naučná', '', 'Pragma, Don Miguel Ruiz, české']"
+n25198845,"Feldenkrais - škola do kapsy -- cvičení pro zdraví - Schweppe Ronald P., Schwarz Aljoscha A.",95,1,2003,118,Alternativa,naučná,Ronald P. Schweppe,české,"Feldenkraisova metoda jednoduchých cviků přináší uvědomění o pochodech v těle i mysli a je schopna zvýšit zdraví a harmonii. Je celosvětově rozšířená. Cvičení jsou jednoduchá,...",75,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n455311500,Uniformy německé armády za 2. sv. války - Krawczyk Wade,95,2,2003,126,Naše vojsko,naučná,Krawczyk Wade,české,Jádrem této celobarevné publikace jsou fotografie zachovaných uniforem německé armády na živých modelech z dosud zveřejněných soukromých sbírek s kompletní autentickou polní...,148,419,"['naučná', '', 'Naše vojsko, Krawczyk Wade, české']"
+n2159574,"ZMIZELÁ PRAHA DODATKY 2. HISTORICKÁ PŘEDMĚSTÍ, PRAVÝ BŘEH",100,1,2003,128,Paseka,naučná,Kateřina Bečková,české,"Historická předměstí a okraje města - pravý břeh Vltavy 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a...",161,229,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n422189800,Zmizelá Praha-dodatky I.-historický střed města: Historický stred mesta - Bečková Kateřina,0,0,2003,152,Paseka,naučná,Kateřina Bečková,české,"Historický střed města 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a technickými, ale i uměleckými...",161,206,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n376941,Lidská tragikomedie - Ladislav Klíma,98,2,2003,104,,naučná,Ladislav Klíma,české,Lidská tragikomedie kniha od autora Ladislav Klíma. Divadelní hra excentrického českého filosofa a spisovatele.,99,138,"['naučná', '', 'Ladislav Klíma, české']"
+n22106417,Reiki Techniky dr.Hayashiho,100,1,2003,111,Fontána,naučná,Arjava Petter F. Yamaguchi T.,české,"Dr. Hajashi byl nejznámějším žákem praotce reiki dr. Mikaa Usuiho. Hayashi razil svůj vlastní styl a byl učitelem Hawayo Takataové, která přinesla techniky reiki na Západ. Na...",174,231,"['naučná', '', 'Fontána, Arjava Petter F. Yamaguchi T. , české']"
+n554612,"Vyrábíme dárky s malými dětmi -- Náměty a nápady pro děti od 3 do 8 let - Stephanie R. Mueller, Ann E. Wheeler",0,0,2003,166,Portál,naučná,Mueller Stephanie R.,české,"Výroba dárků je oblíbená činnost v mateřských školách.
+Děti se snaží pracovat co nejlépe, jsou na své výrobky pyšné a učí se prožívat radost z dávání. Při tvorbě dárku mohou...",169,251,"['naučná', '', 'Portál, Mueller Stephanie R., české']"
+n2301820,Afghánistán stručná historie států Jan Marek,95,2,2003,120,Libri,naučná,Jan Marek,české,"Přední znalec problematiky tohoto regionu, orientalista doc. J. Marek se ujal vylíčení pohnutých dějin této hornaté země, která vždy žárlivě střežila svou samostatnost od dob...",50,100,"['naučná', '', 'Libri, Jan Marek, české']"
+n432439,Dopisy a dokumenty Nicolas Poussin,0,0,2003,144,Arbor vitae,naučná,Nicolas Poussin,české,"Nicolas Poussin (1594–1665) patří svým dílem k vrcholům světového malířství, současník filozofa Descartese a dramatika Corneille vtiskl, stejně jako oni, znamení celé epoše,...",141,190,"['naučná', '', 'Arbor vitae, Nicolas Poussin, české']"
+n2327439,"Fotografie vidí povrch -- La photographie reflete L'aspect des choses - Funke Jaromír, Sutnar Ladislav",0,0,2003,60,Torst,naučná,Ladislav Sutnar,české,Fotografie vidí povrch kniha od autora Ladislav Sutnar. Fotoreprint jedinečné fotografické publikace nakladatelství Družstevní práce z roku 1935 přináší všem zájemcům o českou...,50,284,"['naučná', '', 'Torst, Ladislav Sutnar, české']"
+n46154239,Andělé života a smrti,0,0,2003,116,Fontána,esoterika,Liselotte Baertz,české,"Lisolette Baertz/ Fontána, brožovaná, 116 stran, ISBN 80-7336-067-5
+Duchovní průvodci životem a smrtí
+Lisolette Baerzová patří k nejzkušenějším terapeutkám a učitelkám...",169,238,"['esoterika', '', 'Fontána, Liselotte Baertz, české']"
+n392740,Já to auto zvládnu,95,1,2003,118,Kopp,naučná,Jiří Jakub Kubeček,české,"Chcete své auto opravdu zvládnout? Máte zájem o zkušenosti nabyté provozem osobního auta? Přivítáte rádce, který vám pomůže v různých obtížných situacích a těžkostech s autem?...",63,95,"['naučná', '', 'Kopp, Jiří Jakub Kubeček, české']"
+n51028272,Otto Gutfreund,93,3,2003,50,Kant,naučná,Adrian Dean,české,"Zpřístupnění sochařského díla Otto Gutfreunda z období expresionismu, kubismu (1911-4 )a poválečného období ze sbírky Jana a Medy Mládkových v Museu Kampa.",80,167,"['naučná', '', 'Kant, Adrian Dean, české']"
+n2962399,Prostředky bez účelu -- Poznámky o politice - Agamben Giorgio,0,0,2003,112,,naučná,Giorgio Agamben,české,Eseje obsažené v této knize jsou originálním zamyšlením nad stavem současného politického života a radikální kritikou vyprázdněných kategorií současné politiky. Giorgio Agamben...,89,165,"['naučná', '', 'Giorgio Agamben, české']"
+n90030455,"AFTER THE QUAKE MURAKAMI, H.",0,0,2003,144,,naučná,Haruki Murakami,anglické,"The economy was booming. People had more money than they knew what to do with. And then the earthquake struck. For the characters in After the Quake, the Kobe earthquake is an...",208,277,"['naučná', '', 'Haruki Murakami, anglické']"
+n22930212,Dechové techniky,80,1,2003,120,Fontána,naučná,Markus Schirner,české,"Markus Schirner/ Fontána, vázaná, 120 stran.
+Dechová cvičení Východu i Západu
+Skrze dech jsme spojeni s tímto světem. Vědomé zacházení s naším  dechem ovlivňuje jemněhmotnou...",153,238,"['naučná', '', 'Fontána, Markus Schirner, české']"
+n51026492,Šiatsu - Aljoscha A. Schwarz,90,2,2003,113,Alternativa,naučná,Ronald P. Schweppe,české,"Šiatsu kniha od autora Ronald P. Schweppe. Přední němečtí znalci alternativní léčby a spirituality uvádějí do tajemství japonské masáže, založené na principu akupresury. Název...",74,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n365054,"Kytara určeno též pro samouky, Škola hry na kytaru - Základní kurz",88,10,2003,116,Svojtka&amp;Co.,naučná,Stanislav Barek,české,"Tato škola hry na kytaru je určena pro začátečníky i pokročilé a je vhodná jak pro žáky hudebních škol, tak i pro samouky. V první části získáte základní informace o ladění,...",98,159,"['naučná', '', 'Svojtka&Co., Stanislav Barek, české']"
+n238782793,Hraničáři od Adamovy hory,100,2,2003,168,Vaňourek Martin,naučná,Vaňourek Martin,české,"Hraničáři od Adamovy hory kniha od autora Stehlík Eduard, Vaňourek Martin. Hraničáři od Adamovy hory 
+
+Kniha obsahuje vzpomínky takřka dvou desítek mužů, které ve druhé...",396,405,"['naučná', '', 'Vaňourek Martin, Vaňourek Martin, české']"
+n18430680,Dějiny českých zemí (Petr Čornej; Jiří Pokorný),0,0,2003,134,Práh,naučná,Petr Čornej,japonské,Dějiny českých zemí (japonsky) kniha od autora Petr Čornej. Známý český historik a popularizátor historie vybral a poutavě napsal nejzajímavější příběhy z české historie od...,197,212,"['naučná', '', 'Práh, Petr Čornej, japonské']"
+n555787,Duchovní probuzení Edgar Cayce,95,1,2003,116,,esoterika,Edgar Cayce,české,"Jazyk: český
+Počet stran: 116
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",78,129,"['esoterika', '', 'Edgar Cayce, české']"
+n465084597,Duchovní léčení,0,0,2003,140,,naučná,Catherine Ponderová,české,"Jazyk: český
+Počet stran: 140
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",91,149,"['naučná', '', 'Catherine Ponderová, české']"
+n20383833,"Smyslové vnímání - metody reedukace specifických poruch - Žáčková,Jucovičová",0,0,2003,68,Nakladatelstvi D+ H,naučná,Drahomíra Jucovičová,české,"Metody reedukace specifických poruch učení.
+Rozvíjení smyslového vnímání v předškolním věku je významným předpokladem pro úspěšné zvládání školního učiva. U dětí ohrožených...",62,76,"['naučná', '', 'Nakladatelstvi D+ H, Drahomíra Jucovičová, české']"
+n364465,Celostní management Porvazník Ján,0,0,2003,0,Ikar,naučná,Ján Porvazník,české,"Pilíře kompetence v řízení
+
+Celostně zpracované množství poznatků o managemente:
+- kořeny, vznik, vývoj a předmět managementu
+- systémové poznávání a využívání objektů
+-...",471,474,"['naučná', '', 'Ikar, Ján Porvazník, české']"
+n459936064,"Cunningham Scott, Harrington David: VÝROBA MAGICKÝCH PŘEDMĚTŮ",100,1,2003,166,Fontána,esoterika,Cunningham Scott,české,"Scott Cunningham, David Harrington/ Fontána, vázaná, 165 stran.
+Podívejte se na své ruce. Vnímejte je jako zázračné prostředky moci. Vnímejte energii, která proudí skrze vše,...",166,238,"['esoterika', '', 'Fontána, Cunningham Scott, české']"
+n439408287,Genetika pro gymnázia: pro gymnázia - Šmarda Jan,0,0,2003,144,Fortuna Print,naučná,Jan Šmarda,české,"Nejen ti, kteří budou studovat na přírodovědeckých nebo lékařských fakultách, ale všichni vzdělaní středoškoláci se budou stále častěji setkávat s pojmy z genetiky. V souladu s...",129,159,"['naučná', '', 'Fortuna Print, Jan Šmarda, české']"
+n13924530,Nacionalismus - Ernest Gellner,80,1,2003,134,,naučná,Ernest Gellner,české,"Nacionalismus je nejen názvem první ze dvou posmrtně vydaných prací Ernesta Gellnera, je to především téma, které jej provázelo po celý aktivní život. Gellner pocházel z...",165,198,"['naučná', '', 'Ernest Gellner, české']"
+n22603342,MATLAB pro začátečníky,95,2,2003,151,Doňar Bohuslav,naučná,Zaplatílek Kar,české,"Kniha pro každého, kdo potřebuje rychle a s co nejmenší námahou pochopit základy práce s programovým systémem MATLAB. Systém je určen pro ty, kdo potřebují na počítači řešit...",154,199,"['naučná', '', 'Doňar Bohuslav, Zaplatílek Kar, české']"
+n25001686,Poslové světla,90,2,2003,64,Pragma,esoterika,Neale Donald Walsch,české,Kniha od autora světového bestselleru Hovory s Bohem! Veškeré pojmy v knize Hovory s Bohem krouží kolem jednoho ústředního tématu. Smyslem života je znovu stvořit vaše Já. Tato...,96,128,"['esoterika', '', 'Pragma, Neale Donald Walsch, české']"
+n376955,"Láska, vztahy a přátelství - Čtyři dohody - toltécká láska (Ruiz Don Miguel)",92,8,2003,156,Pragma,naučná,Don Miguel Ruiz,české,"Toltécká tradice říká, že k naší pravé povaze nás vede štěstí, svoboda a láska.
+Prvním krokem je vědomí. Chceme-li najít svobodu, musíme si uvědomit, čím opravdu jsme. Nemůžeme...",143,180,"['naučná', '', 'Pragma, Don Miguel Ruiz, české']"
+n25198845,"Feldenkrais - škola do kapsy -- cvičení pro zdraví - Schweppe Ronald P., Schwarz Aljoscha A.",95,1,2003,118,Alternativa,naučná,Ronald P. Schweppe,české,"Feldenkraisova metoda jednoduchých cviků přináší uvědomění o pochodech v těle i mysli a je schopna zvýšit zdraví a harmonii. Je celosvětově rozšířená. Cvičení jsou jednoduchá,...",75,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n455311500,Uniformy německé armády za 2. sv. války - Krawczyk Wade,95,2,2003,126,Naše vojsko,naučná,Krawczyk Wade,české,Jádrem této celobarevné publikace jsou fotografie zachovaných uniforem německé armády na živých modelech z dosud zveřejněných soukromých sbírek s kompletní autentickou polní...,148,419,"['naučná', '', 'Naše vojsko, Krawczyk Wade, české']"
+n2159574,"ZMIZELÁ PRAHA DODATKY 2. HISTORICKÁ PŘEDMĚSTÍ, PRAVÝ BŘEH",100,1,2003,128,Paseka,naučná,Kateřina Bečková,české,"Historická předměstí a okraje města - pravý břeh Vltavy 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a...",161,229,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n422189800,Zmizelá Praha-dodatky I.-historický střed města: Historický stred mesta - Bečková Kateřina,0,0,2003,152,Paseka,naučná,Kateřina Bečková,české,"Historický střed města 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a technickými, ale i uměleckými...",161,206,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n376941,Lidská tragikomedie - Ladislav Klíma,98,2,2003,104,,naučná,Ladislav Klíma,české,Lidská tragikomedie kniha od autora Ladislav Klíma. Divadelní hra excentrického českého filosofa a spisovatele.,99,138,"['naučná', '', 'Ladislav Klíma, české']"
+n22106417,Reiki Techniky dr.Hayashiho,100,1,2003,111,Fontána,naučná,Arjava Petter F. Yamaguchi T.,české,"Dr. Hajashi byl nejznámějším žákem praotce reiki dr. Mikaa Usuiho. Hayashi razil svůj vlastní styl a byl učitelem Hawayo Takataové, která přinesla techniky reiki na Západ. Na...",174,231,"['naučná', '', 'Fontána, Arjava Petter F. Yamaguchi T. , české']"
+n554612,"Vyrábíme dárky s malými dětmi -- Náměty a nápady pro děti od 3 do 8 let - Stephanie R. Mueller, Ann E. Wheeler",0,0,2003,166,Portál,naučná,Mueller Stephanie R.,české,"Výroba dárků je oblíbená činnost v mateřských školách.
+Děti se snaží pracovat co nejlépe, jsou na své výrobky pyšné a učí se prožívat radost z dávání. Při tvorbě dárku mohou...",169,251,"['naučná', '', 'Portál, Mueller Stephanie R., české']"
+n2301820,Afghánistán stručná historie států Jan Marek,95,2,2003,120,Libri,naučná,Jan Marek,české,"Přední znalec problematiky tohoto regionu, orientalista doc. J. Marek se ujal vylíčení pohnutých dějin této hornaté země, která vždy žárlivě střežila svou samostatnost od dob...",50,100,"['naučná', '', 'Libri, Jan Marek, české']"
+n432439,Dopisy a dokumenty Nicolas Poussin,0,0,2003,144,Arbor vitae,naučná,Nicolas Poussin,české,"Nicolas Poussin (1594–1665) patří svým dílem k vrcholům světového malířství, současník filozofa Descartese a dramatika Corneille vtiskl, stejně jako oni, znamení celé epoše,...",141,190,"['naučná', '', 'Arbor vitae, Nicolas Poussin, české']"
+n2327439,"Fotografie vidí povrch -- La photographie reflete L'aspect des choses - Funke Jaromír, Sutnar Ladislav",0,0,2003,60,Torst,naučná,Ladislav Sutnar,české,Fotografie vidí povrch kniha od autora Ladislav Sutnar. Fotoreprint jedinečné fotografické publikace nakladatelství Družstevní práce z roku 1935 přináší všem zájemcům o českou...,50,284,"['naučná', '', 'Torst, Ladislav Sutnar, české']"
+n46154239,Andělé života a smrti,0,0,2003,116,Fontána,esoterika,Liselotte Baertz,české,"Lisolette Baertz/ Fontána, brožovaná, 116 stran, ISBN 80-7336-067-5
+Duchovní průvodci životem a smrtí
+Lisolette Baerzová patří k nejzkušenějším terapeutkám a učitelkám...",169,238,"['esoterika', '', 'Fontána, Liselotte Baertz, české']"
+n392740,Já to auto zvládnu,95,1,2003,118,Kopp,naučná,Jiří Jakub Kubeček,české,"Chcete své auto opravdu zvládnout? Máte zájem o zkušenosti nabyté provozem osobního auta? Přivítáte rádce, který vám pomůže v různých obtížných situacích a těžkostech s autem?...",63,95,"['naučná', '', 'Kopp, Jiří Jakub Kubeček, české']"
+n51028272,Otto Gutfreund,93,3,2003,50,Kant,naučná,Adrian Dean,české,"Zpřístupnění sochařského díla Otto Gutfreunda z období expresionismu, kubismu (1911-4 )a poválečného období ze sbírky Jana a Medy Mládkových v Museu Kampa.",80,167,"['naučná', '', 'Kant, Adrian Dean, české']"
+n2962399,Prostředky bez účelu -- Poznámky o politice - Agamben Giorgio,0,0,2003,112,,naučná,Giorgio Agamben,české,Eseje obsažené v této knize jsou originálním zamyšlením nad stavem současného politického života a radikální kritikou vyprázdněných kategorií současné politiky. Giorgio Agamben...,89,165,"['naučná', '', 'Giorgio Agamben, české']"
+n90030455,"AFTER THE QUAKE MURAKAMI, H.",0,0,2003,144,,naučná,Haruki Murakami,anglické,"The economy was booming. People had more money than they knew what to do with. And then the earthquake struck. For the characters in After the Quake, the Kobe earthquake is an...",208,277,"['naučná', '', 'Haruki Murakami, anglické']"
+n22930212,Dechové techniky,80,1,2003,120,Fontána,naučná,Markus Schirner,české,"Markus Schirner/ Fontána, vázaná, 120 stran.
+Dechová cvičení Východu i Západu
+Skrze dech jsme spojeni s tímto světem. Vědomé zacházení s naším  dechem ovlivňuje jemněhmotnou...",153,238,"['naučná', '', 'Fontána, Markus Schirner, české']"
+n51026492,Šiatsu - Aljoscha A. Schwarz,90,2,2003,113,Alternativa,naučná,Ronald P. Schweppe,české,"Šiatsu kniha od autora Ronald P. Schweppe. Přední němečtí znalci alternativní léčby a spirituality uvádějí do tajemství japonské masáže, založené na principu akupresury. Název...",74,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n365054,"Kytara určeno též pro samouky, Škola hry na kytaru - Základní kurz",88,10,2003,116,Svojtka&amp;Co.,naučná,Stanislav Barek,české,"Tato škola hry na kytaru je určena pro začátečníky i pokročilé a je vhodná jak pro žáky hudebních škol, tak i pro samouky. V první části získáte základní informace o ladění,...",98,159,"['naučná', '', 'Svojtka&Co., Stanislav Barek, české']"
+n238782793,Hraničáři od Adamovy hory,100,2,2003,168,Vaňourek Martin,naučná,Vaňourek Martin,české,"Hraničáři od Adamovy hory kniha od autora Stehlík Eduard, Vaňourek Martin. Hraničáři od Adamovy hory 
+
+Kniha obsahuje vzpomínky takřka dvou desítek mužů, které ve druhé...",396,405,"['naučná', '', 'Vaňourek Martin, Vaňourek Martin, české']"
+n18430680,Dějiny českých zemí (Petr Čornej; Jiří Pokorný),0,0,2003,134,Práh,naučná,Petr Čornej,japonské,Dějiny českých zemí (japonsky) kniha od autora Petr Čornej. Známý český historik a popularizátor historie vybral a poutavě napsal nejzajímavější příběhy z české historie od...,197,212,"['naučná', '', 'Práh, Petr Čornej, japonské']"
+n555787,Duchovní probuzení Edgar Cayce,95,1,2003,116,,esoterika,Edgar Cayce,české,"Jazyk: český
+Počet stran: 116
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",78,129,"['esoterika', '', 'Edgar Cayce, české']"
+n465084597,Duchovní léčení,0,0,2003,140,,naučná,Catherine Ponderová,české,"Jazyk: český
+Počet stran: 140
+Rok vydání: 2003
+Vazba / Podoba: Brožovaná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: AB - KONZULT,spol.s.r.o.",91,149,"['naučná', '', 'Catherine Ponderová, české']"
+n20383833,"Smyslové vnímání - metody reedukace specifických poruch - Žáčková,Jucovičová",0,0,2003,68,Nakladatelstvi D+ H,naučná,Drahomíra Jucovičová,české,"Metody reedukace specifických poruch učení.
+Rozvíjení smyslového vnímání v předškolním věku je významným předpokladem pro úspěšné zvládání školního učiva. U dětí ohrožených...",62,76,"['naučná', '', 'Nakladatelstvi D+ H, Drahomíra Jucovičová, české']"
+n364465,Celostní management Porvazník Ján,0,0,2003,0,Ikar,naučná,Ján Porvazník,české,"Pilíře kompetence v řízení
+
+Celostně zpracované množství poznatků o managemente:
+- kořeny, vznik, vývoj a předmět managementu
+- systémové poznávání a využívání objektů
+-...",471,474,"['naučná', '', 'Ikar, Ján Porvazník, české']"
+n459936064,"Cunningham Scott, Harrington David: VÝROBA MAGICKÝCH PŘEDMĚTŮ",100,1,2003,166,Fontána,esoterika,Cunningham Scott,české,"Scott Cunningham, David Harrington/ Fontána, vázaná, 165 stran.
+Podívejte se na své ruce. Vnímejte je jako zázračné prostředky moci. Vnímejte energii, která proudí skrze vše,...",166,238,"['esoterika', '', 'Fontána, Cunningham Scott, české']"
+n439408287,Genetika pro gymnázia: pro gymnázia - Šmarda Jan,0,0,2003,144,Fortuna Print,naučná,Jan Šmarda,české,"Nejen ti, kteří budou studovat na přírodovědeckých nebo lékařských fakultách, ale všichni vzdělaní středoškoláci se budou stále častěji setkávat s pojmy z genetiky. V souladu s...",129,159,"['naučná', '', 'Fortuna Print, Jan Šmarda, české']"
+n13924530,Nacionalismus - Ernest Gellner,80,1,2003,134,,naučná,Ernest Gellner,české,"Nacionalismus je nejen názvem první ze dvou posmrtně vydaných prací Ernesta Gellnera, je to především téma, které jej provázelo po celý aktivní život. Gellner pocházel z...",165,198,"['naučná', '', 'Ernest Gellner, české']"
+n22603342,MATLAB pro začátečníky,95,2,2003,151,Doňar Bohuslav,naučná,Zaplatílek Kar,české,"Kniha pro každého, kdo potřebuje rychle a s co nejmenší námahou pochopit základy práce s programovým systémem MATLAB. Systém je určen pro ty, kdo potřebují na počítači řešit...",154,199,"['naučná', '', 'Doňar Bohuslav, Zaplatílek Kar, české']"
+n25001686,Poslové světla,90,2,2003,64,Pragma,esoterika,Neale Donald Walsch,české,Kniha od autora světového bestselleru Hovory s Bohem! Veškeré pojmy v knize Hovory s Bohem krouží kolem jednoho ústředního tématu. Smyslem života je znovu stvořit vaše Já. Tato...,96,128,"['esoterika', '', 'Pragma, Neale Donald Walsch, české']"
+n376955,"Láska, vztahy a přátelství - Čtyři dohody - toltécká láska (Ruiz Don Miguel)",92,8,2003,156,Pragma,naučná,Don Miguel Ruiz,české,"Toltécká tradice říká, že k naší pravé povaze nás vede štěstí, svoboda a láska.
+Prvním krokem je vědomí. Chceme-li najít svobodu, musíme si uvědomit, čím opravdu jsme. Nemůžeme...",143,180,"['naučná', '', 'Pragma, Don Miguel Ruiz, české']"
+n25198845,"Feldenkrais - škola do kapsy -- cvičení pro zdraví - Schweppe Ronald P., Schwarz Aljoscha A.",95,1,2003,118,Alternativa,naučná,Ronald P. Schweppe,české,"Feldenkraisova metoda jednoduchých cviků přináší uvědomění o pochodech v těle i mysli a je schopna zvýšit zdraví a harmonii. Je celosvětově rozšířená. Cvičení jsou jednoduchá,...",75,110,"['naučná', '', 'Alternativa, Ronald P. Schweppe, české']"
+n455311500,Uniformy německé armády za 2. sv. války - Krawczyk Wade,95,2,2003,126,Naše vojsko,naučná,Krawczyk Wade,české,Jádrem této celobarevné publikace jsou fotografie zachovaných uniforem německé armády na živých modelech z dosud zveřejněných soukromých sbírek s kompletní autentickou polní...,148,419,"['naučná', '', 'Naše vojsko, Krawczyk Wade, české']"
+n2159574,"ZMIZELÁ PRAHA DODATKY 2. HISTORICKÁ PŘEDMĚSTÍ, PRAVÝ BŘEH",100,1,2003,128,Paseka,naučná,Kateřina Bečková,české,"Historická předměstí a okraje města - pravý břeh Vltavy 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a...",161,229,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n422189800,Zmizelá Praha-dodatky I.-historický střed města: Historický stred mesta - Bečková Kateřina,0,0,2003,152,Paseka,naučná,Kateřina Bečková,české,"Historický střed města 
+
+Novodobá úprava a kvapná přestavba starých částí Prahy, zahájená v polovině 19. století a motivovaná hospodářskými a technickými, ale i uměleckými...",161,206,"['naučná', '', 'Paseka, Kateřina Bečková, české']"
+n376941,Lidská tragikomedie - Ladislav Klíma,98,2,2003,104,,naučná,Ladislav Klíma,české,Lidská tragikomedie kniha od autora Ladislav Klíma. Divadelní hra excentrického českého filosofa a spisovatele.,99,138,"['naučná', '', 'Ladislav Klíma, české']"
+n22106417,Reiki Techniky dr.Hayashiho,100,1,2003,111,Fontána,naučná,Arjava Petter F. Yamaguchi T.,české,"Dr. Hajashi byl nejznámějším žákem praotce reiki dr. Mikaa Usuiho. Hayashi razil svůj vlastní styl a byl učitelem Hawayo Takataové, která přinesla techniky reiki na Západ. Na...",174,231,"['naučná', '', 'Fontána, Arjava Petter F. Yamaguchi T. , české']"
+n554612,"Vyrábíme dárky s malými dětmi -- Náměty a nápady pro děti od 3 do 8 let - Stephanie R. Mueller, Ann E. Wheeler",0,0,2003,166,Portál,naučná,Mueller Stephanie R.,české,"Výroba dárků je oblíbená činnost v mateřských školách.
+Děti se snaží pracovat co nejlépe, jsou na své výrobky pyšné a učí se prožívat radost z dávání. Při tvorbě dárku mohou...",169,251,"['naučná', '', 'Portál, Mueller Stephanie R., české']"
+n2301820,Afghánistán stručná historie států Jan Marek,95,2,2003,120,Libri,naučná,Jan Marek,české,"Přední znalec problematiky tohoto regionu, orientalista doc. J. Marek se ujal vylíčení pohnutých dějin této hornaté země, která vždy žárlivě střežila svou samostatnost od dob...",50,100,"['naučná', '', 'Libri, Jan Marek, české']"
+n432439,Dopisy a dokumenty Nicolas Poussin,0,0,2003,144,Arbor vitae,naučná,Nicolas Poussin,české,"Nicolas Poussin (1594–1665) patří svým dílem k vrcholům světového malířství, současník filozofa Descartese a dramatika Corneille vtiskl, stejně jako oni, znamení celé epoše,...",141,190,"['naučná', '', 'Arbor vitae, Nicolas Poussin, české']"
+n2327439,"Fotografie vidí povrch -- La photographie reflete L'aspect des choses - Funke Jaromír, Sutnar Ladislav",0,0,2003,60,Torst,naučná,Ladislav Sutnar,české,Fotografie vidí povrch kniha od autora Ladislav Sutnar. Fotoreprint jedinečné fotografické publikace nakladatelství Družstevní práce z roku 1935 přináší všem zájemcům o českou...,50,284,"['naučná', '', 'Torst, Ladislav Sutnar, české']"
+n46154239,Andělé života a smrti,0,0,2003,116,Fontána,esoterika,Liselotte Baertz,české,"Lisolette Baertz/ Fontána, brožovaná, 116 stran, ISBN 80-7336-067-5
+Duchovní průvodci životem a smrtí
+Lisolette Baerzová patří k nejzkušenějším terapeutkám a učitelkám...",169,238,"['esoterika', '', 'Fontána, Liselotte Baertz, české']"
+n392740,Já to auto zvládnu,95,1,2003,118,Kopp,naučná,Jiří Jakub Kubeček,české,"Chcete své auto opravdu zvládnout? Máte zájem o zkušenosti nabyté provozem osobního auta? Přivítáte rádce, který vám pomůže v různých obtížných situacích a těžkostech s autem?...",63,95,"['naučná', '', 'Kopp, Jiří Jakub Kubeček, české']"
+n51028272,Otto Gutfreund,93,3,2003,50,Kant,naučná,Adrian Dean,české,"Zpřístupnění sochařského díla Otto Gutfreunda z období expresionismu, kubismu (1911-4 )a poválečného období ze sbírky Jana a Medy Mládkových v Museu Kampa.",80,167,"['naučná', '', 'Kant, Adrian Dean, české']"
+n2962399,Prostředky bez účelu -- Poznámky o politice - Agamben Giorgio,0,0,2003,112,,naučná,Giorgio Agamben,české,Eseje obsažené v této knize jsou originálním zamyšlením nad stavem současného politického života a radikální kritikou vyprázdněných kategorií současné politiky. Giorgio Agamben...,89,165,"['naučná', '', 'Giorgio Agamben, české']"
+n90030455,"AFTER THE QUAKE MURAKAMI, H.",0,0,2003,144,,naučná,Haruki Murakami,anglické,"The economy was booming. People had more money than they knew what to do with. And then the earthquake struck. For the characters in After the Quake, the Kobe earthquake is an...",208,277,"['naučná', '', 'Haruki Murakami, anglické']"

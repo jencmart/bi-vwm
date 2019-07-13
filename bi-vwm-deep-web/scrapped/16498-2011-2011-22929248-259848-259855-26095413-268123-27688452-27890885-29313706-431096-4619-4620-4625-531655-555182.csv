@@ -1,0 +1,541 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"
+n38997578,Čtyřhodinové tělo Timothy Ferriss,88,20,2011,600,Jan Melvil Publishing,naučná,Timothy Ferriss,české,"Podtitul: Neobvyklá cesta ke zhubnutí, zlepšení sexu a vůbec k proměně v superčlověka. 
+
+Pokud znáte Ferrissův úspěšný a kontroverzní ""Čtyřhodinový pracovní týden"", je vám...",418,599,"['naučná', '', 'Jan Melvil Publishing, Timothy Ferriss, české']"
+n29834331,Nemoc jako řeč dětské duše,93,12,2011,700,Fontána,naučná,Vera Kaeseman,české,"Kniha Nemoc jako řeč dětské duše je důležitým průvodcem pro všechny, kdo chtějí stát po boku svých dětí a podporovat je celostním, uvědomělým způbem. Kniha je nejen důležitou...",281,438,"['naučná', '', 'Fontána, Ruediger Dahlke, Vera Kaeseman, české']"
+n36321513,Černá labuť Nassim Nicholas Taleb,93,25,2011,478,Paseka,naučná,Nassim Nicholas Taleb,české,"Černá labuť - Nassim Nicholas TalebBestseller amerického akademika a investičního poradce libanonského původu analyzuje fenomén černých labutí, tj. nepředvídaných jevů a...",317,450,"['naučná', '', 'Paseka, Nassim Nicholas Taleb, české']"
+n24586129,Rok v mateřské škole,87,6,2011,496,Portál,dětské,Vladimíra Gebh,české,"Kurikulum předškolní výchovy
+Čtyři úspěšné projekty výchovně vzdělávací práce v předškolním období (Jaro, Léto, Podzim, Zima v mateřské škole), vydávané nyní v ucelené...",381,562,"['dětské', '', 'Portál, Eva Opravilová, Vladimíra Gebh, české']"
+n54275231,Pet Sematary - Stephen King,0,0,2011,465,Hodder,naučná,Stephen King,anglické,"Autor : Stephen King, Popis : 
+ A perennial classic from Stephen King - timeless and topical. 
+
+ The house looked right, felt right to Dr Louis Creed.Rambling, old, unsmart and...",153,287,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n366887,Sluneční znamení - Linda Goodmanová,89,14,2011,528,Jota,esoterika,Goodmanová Linda,české,"Sluneční znamení 
+
+Postavení planet při narození zkoumali hvězdáři již od nepaměti. Již tenkrát věřili, že vlastnosti jednotlivých planet a jejich vzájemné postavení výrazně...",223,348,"['esoterika', '', 'Jota, Goodmanová Linda, české']"
+n696029414,Umění filmu - David Bordwell,100,4,2011,680,Bordwell,naučná,David,české,Překlad devátého vydání legendární knihy amerických autorů Davida Bordwella a Kristin Thompsonové. Kniha poprvé vyšla v roce 1979 a od té doby se stala základní učebnicí pro...,704,999,"['naučná', '', 'Bordwell, David, české']"
+n52411273,Ve světle Pravdy - Poselství Grálu - komplet 3 knihy,80,5,2011,1040,Nakladatelství Poselství Grálu,naučná,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin, velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",305,490,"['naučná', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n53881722,Christine - Stephen King,0,0,2011,750,Hodder,naučná,Stephen King,anglické,"Barcelona, léto 2003 Tři ženy někdo rituálně zavraždil. Do kůže jim vyryl podivné symboly a z úst vyřízl jazyk. Inspektor Fabregat si láme hlavu nad iluminovanými dopisy, které...",140,261,"['naučná', '', 'Hodder, Stephen King, anglické']"
+n662051026,Metody oceňování podniku pro pokročilé. Hlubší pohled na vybrané problémy,0,0,2011,548,,naučná,Mařík Miloš,české,"Ocenění podniku je syntézou podnikohospodářských oborů, ve které by se měly skloubit rozsáhlé poznatky podnikové ekonomiky, disciplín zaměřených na trh, daní a vlastních metod...",446,640,"['naučná', '', 'Mařík Miloš, české']"
+n581280086,Talmud a midraš / Úvod do rabínské literatury,90,2,2011,496,Vyšehrad,naučná,Günter Stemberger,české,"Knihu Talmud a midraš napsal světově proslulý znalec judaistiky Günter Stemberger 
+ Günter Stemberger seznamuje čtenáře s dobovými souvislostmi rabínského židovství i s jeho...",185,199,"['naučná', '', 'Vyšehrad, Günter Stemberger, české']"
+n32043370,"Mezinárodní právo veřejné Zvláštní část, 6. vydání",0,0,2011,560,C.H.Beck,naučná,Miroslav Potočný,české,"Šesté vydání učebnice Mezinárodní právo veřejné - Zvláštní část reaguje na vývoj v oblasti mezinárodního práva, ke kterému došlo v posledních letech, tj. od pátého vydání...",770,865,"['naučná', '', 'C.H.Beck, Miroslav Potočný, české']"
+n20787112,Lékařská fyziologie - Kittnar Otomar,89,3,2011,800,Grada,naučná,Otomar Kittnar,české,"Kniha podává elementární principy fyziologických pochodů lidského těla v názorné, koncentrované a plně srozumitelné formě a je doplněna početnou obrazovou dokumentací. Také v...",870,1,"['naučná', '', 'Grada, Otomar Kittnar, české']"
+n52454460,Ve světle Pravdy - Poselství Grálu,100,6,2011,1072,Nakladatelství Poselství Grálu,esoterika,Abd-Ru-Shin,české,"V letech 1923-1938 napsal Abd-ru-shin,  velký počet přednášek, z nichž na sklonku svého života sestavil knihu „Ve světle Pravdy – Poselství Grálu“ v tzv. vydání poslední ruky....",487,750,"['esoterika', '', 'Nakladatelství Poselství Grálu, Abd-Ru-Shin, české']"
+n38204505,Leningrad,87,4,2011,488,Jota,naučná,Anna Reidová,české,"Tragédie obleženého města, 1941–1944
+
+Nejvýznamnější kniha k 70. výročí operace Barbarossy, která zodpovídá mnohé otázky i díky nově otevřeným sovětským archivům. 
+
+Osmého září...",248,398,"['naučná', '', 'Jota, Anna Reidová, české']"
+n38123661,Soulcraft Síla duše,97,2,2011,587,,naučná,Bill Plotkin,české,"Autor : Bill Plotkin, Popis : 
+ Kniha Soulcraft – síla duše je jako průvodce pro mystický sestup do dolního světa duše, do podsvětí našich všedních životů: objasňuje, čím tento...",230,375,"['naučná', '', 'Bill Plotkin, české']"
+n26639081,Talleyrand,93,1,2011,528,Akcent,naučná,Pavel B. Elbl,české,"Charles-Maurice Talleyrand de Périgord (1754–1838) se stal navzdory svému tělesnému handicapu způsobujícímu kulhání, nedostižným vytrvalcem ve skládání potupných přísah...",256,380,"['naučná', '', 'Akcent, Pavel B. Elbl, české']"
+n370144519,"New Introduction to Legal English I.. Revised Edition - Marta Chromá, Jana Dvořáková, Sean W. Davidson - Karolinum",0,0,2011,484,Karolinum,naučná,Chromá Marta,anglické,"Základní učebnice právnické angličtiny ve dvou dílech již 15 let poskytuje úvod do angloamerického systému práva, seznamuje s problematikou překladu právních textů a angličtiny...",272,365,"['naučná', '', 'Karolinum, Chromá Marta, anglické']"
+n30762023,Ars Sacra,94,16,2011,800,Slovart,naučná,Toman Rolf,české,"Na 800 stranách jsou popsány dějiny křesťanského umění od počátků až do dneška. Představeny jsou všechny epochy od pozdní antiky přes středověk, renesanci a baroko po...",1,4,"['naučná', '', 'Slovart, Toman Rolf, české']"
+n39119980,Kniha Zohar,82,8,2011,636,Volvox Globator,esoterika,Michael Laitman,české,"Kniha Zohar kniha od autora Laitman Rav Michael. Kniha Zohar je považována za stěžejní kabalistickou práci. Kniha je psána ve formě alegorických příběhů, jejichž...",397,557,"['esoterika', '', 'Volvox Globator, Michael Laitman, české']"
+n23158357,Dějiny židovského národa,91,9,2011,592,Leda,naučná,Paul Johnson,české,"Dějiny židovského národa
+Paul Johnson
+Dějiny Židů jsou svého druhu dějiny světa, ovšem viděné pod velmi neobvyklým úhlem, očima inteligentní a vzdělané oběti. Johnsonovi však...",202,325,"['naučná', '', 'Leda, Paul Johnson, české']"
+n31260700,"Sex je umět, chtít a vědět - Joannides Paul",80,4,2011,496,Alpress,naučná,Joannides Paul,české,"Autor : Joannides Paul, Popis : Publikace Sex je umět, chtít a vědět je napsaná mimořádně čtivě, nesmírně poutavým způsobem a s osvěžujícím dávkou laskavého humoru. 
+Paleta...",220,246,"['naučná', '', 'Alpress, Joannides Paul, české']"
+n33194142,"Starověké Řecko - Lesley Adkins, Roy A. Adkins",100,1,2011,464,Slovart,naučná,Roy A. Adkins,české,"Příručka, napsaná dvěma vynikajícími archeology, se věnuje všem oblastem života ve starověkém Řecku/Římě, a to jak velkým a všeobecným tématům jako geografie nebo vojenství,...",491,699,"['naučná', '', 'Slovart, Lesley Adkins, Roy A. Adkins, české']"
+n45298726,Manažerská ekonomika,92,2,2011,480,Grada,naučná,Miloslav Synek,české,"Nové, aktualizované a doplněné vydání nejpoužívanější publikace o řízení firmy je určeno všem manažerům, podnikatelům a studentům vysokých škol. V knize se dozvíte nezbytné...",508,635,"['naučná', '', 'Grada, Miloslav Synek, české']"
+n32549729,Barrandov I,99,7,2011,504,Ottovo nakladatelstvo,naučná,Pavel Jiras,české,"Barrandov je mimořádné dílo, které vytvořil Pavel Jiras. Jedná se o obrazovou historii českého filmu.
+
+ Je to kniha, která prostřednictvím dochovaných obrazových dokumentů...",398,1,"['naučná', '', 'Ottovo nakladatelstvo, Pavel Jiras, české']"
+n32815297,Politický systém České republiky,90,1,2011,488,Portál,naučná,Ladislav Cabada,české,"Historie a současnost
+Třetí, aktualizované a rozšířené vydání
+
+Předkládaná práce je klíčovou studijní příručkou k politickému systému České republiky. Vyprodání prvního i...",548,677,"['naučná', '', 'Portál, Ladislav Cabada, české']"
+n31186083,"Právo, zákonodárství a svoboda",0,0,2011,558,Prostor,naučná,Friedrich Augus Hayek,české,"Rakouský filozof a ekonom Friedrich August von Hayek, držitel Nobelovy ceny za ekonomii z roku 1974, psal své velké dílo Právo, zákonodárství a svoboda od poloviny šedesátých...",561,750,"['naučná', '', 'Prostor, Friedrich Augus Hayek, české']"
+n22542311,Miláček žen,77,4,2011,568,Alpress,naučná,Jackie Collins,české,"Bestseller Jackie Collins o touze vznést se ke hvězdám
+ Kniha Miláček žen  od světoznámé autorky románů pro ženy.
+Zamilovali se do sebe jako středoškoláci: Nick, kluk z okraje...",248,293,"['naučná', '', 'Alpress, Jackie Collins, české']"
+n22619778,Dopisy od Olgy (Ivan M. Havel),0,0,2011,512,,naučná,Ivan M. Havel,české,"Dopisy od Olgy kniha od autora Ivan M. Havel. Dopisy Olze, psané Václavem Havlem z vězení, jsou světově známým dílem českého písemnictví. Nyní vycházejí na světlo „Dopisy od...",281,379,"['naučná', '', 'Ivan M. Havel, české']"
+n460973213,Jádro systému Windows - Martin Dráb,0,0,2011,472,Computer Press,naučná,Martin Dráb,české,"Zajímá vás, jak operační systémy fungují? Potřebujete znát principy programování ovladačů? Chcete umět samostatně zkoumat vnitřní mechanismy jádra? Průvodce z pera českého...",549,819,"['naučná', '', 'Computer Press, Martin Dráb, české']"

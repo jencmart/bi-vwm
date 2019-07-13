@@ -1,0 +1,405 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n38794302,Môj macík,98,2,2010,12,slovenské,dětské,Mária Rázusová-Martáková</p>,,"Klasické rozprávkové leporelo pre najmenšie deti s nádhernými ilustráciami a mimoriadne populárnymi básničkami. Z ruského originálu prebásnila Mária Rázusová-Martáková.
+
+Autor:...",76,120,"['dětské', '', 'slovenské, Mária Rázusová-Martáková']"
+n459928484,Vyprávění o koních,100,1,2010,64,německé,dětské,Klaus-Peter Wolf</p>,,"Sedm příběhů o koních, nejen pro milovníky zvířat, ocení jistě všichni ti, kteří si chtějí procvičit své znalosti němčiny. Edice První čtení v němčině je určená pro samostatné...",131,187,"['dětské', '', 'německé, Klaus-Peter Wolf']"
+n259681516,Dear Zoo Rod Campbell,0,0,2010,18,anglické,dětské,Rod Campbell</p>,,"Rod Cambell stvořil příběh, který se stal naprosto kultovním po celém světě. A o čem je? O tom, že napíšete společně s dětmi do ZOO, aby Vám poslali zvířátko. Ale dorazí...",140,239,"['dětské', '', 'anglické, Rod Campbell']"
+n23351081,My First Number Sticker Book,0,0,2010,12,,dětské,anglické</p>,,"Zábavný pracovní sešit se samolepkami v angličtině, který seznamuje své malé čtenáře s čísly a prvními anglickými slovíčky. Přináší názorné fotografie věcí, kteréděti znají ze...",48,70,"['dětské', '', 'anglické']"
+n17476183,DK Opposites,0,0,2010,12,,dětské,anglické</p>,,"Opposites kniha od autora . Leporelo v angličtině, které seznamuje své malé čtenáře s protiklady. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá...",49,70,"['dětské', '', 'anglické']"
+n51165410,Rozprávky pre neposlušné deti,0,0,2010,168,slovenské,dětské,Jozef Gertli Da</p>,,"Máte doma dieťa, ktoré sa špára v nose, je zábudlivé, lenivé, papuľnaté a nechce sa umývať? Hľadáte dobrú polepšovňu, ktorá ho zachráni pred doživotnou neposlušnosťou? Už...",251,260,"['dětské', '', 'slovenské, Slovart, Dušan Taragel, Jozef Gertli Da']"
+n674911638,Ako žijú zvieratká,0,0,2010,64,slovenské,dětské,Vnímavé Deti,,"Jedinečná kniha pre malých čitateľov s množstvom poučných informácií - z jednej strany obsahuje príbeh o včielke, z druhej o lienke a jej kamarátoch na lúke. 
+
+Fascinujúcim...",165,241,"['dětské', '', 'slovenské, Vnímavé Deti, Döring, Hans-Günther']"
+n38794303,Rozprávky o psíčkovi a mačičke,0,0,2010,112,slovenské,dětské,Josef Čapek</p>,,"Obľúbené rozprávky o psíčkovi a mačičke, ako spolu gazdovali v malom domčeku pod lesom, ako si v ňom spolunažívali a chceli robiť všetko tak, ako robia veľkí ľudia a ešte o...",117,210,"['dětské', '', 'slovenské, Josef Čapek']"
+n51170548,Rozprávky o princoch - František Zacharník,0,0,2010,64,slovenské,dětské,František Zacharník</p>,,"Každá malá slečna niekedy snívala o svojom princovi, rovnako ako hlavné hrdinky tejto knižky, dievčatká Eliška a Sára, ktorým ich láskavý deduško každý večer pred spaním...",136,137,"['dětské', '', 'slovenské, Computer Press, František Zacharník']"
+n459929367,Krátky druhý život Bree Tannerovej,90,1,2010,168,slovenské,dětské,Stephenie Meyer</p>,,"Kniha Krátky druhý život Bree Tannerovej vyšla súčasne s uvedením filmu Zatmenie v slovenských kinách! Fanúšikovia Twilight ságy sa zamilujú do strhujúceho príbehu Bree Tanner,...",73,74,"['dětské', '', 'slovenské, Tatran, Stephenie Meyer']"
+n459928482,Fotbalové historky,0,0,2010,66,německé,dětské,Martin Klein</p>,,"Pět příběhů v němčině ze světa fotbalu, nejen pro sportovní fanoušky. Edice První čtení v němčině je určená pro samostatné čtení v cizím jazyce. Text je přizpůsoben jazykově i...",131,187,"['dětské', '', 'německé, Martin Klein']"
+n17476181,DK Colours,0,0,2010,12,,dětské,anglické</p>,,"Colours kniha od autora . Leporelo s představením základních barev v angličtině. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá pomůcka, pokud...",49,70,"['dětské', '', 'anglické']"
+n22602114,Čtenářský slovník pro nejmenší,0,0,2010,114,francouzské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",161,206,"['dětské', '', 'francouzské, Werner Färber']"
+n23351229,Puppy - Pop Up Book,0,0,2010,6,,dětské,anglické</p>,,"Prostorové leporelo v angličtině, které seznamuje své malé čtenáře s tím, co všechno dokáže štěnátko. Skvělá pomůcka, pokud chcete děti formou hry seznámit s angličtinou....",107,134,"['dětské', '', 'anglické']"
+n22602117,Čtenářský slovník pro nejmenší,0,0,2010,118,španělské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",171,206,"['dětské', '', 'španělské, Werner Färber']"
+n459928309,Ako začať zbierať známky,0,0,2010,56,slovenské,dětské,Perfekt</p>,,"Knižka o zbieraní známok dokáže svojím obsahom, obrazovým materiálom a hrou pritiahnuť k filatelii všetky deti. Zaujme a inšpiruje aj rodičov a starých rodičov, aby pohľadali...",212,311,"['dětské', '', 'slovenské, Perfekt']"
+n459929372,Šperky z háčkovaných korálikov,50,1,2010,32,slovenské,dětské,Monika a Nicole Helbigová</p>,,"Monika a Nicole Helbigová
+56
+Talentum 2010, edice Z dielne DaVINCI
+Kniha, slovenština, 32 stran",61,79,"['dětské', '', 'slovenské, Monika a Nicole Helbigová']"
+n632542811,O mravčekovi z lesa - Zuzana Pospíšilová,0,0,2010,12,slovenské,dětské,Mária Štefánková</p>,,"Veršovaný príbeh o mravčekovi, ktorý ochotne pomáhal všetkým kamarátom v lese, až zabudol postaviť vlastný dom. Rozkladacie výsekové leporelo dopĺňajú pôvabné obrázky.
+
+Autor:...",47,75,"['dětské', '', 'slovenské, Junior, Mária Štefánková']"
+n17488664,"Dinosaury Encyklopédia Benton, Mike",0,0,2010,160,slovenské,dětské,Mike Benton</p>,,V populárnej encyklopédii o dinosauroch sa na každej stránke ocitnete v tajomnom svete prehistorických obrov a zvláštnych rastlín. Encyklopédiu zostavil popredný dinosaurológ...,332,390,"['dětské', '', 'slovenské, Svojtka&Co., Mike Benton']"
+n17110114,"Biblické verše pre deti 2.diel Fričovský, Ladislav; Topolčany, Roman",0,0,2010,32,slovenské,dětské,Ladislav Fričovský</p>,,"Prvých sedem najznámejších príbehov zo Starého zákona ožíva vo veršoch, ktoré detského čitateľa vťahujú do rozprávania o Stvorení sveta, Kainovi a Ábelovi a Potope sveta v...",65,96,"['dětské', '', 'slovenské, Ladislav Fričovský']"
+n459929321,Smieškove prázdniny,0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Autor : Kristin Earhart, Popis : Poník Smieško sa teší na vianočné prázdniny, ktoré prežije spolu so všetkými svojimi priateľmi.
+Myšiak Robin však príde so zlou správou:...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n17304734,"365 nápadov na kreslenie a maľovanie Watt, Fiona",0,0,2010,128,slovenské,dětské,Fiona Watt</p>,,"Jazyk: slovenský
+Počet stran: 128
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Svojtka § Co., s.r.o.",174,298,"['dětské', '', 'slovenské, Svojtka&Co., Fiona Watt']"
+n459935829,Figúrky zo slaného cesta,0,0,2010,32,slovenské,dětské,Ágnes Petőová</p>,,V této knize vydavatel přináší čtenáři návod jak ozdobit oblíbené slané těsto a přeměnit jej na jedinečnou dekorační ozdobu.,61,89,"['dětské', '', 'slovenské, Ágnes Petőová']"
+n18579822,"Vufi na výletoch SK Dunajová, Tatiana",0,0,2010,72,slovenské,dětské,Tatiana Dunajová</p>,,"Krátke príbehy Vufiho doplnené samolepkami k opakovanému použitiu
+
+Podtitul: Samolepky
+Autor: Tatiana Dunajová
+Edice: Ottík deťom
+Rok vydání: 2010
+Vazba: Brožovaná bez přebalu...",123,300,"['dětské', '', 'slovenské, Ottovo nakladatelstvo, Tatiana Dunajová']"
+n459938305,Krajinka s koníkom,0,0,2010,48,slovenské,dětské,Marta Šurinová</p>,,"Krajinka s koníkom je knižka pre deti z cirkusového prostredia. Obrázky zo života starého klauna sa prelínajú s príbehmi cirkusového koníka. Ich priateľstvo dopĺňa dievčatko,...",121,199,"['dětské', '', 'slovenské, Perfekt, Marta Šurinová']"
+n18976934,Uletené rozprávky pre veľké deti a malých dospelých - Olivia Olivieri,0,0,2010,56,slovenské,dětské,Olivia Olivieri</p>,,"Všetkého veľa škodí. Zistili to aj hrdinovia Uletených rozprávok, no ako to už v živote chodí, prišli na to, až keď už bolo neskoro. Prečítajte si túto knihu bez ohľadu na vek...",136,234,"['dětské', '', 'slovenské, Olivia Olivieri']"
+n459939014,Chrobáčiky,0,0,2010,120,slovenské,dětské,Jan Karafiát</p>,,"CHROBÁČIKY patria ku klasickým a stále obľúbeným dielam českej detskej literatúry a mali by byť neoddeliteľnou súčasťou každej knižnice. Pripomeňme si, že postavičky...",91,300,"['dětské', '', 'slovenské, Ottovo nakladatelstvo, Jan Karafiát']"
+n19379629,"Tonino, Pieskový šaško",0,0,2010,56,slovenské,dětské,Sara Nui</p>,,"Citlivý príbeh o dievčatku Zuzane, ktoré sa stretne s pieskovými ľudkami. Príbeh zažíva so slúžkou Klárou, pieskovým šaškom a princeznou, ktorá sa snaží zachrániť svoje...",117,199,"['dětské', '', 'slovenské, Perfekt, Sara Nui']"
+n459939039,Vrkôčkine tajné objavy,0,0,2010,96,slovenské,dětské,Paula Sabolov</p>,,"Prváčikovia sa na školu väčšinou tešia, niektorí sa trošku boja, ale Vrkôčka - tá je veľmi smutná. Nielenže sa narodila o 5 dní neskôr, ako sa požaduje
+ (5. septembra), ale jej...",100,166,"['dětské', '', 'slovenské, Slovenské pedagogické nakladat, Alena Wagnerová, Paula Sabolov']"
+n21162848,"Alíka a stratená kniha Asahuru and lost book of Asahuru, Časť 1. a 2.",0,0,2010,136,slovenské,dětské,Ganizani Ghiwaura</p>,,"Alika je bezstarostné dievčatko, ktoré prichádza spolu so svojim bratom na vidiek k starým rodičom, kde majú stráviť letné prázdniny. Alika sa však hneď v prvý deň stretáva so...",148,226,"['dětské', '', 'slovenské, Ganizani Ghiwaura']"
+n38794302,Môj macík,98,2,2010,12,slovenské,dětské,Mária Rázusová-Martáková</p>,,"Klasické rozprávkové leporelo pre najmenšie deti s nádhernými ilustráciami a mimoriadne populárnymi básničkami. Z ruského originálu prebásnila Mária Rázusová-Martáková.
+
+Autor:...",76,120,"['dětské', '', 'slovenské, Mária Rázusová-Martáková']"
+n259681516,Dear Zoo Rod Campbell,0,0,2010,18,anglické,dětské,Rod Campbell</p>,,"Rod Cambell stvořil příběh, který se stal naprosto kultovním po celém světě. A o čem je? O tom, že napíšete společně s dětmi do ZOO, aby Vám poslali zvířátko. Ale dorazí...",140,239,"['dětské', '', 'anglické, Rod Campbell']"
+n459928484,Vyprávění o koních,100,1,2010,64,německé,dětské,Klaus-Peter Wolf</p>,,"Sedm příběhů o koních, nejen pro milovníky zvířat, ocení jistě všichni ti, kteří si chtějí procvičit své znalosti němčiny. Edice První čtení v němčině je určená pro samostatné...",131,187,"['dětské', '', 'německé, Klaus-Peter Wolf']"
+n23351081,My First Number Sticker Book,0,0,2010,12,,dětské,anglické</p>,,"Zábavný pracovní sešit se samolepkami v angličtině, který seznamuje své malé čtenáře s čísly a prvními anglickými slovíčky. Přináší názorné fotografie věcí, kteréděti znají ze...",48,70,"['dětské', '', 'anglické']"
+n17476183,DK Opposites,0,0,2010,12,,dětské,anglické</p>,,"Opposites kniha od autora . Leporelo v angličtině, které seznamuje své malé čtenáře s protiklady. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá...",49,70,"['dětské', '', 'anglické']"
+n51165410,Rozprávky pre neposlušné deti,0,0,2010,168,slovenské,dětské,Jozef Gertli Da</p>,,"Máte doma dieťa, ktoré sa špára v nose, je zábudlivé, lenivé, papuľnaté a nechce sa umývať? Hľadáte dobrú polepšovňu, ktorá ho zachráni pred doživotnou neposlušnosťou? Už...",251,260,"['dětské', '', 'slovenské, Slovart, Dušan Taragel, Jozef Gertli Da']"
+n674911638,Ako žijú zvieratká,0,0,2010,64,slovenské,dětské,Vnímavé Deti,,"Jedinečná kniha pre malých čitateľov s množstvom poučných informácií - z jednej strany obsahuje príbeh o včielke, z druhej o lienke a jej kamarátoch na lúke. 
+
+Fascinujúcim...",165,241,"['dětské', '', 'slovenské, Vnímavé Deti, Döring, Hans-Günther']"
+n459929367,Krátky druhý život Bree Tannerovej,90,1,2010,168,slovenské,dětské,Stephenie Meyer</p>,,"Kniha Krátky druhý život Bree Tannerovej vyšla súčasne s uvedením filmu Zatmenie v slovenských kinách! Fanúšikovia Twilight ságy sa zamilujú do strhujúceho príbehu Bree Tanner,...",73,74,"['dětské', '', 'slovenské, Tatran, Stephenie Meyer']"
+n17476181,DK Colours,0,0,2010,12,,dětské,anglické</p>,,"Colours kniha od autora . Leporelo s představením základních barev v angličtině. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá pomůcka, pokud...",49,70,"['dětské', '', 'anglické']"
+n38794303,Rozprávky o psíčkovi a mačičke,0,0,2010,112,slovenské,dětské,Josef Čapek</p>,,"Obľúbené rozprávky o psíčkovi a mačičke, ako spolu gazdovali v malom domčeku pod lesom, ako si v ňom spolunažívali a chceli robiť všetko tak, ako robia veľkí ľudia a ešte o...",117,210,"['dětské', '', 'slovenské, Josef Čapek']"
+n459928482,Fotbalové historky,0,0,2010,66,německé,dětské,Martin Klein</p>,,"Pět příběhů v němčině ze světa fotbalu, nejen pro sportovní fanoušky. Edice První čtení v němčině je určená pro samostatné čtení v cizím jazyce. Text je přizpůsoben jazykově i...",131,187,"['dětské', '', 'německé, Martin Klein']"
+n51170548,Rozprávky o princoch - František Zacharník,0,0,2010,64,slovenské,dětské,František Zacharník</p>,,"Každá malá slečna niekedy snívala o svojom princovi, rovnako ako hlavné hrdinky tejto knižky, dievčatká Eliška a Sára, ktorým ich láskavý deduško každý večer pred spaním...",136,137,"['dětské', '', 'slovenské, Computer Press, František Zacharník']"
+n22602114,Čtenářský slovník pro nejmenší,0,0,2010,114,francouzské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",161,206,"['dětské', '', 'francouzské, Werner Färber']"
+n23351229,Puppy - Pop Up Book,0,0,2010,6,,dětské,anglické</p>,,"Prostorové leporelo v angličtině, které seznamuje své malé čtenáře s tím, co všechno dokáže štěnátko. Skvělá pomůcka, pokud chcete děti formou hry seznámit s angličtinou....",107,134,"['dětské', '', 'anglické']"
+n22602117,Čtenářský slovník pro nejmenší,0,0,2010,118,španělské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",171,206,"['dětské', '', 'španělské, Werner Färber']"
+n632542811,O mravčekovi z lesa - Zuzana Pospíšilová,0,0,2010,12,slovenské,dětské,Mária Štefánková</p>,,"Veršovaný príbeh o mravčekovi, ktorý ochotne pomáhal všetkým kamarátom v lese, až zabudol postaviť vlastný dom. Rozkladacie výsekové leporelo dopĺňajú pôvabné obrázky.
+
+Autor:...",47,75,"['dětské', '', 'slovenské, Junior, Mária Štefánková']"
+n459929372,Šperky z háčkovaných korálikov,50,1,2010,32,slovenské,dětské,Monika a Nicole Helbigová</p>,,"Monika a Nicole Helbigová
+56
+Talentum 2010, edice Z dielne DaVINCI
+Kniha, slovenština, 32 stran",61,79,"['dětské', '', 'slovenské, Monika a Nicole Helbigová']"
+n459928309,Ako začať zbierať známky,0,0,2010,56,slovenské,dětské,Perfekt</p>,,"Knižka o zbieraní známok dokáže svojím obsahom, obrazovým materiálom a hrou pritiahnuť k filatelii všetky deti. Zaujme a inšpiruje aj rodičov a starých rodičov, aby pohľadali...",212,311,"['dětské', '', 'slovenské, Perfekt']"
+n17488664,"Dinosaury Encyklopédia Benton, Mike",0,0,2010,160,slovenské,dětské,Mike Benton</p>,,V populárnej encyklopédii o dinosauroch sa na každej stránke ocitnete v tajomnom svete prehistorických obrov a zvláštnych rastlín. Encyklopédiu zostavil popredný dinosaurológ...,332,390,"['dětské', '', 'slovenské, Svojtka&Co., Mike Benton']"
+n16723942,"Šperky z papiera 65 Barabásová, Renáta",75,3,2010,32,slovenské,dětské,Renáta Barabásová</p>,,"Z dielne DaVINCI 65
+
+Šperky z papiera? Hoci to znie zvláštne z farebného papiera sa dajú zhotoviť jedinečné kúsky.
+
+Príručka vás oboznámi s materiálmi, pomôckami a so...",61,79,"['dětské', '', 'slovenské, Renáta Barabásová']"
+n459941439,Džungľa,0,0,2010,62,slovenské,dětské,Rainer Crummenerl</p>,,"Riko a Joana sú napätí! Chceli navštíviť svojho otecka, ktorý pracuje ako vedec v džungli. Ale po ceste musí ich malé lietadlo núdzovo pristáť. Odrazu sa obaja ocitnú uprostred...",131,187,"['dětské', '', 'slovenské, Rainer Crummenerl']"
+n459929321,Smieškove prázdniny,0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Autor : Kristin Earhart, Popis : Poník Smieško sa teší na vianočné prázdniny, ktoré prežije spolu so všetkými svojimi priateľmi.
+Myšiak Robin však príde so zlou správou:...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n599450757,"Vpred, Smieško!",0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Poníka Smieška čakajú jeho prvé naozajstné preteky! Zúčastní sa ich spolu s Dokonalým Danom, skúseným pretekárskym poníkom. Dan preteky zbožňuje, ale Smieško si nie je celkom...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n459938305,Krajinka s koníkom,0,0,2010,48,slovenské,dětské,Marta Šurinová</p>,,"Krajinka s koníkom je knižka pre deti z cirkusového prostredia. Obrázky zo života starého klauna sa prelínajú s príbehmi cirkusového koníka. Ich priateľstvo dopĺňa dievčatko,...",121,199,"['dětské', '', 'slovenské, Perfekt, Marta Šurinová']"
+n459941441,Pyramídy,0,0,2010,64,slovenské,dětské,Imke Rudelová</p>,,"Kniha obsahuje pět samostatných příběhů. Každý příběh je zakončen informativní
+dvojstránkou se zajímavými fakty a vysvětlujícími pojmy.
+Anika je poprvé v životě v Egyptě, zemi...",106,187,"['dětské', '', 'slovenské, Imke Rudelová']"
+n17304734,"365 nápadov na kreslenie a maľovanie Watt, Fiona",0,0,2010,128,slovenské,dětské,Fiona Watt</p>,,"Jazyk: slovenský
+Počet stran: 128
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Svojtka § Co., s.r.o.",174,298,"['dětské', '', 'slovenské, Svojtka&Co., Fiona Watt']"
+n599450769,Rozprávky z blogu,0,0,2010,136,slovenské,dětské,Zuzana Kuglerová</p>,,"Známa autorka historických románov prichádza s rozprávkami. Kuglerovej príbehy nie sú izolované, tvoria celok, prepojený dialogickými vstupmi, v ktorých sa rozprávačka,...",117,199,"['dětské', '', 'slovenské, Vydavateľstvo SSS, Zuzana Kuglerová']"
+n460961436,A čo takto byť veterinárom,0,0,2010,24,slovenské,dětské,Valérie Videauová</p>,,"V tejto knihe sa deti dozvedia všetko podstatné o povolaní veterinára.
+Naučia sa ako sa správne starať o domáce zvieratá, aké sú ich najčastejšie ochorenia a ako sa dajú...",202,434,"['dětské', '', 'slovenské, Mladá fronta, Valérie Videauová']"
+n734842269,Khidayer Emíre - Príbehy zo Sumhuramu,0,0,2010,96,slovenské,dětské,Emíre Khidayer</p>,,"Jazyk: slovenský
+Počet stran: 96
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Marenčin PT, spol. s r.o.",226,388,"['dětské', '', 'slovenské, Emíre Khidayer']"
+n599450751,Z denníka malého Petríka,0,0,2010,64,slovenské,dětské,Peter Kubica</p>,,"Jazyk: slovenský
+Počet stran: 64
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Vydavaťelstvo SSS spol.s.r.o.",117,199,"['dětské', '', 'slovenské, Vydavateľstvo SSS, Peter Kubica']"
+n38794302,Môj macík,98,2,2010,12,slovenské,dětské,Mária Rázusová-Martáková</p>,,"Klasické rozprávkové leporelo pre najmenšie deti s nádhernými ilustráciami a mimoriadne populárnymi básničkami. Z ruského originálu prebásnila Mária Rázusová-Martáková.
+
+Autor:...",76,120,"['dětské', '', 'slovenské, Mária Rázusová-Martáková']"
+n259681516,Dear Zoo Rod Campbell,0,0,2010,18,anglické,dětské,Rod Campbell</p>,,"Rod Cambell stvořil příběh, který se stal naprosto kultovním po celém světě. A o čem je? O tom, že napíšete společně s dětmi do ZOO, aby Vám poslali zvířátko. Ale dorazí...",140,239,"['dětské', '', 'anglické, Rod Campbell']"
+n459928484,Vyprávění o koních,100,1,2010,64,německé,dětské,Klaus-Peter Wolf</p>,,"Sedm příběhů o koních, nejen pro milovníky zvířat, ocení jistě všichni ti, kteří si chtějí procvičit své znalosti němčiny. Edice První čtení v němčině je určená pro samostatné...",131,187,"['dětské', '', 'německé, Klaus-Peter Wolf']"
+n23351081,My First Number Sticker Book,0,0,2010,12,,dětské,anglické</p>,,"Zábavný pracovní sešit se samolepkami v angličtině, který seznamuje své malé čtenáře s čísly a prvními anglickými slovíčky. Přináší názorné fotografie věcí, kteréděti znají ze...",48,70,"['dětské', '', 'anglické']"
+n17476183,DK Opposites,0,0,2010,12,,dětské,anglické</p>,,"Opposites kniha od autora . Leporelo v angličtině, které seznamuje své malé čtenáře s protiklady. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá...",49,70,"['dětské', '', 'anglické']"
+n51165410,Rozprávky pre neposlušné deti,0,0,2010,168,slovenské,dětské,Jozef Gertli Da</p>,,"Máte doma dieťa, ktoré sa špára v nose, je zábudlivé, lenivé, papuľnaté a nechce sa umývať? Hľadáte dobrú polepšovňu, ktorá ho zachráni pred doživotnou neposlušnosťou? Už...",251,260,"['dětské', '', 'slovenské, Slovart, Dušan Taragel, Jozef Gertli Da']"
+n674911638,Ako žijú zvieratká,0,0,2010,64,slovenské,dětské,Vnímavé Deti,,"Jedinečná kniha pre malých čitateľov s množstvom poučných informácií - z jednej strany obsahuje príbeh o včielke, z druhej o lienke a jej kamarátoch na lúke. 
+
+Fascinujúcim...",165,241,"['dětské', '', 'slovenské, Vnímavé Deti, Döring, Hans-Günther']"
+n459929367,Krátky druhý život Bree Tannerovej,90,1,2010,168,slovenské,dětské,Stephenie Meyer</p>,,"Kniha Krátky druhý život Bree Tannerovej vyšla súčasne s uvedením filmu Zatmenie v slovenských kinách! Fanúšikovia Twilight ságy sa zamilujú do strhujúceho príbehu Bree Tanner,...",73,74,"['dětské', '', 'slovenské, Tatran, Stephenie Meyer']"
+n17476181,DK Colours,0,0,2010,12,,dětské,anglické</p>,,"Colours kniha od autora . Leporelo s představením základních barev v angličtině. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá pomůcka, pokud...",49,70,"['dětské', '', 'anglické']"
+n38794303,Rozprávky o psíčkovi a mačičke,0,0,2010,112,slovenské,dětské,Josef Čapek</p>,,"Obľúbené rozprávky o psíčkovi a mačičke, ako spolu gazdovali v malom domčeku pod lesom, ako si v ňom spolunažívali a chceli robiť všetko tak, ako robia veľkí ľudia a ešte o...",117,210,"['dětské', '', 'slovenské, Josef Čapek']"
+n459928482,Fotbalové historky,0,0,2010,66,německé,dětské,Martin Klein</p>,,"Pět příběhů v němčině ze světa fotbalu, nejen pro sportovní fanoušky. Edice První čtení v němčině je určená pro samostatné čtení v cizím jazyce. Text je přizpůsoben jazykově i...",131,187,"['dětské', '', 'německé, Martin Klein']"
+n51170548,Rozprávky o princoch - František Zacharník,0,0,2010,64,slovenské,dětské,František Zacharník</p>,,"Každá malá slečna niekedy snívala o svojom princovi, rovnako ako hlavné hrdinky tejto knižky, dievčatká Eliška a Sára, ktorým ich láskavý deduško každý večer pred spaním...",136,137,"['dětské', '', 'slovenské, Computer Press, František Zacharník']"
+n22602114,Čtenářský slovník pro nejmenší,0,0,2010,114,francouzské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",161,206,"['dětské', '', 'francouzské, Werner Färber']"
+n23351229,Puppy - Pop Up Book,0,0,2010,6,,dětské,anglické</p>,,"Prostorové leporelo v angličtině, které seznamuje své malé čtenáře s tím, co všechno dokáže štěnátko. Skvělá pomůcka, pokud chcete děti formou hry seznámit s angličtinou....",107,134,"['dětské', '', 'anglické']"
+n22602117,Čtenářský slovník pro nejmenší,0,0,2010,118,španělské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",171,206,"['dětské', '', 'španělské, Werner Färber']"
+n632542811,O mravčekovi z lesa - Zuzana Pospíšilová,0,0,2010,12,slovenské,dětské,Mária Štefánková</p>,,"Veršovaný príbeh o mravčekovi, ktorý ochotne pomáhal všetkým kamarátom v lese, až zabudol postaviť vlastný dom. Rozkladacie výsekové leporelo dopĺňajú pôvabné obrázky.
+
+Autor:...",47,75,"['dětské', '', 'slovenské, Junior, Mária Štefánková']"
+n459929372,Šperky z háčkovaných korálikov,50,1,2010,32,slovenské,dětské,Monika a Nicole Helbigová</p>,,"Monika a Nicole Helbigová
+56
+Talentum 2010, edice Z dielne DaVINCI
+Kniha, slovenština, 32 stran",61,79,"['dětské', '', 'slovenské, Monika a Nicole Helbigová']"
+n459928309,Ako začať zbierať známky,0,0,2010,56,slovenské,dětské,Perfekt</p>,,"Knižka o zbieraní známok dokáže svojím obsahom, obrazovým materiálom a hrou pritiahnuť k filatelii všetky deti. Zaujme a inšpiruje aj rodičov a starých rodičov, aby pohľadali...",212,311,"['dětské', '', 'slovenské, Perfekt']"
+n17488664,"Dinosaury Encyklopédia Benton, Mike",0,0,2010,160,slovenské,dětské,Mike Benton</p>,,V populárnej encyklopédii o dinosauroch sa na každej stránke ocitnete v tajomnom svete prehistorických obrov a zvláštnych rastlín. Encyklopédiu zostavil popredný dinosaurológ...,332,390,"['dětské', '', 'slovenské, Svojtka&Co., Mike Benton']"
+n16723942,"Šperky z papiera 65 Barabásová, Renáta",75,3,2010,32,slovenské,dětské,Renáta Barabásová</p>,,"Z dielne DaVINCI 65
+
+Šperky z papiera? Hoci to znie zvláštne z farebného papiera sa dajú zhotoviť jedinečné kúsky.
+
+Príručka vás oboznámi s materiálmi, pomôckami a so...",61,79,"['dětské', '', 'slovenské, Renáta Barabásová']"
+n459941439,Džungľa,0,0,2010,62,slovenské,dětské,Rainer Crummenerl</p>,,"Riko a Joana sú napätí! Chceli navštíviť svojho otecka, ktorý pracuje ako vedec v džungli. Ale po ceste musí ich malé lietadlo núdzovo pristáť. Odrazu sa obaja ocitnú uprostred...",131,187,"['dětské', '', 'slovenské, Rainer Crummenerl']"
+n459929321,Smieškove prázdniny,0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Autor : Kristin Earhart, Popis : Poník Smieško sa teší na vianočné prázdniny, ktoré prežije spolu so všetkými svojimi priateľmi.
+Myšiak Robin však príde so zlou správou:...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n599450757,"Vpred, Smieško!",0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Poníka Smieška čakajú jeho prvé naozajstné preteky! Zúčastní sa ich spolu s Dokonalým Danom, skúseným pretekárskym poníkom. Dan preteky zbožňuje, ale Smieško si nie je celkom...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n459938305,Krajinka s koníkom,0,0,2010,48,slovenské,dětské,Marta Šurinová</p>,,"Krajinka s koníkom je knižka pre deti z cirkusového prostredia. Obrázky zo života starého klauna sa prelínajú s príbehmi cirkusového koníka. Ich priateľstvo dopĺňa dievčatko,...",121,199,"['dětské', '', 'slovenské, Perfekt, Marta Šurinová']"
+n459941441,Pyramídy,0,0,2010,64,slovenské,dětské,Imke Rudelová</p>,,"Kniha obsahuje pět samostatných příběhů. Každý příběh je zakončen informativní
+dvojstránkou se zajímavými fakty a vysvětlujícími pojmy.
+Anika je poprvé v životě v Egyptě, zemi...",106,187,"['dětské', '', 'slovenské, Imke Rudelová']"
+n17304734,"365 nápadov na kreslenie a maľovanie Watt, Fiona",0,0,2010,128,slovenské,dětské,Fiona Watt</p>,,"Jazyk: slovenský
+Počet stran: 128
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Svojtka § Co., s.r.o.",174,298,"['dětské', '', 'slovenské, Svojtka&Co., Fiona Watt']"
+n599450769,Rozprávky z blogu,0,0,2010,136,slovenské,dětské,Zuzana Kuglerová</p>,,"Známa autorka historických románov prichádza s rozprávkami. Kuglerovej príbehy nie sú izolované, tvoria celok, prepojený dialogickými vstupmi, v ktorých sa rozprávačka,...",117,199,"['dětské', '', 'slovenské, Vydavateľstvo SSS, Zuzana Kuglerová']"
+n460961436,A čo takto byť veterinárom,0,0,2010,24,slovenské,dětské,Valérie Videauová</p>,,"V tejto knihe sa deti dozvedia všetko podstatné o povolaní veterinára.
+Naučia sa ako sa správne starať o domáce zvieratá, aké sú ich najčastejšie ochorenia a ako sa dajú...",202,434,"['dětské', '', 'slovenské, Mladá fronta, Valérie Videauová']"
+n734842269,Khidayer Emíre - Príbehy zo Sumhuramu,0,0,2010,96,slovenské,dětské,Emíre Khidayer</p>,,"Jazyk: slovenský
+Počet stran: 96
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Marenčin PT, spol. s r.o.",226,388,"['dětské', '', 'slovenské, Emíre Khidayer']"
+n599450751,Z denníka malého Petríka,0,0,2010,64,slovenské,dětské,Peter Kubica</p>,,"Jazyk: slovenský
+Počet stran: 64
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Vydavaťelstvo SSS spol.s.r.o.",117,199,"['dětské', '', 'slovenské, Vydavateľstvo SSS, Peter Kubica']"
+n38794302,Môj macík,98,2,2010,12,slovenské,dětské,Mária Rázusová-Martáková</p>,,"Klasické rozprávkové leporelo pre najmenšie deti s nádhernými ilustráciami a mimoriadne populárnymi básničkami. Z ruského originálu prebásnila Mária Rázusová-Martáková.
+
+Autor:...",76,120,"['dětské', '', 'slovenské, Mária Rázusová-Martáková']"
+n259681516,Dear Zoo Rod Campbell,0,0,2010,18,anglické,dětské,Rod Campbell</p>,,"Rod Cambell stvořil příběh, který se stal naprosto kultovním po celém světě. A o čem je? O tom, že napíšete společně s dětmi do ZOO, aby Vám poslali zvířátko. Ale dorazí...",140,239,"['dětské', '', 'anglické, Rod Campbell']"
+n459928484,Vyprávění o koních,100,1,2010,64,německé,dětské,Klaus-Peter Wolf</p>,,"Sedm příběhů o koních, nejen pro milovníky zvířat, ocení jistě všichni ti, kteří si chtějí procvičit své znalosti němčiny. Edice První čtení v němčině je určená pro samostatné...",131,187,"['dětské', '', 'německé, Klaus-Peter Wolf']"
+n23351081,My First Number Sticker Book,0,0,2010,12,,dětské,anglické</p>,,"Zábavný pracovní sešit se samolepkami v angličtině, který seznamuje své malé čtenáře s čísly a prvními anglickými slovíčky. Přináší názorné fotografie věcí, kteréděti znají ze...",48,70,"['dětské', '', 'anglické']"
+n17476183,DK Opposites,0,0,2010,12,,dětské,anglické</p>,,"Opposites kniha od autora . Leporelo v angličtině, které seznamuje své malé čtenáře s protiklady. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá...",49,70,"['dětské', '', 'anglické']"
+n51165410,Rozprávky pre neposlušné deti,0,0,2010,168,slovenské,dětské,Jozef Gertli Da</p>,,"Máte doma dieťa, ktoré sa špára v nose, je zábudlivé, lenivé, papuľnaté a nechce sa umývať? Hľadáte dobrú polepšovňu, ktorá ho zachráni pred doživotnou neposlušnosťou? Už...",251,260,"['dětské', '', 'slovenské, Slovart, Dušan Taragel, Jozef Gertli Da']"
+n674911638,Ako žijú zvieratká,0,0,2010,64,slovenské,dětské,Vnímavé Deti,,"Jedinečná kniha pre malých čitateľov s množstvom poučných informácií - z jednej strany obsahuje príbeh o včielke, z druhej o lienke a jej kamarátoch na lúke. 
+
+Fascinujúcim...",165,241,"['dětské', '', 'slovenské, Vnímavé Deti, Döring, Hans-Günther']"
+n459929367,Krátky druhý život Bree Tannerovej,90,1,2010,168,slovenské,dětské,Stephenie Meyer</p>,,"Kniha Krátky druhý život Bree Tannerovej vyšla súčasne s uvedením filmu Zatmenie v slovenských kinách! Fanúšikovia Twilight ságy sa zamilujú do strhujúceho príbehu Bree Tanner,...",73,74,"['dětské', '', 'slovenské, Tatran, Stephenie Meyer']"
+n17476181,DK Colours,0,0,2010,12,,dětské,anglické</p>,,"Colours kniha od autora . Leporelo s představením základních barev v angličtině. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá pomůcka, pokud...",49,70,"['dětské', '', 'anglické']"
+n38794303,Rozprávky o psíčkovi a mačičke,0,0,2010,112,slovenské,dětské,Josef Čapek</p>,,"Obľúbené rozprávky o psíčkovi a mačičke, ako spolu gazdovali v malom domčeku pod lesom, ako si v ňom spolunažívali a chceli robiť všetko tak, ako robia veľkí ľudia a ešte o...",117,210,"['dětské', '', 'slovenské, Josef Čapek']"
+n459928482,Fotbalové historky,0,0,2010,66,německé,dětské,Martin Klein</p>,,"Pět příběhů v němčině ze světa fotbalu, nejen pro sportovní fanoušky. Edice První čtení v němčině je určená pro samostatné čtení v cizím jazyce. Text je přizpůsoben jazykově i...",131,187,"['dětské', '', 'německé, Martin Klein']"
+n51170548,Rozprávky o princoch - František Zacharník,0,0,2010,64,slovenské,dětské,František Zacharník</p>,,"Každá malá slečna niekedy snívala o svojom princovi, rovnako ako hlavné hrdinky tejto knižky, dievčatká Eliška a Sára, ktorým ich láskavý deduško každý večer pred spaním...",136,137,"['dětské', '', 'slovenské, Computer Press, František Zacharník']"
+n22602114,Čtenářský slovník pro nejmenší,0,0,2010,114,francouzské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",161,206,"['dětské', '', 'francouzské, Werner Färber']"
+n23351229,Puppy - Pop Up Book,0,0,2010,6,,dětské,anglické</p>,,"Prostorové leporelo v angličtině, které seznamuje své malé čtenáře s tím, co všechno dokáže štěnátko. Skvělá pomůcka, pokud chcete děti formou hry seznámit s angličtinou....",107,134,"['dětské', '', 'anglické']"
+n22602117,Čtenářský slovník pro nejmenší,0,0,2010,118,španělské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",171,206,"['dětské', '', 'španělské, Werner Färber']"
+n632542811,O mravčekovi z lesa - Zuzana Pospíšilová,0,0,2010,12,slovenské,dětské,Mária Štefánková</p>,,"Veršovaný príbeh o mravčekovi, ktorý ochotne pomáhal všetkým kamarátom v lese, až zabudol postaviť vlastný dom. Rozkladacie výsekové leporelo dopĺňajú pôvabné obrázky.
+
+Autor:...",47,75,"['dětské', '', 'slovenské, Junior, Mária Štefánková']"
+n459929372,Šperky z háčkovaných korálikov,50,1,2010,32,slovenské,dětské,Monika a Nicole Helbigová</p>,,"Monika a Nicole Helbigová
+56
+Talentum 2010, edice Z dielne DaVINCI
+Kniha, slovenština, 32 stran",61,79,"['dětské', '', 'slovenské, Monika a Nicole Helbigová']"
+n459928309,Ako začať zbierať známky,0,0,2010,56,slovenské,dětské,Perfekt</p>,,"Knižka o zbieraní známok dokáže svojím obsahom, obrazovým materiálom a hrou pritiahnuť k filatelii všetky deti. Zaujme a inšpiruje aj rodičov a starých rodičov, aby pohľadali...",212,311,"['dětské', '', 'slovenské, Perfekt']"
+n17488664,"Dinosaury Encyklopédia Benton, Mike",0,0,2010,160,slovenské,dětské,Mike Benton</p>,,V populárnej encyklopédii o dinosauroch sa na každej stránke ocitnete v tajomnom svete prehistorických obrov a zvláštnych rastlín. Encyklopédiu zostavil popredný dinosaurológ...,332,390,"['dětské', '', 'slovenské, Svojtka&Co., Mike Benton']"
+n16723942,"Šperky z papiera 65 Barabásová, Renáta",75,3,2010,32,slovenské,dětské,Renáta Barabásová</p>,,"Z dielne DaVINCI 65
+
+Šperky z papiera? Hoci to znie zvláštne z farebného papiera sa dajú zhotoviť jedinečné kúsky.
+
+Príručka vás oboznámi s materiálmi, pomôckami a so...",61,79,"['dětské', '', 'slovenské, Renáta Barabásová']"
+n459941439,Džungľa,0,0,2010,62,slovenské,dětské,Rainer Crummenerl</p>,,"Riko a Joana sú napätí! Chceli navštíviť svojho otecka, ktorý pracuje ako vedec v džungli. Ale po ceste musí ich malé lietadlo núdzovo pristáť. Odrazu sa obaja ocitnú uprostred...",131,187,"['dětské', '', 'slovenské, Rainer Crummenerl']"
+n459929321,Smieškove prázdniny,0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Autor : Kristin Earhart, Popis : Poník Smieško sa teší na vianočné prázdniny, ktoré prežije spolu so všetkými svojimi priateľmi.
+Myšiak Robin však príde so zlou správou:...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n599450757,"Vpred, Smieško!",0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Poníka Smieška čakajú jeho prvé naozajstné preteky! Zúčastní sa ich spolu s Dokonalým Danom, skúseným pretekárskym poníkom. Dan preteky zbožňuje, ale Smieško si nie je celkom...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n459938305,Krajinka s koníkom,0,0,2010,48,slovenské,dětské,Marta Šurinová</p>,,"Krajinka s koníkom je knižka pre deti z cirkusového prostredia. Obrázky zo života starého klauna sa prelínajú s príbehmi cirkusového koníka. Ich priateľstvo dopĺňa dievčatko,...",121,199,"['dětské', '', 'slovenské, Perfekt, Marta Šurinová']"
+n459941441,Pyramídy,0,0,2010,64,slovenské,dětské,Imke Rudelová</p>,,"Kniha obsahuje pět samostatných příběhů. Každý příběh je zakončen informativní
+dvojstránkou se zajímavými fakty a vysvětlujícími pojmy.
+Anika je poprvé v životě v Egyptě, zemi...",106,187,"['dětské', '', 'slovenské, Imke Rudelová']"
+n17304734,"365 nápadov na kreslenie a maľovanie Watt, Fiona",0,0,2010,128,slovenské,dětské,Fiona Watt</p>,,"Jazyk: slovenský
+Počet stran: 128
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Svojtka § Co., s.r.o.",174,298,"['dětské', '', 'slovenské, Svojtka&Co., Fiona Watt']"
+n599450769,Rozprávky z blogu,0,0,2010,136,slovenské,dětské,Zuzana Kuglerová</p>,,"Známa autorka historických románov prichádza s rozprávkami. Kuglerovej príbehy nie sú izolované, tvoria celok, prepojený dialogickými vstupmi, v ktorých sa rozprávačka,...",117,199,"['dětské', '', 'slovenské, Vydavateľstvo SSS, Zuzana Kuglerová']"
+n460961436,A čo takto byť veterinárom,0,0,2010,24,slovenské,dětské,Valérie Videauová</p>,,"V tejto knihe sa deti dozvedia všetko podstatné o povolaní veterinára.
+Naučia sa ako sa správne starať o domáce zvieratá, aké sú ich najčastejšie ochorenia a ako sa dajú...",202,434,"['dětské', '', 'slovenské, Mladá fronta, Valérie Videauová']"
+n734842269,Khidayer Emíre - Príbehy zo Sumhuramu,0,0,2010,96,slovenské,dětské,Emíre Khidayer</p>,,"Jazyk: slovenský
+Počet stran: 96
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Marenčin PT, spol. s r.o.",226,388,"['dětské', '', 'slovenské, Emíre Khidayer']"
+n599450751,Z denníka malého Petríka,0,0,2010,64,slovenské,dětské,Peter Kubica</p>,,"Jazyk: slovenský
+Počet stran: 64
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Vydavaťelstvo SSS spol.s.r.o.",117,199,"['dětské', '', 'slovenské, Vydavateľstvo SSS, Peter Kubica']"
+n38794302,Môj macík,98,2,2010,12,slovenské,dětské,Mária Rázusová-Martáková</p>,,"Klasické rozprávkové leporelo pre najmenšie deti s nádhernými ilustráciami a mimoriadne populárnymi básničkami. Z ruského originálu prebásnila Mária Rázusová-Martáková.
+
+Autor:...",76,120,"['dětské', '', 'slovenské, Mária Rázusová-Martáková']"
+n459928484,Vyprávění o koních,100,1,2010,64,německé,dětské,Klaus-Peter Wolf</p>,,"Sedm příběhů o koních, nejen pro milovníky zvířat, ocení jistě všichni ti, kteří si chtějí procvičit své znalosti němčiny. Edice První čtení v němčině je určená pro samostatné...",131,187,"['dětské', '', 'německé, Klaus-Peter Wolf']"
+n259681516,Dear Zoo Rod Campbell,0,0,2010,18,anglické,dětské,Rod Campbell</p>,,"Rod Cambell stvořil příběh, který se stal naprosto kultovním po celém světě. A o čem je? O tom, že napíšete společně s dětmi do ZOO, aby Vám poslali zvířátko. Ale dorazí...",140,239,"['dětské', '', 'anglické, Rod Campbell']"
+n23351081,My First Number Sticker Book,0,0,2010,12,,dětské,anglické</p>,,"Zábavný pracovní sešit se samolepkami v angličtině, který seznamuje své malé čtenáře s čísly a prvními anglickými slovíčky. Přináší názorné fotografie věcí, kteréděti znají ze...",48,70,"['dětské', '', 'anglické']"
+n17476183,DK Opposites,0,0,2010,12,,dětské,anglické</p>,,"Opposites kniha od autora . Leporelo v angličtině, které seznamuje své malé čtenáře s protiklady. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá...",49,70,"['dětské', '', 'anglické']"
+n51165410,Rozprávky pre neposlušné deti,0,0,2010,168,slovenské,dětské,Jozef Gertli Da</p>,,"Máte doma dieťa, ktoré sa špára v nose, je zábudlivé, lenivé, papuľnaté a nechce sa umývať? Hľadáte dobrú polepšovňu, ktorá ho zachráni pred doživotnou neposlušnosťou? Už...",251,260,"['dětské', '', 'slovenské, Slovart, Dušan Taragel, Jozef Gertli Da']"
+n674911638,Ako žijú zvieratká,0,0,2010,64,slovenské,dětské,Vnímavé Deti,,"Jedinečná kniha pre malých čitateľov s množstvom poučných informácií - z jednej strany obsahuje príbeh o včielke, z druhej o lienke a jej kamarátoch na lúke. 
+
+Fascinujúcim...",165,241,"['dětské', '', 'slovenské, Vnímavé Deti, Döring, Hans-Günther']"
+n38794303,Rozprávky o psíčkovi a mačičke,0,0,2010,112,slovenské,dětské,Josef Čapek</p>,,"Obľúbené rozprávky o psíčkovi a mačičke, ako spolu gazdovali v malom domčeku pod lesom, ako si v ňom spolunažívali a chceli robiť všetko tak, ako robia veľkí ľudia a ešte o...",117,210,"['dětské', '', 'slovenské, Josef Čapek']"
+n51170548,Rozprávky o princoch - František Zacharník,0,0,2010,64,slovenské,dětské,František Zacharník</p>,,"Každá malá slečna niekedy snívala o svojom princovi, rovnako ako hlavné hrdinky tejto knižky, dievčatká Eliška a Sára, ktorým ich láskavý deduško každý večer pred spaním...",136,137,"['dětské', '', 'slovenské, Computer Press, František Zacharník']"
+n459929367,Krátky druhý život Bree Tannerovej,90,1,2010,168,slovenské,dětské,Stephenie Meyer</p>,,"Kniha Krátky druhý život Bree Tannerovej vyšla súčasne s uvedením filmu Zatmenie v slovenských kinách! Fanúšikovia Twilight ságy sa zamilujú do strhujúceho príbehu Bree Tanner,...",73,74,"['dětské', '', 'slovenské, Tatran, Stephenie Meyer']"
+n459928482,Fotbalové historky,0,0,2010,66,německé,dětské,Martin Klein</p>,,"Pět příběhů v němčině ze světa fotbalu, nejen pro sportovní fanoušky. Edice První čtení v němčině je určená pro samostatné čtení v cizím jazyce. Text je přizpůsoben jazykově i...",131,187,"['dětské', '', 'německé, Martin Klein']"
+n17476181,DK Colours,0,0,2010,12,,dětské,anglické</p>,,"Colours kniha od autora . Leporelo s představením základních barev v angličtině. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá pomůcka, pokud...",49,70,"['dětské', '', 'anglické']"
+n22602114,Čtenářský slovník pro nejmenší,0,0,2010,114,francouzské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",161,206,"['dětské', '', 'francouzské, Werner Färber']"
+n23351229,Puppy - Pop Up Book,0,0,2010,6,,dětské,anglické</p>,,"Prostorové leporelo v angličtině, které seznamuje své malé čtenáře s tím, co všechno dokáže štěnátko. Skvělá pomůcka, pokud chcete děti formou hry seznámit s angličtinou....",107,134,"['dětské', '', 'anglické']"
+n22602117,Čtenářský slovník pro nejmenší,0,0,2010,118,španělské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",171,206,"['dětské', '', 'španělské, Werner Färber']"
+n459928309,Ako začať zbierať známky,0,0,2010,56,slovenské,dětské,Perfekt</p>,,"Knižka o zbieraní známok dokáže svojím obsahom, obrazovým materiálom a hrou pritiahnuť k filatelii všetky deti. Zaujme a inšpiruje aj rodičov a starých rodičov, aby pohľadali...",212,311,"['dětské', '', 'slovenské, Perfekt']"
+n459929372,Šperky z háčkovaných korálikov,50,1,2010,32,slovenské,dětské,Monika a Nicole Helbigová</p>,,"Monika a Nicole Helbigová
+56
+Talentum 2010, edice Z dielne DaVINCI
+Kniha, slovenština, 32 stran",61,79,"['dětské', '', 'slovenské, Monika a Nicole Helbigová']"
+n632542811,O mravčekovi z lesa - Zuzana Pospíšilová,0,0,2010,12,slovenské,dětské,Mária Štefánková</p>,,"Veršovaný príbeh o mravčekovi, ktorý ochotne pomáhal všetkým kamarátom v lese, až zabudol postaviť vlastný dom. Rozkladacie výsekové leporelo dopĺňajú pôvabné obrázky.
+
+Autor:...",47,75,"['dětské', '', 'slovenské, Junior, Mária Štefánková']"
+n17488664,"Dinosaury Encyklopédia Benton, Mike",0,0,2010,160,slovenské,dětské,Mike Benton</p>,,V populárnej encyklopédii o dinosauroch sa na každej stránke ocitnete v tajomnom svete prehistorických obrov a zvláštnych rastlín. Encyklopédiu zostavil popredný dinosaurológ...,332,390,"['dětské', '', 'slovenské, Svojtka&Co., Mike Benton']"
+n17110114,"Biblické verše pre deti 2.diel Fričovský, Ladislav; Topolčany, Roman",0,0,2010,32,slovenské,dětské,Ladislav Fričovský</p>,,"Prvých sedem najznámejších príbehov zo Starého zákona ožíva vo veršoch, ktoré detského čitateľa vťahujú do rozprávania o Stvorení sveta, Kainovi a Ábelovi a Potope sveta v...",65,96,"['dětské', '', 'slovenské, Ladislav Fričovský']"
+n459929321,Smieškove prázdniny,0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Autor : Kristin Earhart, Popis : Poník Smieško sa teší na vianočné prázdniny, ktoré prežije spolu so všetkými svojimi priateľmi.
+Myšiak Robin však príde so zlou správou:...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n17304734,"365 nápadov na kreslenie a maľovanie Watt, Fiona",0,0,2010,128,slovenské,dětské,Fiona Watt</p>,,"Jazyk: slovenský
+Počet stran: 128
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Svojtka § Co., s.r.o.",174,298,"['dětské', '', 'slovenské, Svojtka&Co., Fiona Watt']"
+n459935829,Figúrky zo slaného cesta,0,0,2010,32,slovenské,dětské,Ágnes Petőová</p>,,V této knize vydavatel přináší čtenáři návod jak ozdobit oblíbené slané těsto a přeměnit jej na jedinečnou dekorační ozdobu.,61,89,"['dětské', '', 'slovenské, Ágnes Petőová']"
+n18579822,"Vufi na výletoch SK Dunajová, Tatiana",0,0,2010,72,slovenské,dětské,Tatiana Dunajová</p>,,"Krátke príbehy Vufiho doplnené samolepkami k opakovanému použitiu
+
+Podtitul: Samolepky
+Autor: Tatiana Dunajová
+Edice: Ottík deťom
+Rok vydání: 2010
+Vazba: Brožovaná bez přebalu...",123,300,"['dětské', '', 'slovenské, Ottovo nakladatelstvo, Tatiana Dunajová']"
+n459938305,Krajinka s koníkom,0,0,2010,48,slovenské,dětské,Marta Šurinová</p>,,"Krajinka s koníkom je knižka pre deti z cirkusového prostredia. Obrázky zo života starého klauna sa prelínajú s príbehmi cirkusového koníka. Ich priateľstvo dopĺňa dievčatko,...",121,199,"['dětské', '', 'slovenské, Perfekt, Marta Šurinová']"
+n18976934,Uletené rozprávky pre veľké deti a malých dospelých - Olivia Olivieri,0,0,2010,56,slovenské,dětské,Olivia Olivieri</p>,,"Všetkého veľa škodí. Zistili to aj hrdinovia Uletených rozprávok, no ako to už v živote chodí, prišli na to, až keď už bolo neskoro. Prečítajte si túto knihu bez ohľadu na vek...",136,234,"['dětské', '', 'slovenské, Olivia Olivieri']"
+n459939014,Chrobáčiky,0,0,2010,120,slovenské,dětské,Jan Karafiát</p>,,"CHROBÁČIKY patria ku klasickým a stále obľúbeným dielam českej detskej literatúry a mali by byť neoddeliteľnou súčasťou každej knižnice. Pripomeňme si, že postavičky...",91,300,"['dětské', '', 'slovenské, Ottovo nakladatelstvo, Jan Karafiát']"
+n19379629,"Tonino, Pieskový šaško",0,0,2010,56,slovenské,dětské,Sara Nui</p>,,"Citlivý príbeh o dievčatku Zuzane, ktoré sa stretne s pieskovými ľudkami. Príbeh zažíva so slúžkou Klárou, pieskovým šaškom a princeznou, ktorá sa snaží zachrániť svoje...",117,199,"['dětské', '', 'slovenské, Perfekt, Sara Nui']"
+n459939039,Vrkôčkine tajné objavy,0,0,2010,96,slovenské,dětské,Paula Sabolov</p>,,"Prváčikovia sa na školu väčšinou tešia, niektorí sa trošku boja, ale Vrkôčka - tá je veľmi smutná. Nielenže sa narodila o 5 dní neskôr, ako sa požaduje
+ (5. septembra), ale jej...",100,166,"['dětské', '', 'slovenské, Slovenské pedagogické nakladat, Alena Wagnerová, Paula Sabolov']"
+n21162848,"Alíka a stratená kniha Asahuru and lost book of Asahuru, Časť 1. a 2.",0,0,2010,136,slovenské,dětské,Ganizani Ghiwaura</p>,,"Alika je bezstarostné dievčatko, ktoré prichádza spolu so svojim bratom na vidiek k starým rodičom, kde majú stráviť letné prázdniny. Alika sa však hneď v prvý deň stretáva so...",148,226,"['dětské', '', 'slovenské, Ganizani Ghiwaura']"
+n38794302,Môj macík,98,2,2010,12,slovenské,dětské,Mária Rázusová-Martáková</p>,,"Klasické rozprávkové leporelo pre najmenšie deti s nádhernými ilustráciami a mimoriadne populárnymi básničkami. Z ruského originálu prebásnila Mária Rázusová-Martáková.
+
+Autor:...",76,120,"['dětské', '', 'slovenské, Mária Rázusová-Martáková']"
+n259681516,Dear Zoo Rod Campbell,0,0,2010,18,anglické,dětské,Rod Campbell</p>,,"Rod Cambell stvořil příběh, který se stal naprosto kultovním po celém světě. A o čem je? O tom, že napíšete společně s dětmi do ZOO, aby Vám poslali zvířátko. Ale dorazí...",140,239,"['dětské', '', 'anglické, Rod Campbell']"
+n459928484,Vyprávění o koních,100,1,2010,64,německé,dětské,Klaus-Peter Wolf</p>,,"Sedm příběhů o koních, nejen pro milovníky zvířat, ocení jistě všichni ti, kteří si chtějí procvičit své znalosti němčiny. Edice První čtení v němčině je určená pro samostatné...",131,187,"['dětské', '', 'německé, Klaus-Peter Wolf']"
+n23351081,My First Number Sticker Book,0,0,2010,12,,dětské,anglické</p>,,"Zábavný pracovní sešit se samolepkami v angličtině, který seznamuje své malé čtenáře s čísly a prvními anglickými slovíčky. Přináší názorné fotografie věcí, kteréděti znají ze...",48,70,"['dětské', '', 'anglické']"
+n17476183,DK Opposites,0,0,2010,12,,dětské,anglické</p>,,"Opposites kniha od autora . Leporelo v angličtině, které seznamuje své malé čtenáře s protiklady. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá...",49,70,"['dětské', '', 'anglické']"
+n51165410,Rozprávky pre neposlušné deti,0,0,2010,168,slovenské,dětské,Jozef Gertli Da</p>,,"Máte doma dieťa, ktoré sa špára v nose, je zábudlivé, lenivé, papuľnaté a nechce sa umývať? Hľadáte dobrú polepšovňu, ktorá ho zachráni pred doživotnou neposlušnosťou? Už...",251,260,"['dětské', '', 'slovenské, Slovart, Dušan Taragel, Jozef Gertli Da']"
+n674911638,Ako žijú zvieratká,0,0,2010,64,slovenské,dětské,Vnímavé Deti,,"Jedinečná kniha pre malých čitateľov s množstvom poučných informácií - z jednej strany obsahuje príbeh o včielke, z druhej o lienke a jej kamarátoch na lúke. 
+
+Fascinujúcim...",165,241,"['dětské', '', 'slovenské, Vnímavé Deti, Döring, Hans-Günther']"
+n459929367,Krátky druhý život Bree Tannerovej,90,1,2010,168,slovenské,dětské,Stephenie Meyer</p>,,"Kniha Krátky druhý život Bree Tannerovej vyšla súčasne s uvedením filmu Zatmenie v slovenských kinách! Fanúšikovia Twilight ságy sa zamilujú do strhujúceho príbehu Bree Tanner,...",73,74,"['dětské', '', 'slovenské, Tatran, Stephenie Meyer']"
+n17476181,DK Colours,0,0,2010,12,,dětské,anglické</p>,,"Colours kniha od autora . Leporelo s představením základních barev v angličtině. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá pomůcka, pokud...",49,70,"['dětské', '', 'anglické']"
+n38794303,Rozprávky o psíčkovi a mačičke,0,0,2010,112,slovenské,dětské,Josef Čapek</p>,,"Obľúbené rozprávky o psíčkovi a mačičke, ako spolu gazdovali v malom domčeku pod lesom, ako si v ňom spolunažívali a chceli robiť všetko tak, ako robia veľkí ľudia a ešte o...",117,210,"['dětské', '', 'slovenské, Josef Čapek']"
+n459928482,Fotbalové historky,0,0,2010,66,německé,dětské,Martin Klein</p>,,"Pět příběhů v němčině ze světa fotbalu, nejen pro sportovní fanoušky. Edice První čtení v němčině je určená pro samostatné čtení v cizím jazyce. Text je přizpůsoben jazykově i...",131,187,"['dětské', '', 'německé, Martin Klein']"
+n51170548,Rozprávky o princoch - František Zacharník,0,0,2010,64,slovenské,dětské,František Zacharník</p>,,"Každá malá slečna niekedy snívala o svojom princovi, rovnako ako hlavné hrdinky tejto knižky, dievčatká Eliška a Sára, ktorým ich láskavý deduško každý večer pred spaním...",136,137,"['dětské', '', 'slovenské, Computer Press, František Zacharník']"
+n22602114,Čtenářský slovník pro nejmenší,0,0,2010,114,francouzské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",161,206,"['dětské', '', 'francouzské, Werner Färber']"
+n23351229,Puppy - Pop Up Book,0,0,2010,6,,dětské,anglické</p>,,"Prostorové leporelo v angličtině, které seznamuje své malé čtenáře s tím, co všechno dokáže štěnátko. Skvělá pomůcka, pokud chcete děti formou hry seznámit s angličtinou....",107,134,"['dětské', '', 'anglické']"
+n22602117,Čtenářský slovník pro nejmenší,0,0,2010,118,španělské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",171,206,"['dětské', '', 'španělské, Werner Färber']"
+n632542811,O mravčekovi z lesa - Zuzana Pospíšilová,0,0,2010,12,slovenské,dětské,Mária Štefánková</p>,,"Veršovaný príbeh o mravčekovi, ktorý ochotne pomáhal všetkým kamarátom v lese, až zabudol postaviť vlastný dom. Rozkladacie výsekové leporelo dopĺňajú pôvabné obrázky.
+
+Autor:...",47,75,"['dětské', '', 'slovenské, Junior, Mária Štefánková']"
+n459929372,Šperky z háčkovaných korálikov,50,1,2010,32,slovenské,dětské,Monika a Nicole Helbigová</p>,,"Monika a Nicole Helbigová
+56
+Talentum 2010, edice Z dielne DaVINCI
+Kniha, slovenština, 32 stran",61,79,"['dětské', '', 'slovenské, Monika a Nicole Helbigová']"
+n459928309,Ako začať zbierať známky,0,0,2010,56,slovenské,dětské,Perfekt</p>,,"Knižka o zbieraní známok dokáže svojím obsahom, obrazovým materiálom a hrou pritiahnuť k filatelii všetky deti. Zaujme a inšpiruje aj rodičov a starých rodičov, aby pohľadali...",212,311,"['dětské', '', 'slovenské, Perfekt']"
+n17488664,"Dinosaury Encyklopédia Benton, Mike",0,0,2010,160,slovenské,dětské,Mike Benton</p>,,V populárnej encyklopédii o dinosauroch sa na každej stránke ocitnete v tajomnom svete prehistorických obrov a zvláštnych rastlín. Encyklopédiu zostavil popredný dinosaurológ...,332,390,"['dětské', '', 'slovenské, Svojtka&Co., Mike Benton']"
+n16723942,"Šperky z papiera 65 Barabásová, Renáta",75,3,2010,32,slovenské,dětské,Renáta Barabásová</p>,,"Z dielne DaVINCI 65
+
+Šperky z papiera? Hoci to znie zvláštne z farebného papiera sa dajú zhotoviť jedinečné kúsky.
+
+Príručka vás oboznámi s materiálmi, pomôckami a so...",61,79,"['dětské', '', 'slovenské, Renáta Barabásová']"
+n459941439,Džungľa,0,0,2010,62,slovenské,dětské,Rainer Crummenerl</p>,,"Riko a Joana sú napätí! Chceli navštíviť svojho otecka, ktorý pracuje ako vedec v džungli. Ale po ceste musí ich malé lietadlo núdzovo pristáť. Odrazu sa obaja ocitnú uprostred...",131,187,"['dětské', '', 'slovenské, Rainer Crummenerl']"
+n459929321,Smieškove prázdniny,0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Autor : Kristin Earhart, Popis : Poník Smieško sa teší na vianočné prázdniny, ktoré prežije spolu so všetkými svojimi priateľmi.
+Myšiak Robin však príde so zlou správou:...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n599450757,"Vpred, Smieško!",0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Poníka Smieška čakajú jeho prvé naozajstné preteky! Zúčastní sa ich spolu s Dokonalým Danom, skúseným pretekárskym poníkom. Dan preteky zbožňuje, ale Smieško si nie je celkom...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n459938305,Krajinka s koníkom,0,0,2010,48,slovenské,dětské,Marta Šurinová</p>,,"Krajinka s koníkom je knižka pre deti z cirkusového prostredia. Obrázky zo života starého klauna sa prelínajú s príbehmi cirkusového koníka. Ich priateľstvo dopĺňa dievčatko,...",121,199,"['dětské', '', 'slovenské, Perfekt, Marta Šurinová']"
+n459941441,Pyramídy,0,0,2010,64,slovenské,dětské,Imke Rudelová</p>,,"Kniha obsahuje pět samostatných příběhů. Každý příběh je zakončen informativní
+dvojstránkou se zajímavými fakty a vysvětlujícími pojmy.
+Anika je poprvé v životě v Egyptě, zemi...",106,187,"['dětské', '', 'slovenské, Imke Rudelová']"
+n17304734,"365 nápadov na kreslenie a maľovanie Watt, Fiona",0,0,2010,128,slovenské,dětské,Fiona Watt</p>,,"Jazyk: slovenský
+Počet stran: 128
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Svojtka § Co., s.r.o.",174,298,"['dětské', '', 'slovenské, Svojtka&Co., Fiona Watt']"
+n599450769,Rozprávky z blogu,0,0,2010,136,slovenské,dětské,Zuzana Kuglerová</p>,,"Známa autorka historických románov prichádza s rozprávkami. Kuglerovej príbehy nie sú izolované, tvoria celok, prepojený dialogickými vstupmi, v ktorých sa rozprávačka,...",117,199,"['dětské', '', 'slovenské, Vydavateľstvo SSS, Zuzana Kuglerová']"
+n460961436,A čo takto byť veterinárom,0,0,2010,24,slovenské,dětské,Valérie Videauová</p>,,"V tejto knihe sa deti dozvedia všetko podstatné o povolaní veterinára.
+Naučia sa ako sa správne starať o domáce zvieratá, aké sú ich najčastejšie ochorenia a ako sa dajú...",202,434,"['dětské', '', 'slovenské, Mladá fronta, Valérie Videauová']"
+n734842269,Khidayer Emíre - Príbehy zo Sumhuramu,0,0,2010,96,slovenské,dětské,Emíre Khidayer</p>,,"Jazyk: slovenský
+Počet stran: 96
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Marenčin PT, spol. s r.o.",226,388,"['dětské', '', 'slovenské, Emíre Khidayer']"
+n599450751,Z denníka malého Petríka,0,0,2010,64,slovenské,dětské,Peter Kubica</p>,,"Jazyk: slovenský
+Počet stran: 64
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Vydavaťelstvo SSS spol.s.r.o.",117,199,"['dětské', '', 'slovenské, Vydavateľstvo SSS, Peter Kubica']"
+n38794302,Môj macík,98,2,2010,12,slovenské,dětské,Mária Rázusová-Martáková</p>,,"Klasické rozprávkové leporelo pre najmenšie deti s nádhernými ilustráciami a mimoriadne populárnymi básničkami. Z ruského originálu prebásnila Mária Rázusová-Martáková.
+
+Autor:...",76,120,"['dětské', '', 'slovenské, Mária Rázusová-Martáková']"
+n459928484,Vyprávění o koních,100,1,2010,64,německé,dětské,Klaus-Peter Wolf</p>,,"Sedm příběhů o koních, nejen pro milovníky zvířat, ocení jistě všichni ti, kteří si chtějí procvičit své znalosti němčiny. Edice První čtení v němčině je určená pro samostatné...",131,187,"['dětské', '', 'německé, Klaus-Peter Wolf']"
+n259681516,Dear Zoo Rod Campbell,0,0,2010,18,anglické,dětské,Rod Campbell</p>,,"Rod Cambell stvořil příběh, který se stal naprosto kultovním po celém světě. A o čem je? O tom, že napíšete společně s dětmi do ZOO, aby Vám poslali zvířátko. Ale dorazí...",140,239,"['dětské', '', 'anglické, Rod Campbell']"
+n23351081,My First Number Sticker Book,0,0,2010,12,,dětské,anglické</p>,,"Zábavný pracovní sešit se samolepkami v angličtině, který seznamuje své malé čtenáře s čísly a prvními anglickými slovíčky. Přináší názorné fotografie věcí, kteréděti znají ze...",48,70,"['dětské', '', 'anglické']"
+n17476183,DK Opposites,0,0,2010,12,,dětské,anglické</p>,,"Opposites kniha od autora . Leporelo v angličtině, které seznamuje své malé čtenáře s protiklady. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá...",49,70,"['dětské', '', 'anglické']"
+n51165410,Rozprávky pre neposlušné deti,0,0,2010,168,slovenské,dětské,Jozef Gertli Da</p>,,"Máte doma dieťa, ktoré sa špára v nose, je zábudlivé, lenivé, papuľnaté a nechce sa umývať? Hľadáte dobrú polepšovňu, ktorá ho zachráni pred doživotnou neposlušnosťou? Už...",251,260,"['dětské', '', 'slovenské, Slovart, Dušan Taragel, Jozef Gertli Da']"
+n674911638,Ako žijú zvieratká,0,0,2010,64,slovenské,dětské,Vnímavé Deti,,"Jedinečná kniha pre malých čitateľov s množstvom poučných informácií - z jednej strany obsahuje príbeh o včielke, z druhej o lienke a jej kamarátoch na lúke. 
+
+Fascinujúcim...",165,241,"['dětské', '', 'slovenské, Vnímavé Deti, Döring, Hans-Günther']"
+n38794303,Rozprávky o psíčkovi a mačičke,0,0,2010,112,slovenské,dětské,Josef Čapek</p>,,"Obľúbené rozprávky o psíčkovi a mačičke, ako spolu gazdovali v malom domčeku pod lesom, ako si v ňom spolunažívali a chceli robiť všetko tak, ako robia veľkí ľudia a ešte o...",117,210,"['dětské', '', 'slovenské, Josef Čapek']"
+n51170548,Rozprávky o princoch - František Zacharník,0,0,2010,64,slovenské,dětské,František Zacharník</p>,,"Každá malá slečna niekedy snívala o svojom princovi, rovnako ako hlavné hrdinky tejto knižky, dievčatká Eliška a Sára, ktorým ich láskavý deduško každý večer pred spaním...",136,137,"['dětské', '', 'slovenské, Computer Press, František Zacharník']"
+n459929367,Krátky druhý život Bree Tannerovej,90,1,2010,168,slovenské,dětské,Stephenie Meyer</p>,,"Kniha Krátky druhý život Bree Tannerovej vyšla súčasne s uvedením filmu Zatmenie v slovenských kinách! Fanúšikovia Twilight ságy sa zamilujú do strhujúceho príbehu Bree Tanner,...",73,74,"['dětské', '', 'slovenské, Tatran, Stephenie Meyer']"
+n459928482,Fotbalové historky,0,0,2010,66,německé,dětské,Martin Klein</p>,,"Pět příběhů v němčině ze světa fotbalu, nejen pro sportovní fanoušky. Edice První čtení v němčině je určená pro samostatné čtení v cizím jazyce. Text je přizpůsoben jazykově i...",131,187,"['dětské', '', 'německé, Martin Klein']"
+n17476181,DK Colours,0,0,2010,12,,dětské,anglické</p>,,"Colours kniha od autora . Leporelo s představením základních barev v angličtině. Přináší názorné fotografie na kontrastním pozadí i slovní popis k nim. Skvělá pomůcka, pokud...",49,70,"['dětské', '', 'anglické']"
+n22602114,Čtenářský slovník pro nejmenší,0,0,2010,114,francouzské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",161,206,"['dětské', '', 'francouzské, Werner Färber']"
+n23351229,Puppy - Pop Up Book,0,0,2010,6,,dětské,anglické</p>,,"Prostorové leporelo v angličtině, které seznamuje své malé čtenáře s tím, co všechno dokáže štěnátko. Skvělá pomůcka, pokud chcete děti formou hry seznámit s angličtinou....",107,134,"['dětské', '', 'anglické']"
+n22602117,Čtenářský slovník pro nejmenší,0,0,2010,118,španělské,dětské,Werner Färber</p>,,"Kniha kromě vizualizované slovní zásoby obsahuje sbírku textů, která je určena pro základní procvičení a k seznámení se se základními frázemi. Všechny texty, které tvoří...",171,206,"['dětské', '', 'španělské, Werner Färber']"
+n459928309,Ako začať zbierať známky,0,0,2010,56,slovenské,dětské,Perfekt</p>,,"Knižka o zbieraní známok dokáže svojím obsahom, obrazovým materiálom a hrou pritiahnuť k filatelii všetky deti. Zaujme a inšpiruje aj rodičov a starých rodičov, aby pohľadali...",212,311,"['dětské', '', 'slovenské, Perfekt']"
+n459929372,Šperky z háčkovaných korálikov,50,1,2010,32,slovenské,dětské,Monika a Nicole Helbigová</p>,,"Monika a Nicole Helbigová
+56
+Talentum 2010, edice Z dielne DaVINCI
+Kniha, slovenština, 32 stran",61,79,"['dětské', '', 'slovenské, Monika a Nicole Helbigová']"
+n632542811,O mravčekovi z lesa - Zuzana Pospíšilová,0,0,2010,12,slovenské,dětské,Mária Štefánková</p>,,"Veršovaný príbeh o mravčekovi, ktorý ochotne pomáhal všetkým kamarátom v lese, až zabudol postaviť vlastný dom. Rozkladacie výsekové leporelo dopĺňajú pôvabné obrázky.
+
+Autor:...",47,75,"['dětské', '', 'slovenské, Junior, Mária Štefánková']"
+n17488664,"Dinosaury Encyklopédia Benton, Mike",0,0,2010,160,slovenské,dětské,Mike Benton</p>,,V populárnej encyklopédii o dinosauroch sa na každej stránke ocitnete v tajomnom svete prehistorických obrov a zvláštnych rastlín. Encyklopédiu zostavil popredný dinosaurológ...,332,390,"['dětské', '', 'slovenské, Svojtka&Co., Mike Benton']"
+n17110114,"Biblické verše pre deti 2.diel Fričovský, Ladislav; Topolčany, Roman",0,0,2010,32,slovenské,dětské,Ladislav Fričovský</p>,,"Prvých sedem najznámejších príbehov zo Starého zákona ožíva vo veršoch, ktoré detského čitateľa vťahujú do rozprávania o Stvorení sveta, Kainovi a Ábelovi a Potope sveta v...",65,96,"['dětské', '', 'slovenské, Ladislav Fričovský']"
+n459929321,Smieškove prázdniny,0,0,2010,88,slovenské,dětské,Kristin Earhart</p>,,"Autor : Kristin Earhart, Popis : Poník Smieško sa teší na vianočné prázdniny, ktoré prežije spolu so všetkými svojimi priateľmi.
+Myšiak Robin však príde so zlou správou:...",117,188,"['dětské', '', 'slovenské, Kristin Earhart']"
+n17304734,"365 nápadov na kreslenie a maľovanie Watt, Fiona",0,0,2010,128,slovenské,dětské,Fiona Watt</p>,,"Jazyk: slovenský
+Počet stran: 128
+Rok vydání: 2010
+Vazba / Podoba: Pevná bez přebalu lesklá
+Sortiment: 
+Nakladatelství: Svojtka § Co., s.r.o.",174,298,"['dětské', '', 'slovenské, Svojtka&Co., Fiona Watt']"
+n459935829,Figúrky zo slaného cesta,0,0,2010,32,slovenské,dětské,Ágnes Petőová</p>,,V této knize vydavatel přináší čtenáři návod jak ozdobit oblíbené slané těsto a přeměnit jej na jedinečnou dekorační ozdobu.,61,89,"['dětské', '', 'slovenské, Ágnes Petőová']"
+n18579822,"Vufi na výletoch SK Dunajová, Tatiana",0,0,2010,72,slovenské,dětské,Tatiana Dunajová</p>,,"Krátke príbehy Vufiho doplnené samolepkami k opakovanému použitiu
+
+Podtitul: Samolepky
+Autor: Tatiana Dunajová
+Edice: Ottík deťom
+Rok vydání: 2010
+Vazba: Brožovaná bez přebalu...",123,300,"['dětské', '', 'slovenské, Ottovo nakladatelstvo, Tatiana Dunajová']"
+n459938305,Krajinka s koníkom,0,0,2010,48,slovenské,dětské,Marta Šurinová</p>,,"Krajinka s koníkom je knižka pre deti z cirkusového prostredia. Obrázky zo života starého klauna sa prelínajú s príbehmi cirkusového koníka. Ich priateľstvo dopĺňa dievčatko,...",121,199,"['dětské', '', 'slovenské, Perfekt, Marta Šurinová']"
+n18976934,Uletené rozprávky pre veľké deti a malých dospelých - Olivia Olivieri,0,0,2010,56,slovenské,dětské,Olivia Olivieri</p>,,"Všetkého veľa škodí. Zistili to aj hrdinovia Uletených rozprávok, no ako to už v živote chodí, prišli na to, až keď už bolo neskoro. Prečítajte si túto knihu bez ohľadu na vek...",136,234,"['dětské', '', 'slovenské, Olivia Olivieri']"
+n459939014,Chrobáčiky,0,0,2010,120,slovenské,dětské,Jan Karafiát</p>,,"CHROBÁČIKY patria ku klasickým a stále obľúbeným dielam českej detskej literatúry a mali by byť neoddeliteľnou súčasťou každej knižnice. Pripomeňme si, že postavičky...",91,300,"['dětské', '', 'slovenské, Ottovo nakladatelstvo, Jan Karafiát']"
+n19379629,"Tonino, Pieskový šaško",0,0,2010,56,slovenské,dětské,Sara Nui</p>,,"Citlivý príbeh o dievčatku Zuzane, ktoré sa stretne s pieskovými ľudkami. Príbeh zažíva so slúžkou Klárou, pieskovým šaškom a princeznou, ktorá sa snaží zachrániť svoje...",117,199,"['dětské', '', 'slovenské, Perfekt, Sara Nui']"
+n459939039,Vrkôčkine tajné objavy,0,0,2010,96,slovenské,dětské,Paula Sabolov</p>,,"Prváčikovia sa na školu väčšinou tešia, niektorí sa trošku boja, ale Vrkôčka - tá je veľmi smutná. Nielenže sa narodila o 5 dní neskôr, ako sa požaduje
+ (5. septembra), ale jej...",100,166,"['dětské', '', 'slovenské, Slovenské pedagogické nakladat, Alena Wagnerová, Paula Sabolov']"
+n21162848,"Alíka a stratená kniha Asahuru and lost book of Asahuru, Časť 1. a 2.",0,0,2010,136,slovenské,dětské,Ganizani Ghiwaura</p>,,"Alika je bezstarostné dievčatko, ktoré prichádza spolu so svojim bratom na vidiek k starým rodičom, kde majú stráviť letné prázdniny. Alika sa však hneď v prvý deň stretáva so...",148,226,"['dětské', '', 'slovenské, Ganizani Ghiwaura']"

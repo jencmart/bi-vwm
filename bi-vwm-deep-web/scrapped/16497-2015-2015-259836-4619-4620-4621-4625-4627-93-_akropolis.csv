@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n249556646,Lázeňské naděje - Roman Ráž,0,0,2015,436,Akropolis,beletrie,české</p>,,"Lázeňské naděje jsou druhý díl rozsáhlé románové fresky Romana
+Ráže, věnující se osudům jedné rodiny v moravských lázních
+Slaňanech v průběhu dvacátého století. Zatímco první...",281,359,"['Akropolis, beletrie', '', 'české']"

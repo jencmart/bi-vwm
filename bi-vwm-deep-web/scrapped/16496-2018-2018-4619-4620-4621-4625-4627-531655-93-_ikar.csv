@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n611848433,Osvobozená móda - Margret Greinerová,100,1,2018,292,Ikar,naučná,české</p>,,Emilie Flögeová vynálezem „uměleckých reformních šatů jako první evropská tvůrkyně módy osvobodila ženy od šněrovačky a korzetu a oslavila novou sebevědomou ženskost....,237,299,"['Ikar, naučná', '', 'české']"
+n604976624,Jedu dál - Blanka Matragi,100,1,2018,280,Ikar,naučná,české</p>,,"Proslulá oděvní výtvarnice je známá především svým haute couture pro manželky, sestry a dcery králů, emírů, šejchů a magnátů v zemích Perského zálivu. Její již druhá knihu...",317,399,"['Ikar, naučná', '', 'české']"

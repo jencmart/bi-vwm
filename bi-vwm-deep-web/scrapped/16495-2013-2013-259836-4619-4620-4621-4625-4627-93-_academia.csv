@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n106877195,Láska a smetí,0,0,2013,184,Academia,beletrie,české</p>,,"Román Láska a smetí vznikal na konci 70. let, v době, kdy byl Ivan Klíma v Československu zakázaným autorem. Má několik dějových pásem, v ústředním z nich se hrdina, ženatý...",199,238,"['Academia, beletrie', '', 'české']"
+n134197815,Jméno-objev a zmizení věci,0,0,2013,180,Academia,beletrie,české</p>,,Kniha Jméno - objev a zmizení věci představuje pokus o fenomenologii přirozeného jazyka jako dobře organizovaného systému a přirozené řeči jako života a dějinného vývoje tohoto...,171,275,"['Academia, beletrie', '', 'české']"

@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n259842396,Flying foxes,0,0,2012,158,KNIHA ZLÍN,beletrie,české</p>,,"Flying foxes je niternou, lehce ironickou zpovědí mladé ženy, která se po zhroucení osobního i profesního života pokouší nalézt ztracenou rovnováhu. Děj novely se odehrává na...",129,189,"['KNIHA ZLÍN, beletrie', '', 'české']"
+n30620977,Julius Winsome,0,0,2012,128,KNIHA ZLÍN,beletrie,české</p>,,"Julius Winsome žije sám v chatě v lesích státu Maine, společnost mu dělají jen knihy a jeho milovaný pes Hobbes. Jednoho chladného zimního odpoledne najde Julius svého psa...",184,239,"['KNIHA ZLÍN, beletrie', '', 'české']"

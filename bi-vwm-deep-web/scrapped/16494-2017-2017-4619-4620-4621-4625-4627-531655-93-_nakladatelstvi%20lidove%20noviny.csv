@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n481084025,Kvantitativní charakteristiky termínů,0,0,2017,136,Nakladatelství Lidové noviny,naučná,české</p>,,"Kniha představuje novou metodu automatického vyhledávání termínů v odborných textech, která je založena na data miningu, tedy na vytěžování informací z velkých objemů...",104,149,"['Nakladatelství Lidové noviny, naučná', '', 'české']"

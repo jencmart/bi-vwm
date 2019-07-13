@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n410669895,WINDOWS 8 - Praktická příručka - Karel Klatovský,0,0,2012,260,Computer Media,naučná,české</p>,,"Windows 8 je nejmodernější operační systém společnosti Microsoft. Obsahuje zcela nové ovládání a nový způsob práce se systémem, než na který byli uživatelé dosud zvyklí....",191,299,"['Computer Media, naučná', '', 'české']"

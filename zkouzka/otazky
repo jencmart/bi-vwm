@@ -1,0 +1,649 @@
+Co poskytuji Stock servery:
+casove rady vyvoje akcii
+zpoplatnena anotovana multimedia //
+sdileni videi ze socialnich siti
+volne stahnutelna alba obrazku
+
+V kontextu vyhledavani v multimedialnich databazich terminem Benchmarking oznacujeme:
+platformu vyhodnocovani kvality vyhledavaciho systemu vzhledem k nejake anotovane ,,golden-standard" kolekci //
+uzivatelska anketa zamerena na hodnoceni kvality weboveho vyhledavace
+mereni P-R krivky na nejakem systemu
+vykonnostni (rychlostni) srovnani dvou vyhledavacu
+
+Presnost (precision) a uplnost (recall) vyhledavani se realne chovaji tak, ze:
+presnost lze spocitat z uplnosti
+kdyz roste presnost, roste i uplnost
+chovani presnosti a uplnosti nelze odhadovat
+kdyz roste presnost, klesa uplnost, a naopak //
+
+Podobnostni vyhledavani (vyhledavani podle podobnosti; similarity search) je:
+technika klasifikace objektu do trid pomoci podobnostni matice
+vyhledavaci model zalozeny na ad-hoc shlukovani podobnych objektu a jejich naslednem filtrovani
+geometricka interpretace vyhledavacich problemu ve vektorovem prostoru
+vyhledavaci model zalozeny na univerzu deskriptoru multimedialnich objektu a funkci ohodnocujici podobnost libovolnych dvou deskriptoru z univerza //
+
+Funkce podobnosti je:
+algoritmus, ktery nalezne pro dotazovy deskriptor podobne deskriptory z databaze
+funkce ohodnocujici danou databazi stupnem podobnosti vsech ulozenych deskriptoru
+libovolna funkce vracejici pro dva deskriptory z univerze podobnostni skore //
+metricka vzdalenost slouzici jako podobnost
+
+Nemetricke vzdalenosti, narozdil od metrickych:
+dovoluji modelovat robustnejsi podobnosti //
+funguji dobre pouze ve vysokorozmernych prostorech
+jsou indexovatelnejsi
+vyzaduji od domenovych expertu vetsi matematicke znalosti
+
+Dynamic time warping distance (DTW) se pouziva pro mereni podobnosti na:
+vektorech
+retezcich
+casovych radach //
+mnozinach
+
+Dynamit time warping distance (DTW) je vyhodna, protoze:
+neni metricka, narozdil od Lp vzdalenosti
+predstavuje robustni zarovnani diky lokalnimu natahovani/zkracovani (time warp) //
+umoznuje lokalni zarovnani, tj. zarovnani pouze podposloupnosti (subsequence)
+je vypocet levnejsi nez Lp vzdalenost
+
+Earth mover's distance (EMD) je vhodna pro modelovani podobnosti na histogramech, kdyz:
+histogramy reprezentuji obraz omezeny na barevny prostor RGB
+nestaci pouha korelace dimenzi (sloupcu), ale resi se ,,nejmensi presun 'masy' mezi histogramy" //
+modelujeme biochemickou podobnost vzorku
+nevime jake korelace vyplnit do matice kvadraticke formy (QFD)
+
+SIFT je:
+detektor a deskriptor lokalnich vlastnosti v obrazcich //
+metoda rozpoznavani obrazku zalozena na Fourierove transformaci (FT)
+technika segmentace obrazu na homogenni textury
+algoritmus pro extrakci globalnich vlastnosti z obrazku
+
+Matice pro vypocet QFD (quadratic form distance) pro histogramy barev obsahuje:
+vzdalenosti prumeru vsech barev vyskytujicich se v obrazcich
+korelace mezi reprezentanty barev vyskytujicimi se v obrazcich //
+vzdalenosti k nekolika pevne danym centroidum barev
+korelace mezi vsemi barvami vyskytujicimi se v obrazcich
+
+Termin ,,query-by-humming" pri vyhledavani napr. hudebni skladby znamena:
+ze jako dotaz je pouzito audio zapiskane/zazpivane uzivatelem //
+totez co ,,query-by-example"
+ze dotazem je zkomprimovany audio soubor
+ze jako dotaz je pouzit audio soubor nejake skladby
+
+M-strom je:
+inspirovan R-stromem, vyuziva hiearchicke hnizdeni metrickych regionu a neni vyvazeny
+inspirovan PM-stromem, vyuziva hiearchicke hnizdeni metrickych regionu a je vyvazeny
+inspirovan PM-stromem, vyuziva hiearchicke hnizdeni metrickych regionu a neni vyvazeny
+inspirovan R-stromem, vyuziva hiearchicke hnizdeni metrickych regionu a je vyvazeny //
+
+T-chyba (T-error) vyzaduje:
+proporce trojic v datove sade splnujicich trojuhelnikovou nerovnost
+proporce dvojic v datove sade splnujicich trojuhelnikovou nerovnost
+proporce trojic v datove sade porusujicich trojuhelnikovou nerovnost //
+proporce dvojic v datove sade porusujicich trojuhelnikovou nerovnost
+
+Metricke pristupove metody (metric access methods) jsou:
+datove struktury a algoritmy umoznujici rychle vyhledavani v metrickem modelu podobnostniho vyhledavani //
+stromove indexy odvozene od B-stromu
+prostorove indexy vyuzivajici vektorove podobnosti
+algoritmy pro podobnostni hashovani
+
+Globalni pivoti jsou:
+tvoreny za ucelem vytvareni indexu
+dynamicke objekty (prislusne ruznym castem indexu)
+staticke objekty (platne po cely zivot indexu) //
+dynamicke objekty, ale v prubehu jednoho dotazu fixovany jako staticke
+
+Uplnost vyhledavani (retrieval recall) oznacuje:
+pravdepodobnost, ze objekt ve vysledku dotazu je relevantni
+pravdepodobnost, ze objekt relevantni k dotazu je v jeho vysledku //
+pocet iteraci pri vyhledavani pomoci uzivatelske zpetne vazby
+stupen 1 na stupnici 1-5 uzivatelske spokojenosti s vysledkem dotazu
+
+Co je virtualni/implicitni graf v kontextu brouzdani (browsing) v multimediich?
+nejkratsi cesta v grafu, kde uzly jsou multimedia a hrany podobnosti mezi nimi
+serie dotazu v multimedialnim prostoru tvorici cestu virtualnim grafem //
+graf vytizeni uzlu site hostujici multimedialni obsah, tvorene peer-to-peer architekturou
+hiearchie multimedialnich kategorii, modelovana explicitne
+
+Boolsky model vyhledavani je zalozen na:
+usporadani dokumentu podle podobnosti k dotazu
+binarnich vektorech a Hammingove vzdalenosti
+bitovych retezcich a operacich AND, OR a XOR
+reprezentaci obsahu dokumentu mnozinou termu a na dotazovani boolovskymi vyrazy a termy //
+
+Co je explicitni graf v kontextu brouzdani (browsing) v multimediich?
+hiearchie multimedialnich kategorii, modelovana explicitne //
+graf tvoreny uzly a hranami
+graf socialnich komunit sdilejici podobny multimedialni obsah
+serie ad-hoc dotazu. tvorici retez
+
+Vypocet Earth mover's distance (EMD) ma casovou slozitost:
+O(2^n) //
+---
+O(n^2)
+O(n.log(n))
+
+Vektorovy model vyhledavani je zalozen na:
+binarnich vektorech a Hammingove vzdalenosti
+teorii fuzzy mnozin
+vektorovem paralelismu jednotek GPU (v grafickych kartach)
+reprezentaci obsahu dokumentu a dotazu vektory, a vektorove mire slouzici jako podobnost //
+
+Editacni vzdalenost (edit distance) slouzi k mereni podobnosti:
+vektoru, kde meri nejmensi tzv. ,,vektorovy edit"
+retezu, kde spocita nejmensi pocet operaci nutnych ke konverzi jednoho retezce do druheho //
+mnozin, kde spocita nejmensi pocet mnozinovych operaci nutnych k transformaci jedne mnoziny do druhe
+tehoz co DTW (je to pouze jiny nazev pro DTW)
+
+Pro vektorovy model dotazovani neplati, ze:
+obsahuje logicke spojky //
+obsahuje vahy jednotlivych termu dotazu
+uzivatel muze zadat vahy vsech termu v dotazu shodne
+vysledek je zalozen na frekvenci vyskytu termu v dokumentu a dotazu
+
+Vazeni podle tf-idf schematu:
+je popularni technika konstrukce vah termu ve vektorovem modelu //
+je implementace Boolskeho modelu zalozena na prohledavani komprimovaneho indexu
+je kompresni metoda obrazu, zalozena na tzv. vazeni regionu
+technika konstrukce vah termu ve vektorovem modelu vhodna pouze pro male dimenze
+
+Noty u podobnostniho skore monofoni melodie (monophonie melody) jsou modelovany:
+svoji vyskou
+v 2D prostoru pomoci vysky a pozice v case
+v 2D prostoru pomoci vysky a pozice v case a navic pouziva vahy //
+pozici v notovem zapisu
+
+Podobnostni pristup pro symbolicky reprezentovane polyfonni melodie je aplikovatelny na:
+pouze MIDI soubory //
+pouze WAV soubory
+libovolny ze zde uvedenych audio souboru
+pouze MP3 soubory
+
+Standard MPEG7 popisuje:
+definice deskriptoru a nastroje k jejich extrakci
+definice deskriptoru bez popisu algoritmu jejich extrakce //
+definice deskriptoru a definice podobnosti nad nimi
+definice deskriptoru a algoritmy pro jejich ziskani
+
+TV-modifikator (TV-modifier) je:
+striktne konkavni SP modifikator, coz zajistuje vyssi hodnotu T-chyby (T-error)
+striktne konvexni SP modifikator, coz zajistuje vyssi hodnotu T-chyby (T-error) //
+striktne konkavni SP modifikator, coz zajistuje nizkou hodnotu T-chyby (T-error)
+striktne konvexni SP modifikator, coz zajistuje nizkou hodnotu T-chyby (T-error)
+
+TG-modifikator (TG-modifier) je:
+striktne konkavni SP modifikator, coz zajistuje vyssi hodnotu T-chyby (T-error)
+striktne konvexni SP modifikator, coz zajistuje vyssi hodnotu T-chyby (T-error)
+striktne konkavni SP modifikator, coz zajistuje nizkou hodnotu T-chyby (T-error) //
+striktne konvexni SP modifikator, coz zajistuje nizkou hodnotu T-chyby (T-error)
+
+Longest common subsequence (LCS) je vyhodna, protoze:
+je vypocet levnejsi nez Lp vzdalenosti
+predstavuje robustni zarovnani diky lokalnimu natahovani/zkracovani (time warp)
+umoznuje lokalni zarovnani, tj. zarovnani pouze podposloupnosti (subsequence) //
+je to opravdu podobnost, nikoliv vzdalenost
+
+Termin Retrieval Efficiancy znamena:
+efektivita vyhledavace ve smyslu rychlosti vyhledavani //
+efektivita vyhledavace ve smyslu urovne prezentace vysledku
+efektivita vyhledavace ve smyslu kvality ovladani GUI
+efektivita vyhledavace ve smyslu kvality vysledku vyhledavani
+
+Vysoka vnitrni dimenze (intrinsic dimensionality) znaci ze:
+data netvori shluky (clustery) a tedy jsou spatne strukturovana //
+data tvori shluky a tedy jsou dobre indexovatelna
+data netvori shluky a tedy jsou dobre indexovatelna
+datova sada je dobre strukturovana, protoze vnitrni dimenze odpovida vnejsi
+
+Lower-bounding je:
+odvozeni vypocetne levne metriky z vypocetne drahe nemetriky
+mapovani z metrickeho do vektoroveho prostoru
+obecny mechanismus pro efektivni podobnostni vyhledavani //
+metoda redukce dimenze vektoroveho prostoru
+
+Podobnost zachovavajici modifikator (similarity preserving modifier) je:
+rostouci funkce f pro kterou f(0) = 0 //
+klesajici funkce f pro kterou f(0) < 0
+rostouci funkce f pro kterou f(0) < 0
+klesajici funkce f pro kterou f(0) = 0
+
+//-----------------------------------------------------------------
+Dotaz (query) je:
+Navigace ve strukture databaze (webu)
+Explicitni formulace jednorazoveho zameru vyhledavani //
+SQL prikaz obsahujici predikat LIKE
+Postupna filtrace relevantnich dokumentu a proudu dokumentu
+
+Webova stranka je:
+Vizualizace obsahu stazeneho z webu
+Dokument v jazyce HTML //
+Dokument v jazyce XML
+Libovolny datovy proud predchazeny protokolem HTTP
+
+Termin Retrieval efficiency znamena:
+Miru uspornosti reprezentace dotazu
+Miru vykonu, merici rychlost odezvy dotazu //
+Miru kvality, merici uzivatelskou spokojenost s vysledkem dotazu
+Miru rychlosti, s jakou uzivatel formuluje dotaz
+
+Co je metavyhledavac:
+Vyhledavac, ktery pouze agreguje vysledky z jinych vyhledavacu //
+Vyhledavac integrovany pouze do e-commerce aplikaci
+Multimedialni vyhledavac, ktery indexuje pouze klicova slova, ne samotny multimedialni obsah
+Vyhledavac, ktery indexuje pouze nadpisy webovych stranek
+
+Cim se odlisuje Web 2.0 od puvodniho konceptu webu:
+Primarni podporou HTML 5
+Orientaci na uzivatelem generovany obsah a socialni site //
+Technickou podporou semantickeho webu
+Nativni podporou multimedialniho obsahu
+
+//-------------------Vyhledavani textu - Booleovske modely. Implementace
+
+Nevyhody Booleovskeho modelu jsou:
+Slozitost modelu a neefektivni implementace
+Neusporadanost vysledku dotazu //
+Nemoznost pouziti invertovaneho indexu
+Reprezentace dokumentu indexem
+
+Vyhody Booleovskeho modelu jsou:
+Schopnost predem omezit velikost vysledku dotazu
+Usporadani vysledku dotazu
+Jednoduchost a efektivni implementace //
+Reprezentace dotazu dokumentem
+
+Vyhody Boolskeho modelu jsou:
+jednoduchost, rozsiritelnost a efektivni implementace //
+velmi efektivni model, presnost a uplnost se blizi 100
+usporadani vysledku, dotaz prikladem, snadny relevance feedback
+lze snadno kontrolovat velikost vysledku dotazu
+
+Term je:
+Ukoncovaci znak dokumentu (CR LF)
+Oddelovac tokenu
+Stop slovo
+Slovo (pripadne fraze), vyskytujici se v dokumentu //
+
+//-------------------Vyhledavani textu - Vektorove modely. Implementace
+
+Mezi nevyhody LSI nepatri:
+drahe zpracovani matice
+husta matice
+tezka vyjadritelnost konceptu
+redukce dimenze //
+
+Zrychleni v LSI modelu lze zajistit:
+invertovanym indexem a vyuzitim pouze nekolika dulezitych konceptu
+vyuzitim pouze dulezitych konceptu //
+invertovanym indexem
+invertovanym idnexem nebo vyuzitim pouze nekolika dulezitych konceptu
+
+Vektorovy model je zalozen na:
+fuzzy logice a teorii fuzzy monzin
+Boolske logice a teorii kategorii
+Boolske algebre a teorii mnozin
+geometrizaci vyhledavaciho problemu //
+
+//-------------------Search engine optimization (SEO)
+
+Soubor sitemap:
+je ve formatu XML
+definuje strukturu dokumentu a muze byt v XML formatu //
+definuje strukturu dokumentu a je v XML formatu
+definuje strukturu dokumentu a muze byt v libovolnem formatu
+
+Struktura webu a instrukce pro prochazeni lze crawlerum popsat pomoci souboru:
+sitemap robots.txt a htaccess //
+sitemap a robots.txt
+robots.txt a htaccess
+sitemap a htaccess
+
+Soubor robots.txt:
+definuje stranky, ktere maji a ktere nemaji byt indexovany //
+definuje celou strukturu web site
+definuje stranky, ktere maji byt pri indexovani zvyhodneny
+je vazany na web server Apache
+
+//-------------------Topologicka analyza a rankovani webovych stranek
+
+Vypocet PageRank vektoru pomoci primich metod (direct methods):
+je vypocetne velmi narocny, protoze potrebuje explicitne ukladat matice mezivysledku //
+je vypocetne velmi narocny, protoze nelze paralelizovat
+je vypozetne nejmene narocny, protoze neporebuje explicitne ukladat matice mezivysledku
+je vypocetne nejmene narocny, protoze lze velmi dobre paralelizovat
+
+Paramentr \alfa v Google matici vyjadruje:
+Pravdepodobnost skoku na stranku, na kterou vedou odkazy ze stavajici stranky (= Damping factor) //
+Pravdepodobnost ukonceni prohledavani, kdyz uzivatel --- ?na stranku nemajici zadne outlinky?
+Pravdepodobnost, ze uzivatel --- ?na stranku nemajici zadne outlinky?
+Pravdepodobnost skoku na stranku, na kterou nevedou odkazy ze stavajici stranky
+
+Hub je:
+stranka s malo inlinky
+stranka s malo outlinky
+stranka s mnoha inlinky
+stranka s mnoha outlinky //
+
+//-------------------Semanticky web
+
+V kontextu semantickeho webu slouzi XML:
+jako prezentacni vrstva
+jako protokol komunikace mezi nesemantickym vyhledavanim a webovymi sluzbami
+jako univerzalne strojove citelny jazyk pro popis --- a metadat //
+jako prostredek migrace webovych zrodju z jednoho schematu do druheho
+
+SPARQL je:
+dotazovaci jazyk nad XML
+dotazovaci jazyk nad RDF //
+dotazovaci jazyk SQL rozsireny o klauzule vyhledavani na semantickem webu
+abstraktni model pro konceptualni modelovani ---
+
+//-------------------Podobnostni dotazy
+
+Podobnostni operator narozdil od dotazu:
+je casto parametrizovany a vraci velikou odpoved
+neni casto parametrizovany a vraci velkou odpoved //
+je casto parametrizovany a vraci malou odpoved
+neni casto parametrizovany a vraci malou odpoved
+
+Ktery z nasledujicich pojmu je nesmysl:
+Faginuv operator //
+skyline operator
+top-k operator
+podobnostni spojeni
+
+kNN dotaz (range query):
+je vhodny pro dotazovani nad objekty u kterych uzivatel zna semantiku extrahovanych vektoru a semantiku podobnostni funkce
+je vhodny pro dotazovani nad objekty u kterych uzivatel nezna semantiku extrahovanych vektoru
+je vhodny pro dotazovani nad objekty u kterych uzivatel zna semantiku extrahovanych vektoru
+je vhodny pro dotazovani nad objekty u kterach uzivatel nezna semantiku extrahovanych vektoru a semantiku podobnostni funkce //
+
+//-------------------Indexovani metricke podobnosti pro rychle vyhledavani v multimedialnich databazich
+
+AESA je:
+binarni strom vyuzivajici deleni prostoru (zobecnenymi) nadrovinami
+n-arni strom vyuzivajici deleni prostoru (zobecnenymi) nadrovinami
+tabulka vzdalenosti mezi vsemi objekty databaze a vybranymi pivoty
+tabulka vzdalenosti mezi vsemi dvojicemi objektu v databazi //
+
+Mezi axiomy metriky (metric postulates) nepatri:
+symetrie (symmetry)
+reflexivita (reflexivity)
+asociativita (associativity) //
+trojuhelnikova nerovnost (triangle inequality)
+//-------------------Metric postulates: * Symmetry * Relefxivity * Non-negativity * Triangle inequality
+
+M-strom je:
+inspirovan PM-stromem, vyuziva hiearchicke hnizdeni metrickych regionu a neni vyvazeny
+inspirovan R-stromem, vyuziva hiearchicke hnizdeni metrickych regionu a je vyvazeny //
+inspirovan R-stromem, vyuziva hiearchicke hnizdeni metrickych regionu a neni vyvazeny
+inspirovan PM-stromem, vyuziva hiearchicke hnizdeni metrickych regionu a je vyvazeny
+
+Mezi metricke pristupove metody (metric access methods) nepatri:
+M-strom
+D-index
+LAESA
+R-strom //
+
+Nevyhoda mereni vykonu metrickeho indexu realnym casem je:
+zavislost na platforme, optimalizaci, operacnim systemu a hardware //
+nema nevyhody
+nelze pouzit va paralelnim prostredi
+nemoznost objetivne porovnat s jinym indexem
+
+PAC jsou:
+pravdepodobne podobnostni dotazy
+permanentne aproximativni dotazy
+pravdepodobne priblizne korektni dotazy //
+nic takoveho neexistuje
+
+Metoda FastMap:
+nepouziva kosinovu a Pythagorovu vetu
+je rychla metoda pouzivajici nahodne projekce do vektoroveho prostoru
+je metoda mapovani obecnych metrickych dat do euklidovskeho prostoru //
+je omezena pouze na mapovani dat v euklidovskem prostoru
+
+Aproximativni vyhledavani je vyhodne, kdyz:
+nezname presnou semantiku vzdalenostni funkce
+chceme vyrazne rychlejsi vyhledavani i za cenu velkeho snizeni presnosti vyhledavani
+zname presnou semantiku vzdalenostni funkce
+chceme vyrazne rychlejsi vyhledavani za cenu maleho snizeni presnosti vyhledavani //
+
+Korelovana data u skyline operatoru zpusobi:
+chybu
+maly skyline //
+velky skyline
+uz nevim
+
+Vektorovy model typicky vyuziva:
+euklidovskou vzdalenost
+kosinovou podobnost //
+vazenou euklidovskou vzdalenost
+vazenou kosinovou vzdalenost
+
+Uzivatelska zpetna vazba (user relevance feedback) ve vyhledavacich znamena:
+odeslani weboveho formulare s popisem chyby
+manualni vybirani relevantnich objektu z databaze
+oznaceni korektnosti odpovedi uzivatelem //
+vyhledavani nekolika dotazy najednou
+
+Terminem False dismissal (false drop) oznacujeme:
+objekt, ktery se mel dostat do vysledku, ale neni vubec v databazi
+duplicita objektu ve vysledku dotazu
+objekt ve vysledku dotazu, ktery se tam nemel dostat
+objekt v databazi, ktery se mel dostat do vysledku dotazu, ale nedostal //
+
+Invertovany index:
+ma ridsi matici nez index neinvertovany
+umoznuje urcit zda dokument ma byt ve vysledku bez nutnosti projit celou matici //
+neobsahuje v matici vsechny dokumenty
+je uplatnitelny pouze ve vektorovem modelu vyhledavani
+
+Vypocet Lp (Minkovskeho) vzdalenosti ma casovou slozitost:
+O(pn^2)
+O(n^2)
+O(n) //
+O(nlogn)
+
+Mezi typicke vhodne vlastnosti pro popis obrazku nepatri:
+invariance vuci zvetseni/zmenseni (scale)
+invariance vuci posunu (translation)
+invariance vuci kvantizaci (quantization) //
+invariance vuci rotaci (rotation)
+
+Extrakce vlastnosti (feature extraction) je:
+model a procedura tvorby zjednodusene reprezentace multimedialniho objektu, pouzite pro vyhledavani //
+vyber nekolika vlastnosti multimedia za ucelem jeho komprese
+vyber pouze takovych vlastnosti mutimedia, ktere uzivatel oznaci zpetnou vazbou (relevance feedback)
+vetsinou diskretni Fourierova transformace (DFT)
+
+PM-tree obohacuje M-tree o:
+globalni pivoty, cimz zvetsuje regiony a tedy zlepsuje filtrovani
+globalni pivoty, cimz zmensuje regiony a tedy zlepsuje filtrovani //
+lokalni pivoty, cimz zmensuje regiony a tedy zlepsuje filtrovani
+lokalni pivoty, cimz zvetsuje regiony a tedy zlepsuje filtrovani
+
+Vnitrni dimenze (intrinsic dimensionality) je:
+typ fraktalni dimenze na metrickem prostoru
+prumerny polomer shluku identifikovanych v databazi
+odhad dimenze vektoroveho Lp prostoru, do ktereho bychom namapovali databazi
+statisticky ukazatel odvozeny z distribuce vzdalenosti v databazi, slouzici jako indikator indexovatelnosti databaze pod danou metrikou //
+
+Zakladni jednotkou nakladu v ramci metrickeho indexovani je:
+prustup na disk
+realtime
+pocet vypoctu vzdalenostni metriky //
+pristup do pameti
+
+Mezi nevyhody Boolskeho modelu dotazovani nepatri:
+omezena vyjadrovaci schopnost
+setrideni vystupu
+efektivita vyhodnoceni ridkych dotazu //
+regulace poctu vrazenych dokumentu
+
+Server pro ukladani a sdileni multimedii (hosting server):
+podporuje vyhledavani multimedii na zaklade obsahu nebo textoveho popisu //
+vyhledava pouze webove stranky, na kterych jsou videa a obrazky
+vzdy obsahuje jak ulozeni (hostovani) multimedii, tak vyhledavaci funkce
+podporuje vyhledavani multimedii pouze na zaklade textoveho popisu
+
+Invertovany index je u boolevskeho modelu dotazovani obzvlaste efektivni pro:
+sady obsahujici malo dokumentu
+dotazy obsahujici mnoho termu
+dotazy s malo termy //
+dotazy neobsahujici negaci
+
+Dotaz na k nejblizsich sousedu (k nearest neighbors query, kNN):
+vybere predem neurceny pocet objektu do vzdalenosti k
+vybere k nejpodobnejsich objektu k objektu dotazu //
+se vyhodnocuje top-k operatorem
+je omezen na euklidovsky vektorovy prostor
+
+Content-based retrieval oznacuje:
+vyhledavani struktury v obsahu multimedia
+ziskavani dat filtraci webu
+vyhledavani primo podle obsahu multimedia //
+vyhledavani podle textoveho popisu multimedia
+
+Explorace databaze znamena:
+Prochazeni obsahu databaze bez specifikace dotazu //
+Prochazeni databaze v prohlizeci Internet Explorer
+Neco s indexovanim
+
+Dangling nodes je:
+
+Stranka bez inlinku
+Stranka s 1 inlinkem
+Stranka bez outlinku //
+Stranka s 1 outlinkem
+
+LSI u vektoroveho modelu castecne resi problem s:
+homonymy
+antonymy
+homonymy a synonymy //
+synonymy
+
+V rozsirenem Booleovskem modelu se vyuziva:
+kosinova vzdalenost
+euklidovska vzdalenost
+vazena euklidovska vzdalenost //
+vazena kosinova vzdalenost
+
+O co doplnuje Rozsireny Booleovsky model zakladni Booleovsky model?
+O vazeni a moznost serazeni dokumentu na vystupu //
+
+RDF je zalozeno na:
+dvojicich
+trojicich //
+ctvericich
+peticich
+
+Co je potreba udelat s dokumenty ve formatu PDF a MS Office z hlediska SEO?
+Nechat je v puvodnich formatech (nedelat nic)
+PDF exportovat do bitmapy a MS Office do formatu 97-2003
+Optimalizovat je jako webove stranky //
+Nic
+
+Filtering je:
+Navigace ve strukture databaze (webu)
+Explicitni formulace jednorazoveho zameru vyhledavani
+SQL prikaz obsahujici predikat LIKE
+Formulace dele trvajiciho zameru vyhledavani //
+
+Google matice je (byly tam nejake 3 terminy, ktere si nepamatuji):
+Stochasticka, irreducibilni, aperiodicka //
+Stochasticka
+Irreducibilni, aperiodicka
+Stochasticka, irreducibilni
+
+Algoritmus vypoctu PageRank je:
+Iterativni //
+Aktualizacni
+
+
+Google Analytics je:
+Nastroj pro sledovani pristupu na webove stranky //
+Neco s vyhledavanim
+
+False alarm je:
+Dokument, ktery se mel dostat do vysledku dotazu, ale nedostal se
+Dokument, ktery se objevil ve vysledku dotazu, ale nemel se objevit //
+
+Na co sa vyuziva PageRank:
+Na analyzu popularity stranky, pomoci mnozstvi odkazu vedouci na ni a vedouci z ni //
+
+Z ceho vychazi Google matice?
+z matice sousednosti stranek //
+
+Zakladni konstrukce jazyka SPARQL:
+SELECT, CONSTRUCT //
+SELECT, JOIN, UNSUBSCRIBE
+MAKE, SUBSCRIBE
+
+Zakladni prvky vyhledavani:
+crawling, indexing, searching //
+crawling, checking
+searching
+indexing, crawling
+
+Casova slozitost metrix-free je:
+O(n) //
+O(n^2)
+O(2^n)
+O(n^3)
+
+Co je to GNAT?
+n-arni strom vyuzivajici deleni prostoru (zobecnenymi) nadrovinami //
+
+Co vyjadruje P-R krivka?
+zavislost presnosti (precision) a uplnosti (recall) u Booleovskeho modelu (11 standardnich urovnich recallu) //
+
+Lp (Minkovskeho) vzdalenosti:
+je trida vektorovych vzdalenosti, ktere uvazuji nezavisle dimenze. //
+jsou obecne pouzitelne metriky.
+je trida vektorych vzdalenosti, ktere uvazuji vzajemne korelovane dimenze.
+je trida retezcovych vzdalenosti, slouzicich ke globalnimu zarovnani sekvenci
+
+Metricky model podobnostniho vyhledavani je:
+obecny model indexovani cehokoliv na internetu, co lze vyhledat podle podobnosti
+zalozen na univerzu (mnozine) deskriptoru a metricke vzdalenosti slouzici jako podobnost deskriptoru //
+mnozina metrickych vzdalenosti pro podobnostni vyhledavani multimedii
+specialni pripad vektoroveho podobnostniho modelu
+
+Zajmovy bod (interest point) je:
+bod/region v obraze, ktery je dobre definovany, nese informaci o svem okoli a je stabilni //
+bodove hodnoceni obrazku uzivatelem
+kazdy pixel na hrane segmentu (v segmentovanem obraze)
+bod/region v obraze, ktery je zajimavy pro uzivatele
+
+MPEG7 audio definuje:
+pouze nizkourovnove (low-level) diskriptory
+nizko, stredne (mid-level) a vysokourovnove deskriptory
+pouze vysokourovnove (high-level) deskriptory
+nizko i vysoko urovnove deskriptory //
+
+Keyframe je:
+zakladni prvek pro konstrukci video deskriptoru //
+nejreprezentativnejsi obrazek z video klipu, sumarizujici jeho obsah
+reprezentativni obrazek z kolekce obrazku
+obraz reprezentujici stred shluku obrazku
+
+Vypocet kvadraticke formy (quadratic form distance, QDF) ma casovou slozitost:
+O(n^2) //
+O(n*logn)
+O(n)
+O(n^3)
+
+Hausdorff distance je:
+obecna mnozinova vzdalenost, kde pro podobnost elementu mnozin se vyuziva tzv. ground distance //
+vzdalenost merici (normovanou) velikost pruniku dvou mnozin
+obecna vektorova vzdalenost, kde pro podobnost souzadnic vektoru se pouziva jednoducha norma |.|2
+vzdalenost bodu ve vektorovem prostoru podle tzv. Hausdorffovy neriemannovske geometrie
+
+Vypocet Hausdorff distance ma casovou slozitost:
+O(n*logn)
+O(n^2)
+O(n^2)*O(d), kde O(d) je slozitost ground distance
+O(n)
+

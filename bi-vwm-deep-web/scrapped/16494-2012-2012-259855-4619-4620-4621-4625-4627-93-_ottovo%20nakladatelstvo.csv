@@ -1,0 +1,12 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n49737129,Kouzelné sáně Santa Klause,0,0,2012,0,Ottovo nakladatelstvo,dětské,české</p>,,"Když venku o Vánocích chumelí,
+
+ nemůže Santa ležet v posteli,
+
+ vždyť za hodnými dětmi létá,
+
+ nosí dárky do celého světa.
+
+ Chceš-li s ním k pólu a zase zpátky,
+
+ zaleť si s...",78,242,"['Ottovo nakladatelstvo, dětské', '', 'české']"

@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n51793833,Škoda Octavia II.,89,21,2012,296,Kopp,naučná,české</p>,,Kniha patří do řady automobilových příruček nazvané Jak na to?. Příručka popisuje údržbu a opravy automobilů Škoda Octavia II a je vhodná pro profesionály i amatéry. Publikace...,334,499,"['Kopp, naučná', '', 'české']"
+n45780943,Renault 19/Chamade od 11/88 do 1/96 - Jak na to? - 9. - Dr. Etzold Hans-Rudiger,0,0,2012,304,Kopp,naučná,české</p>,,"Kniha patří do řady automobilových příruček nazvané ""Jak na to?"". 
+
+Příručka popisuje údržbu a opravy automobilů Renault 19 / Chamade a je vhodná pro profesionály i amatéry....",502,749,"['Kopp, naučná', '', 'české']"

@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n456633444,Čas zázraků. Nový střední věk - Marianne Williamson,0,0,2009,168,Pragma,naučná,české</p>,,"To, co nazýváme naším ""středním věkem"", nemusí být kritickým bodem na cestě ke smrti. Může to být kritický bod směřující k životu, jaký jsme nikdy nepoznali, jaký jsme nemohli...",117,148,"['Pragma, naučná', '', 'české']"
+n9908172,Umění odpouštět -- léčení zraněné duše - Jörg Müller,100,1,2009,160,Pragma,naučná,české</p>,,"Kdo z nás nebyl až příliš často zraňován, aby nemohl vyprávět mnohé frustrující
+zážitky ze svého dětství? Musíme si však proto všichni nést svá ublížení až do 
+dospělosti a po...",144,148,"['Pragma, naučná', '', 'české']"

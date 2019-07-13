@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n400243986,Havlíková Magda: Moje první čtení Kniha,97,1,2014,56,Kopp,dětské,české</p>,,"Knížečka pro nejmenší čtenáře, kteří se učí číst tzv. genetickou metodou, tzn. začínají velkými písmeny. Celá kniha je proto psána pouze velkými písmeny.
+Děj se odehrává okolo...",100,149,"['Kopp, dětské', '', 'české']"

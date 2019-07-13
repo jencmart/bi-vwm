@@ -1,0 +1,4 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n235809909,Saudek,99,6,2014,448,Slovart,naučná,české</p>,,"Nejrozsáhlejší monografie představuje nejkomplexněji dílo světově proslulého českého fotografa Jana Saudka. Základem je chronologický sled tvorby, včetně dosud nezveřejněné....",843,1,"['Slovart, naučná', '', 'české']"
+n259849363,Rodinná bible,100,3,2014,384,Slovart,naučná,české</p>,,"Bohatě ilustrovaná publikace obsahuje vybrané texty z Bible a výklad hlavních příběhů Starého a Nového zákona. Klíčová slova, věty a pojmy jsou navíc plně objasněny a...",324,499,"['Slovart, naučná', '', 'české']"
+n362868965,Pavel Vrba Básník na pěti linkách,0,0,2014,328,Slovart,naučná,české</p>,,"Vzpomínková kniha na básníka, textaře a autora divadelních her Pavla Vrbu vyprávěná formou rozhovoru jeho manželky Marie a jejích kamarádek Jany Černé a Věry Slukové- Markové...",259,399,"['Slovart, naučná', '', 'české']"

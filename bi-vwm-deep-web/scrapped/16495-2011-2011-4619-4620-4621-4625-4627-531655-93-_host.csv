@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n24516882,Rukopisy Královédvorský a Zelenohorksý,97,1,2011,200,Host,naučná,české</p>,,"Komentované vydání domnělých staročeských veršovaných památek z doby národního obrození. 
+Rukopisy, které měly doložit slavnou a demokratickou národní minulosti, sahající až do...",192,310,"['Host, naučná', '', 'české']"
+n32141960,Čtenáři a internauti,100,1,2011,192,Host,naučná,české</p>,,Kniha přináší výsledky druhého reprezentativního výzkumu čtenářů a čtení v České republice. Ten první proběhl v roce 2007 a jeho výsledky byly představeny v knize Čteme?...,159,249,"['Host, naučná', '', 'české']"
+n21539826,Opera Bohemica Minora (Dušan Šlosar),0,0,2011,232,Host,naučná,české</p>,,"Edice Studie osobností brněnské lingvistiky si klade za cíl zpřístupnit význačné texty lingvistů spojených s Brnem, které mapují výsledky bádání na tomto poli za několik...",162,206,"['Host, naučná', '', 'české']"

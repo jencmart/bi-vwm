@@ -1,0 +1,2 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n100441780,Úzkokoľajky na Slovensku - Dušan Lichner,90,2,2012,350,EDIS,naučná,české</p>,,"Železnica, ako najvýkonnejší hromadný dopravný prostriedok, zaujíma v dopravnej sústave dnešného Slovenska nezastupiteľné miesto už viac ako 160 rokov. Vo vlakoch...",401,522,"['EDIS, naučná', '', 'české']"

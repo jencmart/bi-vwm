@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n249900527,Lídři jedí poslední - Simon Sinek - Kniha,89,3,2015,288,Jan Melvil Publishing,naučná,české</p>,,"Autor : Simon Sinek, Popis : Jak vybuduji stabilní a a výkonný tým, ve kterém všichni usilují o dosažení společného cíle? Kde nepanuje cynismus a sobectví? Kde jsou si kolegové...",201,309,"['Jan Melvil Publishing, naučná', '', 'české']"
+n350818847,Druhý věk strojů,93,0,2015,295,Jan Melvil Publishing,naučná,české</p>,,"Autor : Andrew McAfee, Erik Brynjolfsson, Popis : 
+ Žijeme v době úžasného pokroku digitálních technologií. Naše generace zdědila více příležitostí ke změně světa než všechny...",223,329,"['Jan Melvil Publishing, naučná', '', 'české']"
+n351034569,Nastavení mysli,96,2,2015,304,Jan Melvil Publishing,naučná,české</p>,,"Někteří lidé mají mnohem úspěšnější životy než jiní. Občas se dokonce zdá, že znají nějaký tajný postup, jak na to. Tajné to ale vůbec není, jde totiž o takzvaném nastavení...",287,319,"['Jan Melvil Publishing, naučná', '', 'české']"

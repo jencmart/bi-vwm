@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n454367883,Česká čítanka - Ilona Kořánová,0,0,2013,324,Akropolis,naučná,české</p>,,"Čítanka je určena studentům češtiny jako cizího jazyka, kteří mají rádi příběhy a mýty a na základě jejich významového sdělení je baví odhalovat jazykové zákonitosti češtiny....",298,449,"['Akropolis, naučná', '', 'české']"
+n298763946,"Úvod do studia genologie - Šidák, Pavel",0,0,2013,336,Akropolis,naučná,české</p>,,"Úvod do studia genologie je souhrnné pojednání o teorii literárního žánru. Genologie (žánrosloví) je klíčová disciplína literární vědy i obecné teorie umění, v českém prostředí...",230,359,"['Akropolis, naučná', '', 'české']"

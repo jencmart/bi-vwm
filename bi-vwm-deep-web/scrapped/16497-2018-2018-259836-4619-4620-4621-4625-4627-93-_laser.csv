@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n668585003,Městečko Pines - Crouch Blake,0,0,2018,320,Laser,beletrie,české</p>,,"Wayward Pines je poklidné malé americké město, jakých najdete v Idahu desítky. Ale jen na první pohled. Agent tajné služby Ethan Burke do něj přijíždí hledat dva pohřešované...",243,349,"['Laser, beletrie', '', 'české']"
+n671083970,Věštcův rok - Soule Charles,0,0,2018,368,Laser,beletrie,české</p>,,"Bestsellerový komiksový autor Charles Soule přichází s chytrým a barvitým příběhem o Newyorčanovi, který se jednoho rána probudí se schopností předpovídat budoucnost. Původně...",264,379,"['Laser, beletrie', '', 'české']"

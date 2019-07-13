@@ -1,0 +1,3 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n597461794,Útěk ze Sibiře - Rufin Piotrowski,70,1,2018,112,,beletrie,Ergo Brauner,,"Autorem a hlavním hrdinou knihy je Polák šlechtického původu Rufin Piotrowski. Jako politický aktivista a účastník polského povstání z roku 1831 proti Ruské říši, byl nucen...",90,118,"['Ergo Brauner, s.r.o., beletrie', '', 'české']"
+n597461792,Červ - Zmicer Daškievič,0,0,2018,160,,beletrie,Ergo Brauner,,"Zmicer Daškievič je nové zářící jméno v současné běloruské literatuře. Je to nejen běloruský básník a prozaik, ale hlavně společensko-politický aktivista, který v roce 2010 byl...",140,179,"['Ergo Brauner, s.r.o., beletrie', '', 'české']"

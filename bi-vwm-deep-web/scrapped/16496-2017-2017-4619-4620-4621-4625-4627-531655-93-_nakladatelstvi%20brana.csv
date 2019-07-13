@@ -1,0 +1,5 @@
+db_id,name,rating,reviews_cnt,year,pages_cnt,publisher,genre,author,lang,description,price_from,price_to,unparsed
+n474578880,Bylinky - Léčivá moc přírody - Jarmila Mandžuková,90,3,2017,242,Nakladatelství BRÁNA,naučná,české</p>,,Jedinečná kniha o léčivých bylinkách přibližuje fascinující moc a kouzlo přírodního léčitelství. V tomto přehledně uspořádaném lexikonu objevíte léčivou sílu bylinek a...,179,249,"['Nakladatelství BRÁNA, naučná', '', 'české']"
+n585397031,Nakladatelství Brána a.s. Ajurvéda aneb Vědění o životě,70,1,2017,240,Nakladatelství BRÁNA,naučná,české</p>,,"Významný indický lékař se ve své knize zabývá základními principy indického učení ajurvédy. Díky znalostem a dodržování těchto principů lze dosáhnout rovnováhy těla, ducha a...",189,259,"['Nakladatelství BRÁNA, naučná', '', 'české']"
+n516291737,Příběhy slavných oper - Od Mozarta k Janáčkovi - Miloslav Pospíšil,95,1,2017,304,Nakladatelství BRÁNA,naučná,české</p>,,"Nejžádanější tituly světových metropolí
+ Nevšední a poutavě napsaná kniha, jež seznámí čtenáře s obsahy a unikátní historií vzniku nejslavnějších oper, které milují již...",218,299,"['Nakladatelství BRÁNA, naučná', '', 'české']"
